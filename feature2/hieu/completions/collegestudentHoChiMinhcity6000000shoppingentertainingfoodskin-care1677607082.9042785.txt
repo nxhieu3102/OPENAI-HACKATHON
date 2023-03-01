@@ -1,0 +1,18 @@
+Shopping: 2500,000 VND
+Entertaining: 2000,000 VND
+Food: 1500,000 VND
+Skin Care: 500,000 VND
+
+Schemas for each demand:
+
+Shopping: 
+Focus on buying essential items such as clothing, books and other items that you will use regularly. Try to buy items from local shops or markets as this will help you save money. Look for discounts and coupons whenever possible.
+
+Entertaining: 
+Take advantage of Ho Chi Minh City’s abundance of cultural offerings, such as movies, theatre, concerts and art galleries. Look for discounted tickets and take advantage of student discounts. Consider visiting the local parks, which are often free or low cost.
+
+Food: 
+Look for vegetarian restaurants that offer discounts or special deals. Consider cooking at home to save money and time. Buy groceries in bulk and cook enough for several days.
+
+Skin Care: 
+Invest in quality skin care products that are tailored to your skin type. Look for natural ingredients that are gentle on your skin. Consider making your own skin care products at home as this will help you save money while still providing effective results.

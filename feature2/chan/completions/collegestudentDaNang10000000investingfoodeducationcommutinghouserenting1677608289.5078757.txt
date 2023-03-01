@@ -1,0 +1,23 @@
+Investing: 500,000 VND (This should be the highest priority as investing in your future is essential for long-term financial stability. Investing can be done easily online with a low fee and can be kept track of with a budgeting app).
+
+Food: 2,500,000 VND (It is important to make sure you have enough money for food, as it is a basic necessity. You can save money by eating at home or eating at cheaper restaurants. Avoid eating out too often, as it can be expensive).
+
+Education: 3,000,000 VND (Investing in your education is important, as it will help you get a better job in the future. Make sure to allocate enough money for tuition fees, books, and IELTS learning materials).
+
+Commuting: 2,000,000 VND (This is an essential expense, as it is necessary for getting to school. Motorbikes are the most cost-effective way to travel, so try to stick to this mode of transportation).
+
+House Renting: 2,000,000 VND (This is an essential expense, as you need to have a place to stay. Try to find a cheap motel near your school, as this will allow you to save money on transportation).
+
+Total: 10,000,000 VND (This is the total budget and should not be exceeded). 
+
+Schema for each demand that maximizes my budget:
+
+Investing: Make sure to invest a fixed amount of money each month and track your investments with a budgeting app.
+
+Food: Take advantage of cheap restaurants and meal prep to save money. 
+
+Education: Prioritize essential materials and courses over non-essential ones. 
+
+Commuting: Stick to motorbikes as the primary mode of transportation to save money.
+
+House Renting: Try to find a cheap motel near your school to save money on transportation.

@@ -1,0 +1,16 @@
+House Rental: 
+Location: Aim to rent a house in the city center or close to it as it is more cost effective in the long run. Rent should not exceed 25% of total budget. 
+Budget: 2200000 VND
+Schema: Look for houses that are close to the city center and have reasonable rates. Consider a few options to compare prices and amenities and choose the one that is the most cost-effective and meets your needs. 
+
+Investing: 
+Budget: 2000000 VND
+Schema: Look for low-risk, high-return investments with a long-term outlook. Consider investments such as stocks, mutual funds, and bonds. Research the pros and cons of each type of investment and choose the ones that best fit your needs.
+
+Commuting: 
+Budget: 300000 VND
+Schema: Look for the most cost-effective mode of transportation within 15 km of the city center. Consider options such as buses, taxis, or motorbikes. Calculate the cost of commuting over a month and choose the most cost-effective option.
+
+Education: 
+Budget: 300000 VND
+Schema: Look for an online or in-person course that offers programming learning. Consider the cost of the course, duration and the quality of the course. Research the reviews of the course and choose the one that best fits your needs.

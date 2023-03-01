@@ -1,0 +1,10 @@
+Food: 
+Given your location, you should allocate 40% of your budget to food, or 4,000,000 VND. This should be allocated towards eating out or ordering in, as it is not feasible to cook in the city. You should look for restaurants that offer discounts and promotions to maximize your spending power. Additionally, you should consider pre-packaged meals, as these can be cheaper and easier.
+
+Shopping: 
+You should allocate 30% of your budget to shopping, or 3,000,000 VND. This should be allocated towards necessary items such as clothes, electronics, and other items needed for day-to-day living. You should try to find the best deals for these items, either by shopping online or in-store. Additionally, you should look for discounts and promotions to maximize your budget.
+
+Entertainment: 
+You should allocate 30% of your budget to entertainment, or 3,000,000 VND. This should be allocated towards traveling or going backpacking. You should consider booking flights in advance to get the best deals, as well as look for discounts and promotions. Additionally, you should consider staying in hostels or budget hotels to minimize costs. 
+
+Overall, by following the above plan, you should be able to make the most of your budget and enjoy the activities that you want to do. Additionally, you should keep track of your spending to ensure that you stay within your budget and remain financially stable in the long run.

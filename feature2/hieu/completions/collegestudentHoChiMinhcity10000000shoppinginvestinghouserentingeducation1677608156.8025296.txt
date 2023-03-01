@@ -1,0 +1,13 @@
+Shopping: 
+Given that the user is living in Ho Chi Minh city, it is important to consider the local markets and prices when deciding how much to allocate to this demand. Shopping is a discretionary expense, so the amount allocated should be based on the user's personal preference. A safe amount to allocate to this category would be around 25% of the budget, or 2,500,000 VND. 
+
+Investing: 
+Investing is a great way to grow wealth over time, but it is important to be aware of the associated risks. The user should allocate 30-50% of the budget to investing, depending on the type of investments they are considering and their risk appetite. A safe amount to allocate to this category would be around 35% of the budget, or 3,500,000 VND.
+
+House Renting:
+House renting is a crucial expense, as it provides shelter and is necessary for the user's long-term financial stability. It is important to consider the location of the house relative to the user's needs, such as proximity to the city center. Depending on the user's preferences, they should allocate 40-50% of the budget to house renting, or 4,000,000-5,000,000 VND.
+
+Education: 
+Education is an important factor in achieving long-term financial success. The user should allocate 15-20% of the budget to education, or 1,500,000-2,000,000 VND, depending on the type of education they are pursuing. In this case, since the user is interested in programming learning, they should allocate the full 20% of the budget to this category. 
+
+Overall, the user should allocate 2,500,000 VND for shopping, 3,500,000 VND for investing, 4,000,000-5,000,000 VND for house renting, and 2,000,000 VND for education. This optimized spending plan ensures that the user stays within their budget constraints, optimizes for long-term financial stability, and prioritizes essential expenses over non-essential expenses.

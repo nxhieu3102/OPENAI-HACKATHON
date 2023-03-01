@@ -1,0 +1,15 @@
+House Renting: 
+Budget Allocation: 1,400,000 VND
+Schema: Rent a house in a suburban area with reasonable market prices; look for discounts and promotions to save money.
+
+Food: 
+Budget Allocation: 600,000 VND
+Schema: Focus on eating the right foods that are high in protein, but with a focus on affordability. Try to buy in bulk to save money and look for discount options at local stores.
+
+Skin-care: 
+Budget Allocation: 400,000 VND
+Schema: Invest in quality skin-care products that are within budget. Look for discounts and promotions to get the best deals.
+
+Education: 
+Budget Allocation: 100,000 VND
+Schema: Look for toeic learning courses that offer discounts. Invest in learning materials like books and audio courses to further enhance learning.

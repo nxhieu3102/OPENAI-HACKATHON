@@ -1,0 +1,11 @@
+House Renting:
+You should allocate around 5000000 VND for house renting.
+Schema: Research suburban areas for budget-friendly options that meet your needs. If possible, look for deals or discounts from landlords. Negotiate the rent if you can to minimize costs.
+
+Education:
+You should allocate around 3500000 VND for education.
+Schema: Consider investing in online courses, tutorials and books that teach you programming. Look for online communities that offer free coding advice. Invest in resources that are tailored to your goals and needs.
+
+Investing:
+You should allocate around 1500000 VND for investing.
+Schema: Research and understand the different types of investments available. Invest in low-risk investments such as index funds and mutual funds. Consider investing in stocks, bonds and other types of investments that offer higher returns. Monitor the market and make changes to your portfolio as needed.

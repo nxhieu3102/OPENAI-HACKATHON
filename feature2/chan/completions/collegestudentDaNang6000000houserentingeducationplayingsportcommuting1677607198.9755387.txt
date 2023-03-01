@@ -1,0 +1,15 @@
+House Renting: 
+Budget Allocation: 3000000 VND 
+Schema: Choose a house near the city center that is closest to the college you are attending. This will reduce your commuting costs, while also ensuring that you are in a good location. Look for rental options that come with basic amenities like water and electricity. Try to get the best deal by comparing multiple options in the same area.
+
+Education: 
+Budget Allocation: 2000000 VND 
+Schema: Look for IELTS courses that are reasonably priced and offer good quality learning materials. You have a budget of 2 million VND, so prioritize courses that offer the best value for your money. Look for courses with more hours of instruction to make sure you have enough time to properly learn and practice.
+
+Playing Sport: 
+Budget Allocation: 1000000 VND 
+Schema: Look for karate classes that are affordable and offer quality instruction. Check if the classes are in convenient locations and if they are taught by experienced instructors. Ask around or search online to find the best deal.
+
+Commuting: 
+Budget Allocation: 1000000 VND 
+Schema: Invest in a reliable motorbike to commute to college. Make sure you buy a motorbike that is in good condition and has low fuel consumption. Check for any additional costs such as maintenance, insurance, and licensing fees. Consider carpooling with other students and look for discounts on public transportation.

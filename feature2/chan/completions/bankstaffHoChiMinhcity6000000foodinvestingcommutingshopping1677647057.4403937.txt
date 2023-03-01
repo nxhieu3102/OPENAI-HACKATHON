@@ -1,0 +1,15 @@
+Food: 
+Budget Allocation: 40% 
+Schema: Consider shopping at local markets or grocery stores for the best prices. Avoid eating out as much as possible and try to stick to vegetarian dishes that are both healthy and budget-friendly.
+
+Investing: 
+Budget Allocation: 20% 
+Schema: Investing a portion of your budget in long-term investments such as stocks, index funds, bonds, and mutual funds can help you achieve long-term financial security. Consider seeking out a financial advisor or researching online for the best options for your budget.
+
+Commuting: 
+Budget Allocation: 15% 
+Schema: Consider taking public transportation to work, as this is likely to be the most cost-effective option. Alternatively, you could rent a motorbike or bicycle if you are comfortable and willing to do so.
+
+Shopping: 
+Budget Allocation: 25% 
+Schema: Shop around to find the best prices and opt for quality over quantity. Consider shopping online to find deals, and always be on the lookout for sales and discounts.
