@@ -1,0 +1,17 @@
+Commuting: Since you are commuting 10 km to school by motorbike, you should allocate approximately 10-15% of your budget for this expense. This should cover a monthly bus pass or regular fuel for your motorbike.
+
+Shopping: You should allocate approximately 20-25% of your budget for shopping. This should cover any items that you need for school, such as textbooks, stationery, or clothing. It should also cover any non-essential items that you may need.
+
+Investing: You should allocate approximately 10-15% of your budget to investing. This should cover any investments that you think would be beneficial for your future. This could include stocks, bonds, mutual funds, or any other type of investment.
+
+Food: You should allocate approximately 50-55% of your budget to food. This should include healthy, nutritious meals that meet your calorie reduction needs. It is important to shop around for the best prices, and to try to minimize your food costs by stocking up on non-perishable items and planning meals in advance.
+
+Schema for each demand: 
+
+Commuting: Purchase a monthly bus pass or regularly fill up your motorbike with fuel.
+
+Shopping: Shop around for the best prices and buy any items that you need for school, such as textbooks, stationery, or clothing.
+
+Investing: Research different investments and allocate a portion of your budget to each one.
+
+Food: Shop around for the best prices, stock up on non-perishable items, and plan meals in advance. Make sure to prioritize healthy, nutritious meals that meet your calorie reduction needs.

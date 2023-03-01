@@ -1,0 +1,1 @@
+GPT3 error: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/engines/text-davinci-003/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000233E801A890>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))

@@ -1,0 +1,26 @@
+Food:
+Schema: Grocery shopping at local markets, or ordering food online to save money. Consider buying in bulk and freezing food for later use. Look for discounts, coupons, and special deals to stretch your budget.
+
+Budget: 2,000,000 VND
+
+Skin Care:
+Schema: Look for affordable, natural, and chemical-free skin care products. Try to find products that are multitasking to save money. Look for deals and discounts to help you save money.
+
+Budget: 500,000 VND
+
+Education:
+Schema: Consider online courses and study materials to save money. Look for discounts on IELTS preparation courses. Consider joining a study group or study buddy to help you stay motivated and reduce costs.
+
+Budget: 500,000 VND
+
+Shopping: 
+Schema: Look for second-hand clothes, books, and electronics. Consider shopping online and using discount codes to save money.
+
+Budget: 500,000 VND
+
+Commuting:
+Schema: Consider using public transportation or carpooling with friends to save money. Look for discounts or special deals on motorbike rentals.
+
+Budget: 500,000 VND 
+
+Total Budget: 3,000,000 VND

@@ -1,0 +1,15 @@
+Entertaining:
+Budget allocated: 2000000 VND
+Schema: Shopping for clothes and accessories that are on sale, or special discounts and rewards. Consider second-hand markets, or online shopping websites.
+
+Skin-care: 
+Budget allocated: 2000000 VND
+Schema: Investing in good quality skin-care products that are suitable for your skin type and that are within your budget. Consider online promotions or discounts. Consider investing in a monthly subscription for skin-care products.
+
+Education:
+Budget allocated: 1500000 VND
+Schema: Invest in IELTS learning materials, such as books, online courses, and practice tests, to prepare yourself for the test. Consider taking free online courses and practice tests to supplement your studies.
+
+House Renting: 
+Budget allocated: 1500000 VND
+Schema: Look for rental listings that are close to the city center and are within your budget. Consider taking public transportation or ride-sharing services to save money. Consider sharing a house with other people to save money.

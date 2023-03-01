@@ -1,0 +1,17 @@
+Skin-care: 1500000 VND 
+Investing: 2500000 VND 
+Food: 2000000 VND 
+House Renting: 1500000 VND 
+Playing Sport: 500000 VND 
+
+Schema for each demand: 
+
+Skin-care: Invest in quality skincare products that are suitable for your skin type. Look for natural and organic ingredients, buy in bulk when possible, and choose products that last longer such as moisturizers and creams.
+
+Investing: Research and compare different investment options such as stocks, bonds, real estate, and mutual funds. Consider a diversified portfolio of investments and look for low-cost options with reasonable returns. 
+
+Food: Focus on nutritious and high-protein meals that are budget-friendly. Consider buying ingredients in bulk and prepping meals in advance. Look for seasonal produce and food discounts to save money. 
+
+House Renting: Look for rental options in suburban areas that are within your budget. Research the local rental market and compare prices of different properties to find the best deal. 
+
+Playing Sport: Invest in quality equipment that is suited to your sport. Consider signing up for online courses or classes as well as joining sports clubs in your area. Look for discounts on gym memberships and other sporting activities.
