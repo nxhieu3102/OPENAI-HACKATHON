@@ -12,58 +12,60 @@
 		</h1>
 	</nav>
 	<div class="p-10">
-		<div class="pb-10">
+		<form>
 			<div class="pb-10">
-				<h1 class="text-4xl text-center font-semibold">Let me help you use your budget</h1>
-			</div>
-			<div class="flex items-center justify-center">
-				<label for="goods" class="text-xl pr-3">
-					I want to plan my budget to buy 
-				</label>
-				<div class="mt-1">
-					<input type="text" name="goods" id="goods" size="50" class="block w-full rounded-md border-gray-300" placeholder="a list of food, a car, ...">
+				<div class="pb-10">
+					<h1 class="text-4xl text-center font-semibold">Let me help you use your budget</h1>
 				</div>
-			</div>
-		</div>
-
-		<div class="grid grid-cols-10 gap-10 items-start  place-content-evenly">
-			<div class="col-span-10 md:col-span-4 bg-white rounded-xl p-5">
-				<h1 for="message" class="text-base mb-2 font-semibold">That sastifies these requirements</h1>
-				<div>
-					<label for="price" class="block text-sm font-medium">Price</label>
-					<div class="relative mt-1 rounded-md shadow-sm">
-						<div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
-							<span class="text-gray-500 sm:text-sm">$</span>
-						</div>
-						<input type="text" name="price" id="price" class="block w-full rounded-md border-gray-300 pl-7 pr-12" placeholder="0.00">
-						<div class="absolute inset-y-0 right-0 flex items-center outline-none border-none">
-							<label for="currency" class="sr-only">Currency</label>
-							<select id="currency" name="currency" class="h-full rounded-md border-transparent bg-transparent py-0 pl-2 pr-7 text-gray-500">
-								<option>USD</option>
-								<option>VND</option>
-							</select>
-						</div>
-					</div>
-				</div>
-				<div class="mt-4">
-					<label for="market" class="block text-sm font-medium">Market</label>
+				<div class="md:flex items-center justify-center">
+					<label for="goods" class="text-lg md:text-xl pr-3">
+						I want to plan my budget to buy 
+					</label>
 					<div class="mt-1">
-						<input type="text" name="market" id="market"class="block w-full rounded-md border-gray-300" placeholder="Store, seller, ...">
-					</div>
-				</div>
-				<div class="mt-4">
-					<label for="constraint" class="block text-sm font-medium">Constraints</label>
-					<div class="mt-1">
-						<textarea type="text" name="constraint" id="constraint" rows="6" class="resize-none w-full rounded-md border-gray-300" placeholder="Personal preferences"></textarea>
+						<input type="text" name="goods" id="goods" size="50" class="block w-full rounded-md border-gray-300" placeholder="a list of food, a car, ...">
 					</div>
 				</div>
 			</div>
-			<div class="col-span-10 md:col-span-6 bg-white rounded-xl p-5">
-				<h1 for="message" class="text-base mb-2 font-semibold">Here's my suggestion:</h1>
-				<p id="message" class="whitespace-pre-line block p-2.5 w-full text-sm text-gray-900 bg-slate-200 rounded-lg">Please enter your requirements to get my suggestions
-				</p>
+	
+			<div class="grid grid-cols-10 gap-10 items-start  place-content-evenly">
+				<div class="col-span-10 md:col-span-4 bg-white rounded-xl p-5">
+					<h1 for="message" class="text-base mb-2 font-semibold">That sastifies these requirements</h1>
+					<div>
+						<label for="price" class="block text-sm font-medium">Budget</label>
+						<div class="relative mt-1 rounded-md shadow-sm">
+							<input type="text" name="price" id="price" class="block w-full rounded-md border-gray-300 pr-12" placeholder="0.00">
+							<div class="absolute inset-y-0 right-0 flex items-center outline-none border-none">
+								<label for="currency" class="sr-only">Currency</label>
+								<select id="currency" name="currency" class="h-full rounded-md border-transparent bg-transparent py-0 pl-2 pr-7 text-gray-500">
+									<option>VND</option>
+									<option>USD</option>
+								</select>
+							</div>
+						</div>
+					</div>
+					<div class="mt-4">
+						<label for="market" class="block text-sm font-medium">Market</label>
+						<div class="mt-1">
+							<input type="text" name="market" id="market" class="block w-full rounded-md border-gray-300" placeholder="Store, seller, ...">
+						</div>
+					</div>
+					<div class="mt-4">
+						<label for="constraint" class="block text-sm font-medium">Constraints</label>
+						<div class="mt-1">
+							<textarea type="text" name="constraint" id="constraint" rows="6" class="resize-none w-full rounded-md border-gray-300" placeholder="Personal preferences"></textarea>
+						</div>
+					</div>
+					<div class="mt-4">
+						<input type="submit" value="Get suggestion" class="w-full text-white bg-blue-400 py-2 rounded-lg">
+					</div>
+				</div>
+				<div class="col-span-10 md:col-span-6 bg-white rounded-xl p-5">
+					<h1 for="message" class="text-base mb-2 font-semibold">Here's my suggestion:</h1>
+					<p id="message" class="whitespace-pre-line block p-2.5 w-full text-sm text-gray-900 bg-slate-200 rounded-lg">Please enter your requirements to get my suggestions
+					</p>
+				</div>
 			</div>
-		</div>
+		</form>
 	</div>
 </body>
 </html>
