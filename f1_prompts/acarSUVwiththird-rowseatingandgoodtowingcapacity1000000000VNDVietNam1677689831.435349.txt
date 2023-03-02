@@ -1,0 +1,5 @@
+Good: a car
+Conditions: SUV with third-row seating and good towing capacity
+Budget: 1000000000 VND
+Market place: VietNam
+ANSWER:  

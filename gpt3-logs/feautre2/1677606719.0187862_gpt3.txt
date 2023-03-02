@@ -1,0 +1,43 @@
+6bd5e9a5-94b0-492f-b1fc-ec9dcd7fddaf
+I am a college student living in Ha Noi:
+Total budget: 3000000 VND 
+Demands that I want to meet: education, shopping, commuting, investing
+Specific constraints for each demand: 
+education: ielts learning
+commuting: 10 km to school, by motorbike
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Education: 
+• Allocate 15-20% of your budget towards ielts learning. This should cover the cost of classes, textbooks and practice tests. 
+• Utilize free online resources and free books available in libraries to supplement your learning. 
+• Invest in quality study materials and resources to maximize learning efficiency.
+
+Shopping: 
+• Allocate 30-35% of your budget towards shopping. 
+• Look for sales and discounts to get the best value for your money. 
+• Compare prices of items across different stores to get the best deal. 
+• Don’t buy items that you don’t need.
+
+Commuting: 
+• Allocate 20-25% of your budget towards commuting. 
+• If possible, try to use public transportation or share a ride to save money. 
+• Invest in an efficient and reliable motorbike to reduce your commuting costs. 
+• Make sure to get regular maintenance for your vehicle to keep it running smoothly and reduce unexpected costs.
+
+Investing: 
+• Allocate the remaining 25-30% of your budget towards investing. 
+• Research different investment options and identify the ones that best fit your financial goals and risk tolerance. 
+• Start with small investments and gradually increase the amount as your knowledge and experience grows. 
+• Take advantage of tax benefits such as SEISA and PIR to maximize your returns.

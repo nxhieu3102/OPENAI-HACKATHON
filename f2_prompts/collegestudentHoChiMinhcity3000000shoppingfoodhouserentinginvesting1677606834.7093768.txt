@@ -1,0 +1,7 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 3000000
+Demands: shopping, food, house renting, investing
+Constraints: food: vegetarian
+house renting: near city center
+SPENDING PLAN: 

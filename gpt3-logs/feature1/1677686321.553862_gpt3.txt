@@ -1,0 +1,25 @@
+652e94f0-69d9-49f1-a966-72e3dc58b1b5
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- vegan
+- Budget: 1500000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Fresh vegetables: 1,200,000 VND
+Fresh vegetables are a great way to optimize your budget while still satisfying your vegan conditions. Fresh vegetables are healthy and incredibly affordable, making them a great option to help you stick to your budget. You can buy a wide range of fresh vegetables such as carrots, tomatoes, bell peppers, mushrooms, potatoes, and many more. The price of fresh vegetables is often less than or equal to 1,200,000 VND per kilogram, meaning you can buy several kilograms of vegetables for your budget. 
+
+2. Tofu and tempeh: 200,000 VND
+Tofu and tempeh are both excellent vegan sources of protein, and they’re generally more affordable than other vegan proteins. Tofu and tempeh are often sold in 200-gram blocks, which cost about 200,000 VND. Tofu and tempeh are versatile ingredients that can be used in a wide range of recipes, so if you’re looking for an affordable and vegan protein source, these are great options. 
+
+3. Nuts and seeds: 150,000 VND
+Nuts and seeds are great sources of vegan protein and healthy fats, and they’re generally quite affordable. Depending on the variety and quantity you buy, you can find nuts and seeds for as little as 150,000 VND per kilogram. Nuts and seeds are great to keep in the pantry for snacking and to sprinkle on top of dishes. 
+
+4. Grains: 100,000 VND
+Grains such as quinoa, wild rice, bulgur, and farro are all excellent vegan sources of carbs and can be found for as little as 100,000 VND per kilogram. Grains have a long shelf life, so they’re a great item to buy in bulk to save money and make sure you always have them on-hand. They also make for a great side dish to accompany any vegan meal.

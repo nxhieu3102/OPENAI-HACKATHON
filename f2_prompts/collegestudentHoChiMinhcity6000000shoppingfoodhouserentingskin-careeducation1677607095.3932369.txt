@@ -1,0 +1,8 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 6000000
+Demands: shopping, food, house renting, skin-care, education
+Constraints: food: calories reduce
+house renting: cheap motel
+education: ielts learning
+SPENDING PLAN: 

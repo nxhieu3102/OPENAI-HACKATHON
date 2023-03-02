@@ -1,0 +1,8 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 2500000
+Demands: playing sport, education, skin-care, house renting, shopping
+Constraints: playing sport: gyming, dancing
+education: drawing, cooking
+house renting: suburban area
+SPENDING PLAN: 

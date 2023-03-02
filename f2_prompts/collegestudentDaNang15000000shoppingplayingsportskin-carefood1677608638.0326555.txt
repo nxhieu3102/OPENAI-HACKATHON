@@ -1,0 +1,7 @@
+Job: college student
+Location: Da Nang
+Budget: 15000000
+Demands: shopping, playing sport, skin-care, food
+Constraints: playing sport: football or badminton
+food: vegetarian
+SPENDING PLAN: 

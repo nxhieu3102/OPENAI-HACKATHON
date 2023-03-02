@@ -1,0 +1,27 @@
+281ea9d8-a88c-4f65-8b50-b25cfc5d26f6
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- non-comedogenic sunscreen
+- Budget: 1000000 VND.
+- Market in:  The Body Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the The Body Shop curent market price.
+
+ANSWER: 
+
+==========
+
+From The Body Shop, here are some great options that meet your criteria. 
+
+1. Protecting Sun Lotion SPF 50: This non-comedogenic sunscreen is enriched with Community Trade shea butter from Ghana and Vitamin E. It is suitable for all skin types and helps keep skin protected from the sun’s harmful rays. Price: 200,000 VND.
+
+2. Tea Tree SOS Spray: This spray helps soothe and cool irritated skin, leaving a light finish with a hint of tea tree. Price: 95,000 VND.
+
+3. Vitamin E Overnight Serum-in-Oil: This lightweight, non-greasy oil hydrates, leaving skin smooth and supple overnight. Price: 110,000 VND.
+
+4. Seaweed Pore-Cleansing Facial Exfoliator: This exfoliator cleans out impurities and unclogs pores while stimulating cell renewal. Price: 80,000 VND.
+
+Total Price: 485,000 VND
+ 
+These are excellent choices, as they all meet your criteria in terms of being non-comedogenic and budget, while giving your skin the benefits it needs. The Sun Lotion provides the protection you need from the sun and is formulated to be suitable for all skin types. The Tea Tree SOS Spray helps soothe and cool irritated skin and is ideal for those with problematic skin. The Vitamin E Oil helps keep skin smooth and supple overnight, and the Seaweed Facial Exfoliator gets rid of any impurities or excess oil, leaving skin looking and feeling clean. Moreover, the total cost is below your budget of 1,000,000 VND.

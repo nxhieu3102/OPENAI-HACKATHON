@@ -1,0 +1,19 @@
+73b47921-8db4-4cc2-8d04-14dc88c3b4bc
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- non-comedogenic sunscreen
+- Budget: 200000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Skinlab Collagen 360° Whitening Sun Protector 100ml (150,000₫): This sunscreen is non-comedogenic and has a whitening effect, which helps reduce hyper-pigmentation and even out skin tone. It also provides protection against both UVA and UVB rays with its SPF 45 formula.
+
+2. Bioderma Photoderm MAX SPF 50+ Sun Protection Cream 100ml (210,000₫): This sunscreen is non-comedogenic and made with NOVEAUCER technology with broad spectrum UVA-UVB protection to keep your skin safe from sun damage. It also has a long lasting effect which lasts up to 8 hours, ensuring ultimate protection all day long. 
+
+3. Dr. Kada CICA Solution Suncare SPF50+ PA++++ 50ml (145,000₫): This is a lightweight, non-greasy, non-comedogenic sunscreen that provides high level protection from UVA and UVB rays. It also contains Centella Asiatica extract and Madecassoside to soothe, nourish, and reduce any skin redness while also treating any skin irritations and blemishes.

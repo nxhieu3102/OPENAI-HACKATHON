@@ -1,0 +1,33 @@
+44bef319-fffb-44fe-956c-783139eb775e
+I am a college student living in Ha Noi:
+Total budget: 6000000 VND 
+Demands that I want to meet: entertaining, playing sport, house renting, shopping
+Specific constraints for each demand: 
+entertaining: theater and concerts
+playing sport: football or badminton
+house renting: suburban area
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Entertaining: 
+Allocate 40% of the budget, which is 2400000 VND, for entertaining. The best way to maximize this budget is to attend free or low-cost events such as music festivals, art exhibitions, and outdoor movies. Additionally, when attending theater and concerts, try to look for discounted tickets or special offers such as student discounts.
+
+Playing Sport: 
+Allocate 30% of the budget, which is 1800000 VND, for playing sport. Football and badminton can be relatively inexpensive activities to participate in. Look for local sports clubs that offer discounted rates or free trial classes. Additionally, sports equipment such as footballs, badminton rackets, and shuttlecocks can be purchased in bulk at a lower cost.
+
+House Renting: 
+Allocate 20% of the budget, which is 1200000 VND, for house renting. Look for a suburban area to rent in as these tend to be cheaper compared to city center locations. Additionally, try to look for long-term leases as this can help you save money. Additionally, if you are sharing the house with roommates, split the rent accordingly.
+
+Shopping: 
+Allocate 10% of the budget, which is 600000 VND, for shopping. Look for sales and discounts to maximize your budget. Additionally, consider buying items in bulk if it is possible to do so, as this can help you save money in the long run. Additionally, look for second-hand items that are in good condition as these can be cheaper compared to buying new items.

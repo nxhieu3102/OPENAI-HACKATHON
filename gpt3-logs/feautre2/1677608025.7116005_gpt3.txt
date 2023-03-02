@@ -1,0 +1,37 @@
+6473eb73-2cb5-459d-881a-cea2b1ae3b57
+I am a college student living in Ha Noi:
+Total budget: 10000000 VND 
+Demands that I want to meet: food, education, skin-care, commuting
+Specific constraints for each demand: 
+food: high protein
+education: drawing, cooking
+commuting: 3 km to work
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Food:
+Budget: 4000000 VND
+Maximize nutritional value by purchasing high-protein food items such as lean meats, whole grains, legumes, and nuts. Buy fruits and vegetables in season to get the best value for your money. Consider purchasing bulk items when possible to save money. Look for deals and discounts on fresh produce.
+
+Education:
+Budget: 3000000 VND
+Invest in activities that will develop your skillset and help you grow as a person. Invest in drawing and cooking classes to improve your creative and culinary abilities. Look for online courses or workshops that are lower in cost and available on a flexible schedule. 
+
+Skin-care:
+Budget: 2000000 VND
+Invest in quality skin-care products that will provide lasting benefits. Choose products with natural ingredients and avoid products with a lot of synthetic ingredients. Prioritize products that offer multiple uses over single-use items. Look for sales and discounts to maximize your budget.
+
+Commuting:
+Budget: 1000000 VND
+Invest in the most efficient and cost-effective way to commute. Consider purchasing a bike or scooter to save money on transportation. Invest in a monthly public transportation pass if available. Look for discounts or special offers when purchasing a pass.

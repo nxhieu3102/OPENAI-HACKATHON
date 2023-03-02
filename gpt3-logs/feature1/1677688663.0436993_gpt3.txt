@@ -1,0 +1,22 @@
+1811c111-98e4-4e47-9227-c28870a8f472
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- affordable and durable
+- Budget: 15000000 VND.
+- Market in:  FPT Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the FPT Shop curent market price.
+
+ANSWER: 
+
+==========
+
+Lenovo Legion Y540 (15-IRH 81SY00GVIH) - Price: 14,990,000 VND
+This laptop provides excellent value for your budget. It is a high-performance gaming laptop with a 9th generation Intel Core i7 processor, 8GB of RAM, a 512GB solid state drive, and a powerful NVIDIA GeForce GTX 1650 graphics card. It has a 15.6" IPS screen with Full HD resolution, allowing you to enjoy games and other activity with clear and vivid visuals. In addition, it has a strong, durable frame and a cooling system to keep it from overrunning and staying in good condition.
+
+Huawei MateBook D15 (TPVD-WER6) - Price: 13,990,000 VND 
+This laptop is a great choice for everyday computing needs. It offers plenty of power with its AMD Ryzen 7 3700U processor, 8GB of RAM, 256GB SSD, and AMD Radeon Vega 8 graphics card. The 15.6" IPS Full HD display offers clear visuals and a comfortable keyboard with backlighting makes typing easy. It also has a thin, light, and durable chassis to protect it, plus a battery life that can last up to 8 hours. All at an affordable price. 
+
+Acer Aspire 7 (A715-75L-561K) - Price: 11,990,000 VND
+This laptop offers great value for money with its Intel Core i5-9300H processor, 8GB of RAM, 256GB solid state drive, NVIDIA GeForce GTX 1650 graphics card, and 15.6" Full HD display. It is lightweight, thin, and durable to protect it and provides up to 8 hours of battery life. The cooling system helps keep the laptop from overheating and all this at an affordable price.

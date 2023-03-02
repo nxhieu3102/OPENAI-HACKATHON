@@ -1,0 +1,9 @@
+Job: college student
+Location: Ha Noi
+Budget: 6000000
+Demands: food, shopping, commuting, education, house renting
+Constraints: food: vegetarian
+commuting: 3 km to work
+education: ielts learning
+house renting: suburban area
+SPENDING PLAN: 

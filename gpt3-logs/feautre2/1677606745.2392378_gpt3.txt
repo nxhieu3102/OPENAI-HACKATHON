@@ -1,0 +1,33 @@
+72f49a4a-8738-4de1-97fa-f49015b8ffe3
+I am a college student living in Ho Chi Minh city:
+Total budget: 3000000 VND 
+Demands that I want to meet: food, entertaining, skin-care, commuting
+Specific constraints for each demand: 
+food: can not cook
+entertaining: party, go to coffee
+commuting: 10 km to school, by motorbike
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Food: 25% of budget = 750000 VND 
+Suggestion: Purchase food items from the local market, such as fresh fruits and vegetables. Consider buying in bulk to benefit from discounted prices, and look for local eateries that offer budget-friendly meals. 
+
+Entertaining: 25% of budget = 750000 VND
+Suggestion: Look for free or discounted events in the area such as art galleries, movie nights, music festivals, etc. Consider inviting friends over for a potluck dinner or movie night to keep costs low. You can also explore local coffee shops and bars for a more relaxed and affordable night out. 
+
+Skin-care: 20% of budget = 600000 VND
+Suggestion: Visit your local pharmacy and beauty stores to find the best deals on skin-care products. Look for discounted items and consider buying in bulk to benefit from better prices. Make sure to read the labels carefully to ensure you’re buying products that are suitable for your skin type. 
+
+Commuting: 30% of budget = 900000 VND
+Suggestion: Invest in a reliable motorbike for your daily commute. You can find used motorbikes for a fraction of the cost, and it may be more cost-effective in the long run. Consider getting a bike-share membership if you don’t want to buy a bike. Additionally, look for shared rides or carpools with friends if possible.

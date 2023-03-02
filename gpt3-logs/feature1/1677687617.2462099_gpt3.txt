@@ -1,0 +1,21 @@
+af448cd8-dc57-4423-9058-fe742baefb15
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- pair of high-waisted black jeans with a straight leg and no distressing
+- Budget: 1000000 VND.
+- Market in:  Local Markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Local Markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Dark blue skinny jeans from VinMart+ store, 100,000 VND: Made from lightweight denim, these dark blue skinny jeans feature a smooth finish, a higher waist for better comfort and fit, and a straight leg for a classic and timeless look. No distressed details. 
+
+2. Mid-rise black jeans from VinMart+ store, 115,000 VND: These lightweight stretch-cotton jeans feature a mid-rise waist for a flattering and comfortable fit, straight leg for a classic look, and no distressing for a timeless aesthetic. 
+
+3. Black high-waisted jeans from Zara, 135,000 VND: These stylish black jeans feature a high-waisted silhouette, a straight leg, and no distressed details. The durable cotton construction ensures they will last you a long time. 
+
+These choices are optimal to fit within your budget while satisfying your desired criteria. The dark blue skinny jeans from VinMart+ store offers the lowest price with high-quality of 100,000 VND. The mid-rise black jeans from VinMart+ store offer a better fit with a slightly higher price of 115,000 VND. The black high-waisted jeans from Zara offer a premium choice for an additional price of 135,000 VND. All jeans are made from lightweight fabrics for comfortable and lasting use.

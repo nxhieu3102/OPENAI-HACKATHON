@@ -1,0 +1,22 @@
+632089ba-6448-4dca-970e-a8fb8c19a64d
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- large display and a dedicated graphics card for gaming
+- Budget: 15000000 VND.
+- Market in:  Thegioididong
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Thegioididong curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: Dell Inspiron 3576 (Price: 11,490,000 VND)
+This Dell laptop is a great choice for gaming, thanks to the dedicated NVIDIA GeForce MX110 graphics card. It also provides a 15.6-inch HD display for an immersive gaming experience. Other features include 4GB RAM, Intel Core i5 processor, removable 1TB HDD, and Windows 10 operating system. The total price is 11,490,000 VND, which would be a great value for the money and still fits within your budget.
+
+Option 2: HP Pavilion 15au028TX (Price: 13,990,000 VND)
+The HP Pavilion 15au028TX laptop is an excellent choice for gaming with an NVIDIA GeForce 940MX graphics card. It has a 15.6-inch HD display and 8GB RAM. It is powered by an Intel Core i7 processor and runs on Windows 10. The total price of this laptop is 13,990,000 VND, which would be a great option that fits within your budget.
+
+Option 3: Asus FX553VD-DM677T (Price: 15,300,000 VND)
+This Asus laptop is a great choice for gaming, with an NVIDIA GeForce GTX 1050 graphics card. It has a 15.6-inch full HD display and 8GB RAM. Powered by an Intel Core i7 processor, it also has a 1TB HDD and Windows 10 operating system. The total price of this laptop is 15,300,000 VND, which is right at the upper end of your budget but still offers excellent value and amazing gaming performance.

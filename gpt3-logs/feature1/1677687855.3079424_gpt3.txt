@@ -1,0 +1,27 @@
+a1974cf1-fec0-47a0-9be3-1e8070a8b950
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- a dress to wear to a wedding that's not too formal but still looks elegant
+- Budget: 10000000 VND.
+- Market in:  Online Shopping
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Online Shopping curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: 
+A strappy silk dress in black or navy blue. This is an elegant option that is not too formal and suitable for a wedding. Cost: 250,000 VND.
+
+Option 2: 
+A short chiffon dress in a subtle print. This dress is lightweight and comes with delicate ruffle details that add a touch of sophistication. Cost: 500,000 VND.
+
+Option 3: 
+A wrap-around midi dress in a luxurious fabric. This option is flattering for most body types and will give you a chic, sophisticated look. Cost: 700,000 VND.
+
+Option 4: 
+A floral maxi dress with an empire waist. This dress is stylish and comfortable and can be dressed up or down. Cost: 900,000 VND. 
+
+All four options are within the budget and satisfy the conditions, giving you an elegant look special for the wedding. Depending on the type of look you are going for and the level of formality desired, you can choose the dress that best meets your needs.

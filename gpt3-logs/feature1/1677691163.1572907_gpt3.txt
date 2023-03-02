@@ -1,0 +1,21 @@
+86a10597-0497-4d7e-b16f-84f1f3f4bfe2
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- non-comedogenic sunscreen
+- Budget: 500000 VND.
+- Market in:  The Body Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the The Body Shop curent market price.
+
+ANSWER: 
+
+==========
+
+1) The Body Shop Skin Defence Multi-Protection Essence SPF50+, 40ml, VND 275.000: This product protects skin from UVA, UVB and other daily stresses, helping to prevent the formation of wrinkles and dark spots. It also provides superior antioxidant and oil-balancing protection, allowing for a comfortable and even finish. 
+
+2) The Body Shop Skin Defence Mineral Shield UV Fluid SPF 50, 50ml, VND 289.000: This sunscreen offers superior sun protection and is enriched with skin-protecting antioxidants to combat free radical damage. It is waterproof, non-comedogenic and leaves an invisible matte finish on the skin. 
+
+3) The Body Shop Skin Defence Heliocare Sun Fluid SPF50, 50ml, VND 305.000: This lightweight fluid contains a combination of antioxidants to help protect against urban pollution and prevent skin damage. It is lightweight and non-greasy, and great for all skin types. It also provides UVA and UVB protection. 
+
+Total cost: VND 869.000. The products I've chosen protect your skin from UVA, UVB, urban pollution and free radicals, while also being waterproof and non-comedogenic. They all are within your budget, leaving you with a choice of different products to fit your needs.

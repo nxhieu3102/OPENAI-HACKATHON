@@ -1,0 +1,21 @@
+b28b4343-9f7b-492f-9c90-0ad2b3db62a0
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- winter coat that's warm and waterproof but still stylish
+- Budget: 300000 VND.
+- Market in:  Local Markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Local Markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Jacket with faux fur around the collar - Price: 200000 VND. This jacket is stylish and will keep you warm against cold weather. It is made of waterproof material and a faux fur collar that not only adds style but offers extra protection against the cold. 
+  
+2. Thermal hoodie - Price: 80000 VND. This hoodie is made of thermal material which is lightweight and provides superior warmth. It also has a waterproof outer layer and drawstring hood to keep you dry and warm. 
+  
+3. Fur lined parka - Price: 120000 VND. This is a stylish and warm option for the winter season. It is made of waterproof and windproof material with a faux fur collar and lining for extra protection and style. 
+  
+4. Longline down-filled coat- Price: 180000 VND. This coat is stylish and warm. It is made with a lightweight waterproof shell and filled with soft, down feathers for superior warmth without the bulk.

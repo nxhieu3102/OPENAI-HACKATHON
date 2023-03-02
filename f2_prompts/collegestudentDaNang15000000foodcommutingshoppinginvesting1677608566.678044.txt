@@ -1,0 +1,7 @@
+Job: college student
+Location: Da Nang
+Budget: 15000000
+Demands: food, commuting, shopping, investing
+Constraints: food: vegetarian
+commuting: 15 km by public transportation
+SPENDING PLAN: 

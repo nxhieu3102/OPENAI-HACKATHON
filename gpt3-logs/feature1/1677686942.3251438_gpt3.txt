@@ -1,0 +1,23 @@
+b5a0ee01-8636-415a-8d1a-c3b36920e78d
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- allergic to gluten
+- Budget: 3000000 VND.
+- Market in:  Traditional markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Traditional markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Bananas: At Traditional markets they are usually sold in bunches, and might cost around 80000 - 150000 VND per kilogram. Bananas are free of gluten, and they are a great source of potassium, vitamin B6, and vitamin C.
+
+2. Pork chops: Pork chops are usually sold in packs at traditional markets and might cost around 280000 - 350000 VND per kilogram. The pork chops are also free of gluten and are a great source of protein and selenium.
+
+3. Tomatoes: Tomatoes are a fantastic source of vitamin C and lycopene. They are sold at traditional markets for around 45000 - 85000 VND per kilogram. Tomatoes are also gluten free.
+
+4. Sweet potatoes: Sweet potatoes are gluten free and provide a source of vitamin B6, potassium, magnesium and vitamin C. Usually, at traditional markets sweet potatoes are sold for around 80000 - 160000 VND per kilogram. 
+
+Total Cost: Approximately 2360000 VND - 4100000 VND

@@ -1,0 +1,25 @@
+8317d68a-795e-4f7c-a519-b09c436894d2
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- cozy and personalized
+- Budget: 1500000000 VND.
+- Market in:  Da Nang
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Da Nang curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: 
+
+This is a modern house with a total floor area of 160 m², located in the main city of Da Nang. This property is on sale for 1400000000 VND and it is situated in a safe and quiet neighborhood. The house was built in 2020, featuring a combination of wood and glass components. It has 3 bedrooms, an open living room, kitchen facility, and a mini garden. The house is close to schools, supermarkets, and other essential amenities. 
+
+Option 2: 
+
+This is a 120 m² house built in 2017, situated in Tran Phu Ward. It is equipped with 3 bedrooms, 2 bathrooms, a kitchen and a living room. The house features modern design and high-quality finishes. It is close to supermarkets, schools, restaurants, and other amenities and it is on sale for 120000000 VND. 
+
+Option 3: 
+
+This is a 3-bedroom house with a total area of 140 m², built in 2016. It features modern design with a combination of wood and glass components. It is located in a quiet and safe neighborhood, close to necessary amenities such as supermarkets, hospitals, banks, and so on. This property is on sale for 135000000 VND.

@@ -1,0 +1,21 @@
+0f9d983f-3f3a-429f-ae35-2d07647b5695
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- low-carb meal
+- Budget: 1000000 VND.
+- Market in:  Food delivery services
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Food delivery services curent market price.
+
+ANSWER: 
+
+==========
+
+1. Vegnut Bowl from Lut Voi (105000 VND, includes tax). The dish is prepared with fresh seasonal vegetables, nuts and seeds, and dressed in the famous vegan garlic shrimp sauce, offering a good mix of proteins, carbohydrates and fats. 
+
+2. Phở Tôm Tầm Bản from Phở Mít Nổi (105000 VND, includes tax). This is a shrimp-base soup noodle dish with a hint of tamarind for that extra sour kick. The dish is filling and low-carb, and is very healthy with the absence of any kind of animal fat or MSG. 
+
+3. Chả Giò from Zao Thi's (90000 VND, includes tax). This vegan version of egg rolls is made from tofu, carrots and other vegetable ingredients. The dish is savory and filling enough for a meal, and contains no animal products or fat. 
+
+4. Cơm Tấm Hấp Thịt Heo Nam Vang from Sửu Bánh (95000 VND, includes tax), which is a Vietnamese-style caramelized pork chop served on top of broken rice. This dish is a classic, and is made using only lean cuts of pork, meaning it is low-fat, low-carb, and full of natural protein.

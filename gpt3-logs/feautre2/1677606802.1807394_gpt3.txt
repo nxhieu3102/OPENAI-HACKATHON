@@ -1,0 +1,35 @@
+e4f2701f-c16e-4673-993d-df9aec20ba0d
+I am a college student living in Ho Chi Minh city:
+Total budget: 3000000 VND 
+Demands that I want to meet: playing sport, house renting, entertaining, shopping
+Specific constraints for each demand: 
+playing sport: swimming and bicycling
+house renting: not far from city center
+entertaining: drinking, cooking
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting: 
+The location of your house rental is important for optimizing your budget. Consider looking for a house rental in the city center or in a nearby area since these locations are often more affordable. You should allocate at least 1,500,000 VND for this demand.
+
+Playing Sport: 
+Swimming and bicycling are both great ways to stay active and healthy. Consider looking for an affordable gym or swimming pool near your house. You can also buy a good quality bicycle to cycle around town. You should allocate at least 500,000 VND for this demand.
+
+Entertaining: 
+Drinking and cooking are enjoyable activities to do with friends and family. Consider looking for affordable restaurants or bars near your house. You can also buy some basic cooking equipment to cook at home. You should allocate at least 500,000 VND for this demand.
+
+Shopping: 
+Shopping can be an enjoyable activity, but it is important to be mindful of your budget. Consider looking for deals and discounts at local stores. You should allocate at least 500,000 VND for this demand.
+
+Overall, by allocating 1,500,000 VND for house renting, 500,000 VND for playing sport, 500,000 VND for entertaining, and 500,000 VND for shopping, you can stay within your 3,000,000 VND budget. By considering the factors outlined above, you can optimize your spending plan to maximize your budget.

@@ -1,0 +1,19 @@
+4d6f0c0b-be0f-44d8-990c-e96a9b4e3947
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fully furnished family car
+- Budget: 600000000 VND.
+- Market in:  Ford Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ford Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+1) Ford EcoSport Titanium Plus 1.5L AT 6-speed AT - 5,177,000,000 Vietnamese đồng
+This is a fully furnished family car from Ford Vietnam that has a lot to offer. It has a powerful 1.5L petrol engine with 6-speed automatic transmission, as well as brilliant exterior design with various features like signature headlamp cluster, projector fog lamps, 15-inch alloys for better road grip etc. Inside you will find a comfortable interior design with leather seats, 7-inch touchscreen infotainment system with Android Auto, Apple CarPlay and Multi-Mode Connectivity, air conditioning, dual airbags and ABS with EBD. It’s perfect for a family of 4, and offers plenty of value for the price with many modern features and good power. 
+ 
+2) Ford Fiesta S 1.5L AT 6-speed AT - 3,799,000,000 Vietnamese đồng
+The Ford Fiesta S AT is an affordable fully furnished family car from Ford Vietnam. It is equipped with a 1.5L petrol engine with 6-speed automatic transmission. The exterior is stylish and eye-catching with projector headlamps, 15-inch alloy wheels and other features. Inside the car you will find a comfortable interior design with air conditioning, cruise control, 6 airbags for maximum safety and 6-way adjustable driver’s seat. It also has advanced infotainment system with SYNC3 technology and supports both Android Auto and Apple CarPlay. With a price range of 3.7-4 million vietnamese đồng, it provides good value for money and is perfect for a family of 4.

@@ -1,0 +1,23 @@
+f29de8d1-9a46-4f30-b70a-bdbd0689c09c
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- good wine to pair with grilled salmon
+- Budget: 1000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Pinot noir to pair with grilled salmon (720.000 VND per bottle): Pinot noir is an excellent choice to pair with salmon because of its dark fruit notes and pleasant acidity. The wine has a balance between light tannins and velvety texture which pairs perfectly with the flavor of the salmon. 
+
+2. Sauvignon Blanc (560.000 VND per bottle): Sauvignon Blanc is a great white wine to pair with the flavor of salmon. The wine has a tangy acidity and slightly herbal taste, making it a perfect accompaniment with any grilled fish. Also, it has a light body, citrus notes and floral aromas, giving it great complexity. 
+
+3. Viognier (580.000 VND per bottle): Viognier is a full-bodied white wine which pairs perfectly with Salmon. The wine has a light but creamy texture, with notes of apricot, peach and honey. The sweetness of the wine complements the flavor of the fish, so it is a great choice for your grilled salmon. 
+
+4. Chenin Blanc (650.000 VND per bottle): Chenin Blanc is a medium-bodied white wine with a slight sweetness, making it a great companion with salmon. This particular wine has floral aromas and fresh, creamy notes, making it a perfect pairing. 
+
+Total cost: 2.830.000 VND

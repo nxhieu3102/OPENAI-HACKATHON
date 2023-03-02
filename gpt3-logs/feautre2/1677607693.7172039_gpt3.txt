@@ -1,0 +1,37 @@
+2dcaf213-c83b-431b-9de9-ca584b4a07e6
+I am a college student living in Ha Noi:
+Total budget: 4000000 VND 
+Demands that I want to meet: commuting, house renting, skin-care, entertaining
+Specific constraints for each demand: 
+commuting: 15 km by public transportation
+house renting: suburban area
+entertaining: theater and concerts
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Commuting:
+Budget: 300,000 VND
+Schema: Purchase a monthly public transportation pass for the 15 km distance. This will provide the most cost-effective way of getting to college as it will allow unlimited travel at a much cheaper rate than paying for individual trips.
+
+House Renting:
+Budget: 1,300,000 VND
+Schema: Rent a room or a single bedroom apartment in the suburbs. This will help to save money as rent prices in the suburbs are usually cheaper than in the city center. Additionally, this will be a great option for long-term financial stability.
+
+Skin-Care:
+Budget: 500,000 VND
+Schema: Purchase basic skin-care products such as cleanser, moisturizer, sunscreen, etc. It is important to invest in quality skin-care products that are within your budget constraints.
+
+Entertaining:
+Budget: 1,000,000 VND
+Schema: Attend theater and concerts that are within your budget. Look for discounted tickets or special offers at venues. Additionally, attending local events such as festivals or art shows can also be a great and affordable way to have fun.

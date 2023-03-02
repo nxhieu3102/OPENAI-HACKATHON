@@ -1,0 +1,19 @@
+7168dc2a-9f80-4aae-a771-bf6b484349c8
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- safety features
+- Budget: 500000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Honda Civic 1.8L AT 2011 - Price: 45000000 VND - Description: The Honda Civic 1.8L AT is a reliable car that was launched in 2011. It has a well-designed exterior, with a good dynamic shape and powerful engine. The car is equipped with airbags, seatbelts, anti-lock brakes, electronic stability control, and several other safety features.
+
+2. KIA Morning 2011 - Price: 50000000 VND - Description: The Kia Morning has been around since 2011 and has been a favourite among Vietnamese customers with its stylish design and excellent value for money. It's safety features include front and rear airbags, anti-lock brakes, an electronic stability system and an electronic brake-force distribution system. The car also has a good fuel efficiency which will optimize your budget.
+
+3. Hyundai Avante 2011 - Price: 50000000 VND - Description: The Hyundai Avante 2011 is a reliable and stylish car that has a sleek interior and advanced technology. It has a powerful engine, good fuel efficiency, and advanced safety features like airbags, seatbelts, anti-lock brakes, electronic stability control and vehicle dynamic control. It is one of the most affordable cars in the market with excellent value for money.

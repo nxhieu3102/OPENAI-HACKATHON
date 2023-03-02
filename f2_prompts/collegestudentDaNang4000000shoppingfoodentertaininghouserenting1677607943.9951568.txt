@@ -1,0 +1,8 @@
+Job: college student
+Location: Da Nang
+Budget: 4000000
+Demands: shopping, food, entertaining, house renting
+Constraints: food: high protein
+entertaining: shopping
+house renting: suburban area
+SPENDING PLAN: 

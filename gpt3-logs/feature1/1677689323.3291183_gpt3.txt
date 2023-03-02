@@ -1,0 +1,17 @@
+f52eb08f-381b-4144-807b-3c59f31c0486
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fuel-efficient
+- Budget: 500000000 VND.
+- Market in:  Honda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Honda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Honda Jazz 2020: This car is fuel-efficient, priced at 466.5 million VND, offering an optimal value for your budget. It features 67-horsepower engine and has a 5-speed auto-manual transmission system. It also has an impressive fuel economy of 24 km/L, allowing you to get the most out of each liter of fuel. The rearview camera system, with its 10.21cm LCD Display, ensures for excellent visibility and the Multi Information Display keeps you informed about the important vehicles functions. 
+
+Honda City 2020: This model is designed for spacious comfort and convenience. It is priced at 454 million VND, allowing you to optimize your budget. It is equipped with an efficient 1.5L (1498 cc) SOHC i-VTEC engine that delivers maximum output of 118 PS @ 6600 rpm and maximum torque of 145 Nm @ 4600 rpm. It also has the impressive mileage of 20+ km/L, ensuring a long-term running cost savings. In addition, this model features a 7-inch Display Audio system with Smartphone connectivity, multi-angle Smart Rearview Camera, and 8 airbags, guaranteeing maximum safety.

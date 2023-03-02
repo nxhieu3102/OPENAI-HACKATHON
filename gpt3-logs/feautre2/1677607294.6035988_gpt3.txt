@@ -1,0 +1,41 @@
+47a225f7-d533-4482-b081-eb349317c121
+I am a college student living in Da Nang:
+Total budget: 6000000 VND 
+Demands that I want to meet: commuting, education, investing, house renting, skin-care
+Specific constraints for each demand: 
+commuting: 3 km to work
+education: toeic learning
+house renting: not far from city center
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Commuting: 
+
+For commuting, you should prioritize public transportation such as buses and taxis over private transportation such as cars or motorbikes. You should allocate a budget of 1,000,000 VND per month for commuting. This should be enough to cover your commuting needs within the 3 km range and will help you save money in the long run.
+
+Education: 
+
+For education, you should allocate a budget of 1,500,000 VND per month. This will give you enough to pay for a TOEIC course and any other educational materials you might need. You should also try to look for discounts or promotions that can help you save money.
+
+Investing: 
+
+For investing, you should allocate a budget of 1,500,000 VND per month. This amount should give you enough to invest in stocks and bonds, as well as other forms of investments. You should research the different investment options available and choose one that best suits your long-term financial goals.
+
+House Renting: 
+
+For house renting, you should allocate a budget of 2,000,000 VND per month. This amount should be enough to rent a decent house that is not far from the city center. You should also try to look for discounts and promotions that can help you save money.
+
+Skin-care: 
+
+For skin-care, you should allocate a budget of 500,000 VND per month. This should be enough to cover your basic skin-care needs. You should also look for discounts and promotions that can help you save money.

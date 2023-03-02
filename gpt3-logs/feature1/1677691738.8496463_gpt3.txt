@@ -1,0 +1,21 @@
+108f64b2-aedf-46ee-9d62-94949e12b5ea
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- good apartment complex in Ho Chi Minh city that has a gym and pool
+- Budget: 4000000000 VND.
+- Market in:  Da Nang
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Da Nang curent market price.
+
+ANSWER: 
+
+==========
+
+1. Riviera Point Luxury Apartment Da Nang: This luxury apartment, located in Ho Chi Minh city, features a range of amenities including a swimming pool, gym, and a business centre. Cost: 3,750,000,000 VND. 
+
+2.Garden Central Apartment:  This high-end apartment located in Da Nang City, features a modern design and luxurious amenities. It also includes a large swimming pool, gym, sauna and a business center. Cost: 3,620,000,000 VND.
+
+3. Lincoln City Apartment: This ideal apartment offers luxury and convenience in Da Nang City. You will have access to the fitness center, swimming pool, tennis court and a business centre. Cost: 3,980,000,000 VND.
+
+Each of these options offers a full complement of amenities and options to suit your budget and needs. They all have competitive prices that fit within the budget provided. Plus, all of them offer modern designs and well-equipped amenities that are sure to make your house buying process enjoyable.

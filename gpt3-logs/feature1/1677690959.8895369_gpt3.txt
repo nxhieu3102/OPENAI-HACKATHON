@@ -1,0 +1,23 @@
+99ac16c7-e0ac-4d32-ad9d-923815430900
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- reducing the appearance of acne scars
+- Budget: 200000 VND.
+- Market in:  Guardian
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Guardian curent market price.
+
+ANSWER: 
+
+==========
+
+1. Nivea Daily Essentials Double Effect Eye Make-up Remover - 6200 VND: This remover is specially formulated with two effective ingredients that can gently removes all kinds of make-up products, even waterproof mascara and long-lasting lipsticks helping reduce the appearance of acne scars.
+
+2. Neutrogena Visibly Clear Pore & Shine Daily Scrub - 49000 VND: This is a scrub suitable for daily use, which helps to reduce the appearance of acne scarring. It also helps to reduce excess sebum and gives skin a visibly cleaner and brighter complexion. 
+
+3. Garnier Pure Active Matcha Detox Clay Mask - 6300 VND: This mask is formulated with matcha green tea and oxygen that helps reduce the appearance of acne scars. It also helps to detoxify skin and give it the glow it needs.
+
+4. Nivea Soft Refreshingly Soft Moisturizing Cream - 32000 VND: This cream helps to nourish and soothe irritated skin and can reduce the appearance of acne scars. It is a non-greasy formula which leaves skin feeling soft and refreshed. 
+
+Total cost = 64300 VND, under your budget of 200000 VND.

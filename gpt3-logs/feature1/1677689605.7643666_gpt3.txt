@@ -1,0 +1,21 @@
+1d47e513-bfb5-4ee7-9357-24799a641f10
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- SUV with third-row seating and good towing capacity
+- Budget: 500000000 VND.
+- Market in:  Honda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Honda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: Honda Pilot EXL 2019 
+Price: 464000000 VND 
+Description: The Honda Pilot EXL is a 7-seater SUV that features a powerful V-6 engine, allowing for easy towing of up to 3500 lb. The Pilot EXL is also equipped with front-wheel drive, giving you greater control and smooth handling. It has a moonroof, power adjustable driver seat, rearview camera for parking assistance, leather interior, and a 7-inch touchscreen audio system with HondaLink and Android Auto/Apple CarPlay compatibility.
+
+Option 2: Honda CR-V EX 2019
+Price: 433000000 VND
+Description: The Honda CR-V EX 2019 is a 5-seater SUV that offers great maneuvering and agility, with good fuel-efficiency at the same time. It also has a powerful turbocharged engine that offers up to 190 hp, giving you the option to tow up to 1500 lb. The CR-V EX also features a quiet interior, comfortable leather interior, Apple CarPlay and Android Auto compatibility, and active safety features such as lane keeping assist and adaptive cruise control. With its affordable price, the CR-V EX will help you optimize your budget and stay within it.

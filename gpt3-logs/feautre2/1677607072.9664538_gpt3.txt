@@ -1,0 +1,34 @@
+1e71d561-c6a5-4290-aa4b-9681d9835691
+I am a college student living in Ho Chi Minh city:
+Total budget: 6000000 VND 
+Demands that I want to meet: investing, skin-care, commuting
+Specific constraints for each demand: 
+commuting: 15 km by public transportation
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Investing:
+
+Budget Allocation: 2,500,000 VND
+Schema: Invest in low-risk investments such as stocks, bonds, and mutual funds. This will help you to grow your money over time while minimizing risk to your capital.
+
+Skin-care:
+
+Budget Allocation: 2,000,000 VND
+Schema: Invest in natural products and prioritize quality over quantity. Look for products that are free of harsh chemicals and use ingredients that are gentle on the skin. Consider investing in long-term skin-care solutions such as serums and creams that can help prevent future damage to your skin.
+
+Commuting: 
+
+Budget Allocation: 1,500,000 VND
+Schema: Invest in a monthly travel card from your local public transportation provider. This will help you save money over time, since you will no longer need to pay for each journey individually. Consider using a bike or other form of active transportation for shorter trips, which will help you save even more money in the long run.

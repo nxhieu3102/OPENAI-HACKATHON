@@ -1,0 +1,48 @@
+464fc5e8-b420-479f-9de7-9a59b6f5106b
+I am a college student living in Ho Chi Minh city:
+Total budget: 6000000 VND 
+Demands that I want to meet: education, entertaining, commuting, skin-care, food
+Specific constraints for each demand: 
+education: drawing, cooking
+entertaining: shopping
+commuting: 3 km to work
+food: vegetarian
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Education:
+Allocate 2,000,000 VND for drawing and cooking classes. This should cover the cost of classes, materials, and transportation.
+
+Entertaining:
+Allocate 2,000,000 VND for shopping. This should cover the cost of clothing, accessories, and other items.
+
+Commuting:
+Allocate 1,000,000 VND for transportation. This should cover the cost of fuel, tolls, parking, and other related costs.
+
+Skin-care:
+Allocate 500,000 VND for skin-care products. This should cover the cost of facial cleansers, moisturizers, and other items.
+
+Food:
+Allocate 1,500,000 VND for vegetarian meals. This should cover the cost of ingredients, meals, and other related costs.
+
+Schema for each demand: 
+Education: Research free or low-cost classes in your area, look for discounts or deals from local vendors, consider carpooling or taking public transportation to classes.
+
+Entertaining: Look for coupons and discounts when shopping, consider second-hand stores or online shopping, research sales and promotions before making a purchase.
+
+Commuting: Consider walking or biking to work, look for discounted public transportation options, research carpooling or ridesharing services.
+
+Skin-care: Research natural and homemade skin-care recipes, consider making your own products, look for discounts or deals from local vendors.
+
+Food: Research vegetarian recipes, consider meal prepping and cooking in bulk, look for coupons and discounts at local grocery stores, consider growing your own vegetables.

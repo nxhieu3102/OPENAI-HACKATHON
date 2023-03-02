@@ -1,0 +1,19 @@
+c491b187-8376-4027-ac05-49daa7b1c0f4
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- comfortable keyboard for typing
+- Budget: 15000000 VND.
+- Market in:  FPT Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the FPT Shop curent market price.
+
+ANSWER: 
+
+==========
+
+1. Lenovo Ideapad S145 (14.499.000 VND). This laptop offers an extremely comfortable typing experience and comes packed with a lot of features, as well as an excellent 15.6" screen and a 1TB HDD. It is powered by an AMD Ryzen 3 3200U processor and 4GB RAM, which makes it great for everyday tasks like browsing the web, multi-tasking, and other activities. The laptop also comes with a free short-term McAfee Antivirus subscription, completing this package.
+
+2. ASUS C434TA (14.990.000 VND). This laptop offers a good combination of performance and portability, with a stylish and lightweight chassis. It comes with a 14” Full HD display and a comfortable keyboard with a good key travel, making it great for typing. The laptop is equipped with an Intel Core i5 Processor and 8GB RAM, allowing you to multitask with ease. There is also 1TB of storage space, ensuring that you'll have plenty of room for your files.
+
+3. HP Pavilion x360 14-dh1013tu (14.990.000 VND). This laptop combines both performance and great features into a 360° design, allowing the display to be flipped into multiple positions. The laptop has a 14” Full HD display and a comfortable typing experience thanks to a backlit keyboard. The laptop is powered by an Intel Core i5 processor and 8GB RAM, ensuring that you can multitask with ease. It also comes with a 512GB SSD, providing you with plenty of storage space.

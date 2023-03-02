@@ -1,0 +1,32 @@
+c2c1f886-3ce4-454e-8c1a-00e414c4c259
+I am a college student living in Ho Chi Minh city:
+Total budget: 10000000 VND 
+Demands that I want to meet: food, shopping, playing sport, investing
+Specific constraints for each demand: 
+food: calories reduce
+playing sport: football or badminton
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Food:
+Allocate 40% of your budget, which is 4000000 VND, for food. Use this budget to buy healthy, nutritious food that will help reduce calories. Look for special discounts and deals at nearby grocery stores or markets in your area. Consider budget-friendly meal ideas such as cooking in bulk, preparing meals in advance, and batch-cooking.
+
+Shopping:
+Allocate 30% of your budget, which is 3000000 VND, for shopping. Try to buy items that are necessary and of good quality so that they will last longer. Try to find items of good value and quality even if they may be more expensive. Look for discounts and sales to save money, and consider second-hand items. If possible, look for items that are multi-functional to get more out of your budget.
+
+Playing Sport:
+Allocate 20% of your budget, which is 2000000 VND, for playing sport. Prioritize football or badminton, whichever you prefer. Consider the cost of equipment, such as balls and rackets, as well as the cost of playing at a facility, such as a gym or court. Look for special discounts and deals to reduce costs or find free activities.
+
+Investing:
+Allocate 10% of your budget, which is 1000000 VND, for investing. Investing in long-term assets is advisable for college students. Consider investing in stock markets, mutual funds, or other investment vehicles. Research the market carefully and ensure that you understand the risks and rewards associated with investing. Seek professional advice if needed.

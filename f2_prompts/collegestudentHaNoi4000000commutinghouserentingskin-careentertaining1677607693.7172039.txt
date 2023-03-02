@@ -1,0 +1,8 @@
+Job: college student
+Location: Ha Noi
+Budget: 4000000
+Demands: commuting, house renting, skin-care, entertaining
+Constraints: commuting: 15 km by public transportation
+house renting: suburban area
+entertaining: theater and concerts
+SPENDING PLAN: 

@@ -1,0 +1,38 @@
+8b0ba5fc-00cf-4919-b7da-6146a51d25ac
+I am a college student living in Ho Chi Minh city:
+Total budget: 2500000 VND 
+Demands that I want to meet: playing sport, education, skin-care, house renting, shopping
+Specific constraints for each demand: 
+playing sport: gyming, dancing
+education: drawing, cooking
+house renting: suburban area
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Playing Sport:
+Allocate 1800000 VND for gym membership, and 270000 VND for dance classes. This will give you access to all the facilities and resources to stay active and healthy. 
+
+Education: 
+Allocate 900000 VND for drawing classes, and 600000 VND for cooking classes. This will help you develop skills and knowledge that you can use in the future. 
+
+Skin-care:
+Allocate 600000 VND for skin-care treatments and products. This will help you maintain a healthy and youthful looking skin. 
+
+House Renting:
+Allocate 1500000 VND for house renting in the suburban area. This will provide you with a safe and comfortable living environment that is also affordable. 
+
+Shopping: 
+Allocate 600000 VND for shopping. This will allow you to keep up with the latest trends and stay fashionable. 
+
+Overall, this spending plan will help you stay within your budget while also ensuring that you have access to all the resources and services that are essential for a college student living in Ho Chi Minh City.

@@ -1,0 +1,19 @@
+27a7de3a-9702-45cd-8840-2a98086f5b01
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- high-resolution display and good color accuracy for photo editing
+- Budget: 20000000 VND.
+- Market in:  FPT Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the FPT Shop curent market price.
+
+ANSWER: 
+
+==========
+
+1. HP Envy x360 15-inch laptop: This laptop is specially designed for photo editing and digital art and comes with a high-resolution 15-inch display and good color accuracy. It is equipped with a 6-core AMD Ryzen 5 4500U processor and 5GHz Wi-Fi speed with 8GB RAM, 512GB PCIe SSD storage - meeting the speed needs of photo editing softwares. It also has Intel UHD graphics and Bang & Olufsen Audio for better media entertainment. The total cost is 18,990,000 VND at the FPT Shop.
+
+2. Asus Vivobook S14 M433IA-EB040T laptop: This laptop comes with a 14-inch Full HD screen with good color accuracy. It has AMD Ryzen 7 4700U Mobile Proessor with 8GB RAM and 512GB SSD storage. It also has Nvidia GeForce MX350 dedicated graphics card and ASUS SonicMaster stereo audio system. It is light in weight and for photo editing and digital art, this laptop is an excellent choice. The total cost is 17,490,000 VND at the FPT Shop.  
+
+Both of the above laptops provide good performance and excellent visuals for photo editing and digital art. The laptops not only meet the conditions and optimize your budget, but also give you more great features at an excellent price. The HP laptop may be a better choice for the photo editing and digital art needs because of its bigger 15 inch display and more performance.

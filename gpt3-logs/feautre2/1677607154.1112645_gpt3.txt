@@ -1,0 +1,40 @@
+1cecca61-3ba8-46c3-acc6-bc94b4c33c6f
+I am a college student living in Ho Chi Minh city:
+Total budget: 6000000 VND 
+Demands that I want to meet: entertaining, playing sport, shopping, investing, skin-care
+Specific constraints for each demand: 
+entertaining: drinking, cooking
+playing sport: swimming and bicycling
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Entertaining: 
+- Allocate up to 500,000 VND for drinking and cooking (assuming this is a monthly budget). This should cover the costs of basic drinks, snacks, and ingredients for cooking. 
+- Consider attending free or discounted events hosted by local venues or organizations in Ho Chi Minh City. This can help you save on entertainment costs. 
+
+Playing Sport:
+- Allocate up to 1,000,000 VND for swimming and bicycling. This should cover the cost of basic swimming and bicycling gear and any costs associated with using a local swimming pool or cycling track. 
+- Consider borrowing gear from friends or family to lower costs. Also, look for discounted packages or deals that can help you save money. 
+
+Shopping: 
+- Allocate up to 1,500,000 VND for shopping. This should cover the cost of basic clothing and other items. 
+- Consider shopping at secondhand stores, thrift stores, and online stores to get the best deals on clothing and other items. 
+
+Investing:
+- Allocate up to 1,500,000 VND for investing. This should cover the cost of basic investments such as stocks, ETFs, and mutual funds. 
+- Consider speaking with an investment advisor to get a better understanding of investing and the best options for your budget. 
+
+Skin-Care: 
+- Allocate up to 1,500,000 VND for skin-care. This should cover the cost of basic skin-care products such as cleansers, moisturizers, masks, and serums. 
+- Consider looking for discounted packages or deals that can help you save money on skin-care products. Also, consider speaking with a skin-care specialist to get personalized advice on the best products for your skin type.

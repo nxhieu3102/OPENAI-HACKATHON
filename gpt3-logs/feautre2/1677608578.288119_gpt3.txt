@@ -1,0 +1,33 @@
+0f396cd0-9345-467d-9d27-73b1135a8d84
+I am a college student living in Da Nang:
+Total budget: 15000000 VND 
+Demands that I want to meet: shopping, education, entertaining, commuting
+Specific constraints for each demand: 
+education: programming learning
+entertaining: shopping
+commuting: 15 km by public transportation
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Education: 8000000 VND
+Schema: Invest in programming courses that teach the fundamentals of programming and software development. This can include online courses, university courses, and even attending coding bootcamps. These courses will not only help you with your studies but also help you gain a competitive edge in the job market.
+
+Shopping: 3000000 VND
+Schema: Prioritize shopping for essential items such as clothing, toiletries, and other necessities. Save money on buying items like home decor or luxury items, which can add up and may not be essential for a college student. Compare prices from different stores and take advantage of sales and discounts when possible. 
+
+Entertaining: 3000000 VND
+Schema: Look for entertainment options that are low-cost or free, such as going to the park, exploring local attractions, or visiting local museums. Take advantage of student discounts to save money on tickets to events like concerts or movies. Consider joining a student organization or club to meet new people and explore new interests. 
+
+Commuting: 1500000 VND
+Schema: Take advantage of public transportation, such as buses and trains, as much as possible to save money. Research available discounts and look for student passes to save on fares. Consider biking or walking when possible to save even more.

@@ -1,0 +1,29 @@
+3420bd71-c781-4eac-abac-a977194a84f3
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- gentle, non-irritating exfoliators for sensitive skin
+- Budget: 1000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: 
+1. Bioderma Sensibio H2O Micellar Cleanser - 500.000 VND
+This is a gentle but effective cleanser that caters to sensitive skin and it helps you clean the dirt and makeup without any irritation.
+
+2. Ceface C+EGF Serum – 400.000 VND
+This serum is a gentle but effective serum that helps to hydrate and brighten the skin while providing a gentle antioxidant protection. It helps to calm sensitive skin, brighten and even skin tone, and reduce inflammation.
+
+Option 2: 
+1. Klairs Soft Airy UV Essence – 350.000 VND
+This lightweight gel-cream gives your skin a soft and airy finish and offers SPF 50+ protection to help protect your skin from the sun’s harmful UVA & UVB rays. 
+
+2. Benton Snail Bee High Content Mask Pack – 150.000 VND
+This mask helps to hydrate, nourish, and soothe skin with its blend of natural snail mucin and bee venom while providing anti-aging benefits. This mask is incredibly gentle and suitable for all skin types, including sensitive skin. 
+
+Total Budget: 1.000.000 VND

@@ -1,0 +1,24 @@
+53f6ddea-bf1b-4e3e-8a4b-052eab76ee84
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- spacious one-bedroom apartment with a balcony
+- Budget: 3000000000 VND.
+- Market in:  Ho Chi Minh city
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ho Chi Minh city curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: 
+A one-bedroom apartment with balcony located in ‘SunCity’ complex, District 7, Ho Chi Minh City is available for purchase at 2900000000 VND. The apartment is spacious and comes with a great view, ideal for both living and investment purposes.
+
+Option 2:
+An apartment with a balcony, located in ‘TayThuanTayTinh’ complex, District 7, Ho Chi Minh City is available for purchase at 2700000000 VND. The apartment has a total area of 60 square meters, and is designed with modern design. It is also close to many facilities such as shopping centers, schools and hospitals.
+
+Option 3:
+An apartment with a balcony and a garden view, located in ‘GinzaCity’ complex, District 4, Ho Chi Minh City is available for purchase at 2500000000 VND. The apartment has a total area of 58 square meters and is equipped with high-end facilities. It is also close to the shopping centers, schools, and many other attractions.
+
+Each of the three options provide a great value for your budget, and all of them satisfy the conditions given. The decision of the final choice depends on your preference.

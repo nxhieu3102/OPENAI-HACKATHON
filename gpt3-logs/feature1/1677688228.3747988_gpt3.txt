@@ -1,0 +1,22 @@
+fed082c5-8b53-486e-a3d3-06c9e35bba90
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- lightweight, long battery life, powerful processor
+- Budget: 20000000 VND.
+- Market in:  Nguyen Kim
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Nguyen Kim curent market price.
+
+ANSWER: 
+
+==========
+
+A) HP Pavilion 15-cs3073cl – 19999000 VND 
+This laptop has a powerful 10th generation Intel Core i5-1035G1 processor, 8 GB of RAM, and a 512 GB Solid State Drive. It also has a 15.6” 1080p HD display with a fast refresh rate and NVIDIA® GeForce® MX250 graphics. Additionally, the battery of this laptop provides up to 10 hours of video playback so you won’t be out of juice on long days.
+
+B) Asus TUF FX505DT – 19599000 VND 
+This laptop features a 15.6-inch 1920×1080 display as well as a powerful AMD Ryzen 7-3750H processor, 8GB of RAM, and 512GB of storage. It has an Nvidia GeForce GTX 1650 for graphical performance, and a decent battery life of up to 8 hours. 
+
+C) Dell Inspiron 15-7000 – 18999000 VND 
+This laptop offers a slim 3.06cm and lightweight design. It packs a powerful 8th generation Intel core processor, 8GB of RAM, and a 512GB hard drive. It sports a 15.6-inch FHD display, and NVIDIA® GeForce® MX130 graphics. The laptop has 6-cell 42WHr battery that can last 8 hours on normal usage.

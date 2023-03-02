@@ -1,0 +1,21 @@
+46a8f830-cb53-4311-bf70-694fb3d4b107
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- good wine to pair with grilled salmon
+- Budget: 700000 VND.
+- Market in:  Supermarkets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Supermarkets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Grilled salmon (550,000 VND/kg): This option is a good choice if you’re looking for a tasty and affordable salmon meal. Grilled salmon is a great source of omega-3 fatty acids and other nutrients.
+
+2. Sauvignon Blanc (125,000 VND/bottle): Sauvignon Blanc is a dry white wine with strong citrus and herbal notes. This wine’s crisp, refreshing flavor makes it a perfect pairing for grilled salmon.
+
+Total cost: 675,000 VND (Satisfying the budget) 
+
+This combination of grilled salmon and Sauvignon Blanc is perfect for any budget conscious foodie. The grilled salmon is a nutritious and delicious choice, and the Sauvignon Blanc is a great match for its flavor profile. With this combination, you’ll have a delicious and healthy meal that won’t break the bank.

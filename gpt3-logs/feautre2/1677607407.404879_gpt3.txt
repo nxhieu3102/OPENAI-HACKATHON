@@ -1,0 +1,30 @@
+a3f32acd-36a0-486e-aeb2-88a51f115858
+I am a college student living in Ha Noi:
+Total budget: 2500000 VND 
+Demands that I want to meet: investing, entertaining, skin-care, education
+Specific constraints for each demand: 
+entertaining: shopping
+education: drawing, cooking
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Investing: Investing in stocks or a mutual fund is a great way to get the most out of your money. It is important to diversify your investments. Investing 15-20% of your budget in this area will ensure long-term financial stability. 
+
+Entertaining: Shopping can be a great way to entertain yourself. Consider buying items that are on sale or in bulk. Try to stick to a budget of 10-15% when shopping. 
+
+Skin-care: Skin-care is an important aspect of self-care and can be expensive. However, there are ways to save money on skin-care without sacrificing quality. Try to stick to a budget of 10-15%. 
+
+Education: Education is an investment that will pay off in the long run. Consider investing in online courses or taking classes at a local college or university. Consider investing 15-20% of your budget in this area.
+
+Overall, this spending plan should help you maximize your budget and ensure that you are making sound financial decisions. With this plan, you can easily allocate your budget and optimize for long-term financial stability.

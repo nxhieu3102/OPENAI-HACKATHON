@@ -1,0 +1,7 @@
+Job: college student
+Location: Da Nang
+Budget: 4000000
+Demands: food, shopping, education, skin-care
+Constraints: food: vegetarian
+education: toeic learning
+SPENDING PLAN: 

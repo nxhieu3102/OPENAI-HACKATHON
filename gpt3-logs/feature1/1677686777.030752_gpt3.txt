@@ -1,0 +1,25 @@
+94533e45-39ef-4f97-b029-f4102c25ea66
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- allergic to gluten
+- Budget: 1000000 VND.
+- Market in:  Supermarkets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Supermarkets curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1:
+- Fresh fruits (apples, oranges, bananas,...): provide essential vitamins and minerals with no gluten. Apples cost 10,000 VND/kg, oranges 55,000 VND/kg, and bananas 16,000 VND/kg. This selection provides healthy nutrition and energy.
+
+Option 2:
+- Nuts blend (cashews, almonds, peanuts): rich in nutritious fats, proteins and minerals. Cashews cost 250,000 VND/kg, almonds 250,000 VND/kg, and peanuts 78,000 VND/kg. All products are gluten-free and provide excellent source of nutrients and energy.
+
+Option 3:
+- Rice noodles: provide carbohydrates with no gluten. Rice noodles cost 49,000 VND/kg. Great for making a balanced meal with the fresh fruits and nuts. This option is cheaper and provides good energy. 
+
+Total cost: 494,000 VND. 
+The suggested food choices help optimize your budget, satisfy the conditions and provide clear explanation of why they should be bought. All these selections fit within your budget of 1 million VND, while providing enough variety to create multiple nutritious meals.

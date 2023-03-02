@@ -1,0 +1,21 @@
+746008b3-0efe-4506-a9a1-dcf8f8d2bdb4
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- good apartment complex in Ho Chi Minh city that has a gym and pool
+- Budget: 2000000000 VND.
+- Market in:  Ha Noi
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ha Noi curent market price.
+
+ANSWER: 
+
+==========
+
+1. The Doan Ha Apartments - Located in Ho Chi Minh City, the Doan Ha Apartments offer a great variety of amenities for your convenience. Including a well-equipped gym, an outdoor swimming pool, and a playground for your kids, the complex also offers 24-hour security and maintenance. The price for a two bedroom unit in this complex is 1980000000 VND, making it an ideal fit within your budget.
+
+2. The Kings Hill Apartments - This luxurious apartment complex in Ho Chi Minh City offers comfortable living with a range of amenities like Jacuzzi, fitness center, and sauna. Situated in the heart of the city, this complex is within walking distance to many restaurants, shops, and other attractions. Each two bedroom unit here is priced at 195500000 VND, making it a great cost effective choice on your budget. 
+
+3. The Vinhomes Apartment - This apartment complex located in Ho Chi Minh City is a great choice for those looking for more features and quality within their budget. With a variety of facilities like an outdoor pool, gym, and playground, this complex also offers 24-hour security and maintenance. The two bedroom unit here is priced at 198500000 VND, making it a great bargain for your budget. 
+
+These choices meet your requirements and optimize your budget. All three developments offer excellent facilities within Ha Noi's current market prices, so you can make a satisfied decision on where to buy a house.

@@ -1,0 +1,21 @@
+78bb7a79-8e93-46c2-b0ca-6e94cfae4da0
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- comfortable keyboard for typing
+- Budget: 10000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+Lenovo IdeaPad S145-15IWL: This laptop combines great value with a good build quality. It is powered by an Intel Core i3-8145U processor with a base speed of 2.1GHz. The laptop has 4GB RAM and a 256GB SSD, which will provide you with great performance and running speed. It also comes with a 15.6-inch screen with an HD resolution of 1366 x 768 pixels and Intel UHD Graphics 620 GPU. Additionally, it comes with a comfortable keyboard for typing, making it a great choice for those who need to type for long periods of time. The price of this laptop is 8,490,000 VND. 
+
+Acer Aspire 3 A315-54K: This laptop offers great value for money, coming with Intel Core i5-1035G1 that can reach up to 3.6GHz with turbo boost and 8GB RAM. It has a 15.6-inch LED-backlit display with an HD resolution of 1366 x 768 pixels, Intel UHD Graphics 620 to ensure smooth graphics performance, and a comfortable keyboard that is ideal for typing. Additionally, it has a 512GB SSD storage with which you can store plenty of files, documents, and media. With all these features, this laptop has a price of 8,990,000 VND. 
+
+HP 15-da0326tu: This laptop is equipped with a competitive Intel Core i3-8145U processor, 8GB RAM and a 512GB SSD, making it the perfect mid-level laptop for multitasking. It also comes with 15.6-inch HD display, an Intel UHD Graphics 620 GPU, and a comfortable keyboard for typing. All of these features come at a price of 8,990,000 VND. 
+
+These 3 laptops can all optimize your budget while also satisfying your conditions. Furthermore, they all come with comfortable keyboards for typing, Intel processors and UHD Graphics 620 GPUs, providing you with great performance and reliable operation.

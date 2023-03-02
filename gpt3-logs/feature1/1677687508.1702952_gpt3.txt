@@ -1,0 +1,19 @@
+08151b6b-9cec-415a-ad06-67960329f1d2
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- comfortable, breathable cotton t-shirts in a variety of colors
+- Budget: 5000000 VND.
+- Market in:  Shopping Malls
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Shopping Malls curent market price.
+
+ANSWER: 
+
+==========
+
+1. Unisex cotton t-shirt at Vincom Center: Price: 5,000 VND each. Description: This high-quality t-shirt is made out of a comfortable and breathable cotton fabric. It comes in a variety of colors and sizes.
+2. Men’s cotton t-shirt at Takashimaya: Price: 20,000 VND each. Description: This t-shirt is made up of a lightweight, breathable cotton fabric and is available in many different colors and sizes. It also has a great fit and it is perfect to wear all day.
+3. Ladies cotton t-shirt at Diamond Plaza: Price: 3,000 VND each. Description: This quality t-shirt is made of an ultra-soft and breathable cotton, making it an ideal choice for all day comfort. It comes in a variety of colors and sizes.
+
+These choices are within budget and satisfy the conditions. The first option offers the best value and affordability, while the second and third options still provide good quality and comfort, with the second choice being a little more expensive. All three choices provide a comfortable and breathable cotton fabric t-shirt in various colors, enabling you to optimize your budget and enjoy the quality and comfort that comes with it.

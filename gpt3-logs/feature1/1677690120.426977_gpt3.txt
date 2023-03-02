@@ -1,0 +1,16 @@
+12b39b52-e3b3-4fb0-b4ac-f283644dcd3d
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- sports car, manual transmission
+- Budget: 500000000 VND.
+- Market in:  Mazda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Mazda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Mazda 3 Skyactiv-G 2.0 AT Hatchback (5 Door) - 459,000,000 VND 
+This hatchback is the perfect balance of sporty and practical, with the manual transmission and 2.0L engine producing 121 bhp and 210 Nm of torque. The Mazda 3 SkyActiv-G is an excellent choice for those looking for a fuel-efficient, reliable and great-looking car. It has a top speed of 205km/h, great technology like Mazda Connect, and comfort amenities like driver and passenger seats with lumbar support. All of these features make this a great car to own and is well within the budget given.

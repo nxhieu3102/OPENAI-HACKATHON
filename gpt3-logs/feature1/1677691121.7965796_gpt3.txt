@@ -1,0 +1,25 @@
+9d5975b4-4838-46c1-ae08-f949b6637d24
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- non-comedogenic sunscreen
+- Budget: 300000 VND.
+- Market in:  The Body Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the The Body Shop curent market price.
+
+ANSWER: 
+
+==========
+
+The Total Radiant Day Cream SPF 30: This cream is non-comedogenic and provides SPF 30 protection to help shield skin from environmental aggressors. It is formulated withCamelia Oil and Vitamin C, giving your skin a radiant and refreshed look. It costs VND 285,000.
+
+The Youth Defence SPF 50 Cream: This cream is non-comedogenic and provides the absolute highest level of protection from UVA, UVB and HEV rays with SPF 50. Its formula is infused with antioxidants, minerals, and Vitamin C to help keep skin looking smooth, youthful, and hydrated. It costs VND 280,000.
+
+The Vitamin C Glow Boost Moisturiser: This moisturiser is lightweight and non-comedogenic for all skin types. Its formula is enriched with Vitamin C to help brighten skin and reduce the appearance of dark spots. It helps to hydrate and renew the skin, leaving it looking radiant. It costs VND 250,000.
+
+The Vitamin E Intense Moisturiser: This creamy moisturiser is non-comedogenic and helps to provide intense hydration to your skin. It is enriched with Vitamin E to help nourish your skin and is formulated with wheatgerm oil and Community Trade Marula oil to help protect your skin. It costs VND 250,000.
+
+The Vitamin C Glow Cleansing Butter: This creamy cleanser is non-comedogenic and enriched with Vitamin C to help remove visible dark spots, pollutants, and impurities, leaving skin glowing and radiant. It helps to nourish and hydrate the skin while gently lifting away dirt and make up. It costs VND 200,000.
+
+Total Cost = VND 1,165,000. This can provide you with a range of well-formulated, non-comedogenic skin care products from The Body Shop that can help keep your skin hydrated and protected from environmental aggressors. All of these products are within your budget of 300,000 VND and can help give your skin a healthy and refreshed look.

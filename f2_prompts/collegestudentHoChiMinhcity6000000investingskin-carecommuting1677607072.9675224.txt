@@ -1,0 +1,6 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 6000000
+Demands: investing, skin-care, commuting
+Constraints: commuting: 15 km by public transportation
+SPENDING PLAN: 

@@ -1,0 +1,25 @@
+f51c5416-6637-4f97-82ed-4325a4824d37
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- allergic to gluten
+- Budget: 1000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Bon Bon Fried Chicken - Price: 24,000VND - Description: Bon Bon Fried Chicken is a popular fried chicken chain in Vietnam. They have a variety of flavors to choose from, including soy sauce and chili sauce. The chicken is gluten-free and cooked in vegetable oil.
+
+2. Thanh Mai Vegetable Samosa - Price: 9,000VND - Description: Thanh Mai Vegetable Samosa is a traditional Vietnamese dish made with gluten-free pastry filled with a combination of fresh vegetables and spices. The samosa is fried in vegetable oil and can be served with a variety of dipping sauces.
+
+3. Bun Bo Hue - Price: 20,000 VND - Description: Bun Bo Hue is a traditional Vietnamese noodle dish made with vermicelli noodles, boiled beef, and pork broth. The ingredients are naturally gluten-free and provide an abundance of flavor. 
+
+4. Com Ga Chicken Rice - Price: 17,000 VND - Description: Com Ga Chicken Rice is a popular Vietnamese dish made with steamed white rice, ground chili and fried shallots. The ingredients are naturally gluten-free and provide a great combination of flavors.
+
+5.Banh Cuon - Price: 12,000VND - Description: Banh Cuon is a popular Vietnamese dish made with steamed rice flour crepes filled with seasoned ground pork and mushrooms. The ingredients are naturally gluten-free and provide a great combination of flavors.
+
+Total Cost: 82,000VND - This combination of dishes offers a great balance between flavor and budget. All the dishes are gluten-free and they each provide a unique flavor profile. The total cost is well within your budget of 1,000,000VND.

@@ -1,0 +1,5 @@
+Good: a house
+Conditions: cozy and personalized
+Budget: 3000000000 VND
+Market place: Ho Chi Minh city
+ANSWER:  

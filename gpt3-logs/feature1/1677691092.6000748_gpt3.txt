@@ -1,0 +1,36 @@
+e4939823-10f2-46db-9e39-6d07e765f20a
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- non-comedogenic sunscreen
+- Budget: 300000 VND.
+- Market in:  Guardian
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Guardian curent market price.
+
+ANSWER: 
+
+==========
+
+1. HAI DUONG Face Sunblock cream SPF30 (18,800 VND)
+- Non-comedogenic formula
+- Offers SPF 30 protection against UVA and UVB rays of the sun
+- Suitable for all skin types
+- Light, non greasy texture
+- Mat finish
+
+2. BIOAQUA Sunscreen Cream (129,000 VND) 
+- Non-comedogenic, easy absorption
+- Composed of natural extracts
+- SPF 30 protects skin from UVA/UVB rays
+- Light texture and easy to spread
+- Helps to maintain the skin's moisture balance
+
+3. OCM Face Sunscreen SPF50 (145,000 VND)
+- Non-comedogenic and waterproof
+- SPF 50 offers superior protection against UVA and UVB rays
+- Rich in nourishing oils to provide long-lasting hydration
+- Non-greasy, light-weight and absorbs quickly 
+- Suitable for all skin types
+
+Total cost: 293,800 VND.

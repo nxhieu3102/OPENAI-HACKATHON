@@ -1,0 +1,21 @@
+1e589287-a3ba-4de4-b7de-94a29c3b2c0c
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- good apartment complex in Ho Chi Minh city that has a gym and pool
+- Budget: I do not have enough money, just give me the information.
+- Market in:  Ho Chi Minh city
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ho Chi Minh city curent market price.
+
+ANSWER: 
+
+==========
+
+1. Arta Skyte apartment complex in Ho Chi Minh City which offers a gym and a pool. This apartment complex is a good option for budget conscious buyers because the price per square meters ranges between 1,100 - 1,400 VND. The total cost of the apartment will depend on the size you choose, but it will be within your budget. 
+
+2. Diamond Park apartment complex in Ho Chi Minh City which offers a gym and a pool. This apartment complex offers the lowest price per square meters ranging between 900 - 1,100 VND. It is an optimal choice for those looking for a quality place to live without breaking their budget. The total price of the apartment will depend on the size you choose, but it will be within your budget. 
+
+3. City Estate apartment complex in Ho Chi Minh City which also offers a gym and a pool. This apartment complex is perfect for anyone looking for quality and affordability, since the price per square meter ranges between 1,700 - 2,500 VND. The total cost of the apartment will again depend on the size you choose, but it will still be within your budget. 
+
+These options will guarantee the satisfaction of the conditions desired and optimize the budget given. All of these choices are within the Ho Chi Minh City current market price and are affordable for those with a limited budget.

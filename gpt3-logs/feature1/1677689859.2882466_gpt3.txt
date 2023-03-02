@@ -1,0 +1,19 @@
+328d7c19-d140-4c22-89e2-d06ee8e21ef8
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- safety features
+- Budget: 500000000 VND.
+- Market in:  Honda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Honda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Honda Jazz 1.5L RS CVT (2020 model) – 485000000 VND: This car is Honda's best-selling hatchback, and features a sophisticated exterior, an upmarket interior, and an impressive array of safety features, such as a driver airbag, ABS and EBD, Hill Start Assist, and 6 airbags. 
+
+2. Honda City 1.5L VX MT (2020 model) – 489000000 VND: This mid-sized sedan comes with plenty of modern features, including leather interior, and advanced safety equipment. It also comes with 6 airbags, ABS and EBD, Hill Start Assist, rear parking sensors and a rear camera. 
+
+3. Honda CR-V 1.5T Sport (2020 model) – 465000000 VND: This SUV has a modern exterior, as well as a spacious interior. It also comes with a variety of advanced safety features, such as 6 airbags, ABS, EBD, and Hill Start Assist.

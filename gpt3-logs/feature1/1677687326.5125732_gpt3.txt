@@ -1,0 +1,23 @@
+68082e6a-10e5-414d-aad2-1bb1bef4a8d3
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- low-carb meal
+- Budget: 3000000 VND.
+- Market in:  Traditional markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Traditional markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Grilled Pork Skewers: 750,000 VND - Pork skewers are usually a low-carb meal. They are usually grilled and are served with a variety of ingredients such as rice and vegetables. They offer a good balance of proteins and carbs in one meal and are also cost effective.  
+
+2. A bowl of Bun Cha: 250,000 VND - Bun Cha is a traditional Vietnamese dish made with sweet and savory minced pork patties and served with rice noodles and fresh herbs. This dish is not only low-carb but is rich in proteins. 
+
+3. Fruit Salad: 150,000 VND - Fruits are a perfect option for a low-carb diet. They are high in fiber but low in calories and offer a variety of vitamins and minerals. Fruits in a salad can provide your body with all the nutrients it needs. 
+
+4. Grilled Meatballs: 350,000 VND - Grilled Meatballs are a great option for your low-carb meal. They provide enough proteins and also cut down on carbs. The meatballs are usually cooked with a variety of spices and herbs, making them flavourful and nutritious. 
+
+Total: 1,500,000 VND

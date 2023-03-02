@@ -1,0 +1,23 @@
+0dfc59af-f32d-4ce6-a27d-bf81f48d0fb4
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- allergic to gluten
+- Budget: 1500000 VND.
+- Market in:  Supermarkets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Supermarkets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Banh Mi Oriental Style - Rau Cu Qua (Vegetable Salad Sandwich) (100,000 VND): This is an allergy-safe and gluten-free sandwich choice that offers a healthier option for those who wish to enjoy a filling meal without having to worry about allergies. It contains vegetables like beetroot, carrots, and bell peppers as well as grilled eggplant, grilled pumpkin, and crispy sheets of squid for added flavor. 
+
+2. Pho 43 (90,000 VND): Another gluten-free option is Pho 43, a delicious beef noodle soup that contains a savory broth, thin rice noodles, thinly sliced beef, and fresh hints of coriander and spring onions. Pho is known for being both healthy and tasty without being too heavy on the stomach. 
+
+3. Fresh Fruit and Veggie Delight (120,000 VND): This is a great choice if you are looking for a light, healthy snack that is both filling and safe for those with gluten allergies. It offers a mix of fruits and vegetables such as apples, oranges, carrots, broccoli, cucumbers and more. This combo is sure to keep you feeling full while also helping to keep the budget within limits.
+
+4. Egg Fried Rice (90,000 VND): If you are looking for something to satisfy your hunger and budget, this gluten-free egg fried rice is a great choice. It is made with white rice, eggs, and custom ingredients that can be selected to add flavor and texture. It is both low-cost and knowing to fill up one's stomach! 
+
+Total cost: 400,000 VND

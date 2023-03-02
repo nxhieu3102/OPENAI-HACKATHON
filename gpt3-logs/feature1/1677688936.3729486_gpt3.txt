@@ -1,0 +1,21 @@
+0eee7332-9f90-4e8e-9289-ffe3a7b69393
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- comfortable keyboard for typing
+- Budget: 20000000 VND.
+- Market in:  Thegioididong
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Thegioididong curent market price.
+
+ANSWER: 
+
+==========
+
+1. Dell Inspiron 3580 (1,679,000VND) - This 15.6 inch laptop has a comfortable ergonomic keyboard for typing, an Intel Core i3-8145U processor, 8GB of RAM and a 1TB hard drive for storage, as well as Intel UHD graphics for casual gaming.
+
+2. Asus VivoBook S15 (1,960,000VND) - This 15.6 inch laptop has an ergonomically designed chiclet keyboard that ensures comfortable typing experience, an Intel Core i5-8265U processor, 8GB of RAM and a 512GB SSD for storage, as well as NVIDIA GeForce MX250 graphics for casual gaming.
+
+3. Lenovo ThinkPad E480 (1,772,000VND) - This 14 inch laptop has a classic-style keyboard for comfortable typing, an Intel Core i5-8250U processor, 8GB of RAM and a 1TB hard drive for storage. It also has integrated Intel UHD graphics.
+
+The above choices all offer good value for money within the budget, with clear explanation of why you should buy, providing features that are necessary for your specific needs. All the laptops have a good amount of RAM, a spacious hard drive and a relatively powerful processor, as well as either integrated or dedicated graphics card, ensuring a good overall performance.

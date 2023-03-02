@@ -1,0 +1,31 @@
+948bfb41-39a5-4bf6-a5c0-77a984b20b32
+I am a college student living in Ha Noi:
+Total budget: 6000000 VND 
+Demands that I want to meet: food, shopping, house renting, entertaining
+Specific constraints for each demand: 
+food: vegetarian
+house renting: cheap motel
+entertaining: traveling, go backpacking
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Food: 40% of the budget: 2400000 VND; focus on vegetarian options to save money. Look for local markets and budget-friendly restaurants for the best deals.
+
+Shopping: 30% of the budget: 1800000 VND; focus on buying only essential items (e.g. clothing, toiletries). Try to purchase items on sale, or buy them second-hand to save money.
+
+House Renting: 20% of the budget: 1200000 VND; look for cheap motels or shared housing options to save money. Consider the length of stay and the amenities to get the most out of your budget. 
+
+Entertaining: 10% of the budget : 600000 VND; focus on budget-friendly activities such as visiting local sites, going backpacking, and attending free events. Traveling can be expensive, so try to plan trips in advance and book tickets online to get the best deals. 
+
+Overall, this optimized spending plan should help you make informed decisions while staying within your budget. Make sure to prioritize essential expenses over non-essential expenses and try to minimize costs wherever possible. This will help you stay within your budget and optimize for long-term financial stability.

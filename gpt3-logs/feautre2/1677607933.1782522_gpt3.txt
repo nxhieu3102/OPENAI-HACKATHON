@@ -1,0 +1,40 @@
+f74f2975-aead-475a-95a7-92f047b66454
+I am a college student living in Da Nang:
+Total budget: 4000000 VND 
+Demands that I want to meet: house renting, commuting, food, entertaining, education
+Specific constraints for each demand: 
+house renting: near city center
+commuting: 10 km to school, by motorbike
+food: vegetarian
+entertaining: traveling, go backpacking
+education: programming learning
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting: 
+Allocate approximately 28% of your budget (1,120,000 VND) for house renting. Look for a place that is near the city center and is within your budget. You can further reduce costs by sharing the house with a roommate. 
+
+Commuting: 
+Allocate approximately 20% of your budget (800,000 VND) for commuting expenses. You can minimize costs by opting for a motorbike which is a popular mode of transportation in Da Nang. 
+
+Food: 
+Allocate approximately 18% of your budget (720,000 VND) for food expenses. You can minimize costs by opting for vegetarian food and eating out in affordable restaurants. 
+
+Entertaining: 
+Allocate approximately 20% of your budget (800,000 VND) for entertainment expenses. Consider doing activities such as going on trips, exploring the city, and going backpacking. 
+
+Education: 
+Allocate approximately 14% of your budget (560,000 VND) for educational expenses. Consider taking free online courses or enrolling in a low-cost programming school. 
+
+Overall, this spending plan should help you stay within your budget and maximize your money for the demands you have. Consider shopping around for the best deals and researching for coupons to help you stay within your budget. Additionally, prioritize essential expenses such as rent and food over non-essential expenses such as entertainment.

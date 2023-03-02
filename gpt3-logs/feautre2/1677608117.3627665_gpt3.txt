@@ -1,0 +1,35 @@
+4c2990dd-3991-40ae-9749-9c1b5f0a78ff
+I am a college student living in Ho Chi Minh city:
+Total budget: 10000000 VND 
+Demands that I want to meet: investing, education, house renting, food
+Specific constraints for each demand: 
+education: toeic learning
+house renting: near city center
+food: can not cook
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Investing: 3500000 VND 
+Investing is an important part of any budget, and should be given a higher priority. This amount should be allocated to an appropriate investment strategy that can provide long-term financial stability. 
+
+Education: 3000000 VND 
+This amount should be used to pay for TOEIC learning materials, practice tests and other resources that will help you improve your skills. 
+
+House Renting: 3000000 VND 
+This amount should be used to rent a house near the city center. The exact amount will depend on the size of the house and the location. 
+
+Food: 1000000 VND 
+This amount should be allocated to buying groceries and other food items. Eating out should be limited as much as possible, as it can be an expensive habit. 
+
+By following this spending plan, you can ensure that your budget is optimized for long-term financial stability, while still allowing you to meet all of your demands. Additionally, by minimizing costs where possible and prioritizing essential expenses over non-essential expenses, you will be able to stay within your budget constraints.

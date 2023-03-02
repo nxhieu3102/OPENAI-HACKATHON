@@ -1,0 +1,41 @@
+3c18a0cc-2166-4d78-b60f-77afa242da32
+I am a college student living in Ha Noi:
+Total budget: 3000000 VND 
+Demands that I want to meet: playing sport, skin-care, shopping, entertaining, commuting
+Specific constraints for each demand: 
+playing sport: swimming and bicycling
+entertaining: traveling, go backpacking
+commuting: 15 km by public transportation
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Playing Sport: 
+Swimming: Allocate 600,000 VND per month for swimming classes. 
+Bicycling: Allocate 300,000 VND per month for bicycle maintenance and use public transportation to commute instead of a personal bike. 
+
+Skin-Care:
+Allocate 300,000 VND per month for skin-care products. 
+
+Shopping:
+Allocate 500,000 VND per month for shopping.
+
+Entertaining: 
+Traveling: Allocate 1,000,000 VND per month for traveling. This should cover the costs associated with backpacking and other travel-related expenses.
+
+Commuting: 
+Allocate 500,000 VND per month for public transportation. This should cover the costs associated with commuting 15 km by public transportation each month. 
+
+Total Budget: 3,000,000 VND
+
+This spending plan will help you stay within your budget and optimize for long-term financial stability. Additionally, by living in Ha Noi, you will benefit from the lower market prices which will help you maximize your budget.

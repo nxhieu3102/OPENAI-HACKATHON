@@ -1,0 +1,32 @@
+a34f223c-4b90-4061-8b20-8d1fb7812cfb
+I am a college student living in Da Nang:
+Total budget: 15000000 VND 
+Demands that I want to meet: house renting, food, education
+Specific constraints for each demand: 
+house renting: suburban area
+food: calories reduce
+education: programming learning
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting: 
+Suburban areas are typically cheaper than city center areas, so try to find a place to rent in a suburban area. Research and compare prices of different rentals in the area and choose a place that fits your budget. Allocate 40-50% of your budget (6000000 - 7500000 VND) to house renting.
+
+Food: 
+Food expenses should be allocated at least 15-20% of your budget (2250000 - 3000000 VND). Try to choose healthier, lower-calorie options as much as possible. Consider joining a local farmers market and buying fresh produce there. You can also cook meals at home to save money.
+
+Education: 
+Programming learning should take up at least 25-30% of your budget (3750000 - 4500000 VND). Look for online courses, tutorials, and books that can help you learn programming. Consider enrolling in an in-person class or workshop if you can find one within your budget.
+
+Overall, allocate your budget in a way that prioritizes essential expenses and minimizes costs where possible. Make sure to do your research and compare prices before making any financial decisions. With this optimized spending plan, you should be able to stay within your budget and meet all your needs.

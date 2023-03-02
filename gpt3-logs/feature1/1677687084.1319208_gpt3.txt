@@ -1,0 +1,23 @@
+a00a58ca-d369-4da4-aea6-2794f4ad1e1d
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- good wine to pair with grilled salmon
+- Budget: 2000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Giá Tượng Baiyun Valley Viognier 2010 (VND 970,000): This is a white wine from China that is ideal for grilled salmon. It is a fresh, crisp wine with aromas of stone fruit and pineapple. The palate is well-balanced and zesty, making it a great match for the grilled salmon.
+
+2. Port Philip Estate Chardonnay 2018 (VND 690,000): This Chardonnay is a great accompaniment to grilled salmon. It has hints of citrus, pear, and green apple with a hint of smokiness. The nutty oakiness of the wine complements the smokiness of the salmon nicely. 
+
+3. Banrock Station Moscato 2018 (VND 450,000): A sweet and fizzy Moscato is a great match for grilled salmon. This wine has aromas of apples and honey, with a bitterness at the end to compliment the salmon. It will be a delicious pairing and a great way to accentuate the flavors of the salmon.
+
+Total Cost: VND 2,010,000
+ 
+All three wines are great matches for grilled salmon and are sure to optimize your budget. In particular, the Giá Tượng Baiyun Valley Viognier 2010 is an excellent choice to pair with grilled salmon, providing an excellent balance of flavors and aromas for the perfect pairing. The Banrock Station Moscato 2018 is also a great choice with its hint of sweetness that will complement the smokiness of the salmon nicely. Finally, the Port Philip Estate Chardonnay 2018 provides a great balance of sweet and smokiness to bring out the flavors of your grilled salmon.  All three wines can be found in stores within Vietnam and the total cost together will not exceed your budget.

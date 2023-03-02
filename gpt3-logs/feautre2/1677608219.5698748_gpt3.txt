@@ -1,0 +1,34 @@
+93870a8e-b761-4a8a-a136-0e9f5ba56027
+I am a college student living in Ho Chi Minh city:
+Total budget: 10000000 VND 
+Demands that I want to meet: playing sport, shopping, commuting, investing
+Specific constraints for each demand: 
+playing sport: gyming, dancing
+commuting: 15 km by public transportation
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Playing sport: 
+Allocate 5% of the budget for playing sport. For example, a gym membership for 5 months would cost approximately 30000 VND a month. This would result in a total expenditure of 150000 VND. Additionally, consider taking dance classes which would be more affordable and enjoyable. 
+
+Shopping: 
+Allocate 10% of the budget for shopping. This will give you enough room to buy the essential items you need while still maintaining a budget-friendly lifestyle. It is recommended to buy items during sales or promotions to take advantage of discounts and save money.
+
+Commuting: 
+Allocate 20% of the budget for commuting. This will allow you to take public transportation for 15 km for approximately 12000 VND a day. This will result in a total expenditure of 360000 VND for 5 months.
+
+Investing: 
+Allocate 65% of the budget for investments. It is important to invest in low-risk investments such as bonds, mutual funds, and stocks. This will help to ensure a secure future and help you reach your financial goals. Consider consulting with a financial advisor before making any investments. 
+
+Overall, by following this plan, you can ensure that you are able to meet your demands while still staying within your budget. Additionally, it is important to be aware of your spending habits and adjust your budget as needed to ensure financial stability in the long run.

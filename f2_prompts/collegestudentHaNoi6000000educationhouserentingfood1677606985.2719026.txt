@@ -1,0 +1,8 @@
+Job: college student
+Location: Ha Noi
+Budget: 6000000
+Demands: education, house renting, food
+Constraints: education: drawing, cooking
+house renting: not far from city center
+food: can not cook
+SPENDING PLAN: 

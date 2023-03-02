@@ -1,0 +1,36 @@
+a64700cf-d109-4697-9807-23676ce3b0cd
+I am a college student living in Ha Noi:
+Total budget: 15000000 VND 
+Demands that I want to meet: education, house renting, playing sport, investing
+Specific constraints for each demand: 
+education: ielts learning
+house renting: not far from city center
+playing sport: karate
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Education: 
+- Allocate 3 million VND for IELTS learning, and use online resources such as Khan Academy and Coursera for free or low-cost options. 
+
+House Renting: 
+- Allocate 6 million VND for renting a house, look for options closer to city center (which will be more expensive) but still within the budget. 
+
+Playing Sport: 
+- Allocate 2 million VND for karate classes, look for affordable options that still maintain a high instructional quality.
+
+Investing: 
+- Allocate 4 million VND for investing in a mutual fund, ETF, or index fund. Consider researching and investing in low-cost options such as index funds, with the long-term goal of building wealth over time. 
+
+Overall: 
+- Maximize your budget by using online resources for education, looking for affordable housing options, and investing in low-cost mutual funds. By following these steps, you will be able to stay within your budget while still meeting your demands.

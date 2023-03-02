@@ -1,0 +1,21 @@
+0f92ead3-5759-4bd2-a392-b119266d215f
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- winter coat that's warm and waterproof but still stylish
+- Budget: 10000000 VND.
+- Market in:  Shopping Malls
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Shopping Malls curent market price.
+
+ANSWER: 
+
+==========
+
+1. Adidas Women's Coat, black: This coat is stylish, warm, waterproof and of high quality. It's priced at 1,000,000 VND, which optimizes your budget.
+
+2. Columbia Men's Coat, grey: This coat is warm, waterproof and stylish. It comes in 4 colors, allowing you to choose the one that suits you best. It's priced at 1,100,000 VND, which also optimizes your budget.
+
+3. North Face Women's Coat, blue: This is a fashionable, warm, waterproof coat with a unique design. It's priced at 1,200,000 VND, which is perfect for your budget.
+
+4. Burberry Men's Coat, black: This classic-style coat is warm, waterproof and stylish. It's priced at 1,150,000 VND, so it's within your budget and still allows you to get the best value for your money.

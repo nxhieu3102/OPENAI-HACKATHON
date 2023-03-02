@@ -1,0 +1,8 @@
+Job: college student
+Location: Da Nang
+Budget: 3000000
+Demands: education, commuting, skin-care, house renting, investing
+Constraints: education: drawing, cooking
+commuting: 10 km to school, by motorbike
+house renting: cheap motel
+SPENDING PLAN: 

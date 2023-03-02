@@ -1,0 +1,19 @@
+1c0f8afe-c5c6-44ee-94c4-4d0254a2126f
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- affordable and durable
+- Budget: 20000000 VND.
+- Market in:  Nguyen Kim
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Nguyen Kim curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: HP Pavilion x360 14-cd1008TU 14 Inches Laptop - Price: 20,190,000 VND
+This laptop has a 14 inch wide high-definition touchscreen, and it comes with the 8th generation Intel Core i5 processor that has a base clock speed of 1.6GHz (Turbo Boost Technology Up To 3.40). It has 8GB of RAM and 1TB HDD, plus it has a built-in Intel UHD Graphics 620. It also has a USB 3.1 Gen 1 Type-C port and three USB 3.1 Gen ports for lightning-fast data transfer speeds.
+
+Option 2: ASUS VivoBook S14 S432FA 14 Inches Laptop – Price: 19,850,000 VND
+This laptop has a 14 inch full-HD NanoEdge display that provides an immersive, cinematic experience with wide viewing angles. It has an 8th Gen Intel Core i5-8265U, 8GB of RAM and a 512GB SSD, plus a dedicated NVIDIA GeForce MX250 graphics card. It also has a USB 3.1 Type-C port and two USB 3.1 ports for super-fast data transfer speeds.

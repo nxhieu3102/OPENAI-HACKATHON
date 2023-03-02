@@ -1,0 +1,19 @@
+177e0a4b-1367-4d21-a6f0-e997ad5c85cc
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- affordable and durable
+- Budget: 10000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Acer Aspire 5 A515-51G-53V6 2019: This laptop has 8 GB of RAM and an Intel Core i5 8th Gen processor and a 15.6-inch Full HD LED display with a resolution of 1920 by 1080 pixels. It's equipped with a 256GB SSD hard drive for fast access to apps. The graphics card is an Intel® UHD Graphics 620, perfect for lighter tasks such as streaming movies and browsing the web. It is priced at 8,050,000 VND which is under your budget.
+
+2. Dell Inspiron 14 5481 2-in-1: This laptop is powered by 8th generation Intel Core i5 processor. It comes with 8GB of RAM and has a storage space of 256 GB SSD, perfect for storing multimedia files. The built-in graphics processor is Intel® UHD 620 graphics card. It also has a 14" Anti-glare LCD display with a resolution of up to 1920 x 1080 pixels. This laptop is priced at 8,690,000 VND.
+
+3. Asus VivoBook 14 X441NA: This laptop features a 14” HD display with great viewing angles. It is powered by the latest Intel Celeron N3350 processor and has a 4GB DDR4 RAM. It also comes with a 500GB HDD for storage which is more than enough for everyday tasks. The graphics processor is the integrated Intel HD Graphics 500. This laptop is priced at 7,490,000 VND and is a great option for those on a tight budget.

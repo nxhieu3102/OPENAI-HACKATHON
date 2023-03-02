@@ -1,0 +1,21 @@
+441447d5-fe21-4779-98a3-6cb182e9c616
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- low-carb meal
+- Budget: 700000 VND.
+- Market in:  Traditional markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Traditional markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Fresh chicken and vegetables: With a budget of 700,000 VND, you can get a fresh chicken and a sufficient amount of vegetables from a local traditional market. The chicken and vegetables should last you a couple days, providing you with low-carb meals/snacks. The cost of chicken is usually dependent on size and will usually range from 120,000 to 150,000 VND, while the cost of vegetables varies but should be around 250,000 - 300,000 VND. The total cost would be about 370,000 VND. 
+
+2. Seafood: Fresh seafood is usually a bit more expensive, ranging from 200,000 - 300,000 VND/kg. However, seafood is a great source of low-carb meal and might be a good option for this budget. Choose wisely and you can find some great seafood with 700,000 VND. 
+
+3. Meat: Depending on your taste and budget, a packet of fresh beef or pork(500gr-1kg) might be the best option. It should cost you only around 250,000 - 350,000 VND. 
+
+All these food items should satisfy your conditions and will be cheaper than buying convenience store food or order online. The prices might vary depending on your location but you should be able to get enough food within your budget.

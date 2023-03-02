@@ -1,0 +1,31 @@
+48b3ff27-d727-42e0-945f-679602b5fff6
+I am a college student living in Ha Noi:
+Total budget: 4000000 VND 
+Demands that I want to meet: skin-care, house renting, playing sport
+Specific constraints for each demand: 
+house renting: suburban area
+playing sport: gyming, dancing
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Skin Care: 2,000,000 VND
+Allocating 2,000,000 VND for skin care will give you the opportunity to purchase quality products that are tailored to your skin-care needs. You can also use this money to visit a dermatologist if needed.
+
+House Renting: 1,500,000 VND
+For house renting, it is recommended to focus on finding a place in a suburban area, which is likely to be cheaper than living in the city centre. Look for rental options that include utilities and other amenities to save on costs.
+
+Playing Sport: 500,000 VND
+Playing sport is an important part of a healthy lifestyle, however it does not have to be expensive. To maximize your budget, consider joining a gym or taking up a sport that does not require expensive equipment, such as running or dancing. Alternatively, you could purchase a gym membership or register for a dance class to get access to more activities. 
+
+As you can see, by allocating your budget wisely, you can still enjoy a healthy lifestyle while staying within your budget constraints. Furthermore, this spending plan will help you to save money in the long run, ensuring that you remain financially stable.

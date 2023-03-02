@@ -1,0 +1,32 @@
+6963d138-3223-4cf2-9377-9d4c4037d9cc
+I am a college student living in Ha Noi:
+Total budget: 4000000 VND 
+Demands that I want to meet: house renting, skin-care, playing sport, investing
+Specific constraints for each demand: 
+house renting: cheap motel
+playing sport: swimming and bicycling
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting: 3000000 VND
+In order to get the most value for your money, try to rent a cheap motel in the area. This will give you access to all the amenities you need while still being affordable. Look for a place that is close to public transportation and other services, as this will save you money on transportation costs.
+
+Skin-Care: 500000 VND
+Look for natural skin-care products that are made with natural ingredients and won't be too harsh on your skin. Invest in a few key products that will help you maintain healthy skin, such as a good face wash, moisturizer, and sunscreen.
+
+Playing Sport: 100000 VND
+Since you are living in a city, you should focus on activities that you can do without needing much equipment. Swimming and bicycling are both great options for getting exercise without needing a lot of money. Invest in a good pair of swim goggles and a quality bike if you can afford it.
+
+Investing: 100000 VND
+Although investing is a great way to build wealth over time, it is important to be careful with your money. Start by setting aside some money each month to invest in a diversified portfolio. Look for investments that can provide you with long-term returns and make sure to do your research before making any decisions.

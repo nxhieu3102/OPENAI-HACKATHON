@@ -1,0 +1,27 @@
+ce82d60d-acde-4702-b8c7-0a4bd333c44c
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- large display and a dedicated graphics card for gaming
+- Budget: 25000000 VND.
+- Market in:  Nguyen Kim
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Nguyen Kim curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: 
+Product Name: ASUS TUF FX505DY-AL260
+Price: 24,300,000 VND
+Description: The Asus TUF FX505DY-AL260 laptop is powered by an AMD Ryzen 5 3550H processor backed by 8GB DDR4 RAM along with an AMD Radeon RX 560X graphics card. It has a 15.6-inch FHD display and comes with a 1TB HDD storage drive.
+
+Reason: It is one of the lowest-priced laptops with a dedicated graphics card for gaming and a large display, and it still fits within your budget for 25 million VND.
+
+Option 2
+Product Name: HP Pavilion 15-cs0006TU
+Price: 24,900,000 VND
+Description: The HP Pavilion 15-cs0006TU laptop is powered by an 8th Generation Intel Core i5-8300H processor backed by 8GB of DDR4 RAM and has an NVIDIA GeForce GTX 1050 graphics card. It also has a 15.6-inch HD display and 1TB HDD storage drive.
+
+Reason: It is one of the best HP laptops available at a very reasonable price. It offers great performance with a dedicated graphics card for gaming, as well as a large display, and it still fits within your budget for 25 million VND.

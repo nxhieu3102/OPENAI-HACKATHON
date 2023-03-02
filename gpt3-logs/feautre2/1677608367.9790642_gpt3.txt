@@ -1,0 +1,39 @@
+fa070edb-31f9-4e03-b575-2f670786d722
+I am a college student living in Ha Noi:
+Total budget: 15000000 VND 
+Demands that I want to meet: commuting, investing, food, skin-care, entertaining
+Specific constraints for each demand: 
+commuting: 3 km to work
+food: vegetarian
+entertaining: drinking, cooking
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Commuting: Use public transportation such as buses, trams or trains to save money. Depending on my location, the cost of a monthly pass can range from 200,000 VND to 400,000 VND. 
+
+Investing: Investing in the stock market or mutual funds is a great way to increase wealth over the long-term. Invest a small percentage of my budget (around 5-10%) in a low-cost index fund or ETF. 
+
+Food: Since you are a vegetarian, opt for plant-based meals that are more affordable than meat-based dishes. Look for grocery stores that offer discounts on certain items and take advantage of coupons. Consider creating meal plans in advance to save money. 
+
+Skin-Care: Invest in quality skin-care products that are tailored to your skin type and needs. Try to find natural and organic products that are free of harsh chemicals. Look for sales and discounts on the products you need.
+
+Entertaining: Try to minimize the amount of money spent on drinking and cooking. Explore your city and look for free activities or events to attend. Consider eating out with friends, but try to find restaurants that offer discounts or coupons. 
+
+Final Spending Plan: 
+Commuting: 400,000 VND 
+Investing: 750,000 VND 
+Food: 6,000,000 VND 
+Skin Care: 2,000,000 VND 
+Entertaining: 2,450,000 VND 
+Total: 15,000,000 VND

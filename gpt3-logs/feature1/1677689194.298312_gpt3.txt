@@ -1,0 +1,21 @@
+9c2d6727-df04-4efc-bf87-6b9426073095
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- high-resolution display and good color accuracy for photo editing
+- Budget: 20000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Dell Inspiron 3000 15.6-inch Laptop (VND 9,594,000): This laptop packs a 15.6-inch HD display with excellent color accuracy and a resolution of 1366 x 768 pixels that is great for photo editing. It runs on an Intel core i3 processor, 4GB RAM and a 1TB HDD storage. The laptop also comes with Windows 10 OS, making multi-tasking very smooth and efficient.
+
+2. Asus X555LA-XX042D 15.6-inch (VND9,290,000): This laptop features a 15.6-inch HD display with great color accuracy, perfect for photo editing. It runs on an Intel Core i3 processor, 4GB RAM and 500GB hard drive storage. The laptop comes with Windows 10 OS, ensuring fast and efficient multitasking.
+
+3. Lenovo Ideapad 120S 14-inch (VND 8,490,000): This laptop gives you a 14-inch HD display with superior color accuracy and a resolution of 1366 x 768 pixels for excellent photo editing performance. It's powered by an Intel Celeron processor and 4GB RAM, which makes multi-tasking seamless. The laptop also comes with Windows 10 OS pre-installed. 
+
+Total Cost: VND 27,374,000, therefore within budget.

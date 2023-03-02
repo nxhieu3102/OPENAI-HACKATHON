@@ -1,0 +1,21 @@
+e9407e66-b274-4432-8b1e-f2a2bf3e4301
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- pair of high-waisted black jeans with a straight leg and no distressing
+- Budget: 300000 VND.
+- Market in:  Local Markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Local Markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. A pair of ZARA high-waisted black jeans with a straight leg and no distressing will cost you 285000 VND. This is a reliable quality and should be able to last long.
+ 
+2. A pair of H&M High Rise skinny jeans with a straight leg and no distressing will cost you 270000 VND. The material is stretchable, meaning it will provide you with comfort and flexibility. Also, it's made of premium fabric, so it's durable and should last a long time. 
+
+3. A pair of American Eagle High-Rise Jeans with a straight leg and no distressing will cost you 240000 VND. This denim is created with an EcoFriendly combination of cotton and Tencel lyocell fabric that is made from sustainably harvested wood. 
+
+These are three of the best options that will optimize your budget, satisfy your conditions, and provide you with quality pieces.

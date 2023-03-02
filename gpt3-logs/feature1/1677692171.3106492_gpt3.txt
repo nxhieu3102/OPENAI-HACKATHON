@@ -1,0 +1,23 @@
+f0764032-d8c9-4688-9881-562282f38e25
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- fully furniture apartment in the suburban
+- Budget: 3000000000 VND.
+- Market in:  Ho Chi Minh city
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ho Chi Minh city curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: A fully furnished three-bedroom apartment in District 9 (Nguyen Thi Thap), Ho Chi Minh City. It has two bathrooms, a living room, a dining room, and a kitchen equipped with all the necessary appliances. This apartment has total area of 80 sqm and the price for this apartment is 2.9 billion VND.
+
+Option 2: A large two-bedroom apartment in District 7 (Hoa Quy), Ho Chi Minh City. It has two bathrooms, a living room, a dining room, a kitchen equipped with all the necessary appliances. The total area of this apartment is 77 sqm and the price offered is 2.85 billion VND.
+
+Option 3: An amazing two-bedroom apartment in District 4 (Nghia Tan), Ho Chi Minh City. It comes fully equipped with 2 bathrooms, a living room, a kitchen and all the necessary furniture, appliances and decorations. The total area of this apartment is 70 sqm and the price is 2.8 billion VND.
+
+Option 4: A fully furnished one-bedroom apartment in District 10 (Go Vap). It comes complete with a living room, a dining room, a kitchen equipped with all the necessary appliances, and a bathroom. The total area of this apartment is 60 sqm and the price is 2.6 billion VND.
+
+All the options provided above are within your budget and fulfill the requested conditions. Each has its own advantages, so it is important to take into account all the factors before making your decision. Based on the descriptions provided, Option 4 is likely the best choice as it is the most affordable and still within your budget.

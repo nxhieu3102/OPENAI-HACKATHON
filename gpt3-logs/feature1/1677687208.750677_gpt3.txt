@@ -1,0 +1,39 @@
+35ee5a9d-ed5c-418a-8dbb-0a2ef6cb7cc0
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- low-carb meal
+- Budget: 1000000 VND.
+- Market in:  Supermarkets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Supermarkets curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: 
+- 8 packs of instant noodles (70g per pack): 28,000 VND
+- 1kg chicken breast: 140,000 VND
+- 1kg canned tuna-in-oil: 114,000 VND
+- 3kg potatoes: 32,000 VND
+- 2 cucumbers: 16,000 VND
+- 1kg carrot: 21,000 VND 
+- 1kg tomatoes: 24,000 VND
+
+Total cost: 375,000 VND
+
+Explanation: Instant noodles are a convenient meal, while being very low-carb, and cost-effective. Chicken breasts are a good source of lean protein and are low-carb. Canned tuna-in-oil is also another protein-rich food, while also being low-carb. Potatoes, cucumbers, carrots, and tomatoes are all healthy low-carb vegetables to add to the meal. 
+
+Option 2: 
+- 6 packs of instant noodles (70g per pack): 21,000 VND
+- 1kg skinless chicken breast: 140,000 VND
+- 1 kg canned salmon-in-oil: 141,000 VND
+- 2 packs of seaweed salad (200g per pack): 30,000 VND
+- 3kg potatoes: 32,000 VND
+- 2 cucumbers: 16,000 VND
+- 1kg broccoli: 29,000 VND 
+
+Total cost: 389,000 VND
+
+Explanation: Instant noodles are a convenient meal, while being very low-carb, and cost-effective. Chicken breasts are a good source of lean protein and are low-carb. Canned salmon-in-oil is also another protein-rich food, while also being low-carb. Seaweed salad is a popular Japanese dish, low in carbs and high in vitamins. Potatoes, cucumbers, broccoli are all healthy low-carb vegetables to add to the meal.

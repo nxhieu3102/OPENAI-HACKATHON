@@ -1,0 +1,19 @@
+ffc2acf3-d555-4719-b1b3-5943b11cd649
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- affordable and durable
+- Budget: 15000000 VND.
+- Market in:  Nguyen Kim
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Nguyen Kim curent market price.
+
+ANSWER: 
+
+==========
+
+1. Lenovo Ideapad 330s-14IKB: This laptop has excellent performance, good design and decent keyboard & trackpad. It has 8th Gen Intel Core i7-8550U processor, 8GB DDR4 RAM, 128GB M.2 SATA SSD and GPU Intel UHD Graphics 620 which easily can handle day to day tasks. Its 14 inch Full HD display with a resolution of 1920x1080 is good for viewing videos and images. It also has a built-in battery which can last up to 8 hours and it is quite affordable, priced at 14000000 VND.
+
+2. Dell Inspiron 15 3000: This laptop has 7th gen Intel Core i7 processor, 8GB DDR3 RAM, 1TB 5400rpm HDD and Intel HD Graphics 620. This laptop is made of plastic and its 15.6 inch HD LED Backlit display with a resolution of 1366x768 is great for viewing videos and images. It comes with Microsoft Windows 10 Home operating system and battery life can last up to 5 hours. It is quite affordable, priced at 15000000 VND.
+
+3. Acer Aspire 5: This laptop has great performance and decent design. It has 8th Gen Intel Core i5 processor, 8GB DDR4 RAM, 256GB SSD and an AMD Radeon 520 GPU. Its 15.6 inch Full HD display has a resolution of 1920x1080 which lets you view videos, movies and photos with clarity. Its battery life can last up to 8 hours and it is affordable, priced at 15000000 VND.

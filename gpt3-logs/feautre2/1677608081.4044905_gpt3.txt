@@ -1,0 +1,37 @@
+5d191f76-44f1-4597-b043-8b765f396a21
+I am a college student living in Ha Noi:
+Total budget: 10000000 VND 
+Demands that I want to meet: house renting, commuting, investing, playing sport
+Specific constraints for each demand: 
+house renting: cheap motel
+commuting: 3 km to work
+playing sport: karate
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting:
+Budget: 3000000 VND 
+Schema: Cheap motel close to your workplace (3 km) for ease of commuting. This will reduce the time and money you spend on transportation.
+
+Commuting:
+Budget: 2000000 VND 
+Schema: Invest in a good quality bicycle to get to work. This will save you money on transportation costs and also allow you to get exercise.
+
+Investing:
+Budget: 2000000 VND 
+Schema: Invest in a low-risk and long-term investment such as stocks or mutual funds. This will help you build your wealth over the long-term.
+
+Playing Sport:
+Budget: 3000000 VND 
+Schema: Invest in karate classes or equipment. This will help you stay active and healthy while also providing an avenue for learning a new skill.

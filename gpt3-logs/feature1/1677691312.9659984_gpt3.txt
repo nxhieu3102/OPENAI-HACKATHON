@@ -1,0 +1,27 @@
+a37501af-873e-4697-9457-f82331fd0d42
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- non-comedogenic sunscreen
+- Budget: 1500000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Neutrogena Ultra Sheer Dry-Touch Sunscreen SPF50 100ml - 220,000VND
+This lightweight sunscreen works to quickly absorb into your skin for a non-comedogenic finish. It is formulated with helioplex broad spectrum UVA/UVB protection, is water-resistant and offers superior hydration.
+
+2. P rosaindrea Hyaluronic Acid & Aloe Moisturizing Emulsion SPF50 100ml - 120,000VND
+This moisturizing emulsion combines the powerful antioxidant properties of aloe with hyaluronic acid for maximum hydration and sun protection. It helps to protect against both UVA and UVB rays, leaving the skin feeling soft and refreshed.
+
+3. Eminence Organic Skin Care Stone Crop Hydrating Mist - 110,000VND
+This hydrating mist is formulated with stone crop, an antioxidant-rich natural ingredient that helps to protect and repair the skin. It also provides broad spectrum UVA and UVB protection, while helping to reduce the appearance of fine lines and wrinkles.
+
+4. The Face Shop Natural Sun Eco Power Long-lasting Sun Cream SPF50+/PA+++ - 300,000VND
+This long-lasting sun cream offers high sun protection with a non-comedogenic formula. It contains natural ingredients such as aloe vera, green tea extract and witch hazel, to deliver intense hydration and help protect against free radicals.
+
+The total cost of this suggestion is 750,000VND which is within your budget. These products will ensure optimal protection and superior hydration for your skin, while optimizing your budget as well.

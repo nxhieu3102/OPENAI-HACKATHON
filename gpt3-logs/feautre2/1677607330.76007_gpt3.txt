@@ -1,0 +1,30 @@
+bb58fdbd-a00c-4698-9616-1ea870553486
+I am a college student living in Ha Noi:
+Total budget: 2500000 VND 
+Demands that I want to meet: skin-care, commuting, shopping, house renting
+Specific constraints for each demand: 
+commuting: 3 km to work
+house renting: near city center
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Skin-Care: Allocate 150000 VND per month for skin-care products. This should include items such as cleansers, moisturizers, sun-care products, etc. 
+
+Commuting: Allocate 250000 VND per month for commuting costs. This should include costs such as travelling by bus/taxi, public transportation, and bike/scooter rentals. 
+
+Shopping: Allocate 750000 VND per month for shopping. This should include items such as clothing, basic grocery items, and other miscellaneous items. 
+
+House Renting: Allocate 800000 VND per month for house renting. This should include rent, utilities, and other necessary costs associated with living in a rental property. 
+
+To maximize your budget, try to look for ways to save on costs wherever possible. For example, try to buy in bulk when it comes to grocery items, look for discounts or sales when shopping for clothing, and opt for cheaper transportation options such as public transportation or bike/scooter rentals instead of taxis. Additionally, it is important to prioritize essential expenses over non-essential expenses to ensure that you are able to meet your needs and stay within your budget.

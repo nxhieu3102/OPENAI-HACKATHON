@@ -1,0 +1,36 @@
+bf59c53c-775a-4d04-93ec-7432bddfad05
+I am a college student living in Da Nang:
+Total budget: 10000000 VND 
+Demands that I want to meet: education, playing sport, commuting
+Specific constraints for each demand: 
+education: programming learning
+playing sport: karate
+commuting: 3 km to work
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Education:
+- Allocate 5,000,000 VND for programming learning. This should cover the cost of online courses and other learning materials.
+- Consider investing in a mentor or tutor to help you with any programming topics you may struggle with. This can help you to learn more effectively and save money in the long run.
+
+Playing Sport:
+- Allocate 3,000,000 VND for karate. This should cover the cost of classes, equipment, and competitions.
+- Consider joining a local karate club or dojo to save on costs. This could help you to hone your skills while learning from experienced practitioners.
+
+Commuting:
+- Allocate 2,000,000 VND for commuting. This should cover the cost of transportation, such as bus or taxi fares.
+- Consider investing in a bicycle or motorbike to save on costs. This could help you to avoid expensive taxi fares and get to your destination quickly.
+
+Explanation: 
+This optimized spending plan is designed to help you maximize your budget while still meeting all of your demands. Education is prioritized first, as it is essential for your long-term financial stability. Playing sport is next, as it can help you to stay physically active and mentally sharp. Finally, commuting is allocated the least amount of money as it is a non-essential expense. Whenever possible, try to look for ways to save money such as by joining a local karate club or investing in a bicycle or motorbike.

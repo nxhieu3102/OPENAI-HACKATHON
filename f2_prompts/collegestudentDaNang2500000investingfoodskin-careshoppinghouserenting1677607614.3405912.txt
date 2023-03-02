@@ -1,0 +1,7 @@
+Job: college student
+Location: Da Nang
+Budget: 2500000
+Demands: investing, food, skin-care, shopping, house renting
+Constraints: food: high protein
+house renting: cheap motel
+SPENDING PLAN: 

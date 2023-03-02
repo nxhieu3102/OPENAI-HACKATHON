@@ -1,0 +1,34 @@
+607f1a3b-d4cb-4dc0-9714-6f7982db0ab9
+I am a college student living in Ha Noi:
+Total budget: 15000000 VND 
+Demands that I want to meet: food, commuting, education, house renting, skin-care
+Specific constraints for each demand: 
+food: vegetarian
+commuting: 3 km to work
+education: programming learning
+house renting: near city center
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Food: Vegetarian food can be quite expensive. Consider looking for deals, discounts, and special offers to help minimize costs. Try to purchase seasonal foods and look for local markets or grocery stores with lower prices. Allocate 6,000,000 VND to food. 
+
+Commuting: Depending on your location, public transportation is likely the best option for commuting in terms of cost. To maximize your budget, look for discounted fares or monthly passes. Allocate 1,500,000 VND to commuting. 
+
+Education: Investing in your education is essential to long-term financial stability. Research online courses, tutorials, and books to find the best options for you. Additionally, you can look into local learning centers or universities to find the best courses. Allocate 3,000,000 VND to education. 
+
+House Renting: Renting near the city center can be expensive. To save money, look for areas that are close to the city center but not directly in it. Additionally, try to find a place with lower rent. Allocate 4,500,000 VND to house renting. 
+
+SkinCare: Skin care can be quite expensive, so consider doing some research to find the most cost-effective products. Also, look for affordable spa options or DIY methods to help reduce costs. Allocate 500,000 VND to skin care. 
+
+Total: 15,000,000 VND

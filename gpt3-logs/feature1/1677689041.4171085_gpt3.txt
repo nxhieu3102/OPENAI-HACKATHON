@@ -1,0 +1,24 @@
+e6b94c08-16f1-4c7b-9ed5-f696a0cfc1bc
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- comfortable keyboard for typing
+- Budget: 13000000 VND.
+- Market in:  FPT Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the FPT Shop curent market price.
+
+ANSWER: 
+
+==========
+
+1. Lenovo IdeaPad 3 Ryzen 5 3500U - 9,490,000 VND: 
+This laptop will suit your needs and comes with an AMD Ryzen 5 3500U processor, 8 MB of RAM, a 256GB SSD, a 15.6” FHD display and an ergonomic keyboard which will make typing more comfortable. It also has WiFi, Bluetooth, and ports for HDMI, USB-C and other peripherals. 
+
+2. ASUS VivoBook X512FL - 10,800,000 VND: 
+This laptop comes with an Intel Core i5-8265U processor, 8 GB RAM, a 256GB SSD, a 15.6” FHD display and a full-size ergonomic keyboard. It also has 802.11ac Dual-Channel Wi-Fi and ports for HDMI, USB-C, and USB 3.0.
+
+3. Dell Inspiron 15 3593 Core i5-10210U - 10,890,000 VND: 
+This laptop comes with an Intel Core i5-10210U processor, 8GB of RAM, 256GB SSD, 15.6” FHD display and has a spill-resistant keyboard with a numeric keypad that is backlit. It also has an integrated HD webcam, an SD Card reader, two USB 3.1 ports, one USB 2.0 port, HDMI port and a headphone/microphone combo jack. 
+
+All three PCs are under your 13 million VND budget, so you can make the best decision based on your hardware needs. Moreover, all three PCs come with an FHD display and a comfortable keyboard, satisfying the two major criteria of your purchase.

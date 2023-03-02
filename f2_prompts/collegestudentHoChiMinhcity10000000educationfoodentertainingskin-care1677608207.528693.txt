@@ -1,0 +1,8 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 10000000
+Demands: education, food, entertaining, skin-care
+Constraints: education: toeic learning
+food: vegetarian
+entertaining: theater and concerts
+SPENDING PLAN: 

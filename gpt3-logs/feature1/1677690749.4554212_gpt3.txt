@@ -1,0 +1,20 @@
+3b28f3e3-9ebb-41ac-a156-88f0f825ce70
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- good moisturizer for dry, sensitive skin
+- Budget: 200000 VND.
+- Market in:  L'Occitane
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the L'Occitane curent market price.
+
+ANSWER: 
+
+==========
+
+L'Occitane Ultra Rich 24-Hour Comforting Cream (200ml): This intensely nourishing and hydrating cream is specifically designed for dry and sensitive skin. It contains plant-based ingredients such as shea butter, cocoa and almond oil, which helps to prevent dryness and keep the skin well-hydrated. The ultra-rich formula absorbs quickly and ensures long-lasting moisturization and comfort. Price: 170000VND.
+
+L'Occitane Repairing Stick 10ml: This repairing balm stick is formulated to help soothe and protect dry and sensitive skin. With nourishing shea butter, it helps to restore skin's protective barrier, reduce redness, and relieve feelings of irritation. Its compact size makes it convenient to carry around in your bag for on-the-go skincare. Price: 20000VND. 
+
+Total Cost: 190000VND. 
+This selection of L'Occitane's products will help optimize your budget and fulfill the necessary conditions for dry and sensitive skin. The Ultra Rich 24-Hour Comforting Cream is perfect for daily use as it provides long-lasting moisturization and comfort. The Repairing Stick offers additional protection and relief for occasional spots of irritation. Together, both products create an optimal routine for optimal skin health.

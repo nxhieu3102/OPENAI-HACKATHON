@@ -1,0 +1,19 @@
+9e0914a6-0c2e-4fef-bfb8-d6f8b7b3bb37
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- non-comedogenic sunscreen
+- Budget: 500000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Nivea Sun Protect Super Water Gel SPF50+/PA++++ - Price: 159,000 VND - This sunscreen is non-comedogenic and provides high protection with SPF50+/PA++++. The lightweight texture glides onto skin easily, perfect for those with active lifestyles. It’s also free of fragrances and preservatives, so it won’t irritate skin.
+
+2. Neutrogena UltraSheer Dry-Touch Sunscreen SPF50+/PA+++ - Price: 184,000 VND - This sunscreen offers Dry-Touch technology to help fight off sweat and oils on your skin. It has high sun protection of SPF50+/PA+++ and helps protect your skin from UV damage due to overexposure. It is free of fragrances, dyes, and oils, making it ideal for those with sensitive skin.
+
+3. Bioderma Photoderm Multifunction Dry Touch SPF50+ - Price: 160,000 VND - This sunscreen includes Bioderma's patented Cellular BioprotectionTM which is much more effective than traditional sunscreens. It provides high protection of SPF50+/PA+++ while being lightweight and ultra-water resistant making it great for active lifestyles. It also contains antioxidants to help protect skin from cellular damage and pollution.

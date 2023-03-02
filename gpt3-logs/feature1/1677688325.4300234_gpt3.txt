@@ -1,0 +1,22 @@
+bed027e1-f57b-4d23-a950-f1e0588bb1ca
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- lightweight, long battery life, powerful processor
+- Budget: 13000000 VND.
+- Market in:  FPT Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the FPT Shop curent market price.
+
+ANSWER: 
+
+==========
+
+1. Acer Aspire 3 A315-54 Notebook - Price: 12,790,000 VND
+This laptop has a powerful Intel Core i3-8145U 8th Gen processor, 4GB of RAM, and 256GB of SSD storage. The battery life is up to 7 hours and the laptop is quite light, weighing only 1.58 kg. It also has a 15.6” FHD display, providing a great image quality.
+
+2. Lenovo Ideapad S340-14 - Price: 11,990,000 VND
+This laptop offers a powerful 8th Gen Intel Core i5-8265U Processor, 8GB RAM, and 256GB of SSD storage. The laptop is lightweight and has a long battery life, up to 8 hours. It also comes with a 14” FHD display and has a slim design, making it look really stylish.
+
+3. HP Probook 430 G6 Notebook - Price: 13,070,000 VND
+This Probook 430 G6 Notebook provides an 8th Generation Intel Core i5-8265U processor, 8GB RAM, and 256GB of SSD storage. It has an oversized battery that can provide up to 11 hours of battery life, and is light at just 1.56 kg. It also has a 13.3” FHD anti-glare display.

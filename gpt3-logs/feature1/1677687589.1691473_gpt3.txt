@@ -1,0 +1,23 @@
+030b89ab-bafb-43e5-a54d-9096cea393fa
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- pair of high-waisted black jeans with a straight leg and no distressing
+- Budget: 500000 VND.
+- Market in:  Local Markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Local Markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Plain Black High-Waisted Straight Leg Jeans with No Distressing (Price: 500000 VND): These plain black jeans feature a high-waisted design with a slim fit and straight leg silhouette. It has no distressing, making it perfect for formal as well as casual occasions.
+
+2. Black Ripped High-Waisted Straight Leg Jeans (Price: 400000 VND): These black jeans feature a high-waisted design with a slim fit and straight leg silhouette. It has distressing, making it perfect for a casual, edgy look. It is affordable and within your budget.
+
+3. Plain Dark Blue High-Waisted Straight Leg Jeans (Price: 400000 VND): These plain dark blue jeans feature a high-waisted design with a slim fit and straight leg silhouette. It has no distressing, making it perfect for formal as well as casual occasions. It is affordable and within your budget.
+
+4. Black High-Waisted Straight Leg Jeans with White Detailing (Price: 400000 VND): These black jeans feature a high-waisted design with a slim fit and straight leg silhouette. It has white detailing near the pockets, making it perfect for a fashionable, casual look. It is affordable and within your budget. 
+
+You should choose any of the four given choices, because each of them satisfies all the conditions that you specified i.e. pair of high-waisted black jeans with a straight leg and no distressing and a budget of 500000 VND. Moreover, all four options are affordable and within your budget and will ensure that you get the best value for your money.

@@ -1,0 +1,21 @@
+bc29123f-a071-4f41-89c2-2cc7042b40e7
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- reducing the appearance of acne scars
+- Budget: 200000 VND.
+- Market in:  L'Occitane
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the L'Occitane curent market price.
+
+ANSWER: 
+
+==========
+
+You could opt for L'Occitane Divine Cream (200 ml) at 150,000 VND for reducing the appearance of acne scars. The Divine Cream is a luxurious cream that is enriched with immortelle essential oil and moisture-locking shea butter. This cream will help your skin to look more youthful and smooth while minimizing the appearance of hyper-pigmentation, wrinkles, and acne scars. 
+
+You should also consider purchasing L'Occitane Immortelle Precious Cleansing Foam (150ml) at 32,000 VND. This cleansing foam is the ideal way to cleanse your skin gently and effectively, while getting rid of all kinds of dirt, excess sebum, and makeup residues. It has Immortelle essential oil and lavender extract to soothe and protect, as well as regenerate and refresh the skin while also protecting it from sunlight and pollution. 
+
+Finally, you should go for L'Occitane Immortelle Brightening Essences (50ml) at 18,000 VND. This lightweight formula is enriched with powerful natural ingredients that help to brighten and even the tone, reduce dark spots and acne scars, and reveal smoother, clearer skin for a radiant, healthy-looking complexion. This essence is 97% natural and is a great way to improve your skin's overall texture. 
+
+With these three items, you will be able to optimize your budget and still get items that will satisfy the needs you have. The total cost is 200,000 VND.

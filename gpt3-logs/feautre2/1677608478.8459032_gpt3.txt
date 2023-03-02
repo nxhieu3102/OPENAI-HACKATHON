@@ -1,0 +1,47 @@
+4abf73db-b8d2-454a-bef2-d3e7ca548c54
+I am a college student living in Ho Chi Minh city:
+Total budget: 15000000 VND 
+Demands that I want to meet: education, food, playing sport, entertaining
+Specific constraints for each demand: 
+education: toeic learning
+food: calories reduce
+playing sport: swimming and bicycling
+entertaining: drinking, cooking
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Education:
+Toeic Learning: 8,000,000 VND 
+This cost should include the cost of the course materials, classes, and any other relevant fees. 
+
+Food:
+Calories Reduction: 4,000,000 VND 
+This cost should include the cost of healthy food and other related expenses (e.g. groceries, supplements, etc.). 
+
+Playing Sport:
+Swimming: 1,000,000 VND 
+This cost should include the cost of the pool membership, any necessary equipment, and any other related expenses. 
+Bicycling: 1,000,000 VND 
+This cost should include the cost of the bike, any necessary equipment, and any other related expenses. 
+
+Entertaining:
+Drinking: 500,000 VND 
+This cost should include the cost of going out to bars and pubs, and any other related expenses. 
+Cooking: 500,000 VND 
+This cost should include the cost of cooking materials, ingredients, and any other related expenses. 
+
+Total Budget: 15,000,000 VND
+
+Explanation: 
+This spending plan is optimized for meeting the demands of a college student living in Ho Chi Minh city. The plan ensures that the user stays within their budget constraints and prioritizes essential expenses over non-essential expenses. Additionally, the plan attempts to minimize costs where possible and optimize for long-term financial stability. We hope that this plan can help you make informed spending decisions and create a budget that is tailored to your individual needs.

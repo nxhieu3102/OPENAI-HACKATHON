@@ -1,0 +1,24 @@
+5573cdf7-30d9-4a86-bd35-86a2075954eb
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- winter coat that's warm and waterproof but still stylish
+- Budget: 1000000 VND.
+- Market in:  Online Shopping
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Online Shopping curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: 
+Columbia Women's Winter Solstice Long Down Jacket for 999,000VND: This coat is warm and waterproof, with a stylish modern fit and trend-right look. It's insulated with down and has an extra long length for extra warmth. The breathable and waterproof fabric will keep the wearer comfortable and dry while the synthetic fur trim hood adds additional style and warmth. 
+
+Option 2:
+Uniqlo Womens Collection Ultralight Down Long Coat for 999,000VND: This long down coat is warm, lightweight, and waterproof with a stylish silhouette. The packable design allows for easy storage, and the water-repellent fabric will keep you dry and comfortable in wet weather. The down insulation is lightweight yet warm and the two-way zipper allows for extra mobility. 
+
+Option 3:
+Wantdo Women's Hooded Down Parka for 960,000VND: This parka is warm and waterproof and has a stylish quilted design. The water-repellent fabric is lightweight and breathable, and the down insulation retains warmth even in wet conditions. The drawstring hood keeps out wind and rain and the two-way zipper allows for easy mobility.
+
+These options will all optimize your budget and satisfy the conditions you set out. Each one has detail description of features and capabilities as well as a price tag to stick within your budget! Hope this helps!

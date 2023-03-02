@@ -1,0 +1,17 @@
+e5102dae-0d0d-451f-a8ee-38a7e1e1db7d
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- SUV with third-row seating and good towing capacity
+- Budget: 800000000 VND.
+- Market in:  Ford Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ford Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Ford Explorer: This is a great option for you given its third-row seating, good towing capacity, and its affordability. This SUV has a starting price of 70900000 VND, which gives you plenty of room to keep your budget in check. The Explorer is reliable, powerful, and spacious enough to comfortably seat seven passengers, making it a perfect option for large families. The Ford Explorer also has a strong towing capacity of up to 3270 kg so it's great for hauling things. 
+
+Ford Endeavour: The Ford Endeavour is another excellent choice with its third row seating, towing capacity, and affordability. It has a starting price of 80200000 VND, so it still fits your budget. The Endeavour is a luxurious, comfortable, and capable SUV that will make long journeys seem effortless. It is a great choice for large families who need plenty of space and power. The Ford Endeavour also has a towing capacity of 3000 kg, allowing it to haul anything you need with ease.

@@ -1,0 +1,22 @@
+89f869b5-5699-48d5-9302-00baaacd7bde
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- SUV with third-row seating and good towing capacity
+- Budget: 700000000 VND.
+- Market in:  Honda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Honda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Honda Pilot ( 7 seater) – 59000000 VND
+The Honda Pilot is an SUV that has third-row seating and towing capacity, perfect for your needs. The Honda Pilot is also extremely fuel efficient, providing up to an estimated 28 MPG highway and 19 MPG city driving. It also comes with a variety of great features, including a rearview camera, collision warning system, lane departure alert, and Honda Sensing safety technologies. Plus, its 19″ alloy wheels and chrome accents give it an elegant look.
+
+2. Honda CR-V (5 seater) – 41000000 VND
+The Honda CR-V is an excellent option for your budget, as it is a more economically-minded car within the Honda range. It has a wide range of features, such as Honda Sensing safety technologies, a collision warning system, lane departure alert, and a rearview camera, as well as great fuel economy - up to an estimated 27 MPG highway and 19 MPG city driving. It also offers excellent cargo space and a comfortable interior, with capacity for five passengers.
+
+3. Honda BR-V (7 seat capacity) – 43000000 VND
+The Honda BR-V is a great SUV for those looking for a flexible, budget-friendly option. This car offers up to an impressive 28 MPG highway and 21 MPG city driving, making it a great fuel-efficient choice. It has a spacious interior that includes 7 seats, perfect for your needs, and comes with a variety of features, including a rearview camera, Honda Sensing safety technologies, and a collision warning system. Plus, its sleek exterior design gives it a modern look.

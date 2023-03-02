@@ -1,0 +1,29 @@
+53bd047b-dc29-46e9-8e19-c119eb7299b1
+I am a college student living in Da Nang:
+Total budget: 10000000 VND 
+Demands that I want to meet: investing, entertaining, food, house renting
+Specific constraints for each demand: 
+entertaining: theater and concerts
+food: calories reduce
+house renting: cheap motel
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Investing: 25% of my budget (2,500,000 VND) should be allocated to investing. Investing can help you reach financial goals, such as saving for retirement, or for a luxury purchase. Investing also has the potential to generate returns in the long run. Consider putting your money in a mutual fund or low-risk stocks.
+
+Entertaining: 25% of my budget (2,500,000 VND) should be allocated to entertainment. To maximize your budget, look for theater and concert tickets that are discounted or on sale. You can also look for deals on movie tickets, amusement parks, and night clubs. To save money, you may also consider other free or low-cost entertainment options, such as going to the beach, visiting a museum, or attending a free community event.
+
+Food: 20% of my budget (2,000,000 VND) should be allocated to food. Eating out can be expensive, so it is best to minimize eating out and instead focus on cooking meals at home. Consider preparing meals in advance, buying in bulk, and utilizing local stores and markets to buy fresh ingredients. You can also look for deals on food delivery services, such as discounts for first-time users.
+
+House Renting: 30% of my budget (3,000,000 VND) should be allocated to house renting. To maximize your budget, look for motels that offer special discounts, such as discounted rates for long-term stays or student discounts. Additionally, you can look for shared living arrangements, such as renting an apartment with a roommate or a shared bedroom in a hostel. Lastly, consider taking advantage of online classifieds or social media to find affordable housing options.

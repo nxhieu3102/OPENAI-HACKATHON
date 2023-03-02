@@ -1,0 +1,5 @@
+Good: a house
+Conditions: good apartment complex in Ho Chi Minh city that has a gym and pool
+Budget: 2000000000 VND
+Market place: Da Nang
+ANSWER:  

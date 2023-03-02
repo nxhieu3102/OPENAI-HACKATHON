@@ -1,0 +1,30 @@
+78e2f6b1-a936-4069-845a-b3cfabdd958a
+I am a college student living in Ho Chi Minh city:
+Total budget: 2500000 VND 
+Demands that I want to meet: house renting, food, investing, education, entertaining
+Specific constraints for each demand: 
+house renting: suburban area
+food: high protein
+education: programming learning
+entertaining: party, go to coffee
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting: Suburban area, budget should be around 1200000 VND. 
+Food: High protein food can be a bit costly but you can get good quality food within the range of 600000-800000 VND. 
+Investing: Investing in stocks, mutual funds and other financial products can be a good way to get long-term financial stability. Investing around 200000-400000 VND could be a good start. 
+Education: Programming learning can be done through online courses and digital resources, which are relatively affordable. Investing around 200000-300000 VND for online courses can be a good option. 
+Entertaining: Parties and going to coffee can be done within the range of 200000-400000 VND. 
+
+Overall, this spending plan should help you maximize your budget while still meeting your demands. Make sure to prioritize essential expenses over non-essential ones, minimize costs wherever possible, and optimize for long-term financial stability.

@@ -1,0 +1,8 @@
+Job: college student
+Location: Da Nang
+Budget: 3000000
+Demands: food, skin-care, education, shopping, commuting
+Constraints: food: vegetarian
+education: ielts learning
+commuting: 10 km to school, by motorbike
+SPENDING PLAN: 

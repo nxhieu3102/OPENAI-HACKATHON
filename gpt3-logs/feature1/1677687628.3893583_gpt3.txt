@@ -1,0 +1,21 @@
+0d4e4765-a138-4386-8e9e-0c60512c876a
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- pair of high-waisted black jeans with a straight leg and no distressing
+- Budget: 1000000 VND.
+- Market in:  Shopping Malls
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Shopping Malls curent market price.
+
+ANSWER: 
+
+==========
+
+1. Zara Women's Black Mid-Rise Skinny Fit Jeans for 899,000 VND - These jeans will provide you with the look you desire, featuring a flattering mid-rise waist, a slim fit with a straight leg and crafted from a black denim with no distressing along the front or back pockets. The fabric of these jeans is stretchy and comfortable to wear, making them ideal for day-to-day occasions (Price: 899,000 VND).
+
+2. Uniqlo Women's Ultra Stretch Skinny Fit Jeans for 699,000 VND - These jeans are crafted from an ultra stretch fabric, that will keep you comfortable all day. The waist is high-rise, and the straight leg fit flattering. These jeans have no visible distressing on the pockets, so they're perfect for an effortlessly stylish look (Price: 699,000 VND).
+
+3. Pull & Bear Women's Black Slim Fit Jeans for 799,000 VND - These jeans have a modern design, with a higher waist and a narrow fit that provides a flattering silhouette. The black finish with no distressing will add a subtle, sophisticated touch (Price: 799,000 VND).
+
+These three choices all optimize your budget, fall within the 1000000 VND price limit, and satisfy the conditions you specified. All of them will provide a comfortable, stylish fit and no visible distressing that will help you create the perfect look for any occasion.

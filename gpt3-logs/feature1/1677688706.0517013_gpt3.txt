@@ -1,0 +1,19 @@
+84faaa8c-5733-462c-882e-b22b8cea19de
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- affordable and durable
+- Budget: 20000000 VND.
+- Market in:  FPT Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the FPT Shop curent market price.
+
+ANSWER: 
+
+==========
+
+OPTION 1: 
+HP 15q-ds0000TU (8YQ40PA): This laptop is equipped with Intel Core i3-8145U processor, 8GB RAM, 128GB SSD, 15.6" HD display, and runs on Windows 10. Its price is 18,990,000 VND, making it both affordable and durable.
+
+OPTION 2: 
+Lenovo Ideapad S145-15IWL (81MV00HKVN): This is a laptop equipped with Intel Core i3-8145U processor, 4GB RAM, 256GB SSD, 15.6" HD display, and runs on Windows 10. Its price is 20,790,000 VND, just slightly over your budget, but still providing great value for your money. It's a very good choice if you want an affordable and durable laptop.

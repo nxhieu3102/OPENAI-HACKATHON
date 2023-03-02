@@ -1,0 +1,29 @@
+7a8ee42d-ac85-420b-baeb-ee15f1b57b4c
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- vegan
+- Budget: 700000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Sweet Potato (30,000 VND): Sweet Potato is a nutritious vegan option that can be used in a variety of dishes. It contains high amounts of essential vitamins and minerals like Vitamin B6, Vitamin C, manganese, potassium, and dietary fibers. Sweet Potato is also high in carbs which makes it an excellent energy source.
+
+2. Tofu (25,000 VND): Tofu is a great source of protein for any vegan diet. It is low in fat and calories, but high in calcium and iron.It is more flavorful when added to recipes, making it an excellent base for any vegan dish.
+
+3. Soy milk (15,000 VND): Soy milk is an excellent source of protein for vegans, and it can be used in various types of vegan dishes. It's low in fat, sugar, and calories and contains no cholesterol, making it a great choice for vegans.
+
+4. Brown Rice (20,000 VND): Brown rice is a vegan staple and can be used in a variety of dishes. It is full of vitamins, minerals and fiber and is low in fat, so it is a great option for vegans.
+
+5.Edamame (20,000 VND): Edamame is a vegan-friendly legume that is high in fiber and protein, and low in fat and calories. It is a great source of vitamins and minerals and can be eaten as a snack or added to a variety of vegan dishes.
+
+6. Broccoli (20,000 VND): Broccoli is a nutritious vegetable that is an excellent addition to a vegan diet. It is high in vitamin C, fiber, and other important vitamins and minerals. It can be cooked in a variety of ways and can be added to a variety of vegan dishes.
+
+7. Avocado (25,000 VND): Avocado is a great vegan source of healthy fat and vitamins. It can be added to salads, sandwiches, toast, and a variety of vegan dishes. It is also great for snacking and as a topping for tacos and burritos.
+
+The total cost for these vegan-friendly vegan ingredients is 175,000 VND, which does not exceed your budget. This can provide you with a variety of vegan dishes that are healthy, nutritious and flavorful.

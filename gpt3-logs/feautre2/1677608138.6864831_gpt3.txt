@@ -1,0 +1,34 @@
+b1685616-040a-4b2a-b9b3-ff056a259739
+I am a college student living in Ho Chi Minh city:
+Total budget: 10000000 VND 
+Demands that I want to meet: house renting, food, education, entertaining
+Specific constraints for each demand: 
+house renting: suburban area
+food: high protein
+education: programming learning
+entertaining: traveling, go backpacking
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting:
+Allocate 40% of my budget or 4,000,000 VND for house renting. Choose a suburban area, where rent costs are generally lower, and look for a place that is comfortable and affordable. Make sure to consider amenities that are important to you such as public transportation and proximity to stores/restaurants.
+
+Food:
+Allocate 30% of my budget or 3,000,000 VND for food. Choose a combination of healthy and affordable food options, such as fresh produce and low-cost proteins. Make sure to consider dietary restrictions and preferences. Eating out is an option, but try to limit the number of times you do so in order to save money.
+
+Education:
+Allocate 20% of my budget or 2,000,000 VND for education. Look for affordable courses and other learning resources that will help you reach your educational goals. Consider online courses and tutorials as well as traditional classroom settings.
+
+Entertaining:
+Allocate 10% of my budget or 1,000,000 VND for entertaining. Look for ways to have fun that don’t cost a lot of money, such as going to free events and exploring the city. Consider traveling on a budget, such as backpacking or couchsurfing, to maximize your budget.

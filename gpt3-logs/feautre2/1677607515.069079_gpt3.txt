@@ -1,0 +1,56 @@
+b210d942-6b2d-45c7-b5c6-16f322f645de
+I am a college student living in Ho Chi Minh city:
+Total budget: 2500000 VND 
+Demands that I want to meet: playing sport, commuting, investing
+Specific constraints for each demand: 
+playing sport: karate
+commuting: 15 km by public transportation
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Playing sport: Karate
+Costs:
+Monthly membership fee: 700,000 VND 
+Equipment costs: 200,000 VND 
+Total cost: 900,000 VND 
+
+Schema for maximizing budget:
+1. Look for discounted membership fees or monthly specials. 
+2. Research what equipment is necessary for karate, and purchase used or second-hand gear if possible. 
+3. Utilize online resources and online communities to find coaching and training opportunities that are available for free. 
+
+Commuting: 
+Costs:
+Monthly bus/train ticket: 500,000 VND 
+Total cost: 500,000 VND 
+
+Schema for maximizing budget:
+1. Purchase monthly bus/train tickets to save money. 
+2. When possible, carpool with friends or colleagues to lower transportation costs. 
+3. Utilize bike-sharing programs to reduce transportation costs. 
+
+Investing: 
+Costs:
+Monthly investments: 1,200,000 VND 
+Total Cost: 1,200,000 VND 
+
+Schema for maximizing budget:
+1. Consider low-cost index funds or ETFs when investing to reduce costs. 
+2. Utilize online resources to research potential investments and compare fees. 
+3. Consider investing in mutual funds or other managed investments to reduce the amount of time and effort needed to manage investments. 
+
+Total Budget: 2,500,000 VND 
+Total Spending: 2,600,000 VND 
+
+By using the suggested schemas for each demand, you should be able to maximize your budget and stay within your spending constraints. Additionally, it is important to keep in mind that investing in the long-term can be beneficial, so allocating a portion of your budget to investments is important.

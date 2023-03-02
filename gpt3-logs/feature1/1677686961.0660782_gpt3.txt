@@ -1,0 +1,25 @@
+09e76c19-c496-4230-9b3f-1bf59cb0e51d
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- allergic to gluten
+- Budget: 3000000 VND.
+- Market in:  Food delivery services
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Food delivery services curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: 
+- 2 Char-grilled chicken (285,000 VND): Char-grilled chicken is gluten-free and it is a great choice if you're trying to save some money. It is a healthy and sizeable meal as it comes with 2 pieces of chicken, which can provide a lot of protein.
+
+Option 2: 
+- Vegetable Fried Rice (193,000 VND): This gluten-free vegetable fried rice is a great option if you're trying to get the most out of your budget. It comes with plenty of vegetables, which make it both delicious and nutritious.
+
+Option 3:
+- Grilled Fish (275,000 VND): Grilled fish is a healthy option that is also gluten-free. It is an excellent source of protein and is also a cost-effective meal that can last for two meals.
+
+Total Cost: 753,000 VND
+These three options are all gluten-free and within the budget of 3 million VND. The Char-grilled chicken and Grilled Fish both provide protein and a good amount of meal for the price, while the Vegetable Fried Rice is a great healthy and budget-friendly option. These options are both affordable and nutritional and will help you optimize your budget and also stick to your dietary restrictions.

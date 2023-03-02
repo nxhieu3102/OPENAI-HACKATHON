@@ -1,0 +1,25 @@
+d80dd549-60fe-46b9-9771-82dc7ff2d916
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- allergic to gluten
+- Budget: 3000000 VND.
+- Market in:  Supermarkets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Supermarkets curent market price.
+
+ANSWER: 
+
+==========
+
+- Nuts: Nuts provide an excellent source of nutrients and protein, and they are gluten-free. The price per kg is 2400000VND and they last a long time. 
+
+- Rice: Rice is a gluten-free grain. A kilogram of rice costs 2100000VND, which is a great price for your budget. It is filling, nutrient-dense and has a long shelf life.
+
+- White Potato: The white potato is a low-calorie, full of nutrients and gluten-free food. A kilogram of fresh potatoes costs 1800000 VND, meaning you can get a large quantity for your budget.
+
+- Eggs: Another fantastic source of protein, eggs are gluten-free and are a great budget friendly option. A dozen of Grade AAA eggs costs 1200000 VND. 
+
+- Tofu: Tofu is another excellent source of protein, and it is absolutely gluten free. One slab of tofu costs 1600000 VND. 
+
+All of the above items are great choices for your budget and your gluten-free diet. You can buy any combination of these items that fits your budget and your preferences.

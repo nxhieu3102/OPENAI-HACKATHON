@@ -1,0 +1,15 @@
+1fd3e9e8-2fdc-420f-aae5-bb282cfc0d13
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fuel-efficient
+- Budget: 600000000 VND.
+- Market in:  Ford Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ford Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+The Ford EcoSport S 1.5L is an excellent option for your budget and requirements. It has an efficient 1.5-liter engine with a fuel efficiency of 17 km/L, plus an array of additional features like an audio system, rearview camera and automatic climate control. The current market price of the Ford EcoSport S 1.5L in Vietnam is 599,000,000 VND, making it a perfect choice for your 600000000 VND budget. It also has a stylish exterior and comfortable interior, making it a great choice for those who seek an enjoyable driving experience.

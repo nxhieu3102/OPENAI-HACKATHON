@@ -1,0 +1,30 @@
+9c6ae9ae-c89d-4cc5-9c1a-6530bfbc6fc9
+I am a college student living in Ho Chi Minh city:
+Total budget: 3000000 VND 
+Demands that I want to meet: skin-care, shopping, playing sport, investing, education
+Specific constraints for each demand: 
+playing sport: gyming, dancing
+education: ielts learning
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Skin-care: 2000000 VND – Investing in good quality skin-care products from local stores or online websites like Lazada, Shopee can help you save money in the long run. Try to look for products that are within your budget and have good reviews from customers. 
+
+Shopping: 500000 VND – Shopping for clothes and other items can be expensive, so try to look for discounts and sales. Also, try to find second-hand items that are still in good condition to help you save money.
+
+Playing sport: 500000 VND – Invest in a gym membership or purchase a dance class package. This will help you save money in the long run and ensure that you stay active.
+
+Investing: 500000 VND – Invest in low-cost index funds or stocks. There are many online platforms that offer low-cost investments, such as Stash, Robinhood, and Acorns. This will help you grow your money in the long run.
+
+Education: 500000 VND – Invest in IELTS learning materials and classes. This can be done online or in-person, depending on your preference. Investing in IELTS classes can help you save money in the long run and prepare you for any exams that you may need to take.

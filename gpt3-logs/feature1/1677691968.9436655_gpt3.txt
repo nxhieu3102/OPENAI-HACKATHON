@@ -1,0 +1,19 @@
+481887ba-d0f7-4115-acc1-7fa7753cf4d2
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- cozy and personalized
+- Budget: 2000000000 VND.
+- Market in:  Ha Noi
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ha Noi curent market price.
+
+ANSWER: 
+
+==========
+
+1. 4BR Apartment in Tay Ho District: This 4 bedroom apartment (117sqm) is located in the most popular area in Hanoi- the Tay Ho District. The property is modernly equipped with a fully enclosed kitchen, 4 bedrooms, 2 bathrooms, and a large living room with balcony. The location is ideal within easy walking distance to all the amenities and activities that Tay Ho District has to offer. The price is 182,400,000 VND which is within your budget.
+
+2. 3BR House in Dong Da District: This 3 bedroom house (90sqm) is equipped with an open kitchen, a spacious living area, a shared front garden, and high-end furniture. The decoration is well-balanced, focusing on jazz-style furniture, wooden accessories, and colorful paintings. In addition, the house is close to parks, restaurants, and entertaining areas of Dong Da District. The house can be yours for 189,000,000 VND which is close to your budget.
+
+3. 4BR Villa in Son Tay Town: This villa (150sqm) is located in the quieter countryside of Son Tay Town. It comes fully equipped with 4 bedrooms, a large living area, and a large kitchen. Outdoor there is a shared garden and a small pond of about 254sqm. The price for the villa is 199,000,000 VND which is the perfect fit for your budget.

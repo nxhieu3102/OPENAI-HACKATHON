@@ -1,0 +1,21 @@
+0e1e2ff0-52d1-4dae-8b62-75fd3762b240
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- spacious one-bedroom apartment with a balcony
+- Budget: 1500000000 VND.
+- Market in:  Ho Chi Minh city
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ho Chi Minh city curent market price.
+
+ANSWER: 
+
+==========
+
+1. A spacious one-bedroom apartment with a balcony in District 8 for 130 million VND. Description: This is a well-maintained apartment located in a quiet neighborhood, yet near metro stations, shopping malls, restaurants, parks, and schools. It has a large living area and a balcony with a view of the city, allowing you to relax and enjoy the scenery.
+
+2. A spacious one-bedroom apartment with a balcony in District 7 for 140 million VND. Description: This is a modern and well-furnished apartment located in the heart of the city, with easy access to entertainment venues and plenty of nearby amenities. It also has a balcony that overlooks the city, which is perfect for relaxing after a long day.
+
+3. A spacious one-bedroom apartment with a balcony in District 10 for 160 million VND. Description: This is a modern and spacious apartment, located in a convenient and safe neighborhood. It has a large living area and a balcony with great views of the city. It is near a variety of restaurants, shopping centers, and public parks.
+
+These three choices all satisfy the conditions and won't exceed the budget. However, depending on your preferences, the choice of the right apartment would vary. Consider the size of the living area, the view, and the amenities near the apartments to determine which one would be the best fit for you.

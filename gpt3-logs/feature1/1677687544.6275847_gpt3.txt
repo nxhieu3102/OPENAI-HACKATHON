@@ -1,0 +1,21 @@
+a68c02c1-a9fc-4d0c-8592-836f1d80b773
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- comfortable, breathable cotton t-shirts in a variety of colors
+- Budget: 10000000 VND.
+- Market in:  Shopping Malls
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Shopping Malls curent market price.
+
+ANSWER: 
+
+==========
+
+- 2 pack of cotton t-shirts from Uniqlo, each cost 135,000 VND (270000 VND): Uniqlo's Cotton t-shirts are made from breathable cotton fabric and are available in a variety of colors ranging from neutrals to bold colors. The fabric is comfortable, lightweight and great for all-day wear. The quality and pricing of Uniqlo's t-shirts make them a great value for money.
+
+- 2 pack of cotton t-shirts from DE12, each cost 99,000 VND (198,000 VND): DE12's Cotton t-shirts are made from lightweight, breathable cotton fabric and are available in a wide variety of classic and trendy colors. Unlike other brands, DE12's t-shirts offer great quality at a fair price. 
+
+- 1 pack of cotton t-shirts from H&M, cost 150,000 VND: H&M is a popular Swedish retail brand and their t-shirts are made from 100% cozy and lightweight cotton fabric. They offer a vast array of vibrant colors and modern designs. The t-shirts are soft and comfortable, making them perfect for all-day wear.
+
+The total cost would be 523,000 VND, which is within your budget. All of these t-shirts offer great quality, comfort and design and are available from Shopping Malls at great prices.

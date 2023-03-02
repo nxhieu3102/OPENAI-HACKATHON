@@ -1,0 +1,24 @@
+63f8a069-4744-4c41-b369-21e95b694919
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- large display and a dedicated graphics card for gaming
+- Budget: 15000000 VND.
+- Market in:  FPT Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the FPT Shop curent market price.
+
+ANSWER: 
+
+==========
+
+1. DELL Inspiron 15 3593 - 14,990,000 VND
+The DELL Inspiron 15 3593 is a great choice for gaming within your budget. It has a 15.6-inch non-touch FHD display and a dedicated NVIDIA GeForce MX230 graphics card with 2GB. It also has 8GB RAM and a 256GB SSD for rapid storage and speedy performance. 
+
+2. ASUS Vivobook 15 D512DA 14,990,000 VND
+The ASUS Vivobook 15 D512DA is an excellent choice for gaming. It has a 15.6-inch Non-Glare FHD display and an AMD Radeon Vega 3 GPU with 3GB VRAM. It is also backed by 8GB RAM and a 256GB SSD, giving it great performance and storage. 
+
+3. Lenovo IdeaPad S340-15iml 14,230,000 VND
+The Lenovo IdeaPad S340-15iml is another great choice for gaming. It comes with a 15.6-inch Full HD IPS 180° display and a dedicated AMD Radeon 530 graphics card with 2GB VRAM. It also has 8GB RAM and a 256GB PCIe SSD to provide excellent performance and storage capabilities.  
+
+All of these laptops should offer great gaming performance, while staying within your budget.

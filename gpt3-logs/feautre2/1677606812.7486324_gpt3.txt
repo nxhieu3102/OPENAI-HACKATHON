@@ -1,0 +1,39 @@
+514b1be7-5c0a-4d3f-b85c-4f4ed6b9fd27
+I am a college student living in Ho Chi Minh city:
+Total budget: 3000000 VND 
+Demands that I want to meet: house renting, education, food, shopping, playing sport
+Specific constraints for each demand: 
+house renting: not far from city center
+education: toeic learning
+food: high protein
+playing sport: swimming and bicycling
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting: 
+Allocate 1,500,000 VND for house renting. This amount should cover rent for a room close to the city center. 
+
+Education: 
+Allocate 500,000 VND for education. This amount should be enough to cover the cost of a TOEIC learning program. 
+
+Food: 
+Allocate 600,000 VND for food. This amount should cover the cost of high-protein meals that can provide the user with the necessary nutrition. 
+
+Shopping: 
+Allocate 300,000 VND for shopping. This amount should be enough to cover basic necessities and other minor purchases. 
+
+Playing Sport: 
+Allocate 300,000 VND for playing sport. This amount should be enough to cover the cost of swimming and bicycling. 
+
+This spending plan should provide the user with an optimized budget that maximizes their available resources and meets their basic needs. To ensure that the user stays within budget, it is important to prioritize essential expenses over non-essential expenses and to minimize costs wherever possible. Additionally, this plan should provide the user with long-term financial stability and help them save money for future expenses.

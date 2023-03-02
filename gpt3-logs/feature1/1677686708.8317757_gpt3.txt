@@ -1,0 +1,22 @@
+d43055e7-1f91-424b-a8c7-1f99492f627f
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- healthy
+- Budget: 700000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. 1kg of Bananas at 12,000 VND: Bananas are high in essential nutrients like potassium, vitamin B6, vitamin C, and dietaryfiber, plus they are one of the most affordable fruits. 
+2. 10kg of Tomatoes at 50,000 VND: Tomatoes are rich in antioxidants and offer numerous benefits. They are also relatively affordable and can be eaten with just about any meal. 
+3. 10pack of Tofu at 80,000 VND: Tofu is an excellent source of protein and is low in calories, making it a great option for those who are looking to maintain a healthy weight. It is also quite inexpensive. 
+4. 10 packs of Spinich at 70,000 VND: Spinach is a nutrient-dense green vegetable and a great way to get your daily dose of vitamins and minerals. It is also low in calories and very affordable. 
+
+Total cost: 212,000 VND 
+
+By purchasing these items, you will be getting a well-balanced selection of healthy and affordable food items. The combination of fruits, vegetables, and protein from the tofu will provide an excellent mix of nutrients to your diet and keep you within your budget.

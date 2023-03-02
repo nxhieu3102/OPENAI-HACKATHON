@@ -1,0 +1,38 @@
+5c0f4b74-88db-4aa1-b321-645a82f72b69
+I am a college student living in Ha Noi:
+Total budget: 2500000 VND 
+Demands that I want to meet: commuting, shopping, investing, food
+Specific constraints for each demand: 
+commuting: 10 km to school, by motorbike
+food: calories reduce
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Commuting: Since you are commuting 10 km to school by motorbike, you should allocate approximately 10-15% of your budget for this expense. This should cover a monthly bus pass or regular fuel for your motorbike.
+
+Shopping: You should allocate approximately 20-25% of your budget for shopping. This should cover any items that you need for school, such as textbooks, stationery, or clothing. It should also cover any non-essential items that you may need.
+
+Investing: You should allocate approximately 10-15% of your budget to investing. This should cover any investments that you think would be beneficial for your future. This could include stocks, bonds, mutual funds, or any other type of investment.
+
+Food: You should allocate approximately 50-55% of your budget to food. This should include healthy, nutritious meals that meet your calorie reduction needs. It is important to shop around for the best prices, and to try to minimize your food costs by stocking up on non-perishable items and planning meals in advance.
+
+Schema for each demand: 
+
+Commuting: Purchase a monthly bus pass or regularly fill up your motorbike with fuel.
+
+Shopping: Shop around for the best prices and buy any items that you need for school, such as textbooks, stationery, or clothing.
+
+Investing: Research different investments and allocate a portion of your budget to each one.
+
+Food: Shop around for the best prices, stock up on non-perishable items, and plan meals in advance. Make sure to prioritize healthy, nutritious meals that meet your calorie reduction needs.

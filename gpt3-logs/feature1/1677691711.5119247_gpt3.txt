@@ -1,0 +1,28 @@
+c878f71a-c416-4e0b-aedb-9a479a79d108
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- good apartment complex in Ho Chi Minh city that has a gym and pool
+- Budget: 3000000000 VND.
+- Market in:  Da Nang
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Da Nang curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: 
+Location: District 5 in Da Nang
+Price: 2.80 billion VND 
+Description: This apartment complex offers a large luxury pool, gym and sauna. There is a convenient transportation system and the apartment is near popular shopping areas such as Han Market and Cho Benin.
+
+Option 2: 
+Location: District 2, Da Nang 
+Price: 2.68 billion VND 
+Description: This complex includes a wide variety of amenities, with two large swimming pools, a modern gym, a fully-equipped spa, and a jogging track. The location is surrounded by a commercial area and is close to entertainment spots. With its top-notch facilities and prime location, this complex is the perfect investment for a quality lifestyle.
+
+Option 3: 
+Location: District 3, Da Nang 
+Price: 2.90 billion VND 
+Description: This complex features beautiful and spacious living areas with luxurious amenities, such as a large pool, well-equipped gym, basketball court, and a garden. The apartment is close to popular attractions, such as the Son Tra peninsula, while providing access to all the modern conveniences. The safety and security of the complex make it an ideal option for anyone who is looking for a comfortable lifestyle.

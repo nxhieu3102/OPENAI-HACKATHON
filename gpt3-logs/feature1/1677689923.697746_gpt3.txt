@@ -1,0 +1,21 @@
+a39bd5b3-636f-4748-a18a-10c1b2f47f06
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- safety features
+- Budget: 700000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Honda Freed 1.5 RS I-Vtec 7AT – 599,000,000 VND: This is an affordable yet safe option, as it comes with active safety features such as emergency braking and lane departure warning, as well as standard airbags, ABS and EBD. It also comes with a host of comfort and convenience features such as climate control, 7-inch intelligent display audio and reverse camera. 
+
+2. Hyundai Grand i10 Nios 1.2L – 649,000,000 VND: The Grand i10 Nios is another solid option for those looking for a safe and reliable vehicle. It has a 5-star ASEAN NCAP rating, as well as a range of safety features such as ABS, EBD and an emergency braking system. It also has a spacious interior with comfortable seats and a touch-screen infotainment system. 
+
+3. Kia Rio 1.4AT – 690,000,000 VND: If you are looking for a more stylish and modern vehicle, then the Kia Rio could be worth considering. It has a 5-star ASEAN NCAP rating and a range of active and passive safety features. It also comes with a host of convenience and comfort features such as automatic climate control, a 7-inch display audio system, and dusk-sensing headlights. 
+
+Given your budget, all three of these cars offer a range of safety features and great value for money. Each car has a unique set of features and benefits, so be sure to do your own research and pick the option that best suits your needs.

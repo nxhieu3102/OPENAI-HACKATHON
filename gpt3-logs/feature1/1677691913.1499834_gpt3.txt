@@ -1,0 +1,17 @@
+fc96ff6c-f5aa-4dce-9ba9-674530e37a82
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- cozy and personalized
+- Budget: I do not have enough money, just give me the information.
+- Market in:  Ha Noi
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ha Noi curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: a beautiful 2-bed 1-bath apartment in the Caribbean City area of Ha Noi for VND 1.35 billion (around USD 59,000). This apartment features a picturesque view of the city, cozy interior, and an eclectic interior design. With a few modifications, such as wallpapering and furniture, this apartment can be completely personalized and tailored to your taste.
+
+Option 2: a 2-bed 1-bath duplex in Ha Noi for VND 900 million (around USD 39,000). This spacious duplex offers two levels, with two bedrooms and a bathroom located on the lower level, and a bright and airy living space on the upper level. The electric fixtures throughout this property are new, so you don't have to worry about updates or repairs. Furthermore, the kitchen and living area have been slightly updated, creating a cozy and cozy atmosphere.

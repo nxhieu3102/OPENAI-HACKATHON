@@ -1,0 +1,23 @@
+4984c54f-bde1-4345-b9bd-964cf1d9081e
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- comfortable, breathable cotton t-shirts in a variety of colors
+- Budget: 10000000 VND.
+- Market in:  Local Markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Local Markets curent market price.
+
+ANSWER: 
+
+==========
+
+1) A pack of 5 round-neck cotton t-shirts at a price of 300,000 VND: Round-neck t-shirts made of cotton are a comfortable choice as cotton fabric is breathable, lightweight and gentle against the skin. They come in a variety of colors that you can mix and match with your outfits.
+
+2) A pack of 10 crew-neck cotton t-shirts at a price of 500,000 VND: Crew-neck t-shirts are a classic wardrobe staple. The cotton fabric is breathable and lightweight, which allows maximum comfort. The shirts come in a range of colors, allowing you to easily pair them with any look.
+
+3) A pack of 3 short-sleeve cotton t-shirts at a price of 120,000 VND: Short-sleeve t-shirts are a great choice for warmer temperatures as the lightweight cotton fabric is breathable and keeps you cool. They come in different colors so you can create different looks.
+
+4) A set of 3 sleeveless tank tops at a price of 150,000 VND: Tank tops are ideal for hot weather as their lightweight cotton fabric allows you to remain cool and comfortable. The array of colors available means that you can easily switch up your look.
+
+Total cost: 1,070,000 VND which is within your budget limit. All of the t-shirts and tank tops provided give you a variety of comfortable, breathable and stylish options while staying within your budget.

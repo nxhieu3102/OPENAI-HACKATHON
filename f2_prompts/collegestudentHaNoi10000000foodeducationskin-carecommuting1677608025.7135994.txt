@@ -1,0 +1,8 @@
+Job: college student
+Location: Ha Noi
+Budget: 10000000
+Demands: food, education, skin-care, commuting
+Constraints: food: high protein
+education: drawing, cooking
+commuting: 3 km to work
+SPENDING PLAN: 

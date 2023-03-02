@@ -1,0 +1,7 @@
+Job: college student
+Location: Da Nang
+Budget: 2500000
+Demands: skin-care, food, education, investing
+Constraints: food: can not cook
+education: toeic learning
+SPENDING PLAN: 

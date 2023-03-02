@@ -1,0 +1,22 @@
+9e56e2da-0d72-48ed-8d30-4a530edf4c8a
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- large display and a dedicated graphics card for gaming
+- Budget: 20000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: Dell G5 15-inch (2020) (VND 18,999,000) 
+This gaming laptop from Dell offers you a comfortable 15.6” full-HD display and dedicated Nvidia GeForce GTX 1660 Ti graphic card which are both necessary for gaming. It also has 8 GB of RAM, a 512 GB solid-state drive, and powerful Core i7-10750H processor for the best gaming experience. For only VND 18,999,000 this laptop provides you with perfect performance yet in an affordable range. 
+
+Option 2: MSI GL63 8RD-859VN (VND 19,499,000)
+This gaming laptop from MSI is more powerful compared to the previous laptop. It comes with the same large 15.6” full-HD display and a dedicated Nvidia GeForce GTX 1050 Ti graphic card. It also has 8 GB of RAM, 512 GB solid-state drive and Core i7-8750H processor. This laptop is slightly more expensive at VND 19,499,000 however it has greater performance and support without overshooting your budget. 
+
+Option 3: ASUS TUF FX505GT-BQ004 (VND 17,999,000)
+This gaming laptop from Asus also offers a 15.6” full-HD display and a dedicated Nvidia GeForce GTX 1650 graphic card. Additionally, it has 8 GB of RAM, 512 GB solid-state drive and Core i7-9750H processor for the best performance. For only VND 17,999,000 this laptop provides you with gaming experience yet in an affordable range.

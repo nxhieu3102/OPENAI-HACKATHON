@@ -1,0 +1,23 @@
+52f99435-c662-4774-a9a0-4f0c935afb2c
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- vegan
+- Budget: 700000 VND.
+- Market in:  Traditional markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Traditional markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Tofu: Tofu is a vegan food with protein, which can supply great nutritional value and is also quite cost effective. The price of tofu in traditional markets is about 10,000 VND per kilo. This means that if you buy the 700,000 VND budget, you can buy about 70kg of tofu. 
+
+2. Soybean paste: Soybean paste is a vegan food and can be used for making tofu, as well as being eaten as a condiment. It is also quite cost effective and can add flavor to dishes. The price of soybean paste in traditional markets is approximately 5,000 VND per kilo. With the 700,000 VND budget, you can buy 140kg of soybean paste. 
+
+3. Taro: Taro is a popular vegetable among vegans, as it provides a host of vitamins, minerals and dietary fiber. Taro is also quite cost effective, and the price of taro in traditional markets is around 8,000 VND per kilo. With the 700,000 VND budget, you can purchase around 88kg of taro. 
+
+4. Seitan: Seitan is also a vegan food and is a good source of protein and low in fat. The price of seitan in traditional markets is around 20,000 VND per kilo. This means that your budget of 700,000 VND would enable you to purchase around 35kg of seitan. 
+
+In conclusion, using the budget of 700,000 VND within the traditional markets to buy food, you can purchase 70kg of tofu, 140kg of soybean paste, 88kg of taro, and 35kg of seitan. All of these food items provide great value and excellent nutritional value so as to optimize your budget and satisfy your vegan diet.

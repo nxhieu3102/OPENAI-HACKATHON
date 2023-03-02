@@ -1,0 +1,29 @@
+31a613d4-be07-49c0-bb09-6ba143e50ef1
+I am a college student living in Ho Chi Minh city:
+Total budget: 4000000 VND 
+Demands that I want to meet: skin-care, playing sport, commuting, food, investing
+Specific constraints for each demand: 
+playing sport: football or badminton
+commuting: 15 km by public transportation
+food: vegetarian
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Skin-Care: 2000 VND per month (This is the minimum amount needed to keep your skin healthy. You could increase the amount depending on the type of skin care you want to invest in). 
+Playing Sport: 1000 VND per month (This should cover the cost of playing either football or badminton at a nearby facility, if available). 
+Commuting: 1000 VND per month (This should cover the cost of taking public transportation up to 15 km).
+Food: 1500 VND per month (This should cover the cost of a vegetarian diet).
+Investing: 1,500,000 VND (This should be allocated towards investments that can help you achieve long-term financial stability and generate returns).
+
+This plan should provide you with enough money to meet all of your demands and give you some room for flexibility. Additionally, you may want to consider setting aside some of your budget for emergency expenses.

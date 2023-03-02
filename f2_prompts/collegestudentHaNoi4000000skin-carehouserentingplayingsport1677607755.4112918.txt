@@ -1,0 +1,7 @@
+Job: college student
+Location: Ha Noi
+Budget: 4000000
+Demands: skin-care, house renting, playing sport
+Constraints: house renting: suburban area
+playing sport: gyming, dancing
+SPENDING PLAN: 

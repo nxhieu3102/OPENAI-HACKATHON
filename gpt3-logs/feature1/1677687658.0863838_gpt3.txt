@@ -1,0 +1,25 @@
+9c9144e9-9274-4986-8e67-2489e61d447d
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- pair of high-waisted black jeans with a straight leg and no distressing
+- Budget: 5000000 VND.
+- Market in:  Shopping Malls
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Shopping Malls curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: 
+Levi's High Rise Skinny Jeans in Black - 4,999,000 VND. 
+These jeans are cut for a slim fit from heavyweight cotton denim that's lightly treated with a hint of stretch to retain its shape. The high rise waist and skinny leg create an elongated silhouette with a polished feel. Finished in a classic black wash, they have a versatile look that pairs with almost anything. 
+
+Option 2: 
+Topshop Jeans Jamie High Waisted Straight Leg - 4,986,000 VND. 
+These versatile jeans bring classic style to any wardrobe. Crafted from a durable cotton-blend fabric with a hint of stretch, they offer a sleek and comfortable fit. The jeans have a classic straight leg silhouette, a high rise waist, and a timeless black wash that pairs with virtually anything. 
+
+Option 3: 
+Zara High Rise Black Straight Leg Jeans - 4,800,000 VND. 
+These high-waisted straight leg jeans from Zara are an wardrobe essential. Cut from soft and stretchy cotton-blend fabric, these jeans offer a comfortable and sleek fit. The black wash gives them a classic style that can be dressed up or down for any occasion.

@@ -1,0 +1,19 @@
+78343ff8-074e-4b96-b408-8ecc4938750b
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- safety features
+- Budget: 800000000 VND.
+- Market in:  Toyota Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Toyota Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Toyota Yaris Hatchback ATIV 1.5L (749,000,000 VND): The Toyota Yaris Hatchback ATIV 1.5L is a great option for your budget and needs. It is a reliable, safe and comfortable hatchback that provides an efficient drive and excellent safety features. Its stability and acceleration make it a safe and comfortable ride. With its advanced safety technologies, you can be more confident on your in-town drives.
+
+2. Toyota Corolla Altis 1.8VL (818,000,000 VND): The Corolla Altis 1.8VL is an attractive option within the 800000000 VND budget. It is a good value-for-money purchase, offering a sophisticated cabin and efficient powertrains. The cabin is outfitted with several comfort and convenience features such as rear AC vents, powered seat adjustments, 6-speaker system, auto- climate control and cruise control for city drives. It also offers a six-airbag safety system, rear-view camera and other advanced safety features. 
+
+3. Toyota Vios 1.5G (798,000,000 VND): The Vios 1.5G is an efficient sedan in the described budget. It features an efficient powertrain and comfortable interior. It comes with a modern touchscreen infotainment display and a six-speaker audio system. The safety features of the Vios 1.5G include a rear-view camera, six-airbag safety system and several advanced driver assistance systems like stability control.

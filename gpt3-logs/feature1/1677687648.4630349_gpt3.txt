@@ -1,0 +1,19 @@
+b31c02fa-0265-4f26-ae4b-b62469576af1
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- pair of high-waisted black jeans with a straight leg and no distressing
+- Budget: 5000000 VND.
+- Market in:  Local Markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Local Markets curent market price.
+
+ANSWER: 
+
+==========
+
+1) High-waisted Women's Black Denim Jeans, Straight Leg, No Distressing (1,500,000 VND): These jeans are a great choice for achieving an air of sophistication and modernity. The straight leg cut makes them incredibly comfortable and the dark color works great with any outfit. They also feature no distressing, giving them a clean and sharp look.
+
+2) Women's Stretchy Straight Leg Black Jeans (2,200,000 VND): These jeans offer the perfect mix of style and comfort. They are crafted with stretch material that ensures a snug fit, so they are perfect for days spent dancing and running around. Plus, the black color will look timeless with just about everything.
+
+3) Women's High-Rise Slim Fit Black Jeans (2,300,000 VND): These jeans are a great option for those wanting a sleek, figure-accentuating look. They have a high-rise waist that'll flatter any figure and the stretch material keeps up with your every move. This black color won't fade, so you can be sure of a long-lasting piece of clothing.

@@ -1,0 +1,20 @@
+4ccbbf41-1c5d-42a5-9399-8ebfad042cf1
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- pair of high-waisted black jeans with a straight leg and no distressing
+- Budget: 10000000 VND.
+- Market in:  Online Shopping
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Online Shopping curent market price.
+
+ANSWER: 
+
+==========
+
+1. ASOS - MOTO Black High Waisted Mom Jeans ($59.00): These high waisted, mom-style jeans are made from a cotton blend and feature a straight leg fit and no distressing. The style and fit offer a classic silhouette that looks great on everyone and pairs well with most items in the wardrobe. 
+2. Uniqlo Women High-rise Skinny Jeans ($39.90): These high-rise skinny jeans are made with a stretchy material and feature a straight leg. The jeans come in multiple colors, but the black option provides an effortless, sophisticated look. The cut with the mid-rise allows for a comfortable and flattering fit for any body type. 
+3. American Eagle High-Waisted Jegging ($34.99): These high-waisted jeggings are made from a stretchy material and feature a straight leg. The jeggings are made with a mid-rise cut that is perfect for all shapes and sizes. The clean and crisp look of the black color easily pairs with whatever the Top of choice is. 
+Total: $133.89 
+
+All of these items are within the given budget, and they all provide a high-waisted, straight leg look with no distressing. The ASOS jeans offer the best quality, while the two cheaper options allow you to save money while still getting the desired look. The Uniqlo and American Eagle options also provide a slightly more contemporary look with the mid-rise cut and skinny jeans style.

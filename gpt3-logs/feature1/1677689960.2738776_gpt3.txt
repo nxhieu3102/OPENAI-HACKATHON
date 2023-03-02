@@ -1,0 +1,19 @@
+209534ed-9ca4-4dfb-a503-6c2e31bdcb56
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- safety features
+- Budget: 600000000 VND.
+- Market in:  Honda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Honda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Honda Civic Exi CVT 2020:  584.000.000 VND - This car is an excellent choice for those who want a reliable and safe sedan. It comes with 6 airbags for the most comprehensive and effective protection for you and your passengers. It also has a 5-Star ANCAP rating and has city brake active technology that allows it to detect any obstacles in front of the car and automatically stop to avoid collision. Fuel economy is also good with a whopping 15.4 km/l. 
+
+2. Honda City SV 2020: 599.000.000 VND - This car is a great choice for those looking for a wide range of features in a medium-size sedan. It is full of technology, with a 7-inch infotainment system, keyless entry, and electric sunroof. It also has a good safety rating and comes with 6 airbags as well as ABS and EBD brakes. Fuel economy is also great with a 13.5 km/l rating. 
+
+3. Honda Civic VTI 2020: 589.000.000 VND - This car gives you the best of both worlds. It is a stylish and practical car that also offers great value for money. It comes with 6 airbags for added protection, and its i-VTEC engine is efficient and powerful. It also has great entertainment options with a 5-inch touch screen, and its 4-Speed automatic gearbox ensures smooth shifting. Fuel economy is also excellent with a 15.6 km/l rating.

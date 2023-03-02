@@ -1,0 +1,22 @@
+56a587f3-d90a-4a94-87ff-d6f2cb0ce216
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- a dress to wear to a wedding that's not too formal but still looks elegant
+- Budget: 1000000 VND.
+- Market in:  Local Markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Local Markets curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1:
+- A navy blue midi dress with a one-shoulder design. Cost: 580,000VND. This dress is simple and elegant with a modern twist. It has a one-shoulder neckline, knee-length hem, and pleated skirt. The material is lightweight and comfortable. The subtle details make this dress perfect for a wedding.
+
+Option 2: 
+- A sleeveless V-neck dress in pink lace. Cost: 600,000 VND. This dress is romantic and delicate, with intricate details in the lace. The midi length with a side slit flatters the figure. The pink colour is feminine and subtle while the lace fabric adds a touch of glamour. It's perfect for any wedding.
+ 
+Option 3: 
+- A satin midi dress in off-white. Cost: 850,000 VND. This dress has a wide neckline and a beautiful sheen to the satin fabric. The creamy colour is timeless, while the pleats add structure. With the minimalist design, and the delicate fabric, this dress can be dressed up or down and will be perfect for a wedding.

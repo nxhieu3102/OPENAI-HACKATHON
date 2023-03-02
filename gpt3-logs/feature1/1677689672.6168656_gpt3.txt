@@ -1,0 +1,16 @@
+9049d059-063f-4b28-ba04-343f4b285720
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- SUV with third-row seating and good towing capacity
+- Budget: 700000000 VND.
+- Market in:  Mazda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Mazda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Mazda CX-5 Grand Touring AWD. Price: 62420000 VND. 
+This SUV comes with a third-row seating capacity so you can bring your crew along with you. It also offers a good towing capacity of up to 225 KG. The Mazda CX-5 Grand Touring AWD also comes with a powerful 2.5-litre turbocharged four-cylinder SKYACTIV-G engine that delivers incredible power and responsive accelerate performance compared to other SUVs. Fuel economy and low emissions are also improved with this powerful engine. The SUV also comes equipped with multiple features for your convenience, including Blind Spot Monitoring system, Rear Cross Traffic Alert and Smart City Brake Support system. All these features provide exceptional levels of safety and convenience. The price of this SUV falls within your budget at 62420000 VND.

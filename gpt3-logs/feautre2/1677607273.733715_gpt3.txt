@@ -1,0 +1,39 @@
+15bdcce9-3520-4eb2-896a-4bd781b0a79f
+I am a college student living in Da Nang:
+Total budget: 6000000 VND 
+Demands that I want to meet: skin-care, investing, food, house renting, playing sport
+Specific constraints for each demand: 
+food: high protein
+house renting: suburban area
+playing sport: gyming, dancing
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Skin-care: 1500000 VND 
+Investing: 2500000 VND 
+Food: 2000000 VND 
+House Renting: 1500000 VND 
+Playing Sport: 500000 VND 
+
+Schema for each demand: 
+
+Skin-care: Invest in quality skincare products that are suitable for your skin type. Look for natural and organic ingredients, buy in bulk when possible, and choose products that last longer such as moisturizers and creams.
+
+Investing: Research and compare different investment options such as stocks, bonds, real estate, and mutual funds. Consider a diversified portfolio of investments and look for low-cost options with reasonable returns. 
+
+Food: Focus on nutritious and high-protein meals that are budget-friendly. Consider buying ingredients in bulk and prepping meals in advance. Look for seasonal produce and food discounts to save money. 
+
+House Renting: Look for rental options in suburban areas that are within your budget. Research the local rental market and compare prices of different properties to find the best deal. 
+
+Playing Sport: Invest in quality equipment that is suited to your sport. Consider signing up for online courses or classes as well as joining sports clubs in your area. Look for discounts on gym memberships and other sporting activities.

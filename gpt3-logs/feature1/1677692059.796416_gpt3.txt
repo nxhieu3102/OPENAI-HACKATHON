@@ -1,0 +1,22 @@
+e29893f9-7608-45cf-ba42-f8e1dbb0cf45
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- cozy and personalized
+- Budget: 4000000000 VND.
+- Market in:  Da Nang
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Da Nang curent market price.
+
+ANSWER: 
+
+==========
+
+1. Apartment in Pham Van Dong Street, Da Nang -Price: 4000000000 VND 
+Description: The apartment has a total area of 40 sqm, with two bedrooms and one bathroom. It is located in a great location, in the heart of Da Nang city and offers great access to public transportation. The rooms come fully furnished and all appliances are in great condition. The kitchen is equipped with a refrigerator, washing machine, and all other essential kitchen appliances. 
+
+2. Villa in My An Beach, Da Nang-Price: 3200000000 VND
+Description: The villa boasts a large area of land and a spacious floor, with 3 bedrooms and 2 bathrooms. It has a beautiful garden, a large terrace and a pool. All of the rooms come fully furnished and it is equipped with modern appliances. The villa is located in a prime location, near the beach and with easy access to public transportation. 
+
+3. House in Ngoc Hoi Street, Da Nang- Price: 300000000 VND
+Description: The house is located in a prime location, near the city center and all public transportation. It is a two-bedroom and one-bathroom house with a total area of 80 sqm. All of the rooms come fully furnished and it has a spacious kitchen, with all essential appliances. The house has a small garden and balcony, making it a great investment for those looking for a home away from the hustle and bustle of the city.

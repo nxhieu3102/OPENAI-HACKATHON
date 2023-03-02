@@ -1,0 +1,19 @@
+680716c1-18d1-44f7-a577-42351b363d5f
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- a brand that provides good support and is suitable for pavement running
+- Budget: 500000 VND.
+- Market in:  Shopping Malls
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Shopping Malls curent market price.
+
+ANSWER: 
+
+==========
+
+1. Nike Air Zoom Pegasus 37 Shoes ($200): Nike Air Zoom Pegasus 37 shoes are designed for pavement running, with full-length Zoom Air cushioning for an energized feeling and excellent cushioning. They also feature a breathable mesh upper and a low-profile design for a snug fit as you run. The shoes are available for 500000 VND, providing an excellent option for your budget if you’re looking for good cushioning and support.
+
+2. Adidas Adizero Adios Shoes ($200): Adizero Adios shoes provide superior performance for pavement running, thanks to their lightweight design and cushioned midsole. The rubber outsole ensures excellent grip and durability, and the breathable mesh upper keeps you cool and comfortable throughout your run. And all of this is available for 500000 VND, giving you excellent value for your money.
+
+3. Asics GT 2000 7 Shoes ($145): Asics GT 2000 7 shoes provide a great mix of cushioning and support, while also providing a lightweight design so you can run comfortably and confidently. The shoes also feature an AHAR outsole for maximum traction and grip, and the breathable mesh upper keeps you cool and dry. These shoes can be found for 500000 VND, giving you an affordable option for your budget.

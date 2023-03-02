@@ -1,0 +1,25 @@
+02b7595b-a130-4d76-a866-db087efdf44c
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- vegan
+- Budget: 1000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Lemon: 1kg for 10,000 VND. Lemons are one of the healthiest, most versatile foods on the planet and are vegan. Lemons are a great source of vitamin C, which boost immunity and promote healthy skin. The acidity in lemon juice can help balance your pH levels to keep your Gut well balanced. Also, using lemons in recipes can help to reduce added sugar as they provide a natural sweetness themselves.
+
+2. Berries: 500 g for 35,000 VND. Not only are berries tasty, they are full of antioxidants and are full of vitamins and minerals. Berries are a great source of Vitamin C, which promotes healthy skin and helps to keep your gut balanced. Berries also help to reduce inflammation, which is believed to be linked to good overall health. 
+
+3. Tomatoes: 1kg for 10,000 VND. Tomatoes are full of cancer-fighting nutrients such as lycopene and beta carotene. Tomatoes are rich in Vitamin A, C and E, which are necessary to maintain proper eye health. They also contain many minerals that are essential for good health. 
+
+4. Bananas: 1kg for 15,000 VND. Bananas are a healthy plant-based food that are full of minerals and vitamins essential for good health. Bananas are loaded with soluble fiber, which helps to keep your digestive system running smoothly. They also contain potassium, a mineral necessary for healthy muscles and bones. Bananas are a great source of energy as well as a great after-workout snack thanks to their quick-absorbing carbohydrates. 
+
+5. Green Apples: 1kg for 10,000 VND. Green apples are one of the healthiest vegan foods available. They are a great source of fiber, Vitamin A, C, and E. The fiber in green apples can help maintain healthy cholesterol levels and aid in digestion. They are also rich in antioxidants, which can help reduce inflammation. 
+
+Total cost: 80,000 VND

@@ -1,0 +1,24 @@
+df8d63f2-e18f-45ad-9846-3fbb0c6f31bd
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- lightweight, long battery life, powerful processor
+- Budget: 13000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. HP Pavilion 15 Gaming Laptop, 130000 VND.
+This laptop has Intel Core i5-10300H processor, 8GB RAM and 512GB SSD storage, giving you more options and power to do what you want. It also has NVIDIA GeForce GTX 1650 graphics and 15.6-inch IPS display. It is lightweight and has a long battery life, up to 8.5 hours. 
+
+2. ASUS Vivobook X512DA, 1350000 VND.
+This laptop has AMD Ryzen 5 3500U processor, 8GB RAM and 512GB PCIe NVMe M.2 SSD, providing you with amazing speed and performance. It also has a 14-inch FHD laptop with fingerprint sensor and built-in ASUS SonicMaster audio. This laptop also offers up to 8 hours of battery life and is lightweight. 
+
+3. Dell Inspiron 14 5000, 1380000 VND.
+This laptop has Intel Core i5-1035G4 processor, 8GB RAM and 512GB SSD storage. It also has a 14-inch FHD display and an ergonomic keyboard that makes it easy to type. It also has amazing battery life up to 8 hours, fast charging support and is lightweight. 
+
+These laptop choices will optimize your budget, satisfy your conditions and deliver on the promise of long battery life, powerful processor and lightweight features. Each laptop is within your budget and will provide you with a high performing compute with great visuals.

@@ -1,0 +1,21 @@
+10c857b5-8ed2-437a-baa2-a4d2fcd2ec32
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- good wine to pair with grilled salmon
+- Budget: 700000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Fresh Wild-Caught Whole Grilled Salmon (22,000 VND/kg): This salmon is of high quality and is often sourced from cold and deep lakes. The salmon has a great smoked flavor, a firm yet tender texture, and is cooked over coals, which adds an extra smoky flavor. Its fat content is quite low which makes it low in calories and cholesterol.
+
+2. Pinot Grigio White Wine (220,000 VND per bottle): This is an Italian white wine made from the Pinot Grigio grape, whose grape skin is particularly thin, meaning that it produces less tannins than a typical red wine. As a result, it has a bright and acidic flavor, with hints of melon, citrus, and almond. It pairs well with salmon and is a great choice for budget optimization.
+
+3. Organic Quinoa (25,000 VND/kg): This is a great support dish to salmon and is a great source of protein, fiber, and complex carbs. It is also high in vitamins and minerals and has a slightly nutty flavor. The versatility of quinoa also makes it a great side dish because it can be cooked in different ways, making it very versatile.
+
+TOTAL COST: 267,000 VND

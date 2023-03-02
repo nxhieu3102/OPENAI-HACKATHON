@@ -1,0 +1,21 @@
+57c5c668-9d36-4b54-a685-b675d3bff8cb
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- comfortable keyboard for typing
+- Budget: 20000000 VND.
+- Market in:  Nguyen Kim
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Nguyen Kim curent market price.
+
+ANSWER: 
+
+==========
+
+1. Dell Inspiron 3580-A540VN: This laptop has a 15.6-inch Full HD display, an Intel Core i5 processor, 8GB RAM, and a 512 GB SSD hard drive. It also has a wide, comfortable keyboard, making it easier to type for long periods of time. The total cost for this laptop is 19,990,000 VND. 
+
+2. Acer Aspire 3 A315-56-3472: This laptop has a 15.6-inch Full HD display, an Intel Core i3 processor, 8GB RAM, and an HDD drive with a storage capacity of 1TB. It also has a comfortable keyboard for efficiency and ease of use. The total cost for this laptop is 19,990,000 VND.
+
+3. Lenovo IdeaPad S145-15IWL: This laptop has a 15.6-inch HD display, an Intel Core i3 processor, 8GB RAM, and an HDD drive with a storage capacity of 1TB. It also has a comfortable, backlit keyboard which allows you to type accurately and efficiently. The total cost for this laptop is 17,990,000 VND. 
+
+All three of these laptops should optimize your budget, satisfy the conditions, and provide you with a clear explanation as to why you should choose a particular laptop model. Each laptop has its own set of features which are beneficial to you and the total cost for all three laptops does not exceed your budget.

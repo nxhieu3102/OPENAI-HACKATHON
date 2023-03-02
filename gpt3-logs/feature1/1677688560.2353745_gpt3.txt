@@ -1,0 +1,19 @@
+af33e30b-d78d-404d-9f38-4d360ca7f519
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- large display and a dedicated graphics card for gaming
+- Budget: 13000000 VND.
+- Market in:  FPT Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the FPT Shop curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: HP OMEN 15 15-ek0006TX ( price: 12,999,000VND ) 
+This laptop has a 15.6-inch Full HD IPS display along with a dedicated NVIDIA GTX 1650 Ti graphics card. It is perfect for if you want to play games, edit and render videos, and process intense data. The laptop is powered by a 10th gen Intel i7 processor and 8GB of DDR4 RAM. It has a 1TB HDD to store huge amounts of files and a 4-cell lithium-ion battery that supports fast charging and offers extended battery life.
+
+Option 2: Dell G3 15 3500 ( price: 12,899,000VND ) 
+This Dell laptop is powered by a 10th gen Intel Core i7 processor and 8GB of DDR4 RAM. It has a 15.6-inch Full HD display and a dedicated NVIDIA GTX 1650 Ti graphics card that provide a lag-free gaming experience. It has a 1TB 5400RPM HDD that ensures ample storage space and a 4-Cell Li-ion battery which provides you with long hours of battery life. Furthermore, its top-firing speakers provide amazing sound quality while its backlit keyboard offers a comfortable typing experience.

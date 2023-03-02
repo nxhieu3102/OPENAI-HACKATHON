@@ -1,0 +1,19 @@
+946ebb4b-658b-40fa-9e1b-5e9fe8bf443e
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- reducing the appearance of acne scars
+- Budget: 500000 VND.
+- Market in:  Guardian
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Guardian curent market price.
+
+ANSWER: 
+
+==========
+
+1) La Prairie Anti-Aging Rapid Response Booster, 500000 VND: La Prairie Anti-Aging Rapid Response Booster is designed to quickly reduce the appearance of acne scarring, improve overall skin clarity, and repair cellular damage. It works in as little as two weeks to help stop further damage and reduce redness, while refreshing and hydrating the skin. 
+
+2) La Prairie Cellular Swiss Ice Crystal Dry Oil, 459000 VND: This silky scented oil helps soothe, nourish and protect the skin, while boosting its hydration levels. Cellular Swiss Ice Crystal Dry Oil is an ideal choice for acne-prone skin, as its oil-free formula reduces the risk of skin irritation and further breakouts. It's also enriched with 7 precious oils and minerals to help reduce dark marks and scarring left from acne. 
+
+3) La Prairie Skin Caviar Luxe Cream, 350000 VND: La Prairie Skin Caviar Luxe Cream is a luxurious treatment specifically designed to help firm and lift the skin, reduce the appearance of wrinkles and fine lines, and treat uneven skin tone caused by acne scarring. Formulated with caviar extract, shea butter and peptides, this cream works to deeply nourish, hydrate and protect the skin, while smoothing and refining its texture. It also contains brightening ingredients to make the skin look more radiant.

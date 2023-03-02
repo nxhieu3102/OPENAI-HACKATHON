@@ -1,0 +1,32 @@
+12033feb-a8b0-48b0-90d9-cbbd0a163e30
+I am a college student living in Ha Noi:
+Total budget: 4000000 VND 
+Demands that I want to meet: skin-care, playing sport, shopping, food
+Specific constraints for each demand: 
+playing sport: football or badminton
+food: vegetarian
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Skin-care: 400,000 VND
+For skin-care, you should focus on finding the best quality products that fit within your budget. You should look for online deals as well as store discounts to get the most value for your money. Try to look for natural products where possible and avoid chemical-based products.
+
+Playing sport: 1,000,000 VND
+For playing sport, you should set aside 1 million VND for a gym membership and equipment. If possible, you should look for a gym near you to save on travel costs. You should also consider going in on a group membership with friends to save money.
+
+Shopping: 1,200,000 VND
+For shopping, you should focus on finding the best quality products at the lowest prices. You should take advantage of online deals and look for discounts in-store. You should also look for items that are on sale and try to purchase them in bulk if possible.
+
+Food: 1,400,000 VND
+For food, you should focus on buying ingredients that are healthy and nutritious. You should look for in-season produce to save money, as well as bulk items that can be stored for long periods of time. If you choose to eat out, you should look for vegetarian-friendly restaurants or try to find discounts on meals.

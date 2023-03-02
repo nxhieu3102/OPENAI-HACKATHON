@@ -1,0 +1,21 @@
+cc502fc3-159b-479d-af8f-0b7771f7a58d
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- fully furniture apartment in the suburban
+- Budget: 4000000000 VND.
+- Market in:  Da Nang
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Da Nang curent market price.
+
+ANSWER: 
+
+==========
+
+Option #1: Long Ha Gardens Apartment
+Price: 3,750,000,000 VND
+Description: Located in Thach That area of Da Nang, Long Ha Gardens Apartment is a fully furnished 4-bedroom, 4-bathroom apartment with a modern open-concept design. The space is bright, inviting, and cozy at the same time, with the added bonus of a large balcony. The apartment has been recently renovated and updated with modern furniture and fixtures throughout, including new wooden laminate flooring, luxurious bathroom fixtures and stainless steel appliances in the kitchen. The building also has 24-hour security, a covered parking lot, a gym and a pool. This luxurious apartment will easily meet your budget and conditions. 
+
+Option #2: Victoria Garden Da Nang
+Price: 3,900,000,000 VND 
+Description: Located in Thanh Khe District of Da Nang, Victoria Garden Da Nang is a 4-bedroom, 4-bathroom fully-furnished apartment in a secure complex surrounded by lush tropical gardens. Inside, the modern, spacious and open-plan design offers bright, fun and inviting spaces, equipped with all the necessities one needs for modern living. New wooden laminate floors, luxurious bathroom fixtures and a brand-new, spacious kitchen featuring stainless steel appliances, all make up this perfect living space. As well, the building offers 24-hour security, parking lot, gym and swimming pool. This is certainly a great choice that exceeds your conditions and stays within your budget.

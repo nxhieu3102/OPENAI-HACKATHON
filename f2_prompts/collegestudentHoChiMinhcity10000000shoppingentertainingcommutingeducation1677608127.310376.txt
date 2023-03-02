@@ -1,0 +1,8 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 10000000
+Demands: shopping, entertaining, commuting, education
+Constraints: entertaining: theater and concerts
+commuting: 15 km by public transportation
+education: ielts learning
+SPENDING PLAN: 

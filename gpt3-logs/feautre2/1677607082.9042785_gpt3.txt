@@ -1,0 +1,39 @@
+3ce22f33-a478-44c3-a819-8a89674a060d
+I am a college student living in Ho Chi Minh city:
+Total budget: 6000000 VND 
+Demands that I want to meet: shopping, entertaining, food, skin-care
+Specific constraints for each demand: 
+entertaining: shopping
+food: vegetarian
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Shopping: 2500,000 VND
+Entertaining: 2000,000 VND
+Food: 1500,000 VND
+Skin Care: 500,000 VND
+
+Schemas for each demand:
+
+Shopping: 
+Focus on buying essential items such as clothing, books and other items that you will use regularly. Try to buy items from local shops or markets as this will help you save money. Look for discounts and coupons whenever possible.
+
+Entertaining: 
+Take advantage of Ho Chi Minh City’s abundance of cultural offerings, such as movies, theatre, concerts and art galleries. Look for discounted tickets and take advantage of student discounts. Consider visiting the local parks, which are often free or low cost.
+
+Food: 
+Look for vegetarian restaurants that offer discounts or special deals. Consider cooking at home to save money and time. Buy groceries in bulk and cook enough for several days.
+
+Skin Care: 
+Invest in quality skin care products that are tailored to your skin type. Look for natural ingredients that are gentle on your skin. Consider making your own skin care products at home as this will help you save money while still providing effective results.

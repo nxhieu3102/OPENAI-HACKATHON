@@ -1,0 +1,8 @@
+Job: college student
+Location: Da Nang
+Budget: 6000000
+Demands: skin-care, shopping, playing sport, house renting, education
+Constraints: playing sport: football or badminton
+house renting: cheap motel
+education: programming learning
+SPENDING PLAN: 

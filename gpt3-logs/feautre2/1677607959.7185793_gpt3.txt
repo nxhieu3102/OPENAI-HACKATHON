@@ -1,0 +1,39 @@
+b4fcd6a5-a398-4c3b-b4b9-04968672b69d
+I am a college student living in Da Nang:
+Total budget: 4000000 VND 
+Demands that I want to meet: playing sport, skin-care, shopping
+Specific constraints for each demand: 
+playing sport: football or badminton
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Playing sport:
+
+Schema: Start by joining a local sports club for football or badminton. This will allow you to have access to the equipment and facilities necessary to practice your chosen sport, as well as the opportunity to learn from experienced coaches. You can also join local pick-up games to practice and hone your skills with other players.
+
+Budget Allocation: 500,000 VND (25% of total budget) 
+
+Skin-care:
+
+Schema: Invest in quality skin-care products at a reasonable price. Look for natural ingredients that are known to be beneficial for your skin type. Invest in a good moisturizer and sunscreen to protect your skin from harmful UV rays. Also, be sure to drink plenty of water to keep your skin hydrated.
+
+Budget Allocation: 1,000,000 VND (20% of total budget) 
+
+Shopping:
+
+Schema: Shop smart and look for discounts and deals. Prioritize purchasing items that are essential or necessary for your lifestyle, such as basic clothing items and daily necessities. Avoid impulse buying and stick to items that you know you will use or need. Additionally, consider shopping online to take advantage of online discounts and promotions. 
+
+Budget Allocation: 2,500,000 VND (55% of total budget) 
+
+Explanation: The spending plan is structured to help you meet your demands while staying within your budget. Playing sport is important for your physical health, so it has been allocated 25% of the total budget. Skin-care is essential for your health, so it has been allocated 20% of the budget. Shopping is less essential, so it has been allocated the remaining 55% of the total budget.

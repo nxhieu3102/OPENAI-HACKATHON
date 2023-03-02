@@ -1,0 +1,21 @@
+6f42d18c-4fd7-446d-b079-0f4f3c739bf2
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- allergic to gluten
+- Budget: 2000000 VND.
+- Market in:  Food delivery services
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Food delivery services curent market price.
+
+ANSWER: 
+
+==========
+
+1. 1 litre of Monalisa vegetable oil (VND 200,000) - this oil is gluten free and is a great choice for frying and baking.
+2. 1 Kg of 7 Premium Vietnamese-style dried instant noodles (VND 120,000) - these instant noodles are made in Vietnam, are gluten free and are a great choice if you are looking for a filling meal that is also tasty.
+3. 2 Kg of Uncle Kitchen Beef/Chicken Floss (VND 200,000) - these flosses are an easy and delicious way to get a lot of texture and flavor in your meals. They are also gluten free and a great choice for busy days.
+4. 500g of Penusa Dried Prown (VND 100,000) - this is a delicious and nutritious choice for protein and has a shelf live of up to 6 months, making it a great option for busy days. Plus, it is gluten free.
+5. 1 Kg of Anhduong Organic Durian Candy (VND 190,000) - these are a delicious sweet treat that are made with all natural ingredients and are gluten free. They are also rich in natural vitamins and minerals.
+
+Total Cost: VND 710,000

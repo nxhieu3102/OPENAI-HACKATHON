@@ -1,0 +1,19 @@
+e0d38711-9bf1-425f-93f2-a91f8f6b6711
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- a brand that provides good support and is suitable for pavement running
+- Budget: 10000000 VND.
+- Market in:  Local Markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Local Markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Adidas LK Performance 7 Running Shoes - VND 808,000 (~ USD~ 34.5):The Adidas LK Performance 7 is perfect optimization your budget as it combines superior cushioning, support and durability. It is well suited for pavement running, with a mid-profile construction, breathable mesh and synthetic upper, and a cushioned midsole that helps absorb shock while providing moderate support.
+
+2. PUMA Turin II Running Shoes - VND 780,000 (~USD ~ 33.2): This low-cost shoe is still a stylish option and is great for pavement running with a mesh and synthetic upper, EVA midsole for cushioning, and a rubber outsole for superior traction and durability. The PUMA Turin II is a great budget-friendly option.
+
+3. Nike Air Max Oketo Running Shoes - VND 890,000 (~ USD ~ 37.5): The Nike Air Max Oketo running shoe provides superior cushioning, support, and durability, making it perfect for pavement running. With a foam midsole and full-length Max Air unit for enhanced cushioning, and a durable rubber outsole for superior traction and stability, this is an excellent option for those seeking the most value out of their budget.

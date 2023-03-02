@@ -1,0 +1,24 @@
+62374fbc-3112-4f0b-8534-096abe5238e3
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- large display and a dedicated graphics card for gaming
+- Budget: 10000000 VND.
+- Market in:  Nguyen Kim
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Nguyen Kim curent market price.
+
+ANSWER: 
+
+==========
+
+1. Asus ROG Zephyrus M15 (1509.990 VND)
+This laptop from the Asus ROG family has a 15.6-inch display with a 1920 x 1080 resolution. It is powered by an Intel Core i7-10750H processor and an Nvidia RTX 2060 dedicated graphics card, which is perfect for gaming. It also has a 512GB NVMe PCIe 3.0 storage that offers high speed. The laptop also has a backlit keyboard and a 4-hour battery life. 
+
+2. Samsung Notebook Odyssey (999.990 VND)
+This gaming laptop from Samsung has a 15.6-inch FHD display backed by a powerful Intel Core i7-9750H processor. It also features an Nvidia GTX 1660Ti dedicated graphics card, providing great graphics performance. Additionally, this laptop has 8GB of DDR4 RAM and a 512GB SSD storage. It also has a backlit keyboard and a 4-hour battery life. 
+
+3. Gigabyte AERO 15 (1700.000 VND) 
+This gaming laptop from Gigabyte has a 15.6-inch FHD display and is powered by the Intel Core i7-9750H processor paired with an Nvidia GTX1660Ti dedicated graphics card. It also has 16GB of DDR4 RAM and a 512GB NVMe SSD storage. The laptop also has a backlit keyboard and a 7-hour battery life. 
+
+These three laptops offer quality performance and components at competitive prices, which should optimize your budget. They all have large displays, dedicated graphics cards, and enough RAM and storage to suit your needs. We suggest you check the store in Nguyen Kim to get more detailed info before making your choice.

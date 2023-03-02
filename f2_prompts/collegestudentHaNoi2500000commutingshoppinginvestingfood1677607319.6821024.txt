@@ -1,0 +1,7 @@
+Job: college student
+Location: Ha Noi
+Budget: 2500000
+Demands: commuting, shopping, investing, food
+Constraints: commuting: 10 km to school, by motorbike
+food: calories reduce
+SPENDING PLAN: 

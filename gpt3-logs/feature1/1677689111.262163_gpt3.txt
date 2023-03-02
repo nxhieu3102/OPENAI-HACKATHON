@@ -1,0 +1,22 @@
+4d7a5380-07d3-4e04-80f0-995bf169c313
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- high-resolution display and good color accuracy for photo editing
+- Budget: 15000000 VND.
+- Market in:  Thegioididong
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Thegioididong curent market price.
+
+ANSWER: 
+
+==========
+
+1. HP Omen (15VN0063VN) - 14,990,000 VND: 
+This laptop has a 15.6-inch FHD IPS anti-glare display with 1080p resolution and good color accuracy, great performance with a 9th Gen Intel Core i7-9750H processor and 8GB of RAM, and NVIDIA GeForce GTX 1650 4GB GDDR5 graphics. Plus, a 256GB PCIe NVMe M.2 SSD allows for plenty of storage, while the backlit keyboard allows you to complete tasks even in dimly-lit settings.
+
+2. Lenovo Legion Y540-81SY0MGVN (15VN003WVN) - 14,990,000 VND:
+This laptop boasts a 15.6-inch FHD IPS anti-glare display at 1080p resolution and great color accuracy for photo editing. It has a 9th Gen Intel Core i7-9750H processor and 8GB of RAM, plus NVIDIA GeForce RTX 2060 6GB GDDR6 graphics. Plus, you get a 256GB PCIe NVMe SSD for speedy performance and a backlit keyboard for comfortable typing even in low-light settings.
+
+3. Dell G3 3590-N791G VN (NON791IDH32G) - 14,390,000 VND: 
+This laptop comes with a 15.6-inch FHD IPS anti-glare display with 1080p resolution and great color accuracy, powered by a 9th Gen Intel Core i7-9750H processor and 8GB of RAM. You get a 256GB M.2 PCIe NVMe SSD for storage and NVIDIA GeForce GTX 1650 4GB GDDR5 graphics, plus a backlit keyboard for comfortable typing even in low-light environments.

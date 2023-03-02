@@ -1,0 +1,19 @@
+47a36929-17ba-4fab-a3d4-1d0747d447a5
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fuel-efficient
+- Budget: 800000000 VND.
+- Market in:  Toyota Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Toyota Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Toyota Fortuner 2.4 VRZ: This five-seater SUV from Toyota is an ideal choice for your budget. It offers fuel efficiency of 14.9 km/L which is significantly higher than other SUV counterparts. It also offers good safety features like ABS (Anti-lock braking system) and airbags, which provides you and your family considerable safety even in the traffic. The Toyota Fortuner 2.4 VRZ is available in price range of VND 770,000,000 - VND 800,000,000, depending upon additional features. 
+
+Toyota Corolla Altis 1.6G: This sedan from Toyota is an ideal choice if you want to get maximum value for your money. It offers fuel efficiency of 13.7 km/L which is sufficiently good for a sedan in this segment. It also provides ample interior space and a powerful engine which helps you to drive in city traffic with ease. The Toyota Corolla Altis 1.6G is available in price range of VND 730,000,000 - VND 790,000,000, depending upon additional features. 
+
+Toyota Camry 2.5G: This sedan from Toyota is the most premium offering and is ideal for those who are looking for luxurious ride. It delivers fuel efficiency of 13.2 km/L which is good for a car of its class. It also provides features like Automatic climate control, Automatic Headlamps, Rear Parking Camera and other modern features which makes driving more comfortable. The Toyota Camry 2.5G is available in price range of VND 890,000,000 - VND 970,000,000, depending upon additional features.

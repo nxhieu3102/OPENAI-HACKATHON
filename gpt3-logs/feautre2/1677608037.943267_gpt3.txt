@@ -1,0 +1,41 @@
+2438a279-f7e7-48fd-bdd7-49d1c31b3f6f
+I am a college student living in Ha Noi:
+Total budget: 10000000 VND 
+Demands that I want to meet: education, food, investing, entertaining
+Specific constraints for each demand: 
+education: toeic learning
+food: vegetarian
+entertaining: traveling, go backpacking
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Education:
+- Allocate 40% of the budget for TOEIC learning. This should cover the cost of tuition, books, online classes, and other related expenses.
+- Utilize online resources to find discounts, coupons, and other savings.
+
+Food:
+- Allocate 30% of the budget for vegetarian food. This should cover the cost of groceries and eating out.
+- Try to buy in bulk when possible to take advantage of discounts.
+- Utilize local farmer's markets and other sources of organic produce to get the best deals.
+
+Investing:
+- Allocate 10% of the budget for investing. This should cover the cost of opening and funding an investment account, as well as any trading fees.
+- Make sure to research any potential investments thoroughly before committing any funds.
+
+Entertainment:
+- Allocate 20% of the budget for entertaining. This should cover the cost of travel, going backpacking, and other recreational activities.
+- Look for deals on airfare, hotels, and rental cars to save money.
+- Utilize local events and attractions to get the most for your money.
+
+Overall, the goal of this spending plan is to maximize your budget and optimize for long-term financial stability. By allocating funds to each demand, you can ensure that you are meeting your goals and staying within your budget constraints.

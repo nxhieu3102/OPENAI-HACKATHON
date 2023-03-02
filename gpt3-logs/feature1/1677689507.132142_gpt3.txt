@@ -1,0 +1,19 @@
+2a7389ee-328c-4085-acdf-cf605e2d0821
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fuel-efficient
+- Budget: 800000000 VND.
+- Market in:  Mazda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Mazda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Mazda CX-5: This sport crossover is known for its excellent fuel economy and is perfect for those who want a stylish and comfortable car. It has the latest i-ACTIVSENSE safety features, a 2.5L engine, and a price of 739,000,000 VND, making it an ideal choice for optimizing value for money. 
+
+Mazda 3: This popular vehicle provides an exquisite driving experience, excellent fuel economy, and advanced safety measures. It has a 1.5L engine and a price of 689,000,000 VND, making it very affordable for all kinds of budget. 
+
+Mazda CX-3: An extremely fuel-efficient model, the CX-3 has a 1.5L engine and a price of 599,000,000 VND. It also has a range of advanced safety features and great everyday practicality, making it an excellent value for money.

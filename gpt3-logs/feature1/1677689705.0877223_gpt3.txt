@@ -1,0 +1,17 @@
+00298953-2248-47b0-9001-3f5ed83c625d
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- SUV with third-row seating and good towing capacity
+- Budget: 600000000 VND.
+- Market in:  Toyota Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Toyota Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Toyota Highlander G 2.0L 4WD: This car provides great towing capacity, perfect for hauling your caravan or boat. It has great fuel economy, and offers third-row seating for large groups of passengers. The price is 557,900,000 VND. 
+2. Toyota Fortuner 4.0L Diesel AT: This car offers a great combination of power and efficiency that is perfect for those needing to move large amounts of cargo quickly. It also offers the third-row seating, and the towing capacity to haul your camper or boat. The price is 551,000,000 VND. 
+3. Toyota Land Cruiser VXR 4.0L PreRunner: If you need the absolute best in towing capacity and off-road capability, the Land Cruiser is your best bet. It offers all the luxuries of a high-end SUV on the inside, and all the power you need to pull your trailer, caravan, or boat on the outside. The price is 578,500,000 VND.

@@ -1,0 +1,31 @@
+2918600c-5663-4517-b232-d1d26e3dc409
+I am a college student living in Ho Chi Minh city:
+Total budget: 6000000 VND 
+Demands that I want to meet: skin-care, house renting, playing sport, shopping
+Specific constraints for each demand: 
+house renting: cheap motel
+playing sport: gyming, dancing
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Skin-care: 6000000 VND
+House Renting: Allocate up to 2200000 VND to find a cheap motel near your college. Look for one that offers discounts for college students and other special deals.
+
+Playing Sport: Allocate up to 2200000 VND for gym membership and related expenses such as equipment and class fees. You can also look for free or discounted classes offered by your college.
+
+Shopping: Allocate up to 2000000 VND for shopping. Look for deals and discounts online or in-store.
+
+Explanation:
+
+Living in Ho Chi Minh city, you will have access to a variety of budget-friendly options to meet your demands. By prioritizing expenses, minimizing costs, and optimizing for long-term financial stability, you can ensure that you stay within your budget constraints while still enjoying your lifestyle. Skin-care is an essential expense and should be allocated the highest amount of your budget, while house-renting, playing sports and shopping should be allocated a lesser amount. Additionally, when considering house-renting, you should look for a cheap motel that offers discounts and special deals for college students. For playing sports, look for free or discounted classes offered by your college and for shopping, look for deals and discounts online or in-store. This spending plan should help you optimize your budget while still meeting your demands.

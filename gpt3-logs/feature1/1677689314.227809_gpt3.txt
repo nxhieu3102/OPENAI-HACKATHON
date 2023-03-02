@@ -1,0 +1,21 @@
+eed98618-e26d-4223-ad8b-61c3471c0ddb
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fuel-efficient
+- Budget: 500000000 VND.
+- Market in:  Toyota Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Toyota Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Toyota Corolla Altis 1.8 G: priced at 341.3 million VND, the Corolla Altis 1.8 G is a fuel-efficient car with a 4-cylinder Dual VVT-i engine and 7-speed Continuous Variable Transmission which work together to offer up to 20.9km/L of fuel efficiency. This model comes with outstanding safety features such as active headrests, seven SRS Airbags, and Toyota Safety Sense. It also has a spacious interior and comfortable driving experience.
+
+2. Toyota Vios 1.5 G CVT: priced at 415 million VND, the Vios 1.5 G CVT is a reliable, fuel-efficient car with a 4-cylinder Dual VVT-i engine and 6-speed Super CVT-i transmission that offers up to 21.3km/L of fuel efficiency. This model comes with various interior features such as 3D amplifier audio system, eco-friendly air conditioning, and a spacious interior. It also offers excellent safety features such as seven SRS airbags and active headrests.
+
+3. Toyota Yaris ATIV 1.5G: priced at 367.9 million VND, the Yaris ATIV 1.5G is a fuel-efficient car with a 4-cylinder Dual VVT-i engine and 7-speed Continuous Variable Transmission which work together to offer up to 21.1km/L of fuel efficiency. This car comes with responsive braking, agile handling, and excellent acceleration performance. Its interior is equipped with numerous comfort and convenience features such as eco-friendly air conditioning and a sporty multi-information display. It also offers up to seven SRS airbags for maximum protection. 
+
+By choosing any of these cars, you are able to optimize your budget, get a reliable and fuel-efficient vehicle, and get the most out of your money. The three car model possibilities listed above are affordable, practical, and efficient options.

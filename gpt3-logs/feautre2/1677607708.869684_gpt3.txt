@@ -1,0 +1,38 @@
+5887c01e-9368-4bfd-bf0d-9568bbe93071
+I am a college student living in Ha Noi:
+Total budget: 4000000 VND 
+Demands that I want to meet: commuting, food, investing, shopping, education
+Specific constraints for each demand: 
+commuting: 15 km by public transportation
+food: can not cook
+education: ielts learning
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Commuting: 
+For commuting, I should aim to spend around 200,000 VND on public transportation each month. This amount should cover a 15 km ride by public transportation. If I am able to reduce my travel costs further by using ridesharing services, I should consider doing so.
+
+Food:
+For food, I should aim to spend around 700,000 VND per month. This amount should be enough to cover meals from restaurants, take-out, and other food delivery services. I should also look for discounts and special offers that can help reduce my costs. 
+
+Investing:
+For investing, I should aim to spend around 500,000 VND per month. This amount should be enough to cover a basic portfolio of investments. I should look for low-cost investments that can help me maximize returns while minimizing risk.
+
+Shopping:
+For shopping, I should aim to spend around 500,000 VND per month. This amount should be enough to cover basic necessities such as clothing, toiletries, and other items. I should look for discounts and special offers that can help me save money.
+
+Education:
+For education, I should aim to spend around 200,000 VND per month. This amount should be enough to cover the cost of taking IELTS classes. I should look for discounts and special offers that can help me save money.
+
+Overall, I should aim to spend around 2,200,000 VND per month. This amount should be enough to cover all the essential expenses that I need to cover on a monthly basis. I should look for discounts and special offers that can help me save money on each of the expenses. Additionally, I should aim to invest the remaining amount to ensure long-term financial stability.

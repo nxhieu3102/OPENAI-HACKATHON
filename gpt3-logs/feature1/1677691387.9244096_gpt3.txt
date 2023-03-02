@@ -1,0 +1,21 @@
+e6056d4d-42f1-4cba-bf5d-807b69630026
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- gentle, non-irritating exfoliators for sensitive skin
+- Budget: 500000 VND.
+- Market in:  The Body Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the The Body Shop curent market price.
+
+ANSWER: 
+
+==========
+
+For a budget of 500000 VND, The Body Shop offers a number of products that meet the gentle and non-irritating standard for sensitive skin. Here are two options that provide value for your money and meet the criteria you want.
+
+First, the Tea Tree Skin Clearing Facial Wash (385000 VND). This product cleanses skin and provides the level of gentleness desired for sensitive skin by using 100% natural tea tree oil, which has been recognized for centuries for its antibacterial and anti-inflammatory properties.
+
+Second, there is the Vitamin C Glow Boosting Moisturiser (100000 VND). Not only is this moisturizer great for gently hydrating sensitive skin, but it also contains vitamin C, which helps to brighten the skin by stimulating natural collagen production and reducing the appearance of discoloration. 
+
+Both selections use natural ingredients, are gentle and non-irritating, and total exactly 500000 VND. Buying these two products will provide best value for your budget and help to promote beautiful, healthy skin.

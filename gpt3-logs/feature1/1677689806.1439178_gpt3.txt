@@ -1,0 +1,19 @@
+2dfbacbe-3acf-4321-85e3-91d49277f5f1
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- SUV with third-row seating and good towing capacity
+- Budget: 1000000000 VND.
+- Market in:  Toyota Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Toyota Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: Toyota Fortuner 2.7G AT 4x4 - 926000000 VND
+The Toyota Fortuner 2.7G AT 4x4 is an excellent SUV choice for your budget of 1000000000 VND. It has a spacious third-row seating that can accommodate up to seven people and can tow up to 3000 kg. It also has a powerful 2.7-litre VVT-i engine capable of producing up to 164 hp and 245 Nm of torque, giving it great power and acceleration. It also comes with a host of safety and convenience features like six airbags, cruise control, ABS with EBD and BA, multi-info display, rear parking camera and sensors, and many others. 
+
+Option 2: Toyota Highlander 3.5G AT 4X4 - 980000000 VND
+The Toyota Highlander 3.5G AT 4X4 is another great option that fits your budget of 1000000000 VND. It has plenty of room for up to seven people, as well as strong towing capacity. Its powerful 3.5-litre Dual VVT-i engine is capable of producing up to 280 hp and 341 Nm of torque for crisp performance. It also comes with a range of safety and convenience features such as nine airbags, advanced parking assist system, adaptive cruise control, and many others.

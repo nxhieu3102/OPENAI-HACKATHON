@@ -1,0 +1,21 @@
+d94fead8-8c76-4691-a1d7-1adb50d95365
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- winter coat that's warm and waterproof but still stylish
+- Budget: 500000 VND.
+- Market in:  Online Shopping
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Online Shopping curent market price.
+
+ANSWER: 
+
+==========
+
+1) Arithemic Women's Winter Jacket: A thick and cozy winter coat made of high quality insulation and metalized fabric to keep you warm and stylish. It features a longer length, adjustable draw cord at the hood and two side pockets. Price: 470,000 VND. 
+
+2) WonderWink Women's Long Jacket: A sleek black winter coat with thoughtful details like a soft jersey lining and concealed zipper pockets to keep you warm and safe from the elements. Price: 450,000 VND. 
+
+3) Jessica Simpson Women's Parka Jacket: This simple yet stylish parka jacket is perfect for cold winter days. It is made of lightweight fabric with hood and front zipper pockets. It has a drawstring waist and a faux fur trim at the hood. Price: 425,000 VND. 
+
+These three jackets are fit for the winter season, stylish and within the given budget. All of these jackets provide warmth, comfort, and protection against the elements. Additionally, they are lightweight and durable, perfect for any kind of cold winter weather.

@@ -1,0 +1,8 @@
+Job: college student
+Location: Da Nang
+Budget: 3000000
+Demands: playing sport, education, house renting
+Constraints: playing sport: karate
+education: programming learning
+house renting: near city center
+SPENDING PLAN: 

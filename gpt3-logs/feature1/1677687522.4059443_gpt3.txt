@@ -1,0 +1,25 @@
+6c9cd301-5dc2-4baf-99a0-14c3cbe6c8dd
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- comfortable, breathable cotton t-shirts in a variety of colors
+- Budget: 5000000 VND.
+- Market in:  Online Shopping
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Online Shopping curent market price.
+
+ANSWER: 
+
+==========
+
+1) Cotton Casual Plain T-Shirts (Price: 59,000VND): made of 100% cotton fabric, these plain t-shirts are comfortable, breathable and perfect for daily wear. They come in a variety of colors and sizes, so you can find one to suit any style or occasion.
+
+2) Cotton Round Neck Striped T-Shirts (Price: 120,000VND): This classicstyle t-shirt is made from pure cotton fabric, ensuring breathability and comfort on hot summer days. The simple striped print design adds a twist to your classic look, while the round neckline ensures easy wearing.
+
+3) Cotton Reversible T-Shirts (Price: 230,000VND): This unique t-shirt is made with pure cotton fabric and is reversible, so you get two looks in one. The design combines several pieces of colorful fabrics to create an eye-catching and unique look that is perfect for casual looks. 
+
+4) Cotton Checked T-Shirts (Price: 175,000VND): Made with fine cotton fabric, these checked t-shirts offer an easy, comfortable fit for hot weather. The design is simple and classic, with a solid color on one side and a checked pattern on the other, offering two stylish looks in one. 
+
+5) Cotton Embroidery T-Shirts (Price: 190,000VND): This casual but stylish t-shirt is made with pure cotton fabric and features a delicate embroidery pattern. The classic style makes it perfect for everyday wear, while the intricate embroidery gives it an added touch of sophistication. 
+
+With a total cost of 924,000VND, you can purchase these 5 different cotton t-shirts, each with its own distinct style, while still optimizing your budget. The breathable fabric and variety of colors will ensure you are comfortable and able to find something to suit your style.
