@@ -1,0 +1,10 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 2500000
+Demands: food, commuting, playing sport, house renting, education
+Constraints: food: vegetarian
+commuting: 10 km to school, by motorbike
+playing sport: gyming, dancing
+house renting: suburban area
+education: ielts learning
+SPENDING PLAN: 

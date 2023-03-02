@@ -1,0 +1,23 @@
+f802b4a1-9a97-4ae5-98f3-2b107a58bf45
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- a brand that provides good support and is suitable for pavement running
+- Budget: 10000000 VND.
+- Market in:  Shopping Malls
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Shopping Malls curent market price.
+
+ANSWER: 
+
+==========
+
+For the most optimal budget and to meet the required parameters, I recommend: 
+1. Nike Flex Stride Shorts Unisex - priced at 395,000VND: These shorts are made of Nike Flex fabric that stretches to move with you while running. Along with the mesh details behind the knee, they allow your body to breathe better through great ventilation.
+
+2. Adidas Lite Racer CLN Shoes Unisex - priced at 485,000VND: These shoes are designed to provide the maximum comfort while running. It has a lightweight, flexible upper and the cushioning midsole. It also has a rubber outsole for the best grip and traction.
+
+3. Nike Breathe Cool Running Top Unisex - priced at 520,000VND: This running top is designed to keep you cool during your run. It is made with Nike Breathe fabric to help you feel more refreshed and prevent sweat and moisture from staying on your body.
+
+Total cost: 1,400,000 VND
+This selection meets your budget, requirements, and will provide you all the necessary features for running on pavement. The Nike Flex Stride shorts offers great stretching and ventilation. The Adidas Lite Racer CLN shoes provides good cushioning and the best traction. Last but not least, the Nike Breathe Cool running top is designed to keep you cool and fresh during your runs.

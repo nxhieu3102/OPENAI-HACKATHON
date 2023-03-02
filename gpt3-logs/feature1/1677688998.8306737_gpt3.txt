@@ -1,0 +1,17 @@
+16d691da-6358-42ff-9463-c5268f310998
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- comfortable keyboard for typing
+- Budget: 25000000 VND.
+- Market in:  FPT Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the FPT Shop curent market price.
+
+ANSWER: 
+
+==========
+
+1. HP Pavilion 15-cs1016TU (ZX): This laptop is a great option for your budget as it has a 15.6-inch Full HD IPS anti-glare touch display with a comfortable keyboard for comfortable typing. It's powered by an 10th gen Intel Core i5-1035G1 processor and 8GB of RAM, and has a 512GB SSD for an amazing storage option. It has an external USB Type-C port with DisplayPort 1.2 support, so connecting an extra monitor for more workspace is easy. It is currently priced at 23,990,000 VND making it an optimal choice for your budget.
+
+2. Asus VivoBook S14 S433EA-AM215T: The VivoBook S14 S433 is one of the best options in its price range. It has great performance and features, especially since it is powered by a 10th Gen i5 processor. The 14-inch Full HD display has an ergonomic design with wide viewing angles, making it an excellent option for watching shows and movies. The keyboard has an ergonomic design with a 1.4mm key travel distance and fingerprint recognition, making it fast and comfortable to type on. It also has an NVIDIA GeForce MX350 graphics card with 2GB GDDR5 VRAM, so you can enjoy some of the more demanding games as well. It is currently priced at 24,490,000 VND, ensuring you're getting quality performance for your budget.

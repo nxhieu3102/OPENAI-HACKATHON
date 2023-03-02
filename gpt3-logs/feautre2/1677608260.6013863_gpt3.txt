@@ -1,0 +1,39 @@
+e031ee79-11d0-4499-a240-a0a8fc93ddf2
+I am a college student living in Da Nang:
+Total budget: 10000000 VND 
+Demands that I want to meet: playing sport, education, skin-care, entertaining
+Specific constraints for each demand: 
+playing sport: gyming, dancing
+education: programming learning
+entertaining: traveling, go backpacking
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Playing Sport: 
+Cost: 2,000,000 VND 
+Schema: Invest in gym membership and invest in some dance classes. 
+
+Education: 
+Cost: 4,000,000 VND 
+Schema: Invest in a programming course that covers the basics and provide the necessary knowledge needed to further develop your programming skills. 
+
+Skin-Care: 
+Cost: 2,000,000 VND 
+Schema: Invest in quality skincare products such as moisturizers, cleansers and sunscreens that are suitable for your skin type. 
+
+Entertaining: 
+Cost: 2,000,000 VND 
+Schema: Consider traveling within Da Nang and its surrounding areas. Look into local attractions and consider backpacking options for more affordable experiences. 
+
+By optimizing your spending plan in this way, you can ensure that you stay within your budget constraints and prioritize essential expenses over non-essential expenses. Additionally, by investing in quality skincare products and a programming course, you can ensure long-term financial stability and continue to develop your skills.

@@ -1,0 +1,7 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 4000000
+Demands: education, food, skin-care
+Constraints: education: drawing, cooking
+food: high protein
+SPENDING PLAN: 

@@ -1,0 +1,23 @@
+b22887a3-9a9f-4ec6-ac71-62dfa98ee7aa
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- comfortable, breathable cotton t-shirts in a variety of colors
+- Budget: 300000 VND.
+- Market in:  Online Shopping
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Online Shopping curent market price.
+
+ANSWER: 
+
+==========
+
+1) 7 Brothers T-Shirts (4-Pack): This four-pack of t-shirts is made from 100% cotton, making them comfortable and breathable. The pack includes blue and white t-shirts with a single logo on the chest, as well as gray and navy blue t-shirts with a single logo on the chest, so you can mix and match your outfit. They are machine-washable and easy to care for, and they fit true to size. Price: 250,000 VND.
+
+2) Stou Flash T-Shirt (2-Pack): This two-pack of t-shirts is made from 100% cotton and comes in black and white. They are lightweight and breathable, ideal for warm summer days, and feature two different logo designs across the chest. The t-shirts are machine-washable and easy to care for, and they will fit true to size. Price: 120,000 VND.
+
+3) Ducati T-Shirt: This t-shirt is made from 100% cotton, making it lightweight and breathable. It features a Ducati logo on the chest, so you can show your love for the brand. The t-shirt is available in black, making it perfect for any occasion. Price: 30,000 VND.
+
+Total cost: 400,000 VND.
+
+By buying these t-shirts, you can optimize your budget, get comfortable and breathable cotton t-shirts in a variety of colors, and show your love for your favorite brand. Plus, they are all machine-washable and easy to care for, so you can get your money's worth.

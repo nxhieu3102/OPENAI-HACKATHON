@@ -1,0 +1,34 @@
+d9474712-f69b-4cea-b83d-2f2f47f3b6c6
+I am a college student living in Da Nang:
+Total budget: 4000000 VND 
+Demands that I want to meet: shopping, commuting, skin-care, education
+Specific constraints for each demand: 
+commuting: 10 km to school, by motorbike
+education: drawing, cooking
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Shopping: 
+Allocate a budget of 1.5 million VND to shopping. This budget can be used to purchase clothing, shoes, accessories and other items that are necessary for daily life. Shopping should be done at local markets or online stores where prices are competitive. Try to purchase items of lasting quality that will last longer and save money in the long run.
+
+Commuting: 
+Considering the distance you need to travel (10 km) and the mode of transport (motorbike), allocate 1 million VND to commuting costs. This should cover the cost of fuel, maintenance, and any other associated costs. Look out for discounts or special offers from nearby petrol stations or bike shops.
+
+Skin-care:
+Since skin-care products are not essential for daily life, allocate 500,000 VND to skin-care, which should be enough to purchase basic skincare products for everyday use. When purchasing skin-care products, prioritize quality over quantity and opt for natural products where possible.
+
+Education:
+For learning activities such as drawing and cooking, allocate 500,000 VND. This budget can be used to purchase necessary materials, hire tutors, or join a class. Consider the costs associated with each activity and plan accordingly.
+
+Overall, 4 million VND should be enough to cover all of your demands and still leave you some money for a rainy day. The spending plan above should help you make the most of your budget and ensure that you stay within your budget constraints.

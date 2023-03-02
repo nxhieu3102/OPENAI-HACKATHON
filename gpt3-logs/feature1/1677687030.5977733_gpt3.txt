@@ -1,0 +1,25 @@
+580d5e39-a654-47a2-bd26-17d73c7d0f14
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- good wine to pair with grilled salmon
+- Budget: 1000000 VND.
+- Market in:  Supermarkets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Supermarkets curent market price.
+
+ANSWER: 
+
+==========
+
+1. grilled salmon — 2.5 kg at 200,000 VND
+This salmon is fresh, juicy, and full of flavor. It's a great choice for grilling and it can easily be paired with a variety of wines.
+
+2. Yalumba Y Series Viognier 2018 - 750ml at 450,000 VND
+This white wine is designed to pair with seafood dishes and its flavor profile is reminiscent of apricot, peaches and nutmeg. This is a great option for grilling salmon and it will work perfectly with the flavors already present in the fish. 
+
+3. Fresh Vegetable Selection (Onion, Carrot, Tomato) - 1kg at 250,000 VND
+A great combination of vegetables to go with the salmon. Onion and carrot will give a great caramelized flavor, while the tomato will add a nice sweetness and juiciness to the meal. 
+
+Total Cost: 900,000 VND 
+This selection gives a great combination of flavors, and is within budget. The salmon is a good quality, and the wine and vegetables pair perfectly with it.

@@ -1,0 +1,33 @@
+64ba3081-3c85-46c2-85a5-41340ee57657
+I am a college student living in Da Nang:
+Total budget: 3000000 VND 
+Demands that I want to meet: commuting, shopping, investing, food, entertaining
+Specific constraints for each demand: 
+commuting: 15 km by public transportation
+food: high protein
+entertaining: traveling, go backpacking
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Commuting: 15 km by public transportation - Allocate 20% of the budget, or 600,000 VND, towards commuting expenses. This can be used to purchase monthly bus passes or to pay for rides on the bus or other forms of public transportation. 
+
+Shopping: Allocate 25% of the budget, or 750,000 VND, towards shopping expenses. Consider cutting back on non-essential items such as clothes and accessories and instead focus on purchasing items that are necessary for everyday living. 
+
+Investing: Allocate 10% of the budget, or 300,000 VND, towards investing. Investing in stocks, bonds, mutual funds, or other financial instruments can be a great way to grow your money over time. 
+
+Food: Allocate 30% of the budget, or 900,000 VND, towards food expenses. Make sure to focus on high protein foods that are rich in vitamins and minerals. Additionally, consider shopping at local markets to find deals on fresh produce. 
+
+Entertaining: Allocate 15% of the budget, or 450,000 VND, towards entertaining expenses. This can be used to fund trips and backpacking trips. Consider looking for cheaper alternatives such as camping or staying in hostels to save money. Additionally, look for discounts on tickets for attractions and entertainment. 
+
+By following this spending plan, you should be able to stay within your budget and still enjoy the activities that you desire. Additionally, by investing a portion of your budget and focusing on long-term financial stability, you will be able to ensure that you are able to meet your financial goals.

@@ -1,0 +1,9 @@
+Job: bank staff
+Location: Ha Noi
+Budget: 3000000
+Demands: playing sport, shopping, entertaining, commuting, food
+Constraints: playing sport: gyming, dancing
+entertaining: drinking, cooking
+commuting: 10 km to school, by motorbike
+food: calories reduce
+SPENDING PLAN: 

@@ -1,0 +1,27 @@
+e634ab77-1bb4-46ad-b0c4-6c75f813ab05
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- healthy
+- Budget: 2000000 VND.
+- Market in:  Supermarkets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Supermarkets curent market price.
+
+ANSWER: 
+
+==========
+
+-Chicken Breast (500gr) - 300.000 VND: Chicken breast is a lean source of protein, packed with essential vitamins and minerals including the B Vitamins, Vitamin A, potassium, iron and zinc. 
+
+- Shrimp (400gr) - 290.000 VND: Shrimp is an excellent source of lean protein, high in several vitamins and minerals including phosphorus, selenium, and choline. It's also a low-calorie, high-omega-3 fatty acid, low-fat seafood.
+
+- Sweet Potato (2 pieces) - 60.000 VND: Sweet potato is an excellent source of dietary fiber, beta carotene, and vitamin C. It provides complex carbs and small amounts of many essential vitamins and minerals.
+
+- Spinach (200gr) - 20.000 VND: Spinach is a great source of antioxidant vitamins A and C, vitamin K, iron, calcium, and magnesium. It's also a good source of dietary fiber. 
+
+- Avocados (2 pieces) - 90.000 VND: Avocados are full of monounsaturated fats, dietary fiber, vitamins B-6, C, E and K, folate and potassium. Eating avocados may help lower blood sugar, support heart health, and lower cholesterol. 
+
+Total cost: 760.000 VND
+
+This combination of foods will help to optimize your budget as it is under the 2000000 VND limit. It will also provide a good balance of lean proteins, complex carbs, dietary fiber, healthy fats, vitamins and minerals that are essential for the human body. In conclusion, the foods mentioned are a great way to stay within your budget and ensure that you are getting the essential nutrients your body needs.

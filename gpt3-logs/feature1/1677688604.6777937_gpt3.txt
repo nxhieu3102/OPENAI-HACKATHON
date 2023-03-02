@@ -1,0 +1,21 @@
+f9af1897-7d2b-47cf-b614-c1b0bed08eac
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- affordable and durable
+- Budget: 10000000 VND.
+- Market in:  Nguyen Kim
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Nguyen Kim curent market price.
+
+ANSWER: 
+
+==========
+
+1. Lenovo Ideapad S145-15IWL: It is a reliable laptop with a 15.6 inch HD TN display, Intel Core i3-8145U processor, 4GB RAM, and a bulky 256GB SSD storage. The laptop is lightweight and durable, which makes it easy to move around. It is also within your budget at 9390000 VND.
+
+2. Acer Swift 3 SF314-57: The Acer Swift 3 SF314-57 is an excellent option for those looking for a reliable laptop. It's sporting an Intel Core i5-1035G4 processor, 8GB RAM, and 512GB SSD. The laptop is also lightweight and has a 14-inch Full HD IPS display. It costs 9410000 VND.
+
+3. Asus X509JP-EJ151T: A great choice for an affordable laptop is the Asus X509JP-EJ151T. It has a 15.6-inch FHD display with an anti-glare coating. It has 512GB of storage and 8GB RAM, along with a reliable Intel Core i3-8145U processor. Additionally, it's lightweight, durable, and costs 9830000 VND. 
+
+These laptops all optimize your budget, satisfy the conditions, and are clearly the best value for money. Each laptop has been chosen based on value, features, and price, and still fits under your budget. With any of these laptops, you will be able to use it for anything you need to, without having to worry about it being too expensive or too poor in quality.

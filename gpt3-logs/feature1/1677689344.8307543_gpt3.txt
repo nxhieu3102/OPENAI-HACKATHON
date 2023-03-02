@@ -1,0 +1,19 @@
+fc4697fc-413c-4781-9a5a-94ccd3738d1a
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fuel-efficient
+- Budget: 500000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+Toyota Yaris: This is a great option for those looking for a fuel-efficient car in Vietnam. It has a 1.5-liter engine and has a fuel consumption rate of 5.7 liters per 100 km, which is below the average. It offers great performance, great handling, and it's quite affordable, costing around 500 million VND for a new model. Furthermore, the Yaris is known for being reliable, so you won't have to worry about frequent repairs.
+
+Kia Rio: Another great option for those looking for a fuel-efficient car in Vietnam is the Kia Rio. Like the Yaris, it has a 1.5-liter engine with a fuel economy of 5.8 liters per 100 km. The car also offers a great amount of features and interior space, making it ideal for family trips. Furthermore, it is also relatively affordable, costing at around 470 million VND for a new model.
+
+Hyundai Accent: Another great option for those with a budget of up to 500 million VND is the Hyundai Accent. It has a 1.4-liter engine and has a fuel economy of 5.9 liters per 100 km. It's a great choice for those looking for a reliable car, as it has a great amount of interior space and offers a host of features. Furthermore, the car is available for around 475 million VND, which is perfect for budget-conscious buyers.

@@ -1,0 +1,21 @@
+86b68ffe-a2ac-4c22-82f6-c86ff0931556
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- non-comedogenic sunscreen
+- Budget: 300000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Neutrogena Ultra Sheer Dry-Touch Sunblock SPF 50+, 50 ml, Price: 145,000 VND 
+This non-comedogenic sunscreen provides broad spectrum UVA/UVB protection while hydrating and nourishing your skin without any odour. It also boasts of water-resistant properties and a lightweight, non-greasy formula.
+
+2. Bioderma Photoderm Max Cream SPF 50+, 50 ml, Price: 145,000 VND
+This non-comedogenic cream offers waterproof, broad spectrum UVA/UVB protection to help your skin stay protected from the sun. It is also fast-absorbing, has a transparent and light texture that feels comfortable on your skin, and is enhanced with antioxidants to protect your skin from free radicals.
+
+Total Price: 290,000 VND.

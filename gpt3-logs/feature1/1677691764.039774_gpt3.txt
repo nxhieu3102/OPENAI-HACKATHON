@@ -1,0 +1,24 @@
+491d7275-9a44-4958-a514-29ec7a3521e6
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- spacious one-bedroom apartment with a balcony
+- Budget: I do not have enough money, just give me the information.
+- Market in:  Ho Chi Minh city
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ho Chi Minh city curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: 
+Apartment with 33m2 floor area, one-bedroom with a balcony; located in District 5. The cost for you to buy this apartment is around 500 million VND (approximately 21,739 USD). It has a good location because it is near schools, supermarkets, and other necessary services. The apartment is also located in one of the safest districts in Ho Chi Minh city.
+
+Option 2:
+Apartment with 53m2 floor area, one-bedroom with a balcony; located in District 7. The cost for you to buy this apartment is around 800 million VND (approximately 34,790 USD). The apartment is near universities, hospitals, shopping malls, and other necessary services. It is also located in a quite and secure area.
+
+Option 3:
+Apartment with 42m2 floor area, one-bedroom with a balcony; located in District 10. The cost for you to buy this apartment is around 600 million VND (approximately 25,847 USD). The apartment has a great location being close to parks, restaurants, banks, and other necessary services. It is also near a large bus and taxi station.
+
+We recommend you to choose any of the options above according to your budget and the location you are looking for. All of these options offered are affordable and meet the criteria that you set, so you can be sure that you will get a good value for your money. We have provided you with detailed descriptions of the apartments to help you find the best choice for your budget.

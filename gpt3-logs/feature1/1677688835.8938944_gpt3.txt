@@ -1,0 +1,21 @@
+d3510a85-5cf5-4f51-99c4-f65dcf5c0d63
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- comfortable keyboard for typing
+- Budget: 10000000 VND.
+- Market in:  Thegioididong
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Thegioididong curent market price.
+
+ANSWER: 
+
+==========
+
+1. Acer Aspire 5 Slim A515-54-51DJ, priced at 99,990,000 VND: It comes with a full-size backlit keyboard for comfortable typing and a long-lasting 8-hour battery life, plus with its Intel Core i5 processor and 8GB of RAM, you can enjoy quick access to all your favorite applications without any lag.
+
+2. HP Pavilion 15-ck018TX, priced at 98,990,000 VND: Equipped with an intelligent touchpad, the Pavilion 15 laptop offers a full-size ergonomic backlit keyboard, a powerful Intel Core i5 processor and 8GB of RAM so you can work and play without any lag. It also comes with a high-definition display and dual speakers for an immersive multimedia experience.
+
+3. Dell Inspiron 15-3576, priced at 97,990,000 VND: Featuring an Intel Core i5 processor and 8GB of RAM, this laptop offers fast computing, plus a full-size backlit keyboard designed for comfortable typing. It also comes with a 15.6-inch HD display, Dolby Audio speakers, and excellent battery life for a lightweight and convenient experience.
+
+4. ASUS VivoBook 15, priced at 97,990,000 VND: It features a slim and lightweight design, plus a full-size backlit keyboard for comfortable typing. It also sports an Intel Core i5 processor, 8GB of RAM, and a long-lasting 8-hour battery life. Plus with its 15.6-inch HD display and dual speakers, it’s sure to provide an immersive multimedia experience.

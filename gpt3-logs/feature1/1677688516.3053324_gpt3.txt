@@ -1,0 +1,19 @@
+08ec190a-0bef-49c5-a888-32dbaf172cca
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- large display and a dedicated graphics card for gaming
+- Budget: 25000000 VND.
+- Market in:  FPT Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the FPT Shop curent market price.
+
+ANSWER: 
+
+==========
+
+1. HP Pavilion 15 Gaming Laptop (2390000 VND): This laptop has a 15.6-inch Full HD IPS Display with a dedicated 2 GB AMD Radeon RX 550 Graphics card which will ensure quality gaming experience. It is powered by an AMD Ryzen 5 3550H processor and 8GB RAM, so you can expect good performance for everyday use. Moreover, it also has a 1TB HDD for plenty of storage. With a price of 2390000 VND, this laptop will give you a great gaming performance in your budget.
+
+2. Acer Nitro 5 AN515-34 Ryzen 5 Laptop (2285000VND): This laptop has a 15.6-inch Full HD IPS Display with a dedicated 4GB NVIDIA GeForce GTX 1050 Graphics card which will give you the best gaming performance. It is powered by an AMD Ryzen 5 Processor and 8GB RAM, so you can expect great performance for everyday use. Moreover, it also has a 256GB SSD for plenty of storage. With a price of 2285000VND, it will give you the best gaming performance in your budget.
+
+3. Dell Inspiron 11 Gaming Laptop (2500000 VND): This laptop has a 11.6-inch HD anti-glare display with a dedicated 4GB NVIDIA GeForce GTX 1050 Graphics card which will give you the best gaming performance. It is powered by Intel Core i5-8300H processor and 8GB RAM, so you can expect enhanced performance for everyday use. Moreover, it also has a 512GB SSD for plenty of storage. With a price of 2500000 VND, this laptop will give you the best gaming performance in your budget.

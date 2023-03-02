@@ -1,0 +1,21 @@
+17b26c9c-5f66-4245-ac61-fb4e5c427114
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- good wine to pair with grilled salmon
+- Budget: 700000 VND.
+- Market in:  Traditional markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Traditional markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Grilled salmon - A good choice is grilled salmon from a traditional market with a price of 35000 VND per 250 grams. The salmon is fresh and has a rich, buttery taste that pairs particularly well with white wines like Chardonnay.
+
+2. White Wine (Chardonnay) - You can purchase a bottle of Chardonnay from a traditional market at a price of 60000 VND. The Chardonnay is clean and crisp with a balance of mild fruit and oak notes that compliment the richness of the salmon.
+
+Total cost: 95000 VND.
+
+This combination of food and wine will not only optimize your budget, but it is also a great pairing that will allow you to experience the deliciousness of both food and wine. The Chardonnay will balance out the richness of the salmon, and the salmon will showcase the delicate fruit and oak notes of the Chardonnay.

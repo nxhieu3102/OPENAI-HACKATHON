@@ -1,0 +1,38 @@
+83525228-c280-4975-b089-175b46ad28d9
+I am a college student living in Da Nang:
+Total budget: 2500000 VND 
+Demands that I want to meet: education, investing, entertaining
+Specific constraints for each demand: 
+education: drawing, cooking
+entertaining: drinking, cooking
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Education: 
+• Allocate 1500000 VND for drawing and cooking classes. 
+• Consider taking drawing classes online if there are no local classes available. 
+• Try to find cheaper classes if possible.
+
+Investing:
+• Allocate 500000 VND towards investing in stocks, bonds, mutual funds, and other investments. 
+• Research the market and look for good investment opportunities to maximize returns. 
+• Make sure to diversify your investments to reduce risk and increase your chances of success.
+
+Entertaining: 
+• Allocate 500000 VND towards drinking and cooking activities. 
+• Consider taking cooking classes online if there are no local classes available. 
+• Look for cheaper deals on drinks and food in local restaurants. 
+• Make sure to budget in some extra money for unexpected expenses such as transportation. 
+
+Overall, the spending plan should provide a way for you to make informed decisions about how to use your budget. With this plan, you can prioritize essential expenses over non-essential ones, minimize costs where possible, and optimize for long-term financial stability.

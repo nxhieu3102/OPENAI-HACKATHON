@@ -1,0 +1,31 @@
+8d740b91-c5c0-4ed6-8ac4-10f3dd9b480a
+I am a college student living in Ho Chi Minh city:
+Total budget: 4000000 VND 
+Demands that I want to meet: skin-care, house renting, playing sport, commuting
+Specific constraints for each demand: 
+house renting: suburban area
+playing sport: gyming, dancing
+commuting: 15 km by public transportation
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Skin-care: With your budget of 4000000 VND, you should allocate 2000000 VND for skin-care. This should cover basic needs such as moisturizers, cleansers, and sunscreen. If you can afford to, try to buy natural and organic products to ensure the best quality for your skin.
+
+House renting: For this demand, you should allocate 1500000 VND. Look for a place in the suburban area that fits within your budget. You should also consider the cost of utilities, such as electricity and water, when calculating the total cost of renting a house. 
+
+Playing sport: Allocate 500000 VND for playing sports. This should cover the cost of a gym membership and any additional fees for classes or equipment. Consider any discounts that gyms may offer for student memberships. Additionally, look for other ways to stay active such as joining a dance class or participating in sports leagues.
+
+Commuting: For this demand, you should allocate 300000 VND. This should cover the cost of public transportation tickets for 15 km. Try to purchase monthly passes or discounted tickets if you are able to in order to save money in the long run. 
+
+Overall, this spending plan should help you stay within your budget while still meeting your demands. Remember to prioritize essential expenses over non-essential expenses and to look for ways to save money whenever possible. Additionally, consider how long-term financial stability can be achieved through smart spending decisions.

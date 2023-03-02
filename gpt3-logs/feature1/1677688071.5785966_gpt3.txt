@@ -1,0 +1,21 @@
+b694c7c1-d200-49c5-8ded-0d4914734632
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- a brand that provides good support and is suitable for pavement running
+- Budget: 1000000 VND.
+- Market in:  Online Shopping
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Online Shopping curent market price.
+
+ANSWER: 
+
+==========
+
+1. Nike Revolution 5 Men's Running Shoe - 990,000 VND: This shoe provides great support, making it suitable for running on pavements. It is also lightweight and comes with a soft foam midsole for cushioning with every step.
+
+2. Golla Sneakers for Men - 900,000 VND: These sneakers provide good support and cushioning. The lightweight design makes it great for running on pavements and the sneakers come with air mesh and knitted upper for superior breathability.
+
+3. Reebok Exofit Low White Trainers - 890,000 VND: These trainers provide good support and cushioning. The toe guard and padded collar help protect your feet from scrapes and bruises, while the rubber outsole provides grip and traction during pavement running.
+
+These three options optimize your budget of 1,000,000 VND while still providing adequate support and cushioning as required. You can pick the one that best fits your requirements and style.

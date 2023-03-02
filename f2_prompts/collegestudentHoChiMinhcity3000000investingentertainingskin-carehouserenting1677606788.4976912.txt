@@ -1,0 +1,7 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 3000000
+Demands: investing, entertaining, skin-care, house renting
+Constraints: entertaining: party, go to coffee
+house renting: not far from city center
+SPENDING PLAN: 

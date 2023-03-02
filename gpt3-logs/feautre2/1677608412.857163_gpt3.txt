@@ -1,0 +1,36 @@
+58ad8a6c-4074-4bec-b898-d234ba80f0a4
+I am a college student living in Ha Noi:
+Total budget: 15000000 VND 
+Demands that I want to meet: investing, food, playing sport, entertaining, shopping
+Specific constraints for each demand: 
+food: calories reduce
+playing sport: swimming and bicycling
+entertaining: theater and concerts
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Investing: 3000000 VND (30% of budget)
+Investing in stocks, bonds, or other investments is beneficial for the long-term financial stability of the user. It is important to allocate a portion of their budget to investing in order to ensure a secure future financially. 
+
+Food: 4000000 VND (40% of budget)
+Food is essential in order to stay healthy and maintain a balanced lifestyle. Eating at home is the best way to reduce the costs associated with food while still ensuring that the user is able to consume healthy, balanced meals. Other cost-reducing measures include buying in bulk, utilizing coupons, and shopping around for the best prices. 
+
+Playing Sport: 3000000 VND (30% of budget)
+Playing sport is important for both physical and mental health. Swimming and bicycling are both low-cost activities that can help the user stay healthy and fit. Additionally, there are many public swimming pools and biking trails available in Ha Noi that are free of charge. 
+
+Entertaining: 2000000 VND (20% of budget)
+Entertaining oneself is important for mental health and well-being. The user can save money by taking advantage of discounts and promotions offered by local theaters and concert venues. Additionally, they can take advantage of online streaming services to watch movies and listen to music without having to pay for tickets. 
+
+Shopping: 1000000 VND (10% of budget)
+Shopping can be expensive, but it is still important to budget for it. The user can save money by shopping around for the best prices and taking advantage of online discounts. They should also be mindful of impulse buying and try to stick to their budget as closely as possible.

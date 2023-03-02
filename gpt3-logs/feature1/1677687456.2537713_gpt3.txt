@@ -1,0 +1,22 @@
+c14d17f5-fe64-41f1-8470-98ea31b8e17e
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- comfortable, breathable cotton t-shirts in a variety of colors
+- Budget: 500000 VND.
+- Market in:  Online Shopping
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Online Shopping curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1:
+- 4 pack of Unisex Cotton T-Shirts – Made from breathable cotton material, this 4-pack of T-shirts from ASOS comes in a variety of colors and comes with a total price of 449,000 VND. The material is soft enough and allows maximum breathability.
+
+Option 2:
+- Cotton T-Shirts – This T-shirt is made from 100% organic cotton and comes in a variety of colors. Each T-shirt costs 119,000 VND so with 500,000 VND you can buy 4 of them. The 100% organic cotton material is breathable and soft which makes it perfect for your casual wardrobe.
+
+Option 3:
+- 5-Pack of Printed T-Shirts – This 5-pack of T-shirts from Zalora comes with 5 different prints in all sizes. The price for this set is 459,000 VND and it utilizes cotton fabric that is breathable and allows for maximum air circulation.

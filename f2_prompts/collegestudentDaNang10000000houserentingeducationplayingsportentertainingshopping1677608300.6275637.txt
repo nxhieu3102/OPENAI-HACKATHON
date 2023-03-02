@@ -1,0 +1,9 @@
+Job: college student
+Location: Da Nang
+Budget: 10000000
+Demands: house renting, education, playing sport, entertaining, shopping
+Constraints: house renting: near city center
+education: toeic learning
+playing sport: swimming and bicycling
+entertaining: drinking, cooking
+SPENDING PLAN: 

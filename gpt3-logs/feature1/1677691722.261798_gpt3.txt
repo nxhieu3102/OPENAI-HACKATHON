@@ -1,0 +1,24 @@
+22076a57-10ff-4e75-a4dc-dcd87460014b
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- good apartment complex in Ho Chi Minh city that has a gym and pool
+- Budget: 4000000000 VND.
+- Market in:  Ha Noi
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ha Noi curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: 
+A studio apartment located in The Royal City, Hanoi for about 3,800,000,000 VND. It is a comfortable apartment complex with a total area of 38 square meters. It features a 24h on-site security guard, modern gym, and a rooftop pool with stunning city skyline views. 
+
+Option 2: 
+An apartment located in Cau Giay district, Hanoi for about 4,000,000,000 VND. It offers 1 bedroom and a total area of 50 square meters. It also has a 24h on-site security guard, modern gym, and an outdoor swimming pool. The location of the complex is very convenient with all services like supermarkets, banks, and transportation nearby. 
+
+Option 3: 
+A 2-bedroom apartment located in Grand Hanoi, Hanoi for about 4,000,000,000 VND. It has a total area of 70 square meters and offers a modern gym and outdoor swimming pool and a 24h security guard. The building is conveniently located, near supermarkets, banks, and transportation. 
+
+These options allow you to optimize your budget and satisfy the conditions you need for purchase. In addition, each property offers numerous facilities which provide a comfortable and secure environment. So, no matter which option you choose, you will be able to get the most of your budget.

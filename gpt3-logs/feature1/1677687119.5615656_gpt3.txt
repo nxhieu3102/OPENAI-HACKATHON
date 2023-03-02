@@ -1,0 +1,19 @@
+2c540099-1aed-4876-8f2c-154882af3510
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- good wine to pair with grilled salmon
+- Budget: 1500000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Ha Huy Giang: Vang Ngọc Châu Duc Bảo Đức (1,200,000 VND): This deep-bodied and full-bodied red wine has intense aromas of blackberry, tar and leather. Its intense yet balanced tannins are complemented by aromas of autumn fruit, minerals and sweet spices. This bottle is the perfect companion for grilled salmon’s complex, nutty taste. 
+
+2. Sinsin: Vang Rousse (300,000 VND): Richly structured and intense, this wine has aromas of leather, blackberry and mushroom on the nose. Its flavors are balanced and deep, providing a great companion to the complex flavors of grilled salmon. 
+
+Total Cost: 1,500,000 VND

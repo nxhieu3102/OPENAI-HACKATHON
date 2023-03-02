@@ -1,0 +1,24 @@
+1408abab-7d2f-4b15-bc06-e945b74e9829
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- vegan
+- Budget: 2000000 VND.
+- Market in:  Traditional markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Traditional markets curent market price.
+
+ANSWER: 
+
+==========
+
+- 30 bunches of fresh lettuce (150,000 VND): Lettuce is a great vegan option. It's very high in vitamins and minerals and low in fat and calories. It's also a good source of dietary fiber, so it will help you feel full longer. 
+
+- 30 bunches of carrots (90,000 VND): Carrots are rich in vitamins and minerals, especially vitamin A and beta-carotene. They're also great raw and cooked, and they contain plenty of dietary fiber necessary for a healthy diet. 
+
+- 10 bunches of broccoli (90,000 VND): Broccoli is an excellent vegan option high in vitamins and minerals such as vitamin C, potassium, and dietary fiber. It's also rich in antioxidants and anti-inflammatory compounds, and it can be eaten raw or cooked. 
+
+- 10 bunches of cauliflower (90,000 VND): Cauliflower is also a great vegan option, rich in vitamins and minerals like vitamin C, potassium, and dietary fiber. Plus, it's a great source of fiber and protein. 
+
+Total cost: 420,000 VND 
+Thus, this combination of produce will enable you to maximize nutrition while optimizing your budget and respecting the conditions given.

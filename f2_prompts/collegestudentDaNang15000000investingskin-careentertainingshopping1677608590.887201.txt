@@ -1,0 +1,6 @@
+Job: college student
+Location: Da Nang
+Budget: 15000000
+Demands: investing, skin-care, entertaining, shopping
+Constraints: entertaining: party, go to coffee
+SPENDING PLAN: 

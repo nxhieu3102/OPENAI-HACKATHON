@@ -1,0 +1,19 @@
+4254cb45-d41c-4c1d-963c-bbb701226373
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fuel-efficient
+- Budget: 800000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1) Honda Civic Hatchback (2020): This car is fuel-efficient and comes within your budget, with a price tag of about 7590000 VND. It is equipped with a 1.5L engine and generates 173 horsepower. It offers great fuel economy and is reliable and easy to maintain. It also has a spacious interior and is one of the most comfortable cars in its class.
+
+2) KIA Morning (2020): This car is fuel-efficient and comes within your budget, with a price tag of about 7370000 VND. It is fitted with 1.25L engine and is capable of producing 83 horsepower. It offers excellent fuel economy and is reliable and easy to maintain. It also has spacious interior and is one of the most comfortable cars in its class.
+
+3) Daihatsu Move (2021): This car is fuel-efficient and comes within your budget, with a price tag of about 7590000 VND. It is powered by a 1.0 liter engine and produces 62 horsepower. It offers excellent fuel economy, is reliable and easy to maintain, and has a spacious interior. Furthermore, it also has great safety features and is one of the most affordable cars in its class, making it an ideal choice.

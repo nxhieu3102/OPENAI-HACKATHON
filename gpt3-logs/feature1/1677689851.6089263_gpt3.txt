@@ -1,0 +1,21 @@
+76d06b37-f2be-499c-9865-1957aa64cd2d
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- safety features
+- Budget: 500000000 VND.
+- Market in:  Toyota Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Toyota Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+I recommend the Toyota Corolla Altis 2020 1.8 G variant. The price is 42300000 VND, plus extra imported taxes and fees, the total cost should not exceed 500000000 VND. 
+
+The Toyota Corolla Altis 2020 1.8 G is an exquisite mixture of comfort, luxury, performance, and safety. It is powered by a 1.8-liter DOHC 16V engine mated to an ECVT gearbox, offering an output of 146 PS and a fuel economy of 17 km/L. The exterior features sleek curves, a sporty fog lamp, and LED headlamps, contributing to its eye-catching design.
+
+When it comes to safety features, the Toyota Corolla Altis 2020 comes with dual SRS airbags, ABS with EBD, vehicle stability control, automatic air conditioning, reverse sensors, immobilizer, and much more. Its interior includes spacious seats for five people with quality fabrics, a multi-info display, an advanced infotainment system, and power windows. 
+
+The Toyota Corolla Altis 2020 1.8 G is an ideal car choice for those seeking comfortable, luxury, and safety all in one package. It is also optimally priced to fit within your budget of 500000000 VND.

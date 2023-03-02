@@ -1,0 +1,18 @@
+c05e8ebe-6054-4aae-b854-02733b3c9689
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- non-comedogenic sunscreen
+- Budget: 1000000 VND.
+- Market in:  Guardian
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Guardian curent market price.
+
+ANSWER: 
+
+==========
+
+• Noncomedogenic Sunscreen SPF 35 (Guardian, 95,000VND): This sunscreen formulation provides strong protection against large amount of UVA and UVB radiation. It's non-comedogenic which means it won't clog pores and won't cause breakouts. 
+• Rosehip & Vitamin C Dual Serum (Guardian, 155,000VND): This combination of hydrating Rosehip Oil and Vitamin C helps to reduce the appearance of wrinkles and fine lines, offering a more youthful-looking complexion. Vitamin C acts as an antioxidant and helps fight free radicals and environmental stressors, while increasing collagen production. 
+• Hyaluronic Acid Intense Moisturizer (Guardian, 115,000VND): This lightweight moisturizer provides intense hydration while helping to improve skin texture. Hyaluronic Acid works to plump the skin and helps retain moisture, while delivering antioxidant protection from environmental aggressors. 
+Total Cost = 365,000VND

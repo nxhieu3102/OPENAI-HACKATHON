@@ -1,0 +1,19 @@
+81c8f45d-e90d-49a4-9e19-636e3baf70ee
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- a dress to wear to a wedding that's not too formal but still looks elegant
+- Budget: 1000000 VND.
+- Market in:  Shopping Malls
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Shopping Malls curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: Printed Fit & Flare Midi Dress (990,000 VND) - This dress is perfect for a wedding since it is not too formal since it is printed, but still looks elegant due to its flared style. The dress is made from polyester, so the fabric has a nice sheen to it, with a deep V neckline for a more sophisticated look. 
+
+Option 2: Satin Scallop Lace Detail Evening Dress (949,000 VND) - This dress is perfect for a wedding since it has a scalloped lace detail for a bit of extra sophistication, with the silky satin fabric giving it an elegant and luxurious feel. The A-line fit of this dress gives it a flattering shape, and is lined for extra comfort and drape.
+
+Option 3: Lace Maxi Evening Gown (976,000 VND) - This maxi gown features a delicate lace overlay, making it the perfect dress for a wedding. The high neckline adds femininity and the mermaid fit of the gown is slim and flattering. The lightweight fabrication ensures it drapes beautifully, making it the perfect dress for any formal occasion.

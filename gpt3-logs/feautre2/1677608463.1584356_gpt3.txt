@@ -1,0 +1,32 @@
+3c039690-f3de-4006-9c44-b736823c19e5
+I am a college student living in Ho Chi Minh city:
+Total budget: 15000000 VND 
+Demands that I want to meet: house renting, shopping, skin-care, commuting
+Specific constraints for each demand: 
+house renting: not far from city center
+commuting: 15 km by public transportation
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting: 6000000 VND (40% of budget)
+Look for a house near the city center that is within your budget. You can even negotiate with the landlord and try to get a discounted rate.
+
+Shopping: 4000000 VND (27% of budget)
+Set aside a budget for items such as food, clothing, books, and other essentials. Try to buy items in bulk and shop during sales to maximize your savings.
+
+Skin-care: 3000000 VND (20% of budget)
+Invest in quality skin-care products that will last you longer. Consider items such as face wash, moisturizer, and sunscreen for a good skin-care routine.
+
+Commuting: 2000000 VND (13% of budget)
+Take public transportation as much as possible to save on costs. Make sure to check the bus/train fares to ensure that you are getting the best deal.

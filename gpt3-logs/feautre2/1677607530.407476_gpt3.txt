@@ -1,0 +1,40 @@
+b3150fb2-ce44-44ff-a96f-f299f1e2c8f0
+I am a college student living in Ho Chi Minh city:
+Total budget: 2500000 VND 
+Demands that I want to meet: education, shopping, food, skin-care
+Specific constraints for each demand: 
+education: drawing, cooking
+food: can not cook
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Education:
+Budget Allocation: 10% 
+Schema: Drawing - 5%; Cooking - 5% 
+Explanation: Education is important for personal growth and should be prioritized. Allocating 10% of your budget for drawing and cooking classes is enough to gain knowledge and skills in those areas.
+
+Shopping:
+Budget Allocation: 25% 
+Schema: Shopping on discount days - 10%; Shopping online - 10%; Shopping in local markets - 5% 
+Explanation: Shopping can become expensive if done recklessly. Aim to shop on discount days to get the best deals and save money. Shopping online can also be a great way to save money and compare different products. Shopping in local markets is also a great way to save money and buy fresh produce.
+
+Food:
+Budget Allocation: 35% 
+Schema: Eating out - 25%; Eating at home - 10% 
+Explanation: Food is an essential part of life, so it is important to allocate a good portion of the budget to it. Eating out is a great way to enjoy different cuisines and save money at the same time. Eating at home is also a great way to save money and buy groceries at the local markets.
+
+Skin-Care:
+Budget Allocation: 30% 
+Schema: Investing in quality products - 20%; DIY remedies - 10% 
+Explanation: Skin-care is important for personal health and should not be neglected. Investing in quality products is a great way to ensure that you get the best results for your skin. DIY remedies are also a great option for skin-care as they are cost-effective and can be tailored to your individual needs.

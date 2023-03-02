@@ -1,0 +1,9 @@
+Job: college student
+Location: Da Nang
+Budget: 6000000
+Demands: house renting, education, playing sport, commuting
+Constraints: house renting: near city center
+education: ielts learning
+playing sport: karate
+commuting: 10 km to school, by motorbike
+SPENDING PLAN: 

@@ -1,0 +1,5 @@
+Good: a house
+Conditions: fully furniture apartment in the suburban
+Budget: 3000000000 VND
+Market place: Da Nang
+ANSWER:  

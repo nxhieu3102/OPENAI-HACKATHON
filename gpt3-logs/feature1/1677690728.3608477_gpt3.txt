@@ -1,0 +1,25 @@
+c40938a7-6737-4ab6-a8ee-0a3692cd4b1d
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- good moisturizer for dry, sensitive skin
+- Budget: 500000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1) Simple Protection Facial Moisturizer, 102,000 VND: This simple non-comedogenic moisturizer will provide your sensitive skin with SPF 15 protection while it delivers essential hydration. It includes Vitamins B5, E, and Bisabolol to calm, cool, and soothe your skin. 
+
+2) Bioderma Hydrabio Moisturizing Cream, 215,000 VND: Formulated with an Aquagenium patented natural complex, this moisturizer will help strengthen your skin’s hydric reserves and reinforce its natural hydrolipidic film. This cream has a light and creamy texture with moisturizing agents to help lock in water and preserve the skin’s hydration. 
+
+3) Olay Total Effects 7+1 Day-Night Cream, 214,000 VND: This day-night cream provides your skin with seven key benefits and contains vitamins, minerals, and antioxidants for multi-level anti-aging protection. It also provides skin with long-lasting moisturization.
+
+4) Kielh’s Ultra Facial Cream, 189,000 VND: This cream is a light, oil-free facial moisturizer helps protect skin from the sun and maintain a naturally balanced state. It is fast-absorbing and has vitamins A, B5 and E in it to keep skin hydrated. 
+
+Total Cost: 720,000 VND 
+
+These products are all optimal choices to maximize your budget while satisfying your conditions. They vary in price, texture, and benefit in order to meet all your needs. Simple Protection Facial Moisturizer provides you with SPF 15 protection and essential hydration, Bioderma Hydrabio Moisturizing Cream will strengthen your skin's hydric reserves and reinforce its natural hydrolipidic film, and Olay Total Effects Day-Night Cream provides long-lasting moisturization. Lastly, Kielh's Ultra Facial Cream is a light, oil-free facial moisturizer to help keep your skin hydrated and nourished.

@@ -1,0 +1,28 @@
+1e325be6-f907-4204-b9cf-aeb0337720a2
+I am a college student living in Da Nang:
+Total budget: 4000000 VND 
+Demands that I want to meet: investing, food, entertaining, shopping
+Specific constraints for each demand: 
+food: can not cook
+entertaining: traveling, go backpacking
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Investing: 40% - Allocate 40% of the budget for investing in order to secure long-term financial stability. Investing can include stocks, bonds, mutual funds, and other financial instruments.
+
+Food: 30% - Allocate 30% of the budget for food expenses. Consider taking advantage of the local markets in Da Nang to save money on grocery shopping, as well as finding discounts or coupons for food delivery services.
+
+Entertaining: 20% - Allocate 20% of the budget for entertaining, traveling, and backpacking. Consider researching affordable flights, discounts on hotels or hostels, or taking advantage of free activities in the city.
+
+Shopping: 10% - Allocate 10% of the budget for shopping. Consider shopping sales, second hand shopping, or finding coupons or discounts for clothing, accessories, and other items.

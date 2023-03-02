@@ -1,0 +1,20 @@
+b8bf4a00-62fb-4c73-a3fa-53314f3ef9ef
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- good moisturizer for dry, sensitive skin
+- Budget: 500000 VND.
+- Market in:  The Body Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the The Body Shop curent market price.
+
+ANSWER: 
+
+==========
+
+1. Vitamin E Moisture Cream, priced at 155,000 VND. This is a lightweight, oil-free moisturizer infused with Vitamin E which helps keep skin hydrated and soft. It easily absorbs into the skin, even for those with sensitive skin. 
+2. Aloe Calm Cleanser, priced at 105,000 VND. This cleanser is specially formulated with Aloe Vera to soothe and calm dry, sensitive skin. It helps keep skin moisturized and fresh while still gently cleansing. 
+3. Drops of Youth Concentrate, priced at 135,000 VND. This serum contains stem cells that helps to replenish, revitalizes and fight the signs of ageing, leaving skin feeling smooth and looking youthfully radiant.
+4. Vitamin E Eye Cream, priced at 70,000 VND. This eye cream helps to reduce the appearance of fatigue, puffiness, and dark circles around the eyes. It is formulated with Vitamin E and C to help deeply nourish and protect the delicate skin around the eye area.
+
+In total, the cost of these 4 items from The Body Shop is 465,000 VND, which is considerably lower than the original budget of 500,000 VND. All the items are gentle and suitable for those who have dry, sensitive skin. Therefore, these products present an optimal solution to your requirements.

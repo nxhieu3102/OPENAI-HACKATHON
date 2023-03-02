@@ -1,0 +1,5 @@
+Good: some clothes
+Conditions: winter coat that's warm and waterproof but still stylish
+Budget: 300000 VND
+Market place: Local Markets
+ANSWER:  

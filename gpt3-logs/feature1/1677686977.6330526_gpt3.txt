@@ -1,0 +1,23 @@
+214adfe0-fc30-4d69-9435-52f7e82ff133
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- allergic to gluten
+- Budget: 3000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1) Comotomo Organic Gluten-Free Multigrain Rice Crackers (200,000 VND): These gluten-free rice crackers are a great source of carbohydrates. They are an excellent source of whole-grain complex carbohydrates and are made with nutrient-rich and all-organic ingredients. These savory crackers are great as a snack or a meal option and can also be used to create tasty salads, soups, and many other dishes. 
+
+2) OrganicTatas – Gluten-Free Coconut Milk Cereal ( 220,000 VND): These coconut milk-based cereal by OrganicTatas are a great gluten-free option for breakfast. They are packed with all-natural, plant-based ingredients like vegan proteins, dietary fibers and gluten-free oats. The cereal is also enriched with magnesium, potassium, iron and other essential minerals. Its creamy texture and moderate sweetness make it a great way to start the day. 
+
+3) Mai A Tam Gluten-Free and Dairy-Free Soy Nuggets ( 120,000 VND): These all-natural, gluten and dairy-free soy nuggets by Mai A Tam are a great source of plant-based proteins. They are made with delicately flavoured and locally sourced soya beans and other vegetables that are free from any artificial additives. The nuggets can be easily cooked and added to salads, wraps, sandwiches and many other dishes to add texture and flavour. 
+
+4) Gluten-Free Root vegetable chips ( 180,000 VND): These vegetable chips are an excellent gluten-free option for snacks. These chips are made with locally sourced root vegetables like taro, sweet potatoes and parsnips. They are rich in dietary fibers, vitamins and minerals and can be cooked in ovens or microwaves. They are also free from any artificial additives or preservatives and so, are a great way to satisfy your cravings while staying healthy. 
+
+Total cost: 720,000 VND.

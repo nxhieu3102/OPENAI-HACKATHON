@@ -1,0 +1,19 @@
+4788c88e-9b5a-49e5-8d93-8ce16e331a74
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- good wine to pair with grilled salmon
+- Budget: 1500000 VND.
+- Market in:  Traditional markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Traditional markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Grilled Salmon - 560,000 VND: Fresh grilled salmon from local traditional markets is a great option for pairing with wine. The salmon is high quality, with a succulent and flaky texture for the ultimate seafood flavor. The price is also reasonable, making it a great option within your budget.
+
+2. White Wine - 500,000 VND: White wine is the perfect accompaniment for grilled salmon. A dry white with a fruity finish will complement the fish well. Choose one from the range of reputable wines available from traditional markets for a reasonable 500,000 VND. 
+
+Total Cost: 1,060,000 VND

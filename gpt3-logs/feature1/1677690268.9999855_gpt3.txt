@@ -1,0 +1,19 @@
+6d597d21-aeb0-4e17-ad42-81179fe95822
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- sports car, manual transmission
+- Budget: 800000000 VND.
+- Market in:  Toyota Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Toyota Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Toyota 86 - 800000000 VND: This car is one of the most budget-friendly sports cars in the market. It is equipped with powerful 176 horsepower engine and a 6-speed manual transmission for maximum performance. Additionally, its lightweight design will ensure great fuel economy and handling.
+
+2. Toyota Yaris GR - 74500000 VND: This entry-level sports car has much to offer in terms of performance and styling. Powered by a 1.5-liter 4-cylinder engine, the Yaris GR is capable of producing a generous 87 horsepower. It is equipped with a manual transmission and a lightweight chassis that ensures great handling. 
+
+3. Toyota Corolla Altis - 69990000 VND: The Corolla Altis is one of the most popular cars in Toyota's lineup. It comes with a 1.8-liter 4-cylinder engine capable of producing 102 horsepower and is equipped with a 6-speed manual transmission for maximum performance. Its lightweight construction ensures great fuel economy and handling.

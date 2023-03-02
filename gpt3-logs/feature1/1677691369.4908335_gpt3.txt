@@ -1,0 +1,20 @@
+4e21d6cf-1996-403a-b0bc-c8ccc9ffdfe9
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- gentle, non-irritating exfoliators for sensitive skin
+- Budget: 500000 VND.
+- Market in:  Guardian
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Guardian curent market price.
+
+ANSWER: 
+
+==========
+
+1. Neutrogena Deep Clean Facial Cleanser – 170.000 VND. This facial cleanser is made for sensitive skin and serves to cleanse and exfoliate in one step. It contains high quality, gentle exfoliators to help remove the dirt and oil without irritating or over-drying the skin. It also is formulated with glycerin and beta hydroxy acid to help leave your skin feeling clean and refreshed. 
+2. Bioderma Sensibio Gel Moussant – 145.000 VND. This gentle foam cleanser is specifically formulated for sensitive and reactive skin. It works to gently cleanse while also removing makeup, excess oils, and impurities. It gently exfoliates while restoring skin's suppleness and helps to preserve your skin's hydrolipidic film. 
+3. Cetaphil Gentle Skin Cleanser – 150.000 VND. This mild and gentle cleanser is designed for those with sensitive skin. It works to remove dirt and makeup without irritation and is both soap-free and non-comedogenic. It is formulated with a combination of agents to deeply nourish the skin, leaving it feeling soft, clean and hydrated. 
+4. The Body Shop Tea Tree Skin Clearing Facial Wash – 185.000 VND. This clarifying cleanser is formulated with tea tree oil, salicylic acid and herbal extracts to help reduce redness and blemishes while removing impurities. It helps to unclog pores and leaves the skin clean, refreshed and shine-free. 
+
+Total cost: 650.000 VND.

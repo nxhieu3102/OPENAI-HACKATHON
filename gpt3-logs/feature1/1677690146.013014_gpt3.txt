@@ -1,0 +1,22 @@
+9588fab7-ba7b-42bf-9d6b-4fdd22de3fb5
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- sports car, manual transmission
+- Budget: 700000000 VND.
+- Market in:  Ford Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ford Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Ford Mustang EcoBoost Fastback (manual transmission) - VND 608,400,000 
+This iconic American muscle car from Ford comes with an EcoBoost 2.3 liter i4 engine and includes amenities such as a limited slip differential, Performance Package and Race Red exterior. The four-cylinder engine packs a punch, capable of 310 horsepower, while the powerful Brembo brakes and 19 inch aluminum-alloy wheels provide the handling and agility you would expect from a sports car. With its sleek exterior, and powerful performance, this car is a great bargain for the budget. 
+
+Ford Fiesta ST (manual transmission) - VND 482,800,000 
+For those looking for a budget-friendly sports car, this hot pleasure pocket can be yours for just under VND 483 million. Coming with a 1.5L turbocharged 3 cylinder EcoBoost engine capable of producing 200 horsepower, this car is a strong option for those seeking a powerful and efficient sports car. The exterior includes an aggressive front grille, side skirts, a large rear spoiler, and has agile suspension and braking for an exciting driving experience. 
+
+Ford Focus RS (manual transmission) - VND 855,000,000
+If you want maximum power with your sports car, then the Ford Focus RS is ideal for you. It comes with a 2.3L Ecoboost engine that can produce 350 horsepower and 350 lb-ft of torque, making it one of the fastest cars in the Ford range. The exterior is designed aerodynamically, with a bolder front fascia, and 19 inch alloy shiny black aluminum wheels. The Michelin Pilot Super Sport tires along with the adjustable suspension systems offer an adrenaline-pumping driving experience that is a joy to behold.

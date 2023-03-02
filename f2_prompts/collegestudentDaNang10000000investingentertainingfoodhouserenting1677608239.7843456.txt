@@ -1,0 +1,8 @@
+Job: college student
+Location: Da Nang
+Budget: 10000000
+Demands: investing, entertaining, food, house renting
+Constraints: entertaining: theater and concerts
+food: calories reduce
+house renting: cheap motel
+SPENDING PLAN: 

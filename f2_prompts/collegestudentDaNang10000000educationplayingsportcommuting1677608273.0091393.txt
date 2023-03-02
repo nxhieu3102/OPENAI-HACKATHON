@@ -1,0 +1,8 @@
+Job: college student
+Location: Da Nang
+Budget: 10000000
+Demands: education, playing sport, commuting
+Constraints: education: programming learning
+playing sport: karate
+commuting: 3 km to work
+SPENDING PLAN: 

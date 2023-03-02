@@ -1,0 +1,21 @@
+3ad3c6f4-2f3a-49fe-9314-e87dd395f8cd
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- good wine to pair with grilled salmon
+- Budget: 2000000 VND.
+- Market in:  Supermarkets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Supermarkets curent market price.
+
+ANSWER: 
+
+==========
+
+- Musteli Italian Barbera D'Asti DOCG 750ml - 650000 VND: Musteli Italian Barbera D’Asti DOCG is a dry wine from the Piedmont region of Italy, full of aromas and flavors of cherries and berries. It is the perfect accompaniment for grilled salmon due to its herbal spiciness and tannins. 
+
+- Sun World Red Globe Grapes 500g - 124000 VND: Sun World Red Globe Grapes are juicy, smooth and sweet. They are a great way to add a colorful and tasty garnish to salmon, adding a touch of sweetness to the dish. 
+
+- Maggi Oyster Sauce 250ml - 36000 VND: Maggi Oyster Sauce is a great way to add a flavorful and aromatic touch to grilled salmon. It is made from a combination of oysters, soya sauce and spices. 
+
+- Total cost: 817000 VND

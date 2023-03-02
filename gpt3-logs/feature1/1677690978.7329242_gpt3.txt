@@ -1,0 +1,23 @@
+7faa628e-cd96-4c74-8550-b0de05d984ba
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- reducing the appearance of acne scars
+- Budget: 200000 VND.
+- Market in:  The Body Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the The Body Shop curent market price.
+
+ANSWER: 
+
+==========
+
+1. The Body Shop Tea Tree Anti Imperfection Daily Solution, 200ml - VND 169.000. This solution helps tackle oily skin, reduces blemishes and blemish marks effectively and leave skin feeling purified.
+
+2. The Body Shop Tea Tree Facial Mask, 100ml - VND 149.000. This mask will invigorate and energize your complexion by reducing the appearance of blemishes and calming inflammation.
+
+3. The Body Shop Tea Tree Mattifying Lotion, 50ml - VND 123.000. This light-weight lotion helps control shine and absorbs excess oil to leave skin feeling mattified and looking fresher.
+
+4. The Body Shop Tea Tree Skin Clearing Face Cleanser, 250ml - VND 135.000. This cleanser helps unclog pores, prevents breakouts, reduces the appearance of acne scars and keep skin feeling refreshed and clean.
+
+ Total Cost: VND 576.000

@@ -1,0 +1,32 @@
+068fdce4-7805-4518-8396-151193e608f9
+I am a college student living in Da Nang:
+Total budget: 2500000 VND 
+Demands that I want to meet: house renting, commuting, investing, shopping
+Specific constraints for each demand: 
+house renting: not far from city center
+commuting: 3 km to work
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting: 
+For house renting, you should allocate around 1,500,000 VND per month. This should cover the cost of an apartment that is at least 3 km away from the center of the city, while still staying within your budget constraints. To maximize your budget, try to look for an apartment that is within walking distance of your workplace so that you can save on commuting costs.
+
+Commuting:
+For commuting, you should allocate around 400,000 VND per month. This should cover the cost of taking public transportation to and from work. Try to look for discounts or loyalty programs that can help you save on fares, as well as carpooling with coworkers or friends if possible.
+
+Investing:
+For investing, you should allocate around 500,000 VND per month. This should cover the cost of investing in stocks, bonds, mutual funds, or other financial instruments. Make sure to research and compare different investment options to find the ones that best suit your needs and goals.
+
+Shopping:
+For shopping, you should allocate around 100,000 VND per month. This should cover the cost of basic necessities such as food and hygiene products. Try to look for sales or discounts when shopping and remember to only buy what you need.

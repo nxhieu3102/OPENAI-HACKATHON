@@ -1,0 +1,19 @@
+bafbc4c0-50a4-4c86-90a3-9a651831da3a
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fully furnished family car
+- Budget: 500000000 VND.
+- Market in:  Toyota Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Toyota Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Toyota Vios 1.5E - Price 44900000 VND: This model is equipped with a 1.5-litre 4-cylinder petrol engine, paired with a 5-speed manual gearbox or 4-speed AT as per your desire. This car offers you an interactive contemporary cabin design, equipped with safety and convenience features. It also guarantees an impressive fuel efficiency of 16KM/L, making it a perfect choice to satisfy your conditions and optimize your budget.
+
+2. Toyota Yaris NCP93E - Price 49900000 VND: The Yaris has the same 1.5-litre 4-cylinder petrol engine as the Vios, but with more features. The features equiped in Yaris include cruise control, auto AC, power windows, tilt adjustable steering wheel and driver seat adjustment with lumbar support. It also offers great fuel efficiency of 17KM/L, aggressive design and top-notch cabin. It is a great choice for optimizing your budget and satisfying the conditions. 
+
+3. Toyota Innova 2.0G - Price 53000000 VND: The Innova is a great choice for a family car. It is equipped with a powerful 2.0-litre 4-cylinder petrol engine, a 5-speed manual gearbox and a 6-speed automatic. The car's ultimate cabin comfort includes second-row captain chairs with armrests, cup holders and dual air-conditioners. The added value of Innova’s powerful performance, 7 airbags, ABS with EBD and HAC, everything you need for your family in a single package.

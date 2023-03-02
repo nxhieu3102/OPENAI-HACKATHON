@@ -1,0 +1,35 @@
+b0d3c03f-f8c2-485b-b431-b1cdd8046235
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- allergic to gluten
+- Budget: 1000000 VND.
+- Market in:  Traditional markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Traditional markets curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1:
+- 10 kg Sweet potato: 200,000 VND
+- 5 kg Potato: 150,000 VND
+- 1 kg Yam: 100,000 VND
+- 5 kg Onion: 140,000 VND
+- 1 kg Tofu: 100,000 VND
+
+Total Cost: 640,000 VND
+
+Sweet potatoes have high levels of vitamins and minerals, and are a great source of fiber which makes them a suitable substitute for wheat or barley. Potato is an economical starchy vegetable that has minimal allergenic potential. Yams are a good source of Vitamin C, potassium, manganese and dietary fiber. Onions are an affordable, non-allergenic vegetable option. Finally, Tofu is a low-fat, gluten-free source of protein that also contains iron and calcium. 
+
+Option 2: 
+- 5 kg Sweet potato: 100,000 VND
+- 7kg Potato: 210,000 VND
+- 2 kg Carrot: 80,000 VND
+- 2 kg Cucumber: 80,000 VND
+- 2 kg Tofu: 200,000 VND
+
+Total Cost: 670,000 VND
+
+Sweet potatoes are high levels of vitamins and minerals, and a great source of fiber, Potato is an economical starchy vegetable that has minimal allergenic potential. Carrots are a good source of Vitamin A which helps maintain body tissue, including mucous membranes, skin, and eyes. Cucumbers are a low-calorie, low-carbohydrate food that also contain fiber, vitamins, and minerals. Last but not least, Tofu is a low-fat, gluten-free source of protein that also contains iron and calcium.

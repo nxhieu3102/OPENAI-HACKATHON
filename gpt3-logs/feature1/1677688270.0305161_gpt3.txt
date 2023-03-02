@@ -1,0 +1,19 @@
+fa517a07-54df-476e-9494-f9347d62bdd8
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- lightweight, long battery life, powerful processor
+- Budget: 25000000 VND.
+- Market in:  Nguyen Kim
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Nguyen Kim curent market price.
+
+ANSWER: 
+
+==========
+
+1. ASUS VivoBook S14 S430FA-EB111T (25 Million VND): This laptop is an excellent choice for your budget and requirements. It is light, weighing only 1.4 kg and features an 8th-generation Intel Core i5-8265U processor, which has enough power to handle multiple tasks efficiently. Its 3-cell lithium polymer battery gives you up to 8 hours of battery life, so you can use it on the go.
+
+2. Dell Inspiron 15 5591 (25 Million VND): This laptop is a great option for the budget-conscious buyer. It has a 10th-generation Intel Core i5-10210U processor, 8 GB RAM and a 256 GB NVMe SSD. This allows it to run smoothly and effectively. It also has a decent battery life of up to 7 hours, which is enough to get through your work day. 
+
+3. Lenovo Ideapad S145-15IGM (24.7 Million VND): This laptop offers great value for the money. It has a 15.6 inch display with an Intel Core i3-8130U processor, and 4 GB of RAM. It has a 1 TB hard drive and a battery life of up to 5.5 hours. It is light and portable in weight, making it ideal for carrying around.

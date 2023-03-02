@@ -1,0 +1,33 @@
+459f2fac-0c03-459a-ab7b-cce226f32b11
+I am a college student living in Ha Noi:
+Total budget: 2500000 VND 
+Demands that I want to meet: shopping, playing sport, education, entertaining
+Specific constraints for each demand: 
+playing sport: karate
+education: programming learning
+entertaining: theater and concerts
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Shopping:
+To maximize your budget, look for discounts and sales when shopping. Try to find items that are of good quality and fit within your budget. Consider shopping at local vendors and farmers’ markets to save on costs. You can also look for second-hand items or shop online for better deals.
+
+Playing sport:
+Karate is a form of martial arts that requires dedication and commitment. You can take classes at a local dojo and purchase the necessary equipment, such as a uniform and belt, for a reasonable price. There may also be free or low-cost workshops and events that you can attend.
+
+Education:
+Programming is an invaluable skill that can be learned for free or at a low cost. Consider taking an online course or attending a local coding bootcamp. You may also want to invest in books or other resources that can help guide your learning.
+
+Entertaining:
+Theater and concerts can be expensive, so try to find cheaper alternatives such as visiting a museum or gallery, attending a local music night, or watching a movie at home. You can also take advantage of student discounts when available.

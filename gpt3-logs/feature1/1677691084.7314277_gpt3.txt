@@ -1,0 +1,23 @@
+5321e70b-cbc5-4aa4-b469-7318566b8cda
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- reducing the appearance of acne scars
+- Budget: 1500000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. The Face Shop Rice water Bright Cleansing Foam (89000 VND/150ml): This cleansing foam is gentle and lathering, enriched with rice water extract and natural surfactants to cleanse and purify skin, while maintaining and restoring skin's natural balance. It helps reduce the appearance of acne scars, leaving your skin looking brighter, hydrated, and more radiant.
+
+2. Dr.Belmeur Cica Peptite Ampoule (150000 VND/30ml): This ampoule is designed to intensively target damaged skin caused by acne. This ampoule contains 4-Paraben Solution, Peptides Complex Plus to strengthen skin barrier, and Centella Asiatica Extract to help reduce acne scar and protect from external irritation.
+
+3.The Face Shop Chia Seed Hydrating Lotion (389000 VND/150ml): This hydrating lotion is enriched with chia seed extract that helps to nourish and hydrate skin while controlling excess sebum and darkening caused by acne. It helps reduce the appearance of acne scars, leaving skin feeling and looking refreshed and revitalized.
+
+4. The Face Shop Special Care Intensive Facial Essence (249000 VND/150ml): This facial essence is specifically formulated to target and help reduce the appearance of acne scars, while providing essential nourishment to the skin. It deeply hydrates and firms skin, creating a long-lasting moisture barrier. 
+
+With this combination, you can optimize your budget and get your hands on some high quality skin care products. All of these products are available at stores in Vietnam and can be used for reducing the appearance of acne scars. This combination includes products from trusted brands such as The Face Shop and Dr.Belmeur, and has a total cost of under 1500000 VND.

@@ -1,0 +1,36 @@
+6db858bc-ca04-4379-a37a-8045205637b4
+I am a college student living in Da Nang:
+Total budget: 10000000 VND 
+Demands that I want to meet: entertaining, shopping, food, house renting, skin-care
+Specific constraints for each demand: 
+entertaining: party, go to coffee
+food: high protein
+house renting: not far from city center
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Entertainment: 
+Allocate 25% of the budget for entertainment, which should be split between parties and coffee. Allocate 15% for parties and 10% for coffee. Parties should be planned with friends or colleagues to reduce costs. Coffee should be purchased from local cafes in order to save money. 
+
+Shopping: 
+Allocate 25% of the budget for shopping. Prioritize purchasing essential items, such as clothing and toiletries, over non-essential items. Also, look for discounts and promotions to save money. 
+
+Food: 
+Allocate 20% of the budget for food. Prioritize purchasing high protein food items such as lean meats, beans, and eggs. Also, consider purchasing food items in bulk to save money. 
+
+House Renting: 
+Allocate 30% of the budget for house renting. Consider searching for apartments or houses that are located close to the city center in order to reduce transportation costs. Also, look for promotions and discounts offered by landlords. 
+
+Skin Care: 
+Allocate 10% of the budget for skin care. Consider researching cost-effective skin care products that work well for your skin type. Also, look for specials and promotions for skin care products.

@@ -1,0 +1,25 @@
+7aa346bd-a85f-4427-a8d7-6644e406e4b7
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- healthy
+- Budget: 1000000 VND.
+- Market in:  Food delivery services
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Food delivery services curent market price.
+
+ANSWER: 
+
+==========
+
+Since you have a limited budget of 1 million VND, you should optimize your budget by ordering food delivery services that offer healthy options to ensure that you are getting the most nutritinous food at the best price. 
+
+1. Phở Bò - Beef Noodle Soup (320,000 VND): This popular Vietnamese dish will provide your body with essential nutrients and keep you energized. This hearty soup is packed with protein and essential vitamins and minerals that will help fuel your day.
+
+2. Miến Xào Bò Bí - Sautéed Vermicelli with Beef (500,000 VND): This delicious noodle dish provides your body with all the necessary protein, iron, and minerals to keep your energy levels high throughout the day. Plus, it is low in carbs and fat, making it a healthy and nutritious alternative.
+
+3. Bún Chả Cá - Fish Noodle Soup (400,000 VND): Fish noodle soup is a great alternative to beef noodle soup and it is a great source of protein and essential vitamins and minerals. The soup is low in fat and carbs, making it an ideal choice for those looking to optimize their budget and health.
+
+4. Bánh Xèo - Fried Pancake (320,000 VND): This popular savory pancake is delicious and will provide your body with the necessary nutrients and energy. It is rich in protein, vitamins, and minerals, and is also low in carbs and fat, making it a great option for those trying to stay healthy.
+
+Total cost = 1,440,000 VND

@@ -1,0 +1,5 @@
+Good: a car
+Conditions: safety features
+Budget: 500000000 VND
+Market place: Mazda Vietnam
+ANSWER:  

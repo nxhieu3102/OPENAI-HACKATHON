@@ -1,0 +1,32 @@
+587e46df-9028-48fa-8f8d-00b00ee32d1c
+I am a college student living in Da Nang:
+Total budget: 4000000 VND 
+Demands that I want to meet: entertaining, playing sport, education
+Specific constraints for each demand: 
+entertaining: traveling, go backpacking
+playing sport: karate
+education: toeic learning
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Entertaining: 
+Allocate a budget of 2000000 VND for traveling and backpacking. This will provide enough funds to explore the city, plan day trips and enjoy a variety of entertainment options. Additionally, consider utilizing cheaper options, such as local markets and festivals, to save on costs.
+
+Playing sport: 
+Allocate a budget of 500000 VND for karate. This is enough to cover the costs of training, equipment, and any other necessary expenses. Consider joining a local club to help reduce the cost of practice sessions and equipment.
+
+Education: 
+Allocate a budget of 1500000 VND for TOEIC learning. This will provide enough funds to purchase books, online courses, and other resources that will help you learn the language. Additionally, consider taking advantage of free online resources and tutoring from friends and family to help reduce costs.
+
+Overall, this spending plan ensures that you stay within your budget and allows you to prioritize essential expenses over non-essential expenses. It also allows you to optimize for long-term financial stability while enjoying the city and learning a new language.

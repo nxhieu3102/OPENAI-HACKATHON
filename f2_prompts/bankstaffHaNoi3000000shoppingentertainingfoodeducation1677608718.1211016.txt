@@ -1,0 +1,8 @@
+Job: bank staff
+Location: Ha Noi
+Budget: 3000000
+Demands: shopping, entertaining, food, education
+Constraints: entertaining: drinking, cooking
+food: high protein
+education: drawing, cooking
+SPENDING PLAN: 

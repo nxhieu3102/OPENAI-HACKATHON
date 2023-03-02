@@ -1,0 +1,21 @@
+56c8b31e-9e31-4ab0-a5bd-b6927c39dc9b
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- cozy and personalized
+- Budget: 3000000000 VND.
+- Market in:  Da Nang
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Da Nang curent market price.
+
+ANSWER: 
+
+==========
+
+1. House #1 – 3000000 VND: This is a cozy house with 2 bedrooms, located in a nice housing estate in Thanh Khe district. The property has a balcony with views of the city. It has a modern look, with wooden-flooring, living room with scenic views, air-conditioners and a large kitchen. 
+
+2. House #2 – 3000000 VND: This cute house with 2 bedrooms is located in Cam Le district, close to the city centre. The house is equipped with air-conditioners, a balcony, stylish furniture and complete facilities. It also offers a large living room, kitchen and a comfortable living environment. 
+
+3. House #3 – 3000000 VND: This modern-looking house is located in Tho Quang district, with stunning views of the cityscape. It comes with a private backyard, two separate bedrooms, air-conditioners, a large kitchen and other facilities. All of these features make it a great option for a family-oriented living and a great investment. 
+
+These three houses are the best options to optimize your budget of 3000000 VND. Each house offers something unique and provides a comfortable living environment. Depending on your preference and need, you can choose one that suits you the most.

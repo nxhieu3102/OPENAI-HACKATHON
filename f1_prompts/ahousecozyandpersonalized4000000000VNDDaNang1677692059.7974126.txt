@@ -1,0 +1,5 @@
+Good: a house
+Conditions: cozy and personalized
+Budget: 4000000000 VND
+Market place: Da Nang
+ANSWER:  

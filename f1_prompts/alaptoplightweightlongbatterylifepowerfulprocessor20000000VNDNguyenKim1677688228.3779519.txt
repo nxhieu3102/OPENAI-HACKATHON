@@ -1,0 +1,5 @@
+Good: a laptop
+Conditions: lightweight, long battery life, powerful processor
+Budget: 20000000 VND
+Market place: Nguyen Kim
+ANSWER:  

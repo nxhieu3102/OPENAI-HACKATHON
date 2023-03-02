@@ -1,0 +1,19 @@
+32a31969-e065-4d01-8602-772b32d634fd
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- SUV with third-row seating and good towing capacity
+- Budget: 500000000 VND.
+- Market in:  Mazda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Mazda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Mazda CX-8 (2020) - Price: 498000000 VND. 
+This SUV has a luxurious interior and exterior, with a powerful engine that has a towing capacity of up to 3500kg and a third-row seating capacity. Safety features include a wide range of advanced driver assistance systems, making it an ideal choice for your family. The 7-seater seating arrangement allows for maximum passenger space and comfort. 
+
+Mazda CX-9 (2020) - Price: 489000000 VND.
+This SUV is designed to deliver on both performance and comfort levels. The powerful, yet efficient turbo engine delivers a towing capacity of up to 2000kg and a third-row seating capacity. The advanced safety technology ensures maximum safety for you and your passengers. The spacious and luxurious interior offers plenty of room for every passenger. The stylish exterior adds to the appeal of this vehicle.

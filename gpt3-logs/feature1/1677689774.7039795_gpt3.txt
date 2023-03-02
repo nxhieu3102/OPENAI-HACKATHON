@@ -1,0 +1,15 @@
+7d40cd38-d74e-4dab-84e2-3c957bcff475
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- SUV with third-row seating and good towing capacity
+- Budget: 800000000 VND.
+- Market in:  Mazda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Mazda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Mazda CX-8 Grand Touring (7.780.000 VND): The Mazda CX-8 Grand Touring is an excellent choice if you are looking for a SUV with third-row seating and good towing capacity, whilst keeping within your budget. It comes with a powerful 2.5 petrol engine and a 6-speed automatic transmission, which produces up to 191bhp of power. The cabin is spacious and is equipped with the latest technologies, including a 7-inch display, Apple Carplay and Android Auto connectivity, Bose premium audio system and power-adjustable driver seat. Safety features include a surround view monitor, forward automatic emergency braking, blind spot monitoring and rear cross-traffic alert. This SUV also comes with a towing capacity of 2,000 kg, so it is great for carrying loads. It is well-designed with elegant styling and excellent driving dynamics. Overall, it is an excellent choice for your needs, within your budget.

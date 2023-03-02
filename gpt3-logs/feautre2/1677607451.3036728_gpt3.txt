@@ -1,0 +1,46 @@
+cdd6fcfc-652a-497b-8d2b-7a6481377132
+I am a college student living in Ho Chi Minh city:
+Total budget: 2500000 VND 
+Demands that I want to meet: entertaining, playing sport, skin-care, shopping, commuting
+Specific constraints for each demand: 
+entertaining: theater and concerts
+playing sport: swimming and bicycling
+commuting: 10 km to school, by motorbike
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Entertaining: 
+Cost: 500,000 VND
+Schema: attend free theater performances, attend concerts at a discounted price 
+Explanation: Attending free performances is an excellent way of keeping costs low while still having an enjoyable time. Additionally, attending concerts at a discounted price allows for more entertainment options to be available.
+
+Playing Sport:
+Cost: 400,000 VND
+Schema: Use an affordable gym membership, rent bicycles for short-term use
+Explanation: A gym membership is an affordable way to stay in shape while avoiding the high costs of equipment. Additionally, renting bicycles for short-term use is a great way to enjoy a fun activity while also avoiding long-term commitment.
+
+Skin-care: 
+Cost: 400,000 VND
+Schema: Visit a local spa for a facial and sauna treatment, purchase basic skin-care products 
+Explanation: Visiting a local spa is a great way to care for your skin without breaking the bank. Additionally, purchasing basic skin-care products is an affordable way to keep your skin healthy and looking great.
+
+Shopping: 
+Cost: 500,000 VND
+Schema: Shop at local markets and thrift stores for more affordable prices, choose items based on quality and durability 
+Explanation: Shopping at local markets and thrift stores can help keep costs low while still getting quality items. Additionally, choosing items based on quality and durability ensures that the items will last longer, saving money in the long run.
+
+Commuting: 
+Cost: 650,000 VND
+Schema: Purchase a motorbike with good fuel efficiency, use public transportation when necessary 
+Explanation: Purchasing a motorbike with good fuel efficiency is a great way to get around without breaking the bank. Additionally, using public transportation when necessary is an effective way to save money while still getting to your destination.

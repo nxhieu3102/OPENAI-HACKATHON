@@ -1,0 +1,21 @@
+06a03378-f9fa-463b-bb91-af6c2d1bc5b0
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- good moisturizer for dry, sensitive skin
+- Budget: 500000 VND.
+- Market in:  L'Occitane
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the L'Occitane curent market price.
+
+ANSWER: 
+
+==========
+
+1. Shea Butter Rich Body Cream, 400000 VND, 200ml - This is a rich cream with 15% shea butter, known for moisturizing and nourishing dry, sensitive skin. It also has the added benefit of calming chapped, irritated skin and helps keep skin soft, hydrated and soothed. 
+
+2. Divine Lotion, 85000 VND, 200ml - This light lotion made from internal and external extracts is rich in antioxidants, which help protect skin from damaging free radicals. It hydrates and nourishes dry skin, as well as helps keep skin soft, smooth, and glowing. 
+
+3. Aromachologie Relaxing Bath & Shower Gel, 60000 VND, 500ml - This is a gentle shower gel infused with Essential Oils which help calm and relax the mind. It is also rich in natural ingredients such as sweet almond oil, pine and petitgrain, which moisturize and nourish dry, sensitive skin. 
+
+Total cost: 145000 VND

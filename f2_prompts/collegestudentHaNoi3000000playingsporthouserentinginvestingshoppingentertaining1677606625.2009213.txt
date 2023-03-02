@@ -1,0 +1,8 @@
+Job: college student
+Location: Ha Noi
+Budget: 3000000
+Demands: playing sport, house renting, investing, shopping, entertaining
+Constraints: playing sport: gyming, dancing
+house renting: not far from city center
+entertaining: party, go to coffee
+SPENDING PLAN: 

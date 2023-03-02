@@ -1,0 +1,8 @@
+Job: college student
+Location: Da Nang
+Budget: 15000000
+Demands: shopping, education, entertaining, commuting
+Constraints: education: programming learning
+entertaining: shopping
+commuting: 15 km by public transportation
+SPENDING PLAN: 

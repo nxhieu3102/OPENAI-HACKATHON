@@ -1,0 +1,9 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 10000000
+Demands: house renting, food, education, entertaining
+Constraints: house renting: suburban area
+food: high protein
+education: programming learning
+entertaining: traveling, go backpacking
+SPENDING PLAN: 

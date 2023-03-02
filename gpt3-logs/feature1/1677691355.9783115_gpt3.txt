@@ -1,0 +1,23 @@
+0e446842-d2ce-47ab-878f-6b543b1c00f4
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- gentle, non-irritating exfoliators for sensitive skin
+- Budget: 300000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. DHC mild peeling Lotion (Price: 99,000 VND): A clear, colorless liquid that exfoliates without irritating the skin. It contains natural papaya extract, which not only penetrates and softens the corneocyte layers, but also recruits ceramide to moisturize and keep the moisture balance of the skin.
+
+2. Hada Labo Gokujyun Whip (Price: 119,000 VND): This is an ultra-luxe foam cleanser that gently exfoliates your skin with soft foam that is stiff enough to massage your skin and remove dead skin cells. It has a light gel-like texture, which lathers well and doesn't leave your skin feeling dry.
+
+3. Cure Natural Aqua Gel (Price: 77,000 VND): A very gentle exfoliator that helps to gently remove dead skin cells while brightening the skin. It's formulated with natural fruit acids that help to dissolve the bonds that hold dead skin cells together, but it is still gentle enough on sensitive skin types.
+
+Total cost: 295,000 VND. 
+
+All of these products have been given positive reviews by customers in VietNam, and will fit within your budget. They are gentle enough to be used on sensitive skin, yet still effective in removing dead skin cells and brightening the skin with natural fruit acids.

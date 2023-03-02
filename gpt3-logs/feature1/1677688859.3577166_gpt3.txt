@@ -1,0 +1,19 @@
+2db6cfda-28d7-4d0e-86b9-5dc6a90f5ad9
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- comfortable keyboard for typing
+- Budget: 10000000 VND.
+- Market in:  FPT Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the FPT Shop curent market price.
+
+ANSWER: 
+
+==========
+
+1) Lenovo IdeaPad 330S-15IKB Laptop: This laptop is powered by an Intel i3 8th Gen 8145U processor and comes with 8GB of RAM and 1TB of internal storage. It has a 15.6-inch anti-glare display with an IPS panel that has good viewing angles. This laptop keyboard is comfortable to type and is equipped with technology that minimizes flex and makes typing quiet. The price for this laptop in FPT Shop is 8,490,000VND.
+
+2) ASUS VivoBook S14 S430FA Laptop: This laptop is powered by Intel Core i5 8th Generation 8265U processor and 8GB of RAM and 256GB of storage. It comes with a 14-inch anti-glare FHD display and a comfortable and quiet backlit chiclet style keyboard. This laptop has good viewing angles and good color reproduction which makes it suitable for a variety of tasks. The price for this laptop in FPT Shop is 8,990,000VND.
+
+Both laptops offer comfortable keyboards for typing, great performance and are within your budget of 10,000,000VND. Depending on your usage and needs, Lenovo IdeaPad 330S-15IKB offers more storage but weaker graphics processing, while Asus VivoBook S14 S430FA offers less storage but stronger graphics processing. So, you can choose the one that suits your needs and budget.

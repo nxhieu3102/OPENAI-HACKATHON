@@ -1,0 +1,30 @@
+e81e1431-86a6-462a-8bff-d64545709133
+I am a college student living in Ha Noi:
+Total budget: 4000000 VND 
+Demands that I want to meet: skin-care, investing, commuting, playing sport
+Specific constraints for each demand: 
+commuting: 3 km to work
+playing sport: karate
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Skin-care: Allocating 1000,000 VND per month for skin-care products, such as face creams, face masks, and lotions. This amount should cover basic needs, such as cleansing and moisturizing. Additionally, it would be wise to invest in a good skincare routine and invest in quality products to ensure long-term skin health.
+
+Investing: Allocating 1,500,000 VND per month for investing. This amount should cover basic investments, such as stock or mutual funds. Additionally, it would be wise to diversify your investments to minimize risk and maximize potential returns.
+
+Commuting: Allocating 500,000 VND per month for commuting. This amount should cover basic needs, such as buying a bike or a public transport pass. Additionally, it would be wise to look for the best deals on transportation and consider investing in a more sustainable form of transportation, such as an electric bike.
+
+Playing sport: Allocating 1,000,000 VND per month for playing karate. This amount should cover basic needs, such as buying a karate outfit and enrolling in a local karate class. Additionally, it would be wise to look for discounts and special offers on karate classes and equipment.
+
+By following this spending plan, you will be able to stay within your budget and optimize your spending for each demand. Additionally, this plan will help you prioritize essential expenses over non-essential expenses and ensure long-term financial stability.

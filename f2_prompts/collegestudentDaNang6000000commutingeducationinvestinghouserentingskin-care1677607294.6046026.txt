@@ -1,0 +1,8 @@
+Job: college student
+Location: Da Nang
+Budget: 6000000
+Demands: commuting, education, investing, house renting, skin-care
+Constraints: commuting: 3 km to work
+education: toeic learning
+house renting: not far from city center
+SPENDING PLAN: 

@@ -1,0 +1,6 @@
+Job: college student
+Location: Da Nang
+Budget: 15000000
+Demands: skin-care, house renting, shopping
+Constraints: house renting: cheap motel
+SPENDING PLAN: 

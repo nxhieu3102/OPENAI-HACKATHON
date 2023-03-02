@@ -1,0 +1,21 @@
+67fb6c5b-918f-4479-9a80-349a9a4a1be6
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- high-resolution display and good color accuracy for photo editing
+- Budget: 10000000 VND.
+- Market in:  FPT Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the FPT Shop curent market price.
+
+ANSWER: 
+
+==========
+
+1. HP Notebook 14s-dq0001TU (8GB/512GB SSD/Intel® Core™ i3-1005G1/14inch) - Price: 6,590,000 VND
+Description: The HP Notebook 14s-dq0001TU laptop is powered by the 8th Generation Intel® Core™ i3-1005G1 processor. It has 8GB of DDR4 RAM and a 512GB SSD for storage, which offers fast data access and loading speeds. It has a 14inch HD display with an HD SVAt anti-glare panel, making it great for photo editing and offers good color accuracy. 
+
+2. HP 14s-dq0003TU (8GB/256GB SSD/Intel® Core™ i3-1005G1/14inch) - Price: 5,990,000 VND
+Description: The HP 14s-dq0003TU laptop is powered by the 8th Generation Intel® Core™ i3-1005G1 processor. It has 8GB of DDR4 RAM and a 256GB SSD for storage, which offers fast data access and loading speeds. It has a 14inch HD display with an HD SVAt anti-glare panel, making it great for photo editing and offers good color accuracy.
+
+Both HP laptops provide good performance and color accuracy for photo editing. The 14s-dq0003TU laptop has a slightly lower price of 5,990,000 VND, thus making it a better option as it would be within your budget of 10,000,000 VND.

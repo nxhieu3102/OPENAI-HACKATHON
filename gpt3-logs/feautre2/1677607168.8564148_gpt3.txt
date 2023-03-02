@@ -1,0 +1,51 @@
+db20b46e-b6fe-4ac7-8139-d182a321d2c5
+I am a college student living in Ho Chi Minh city:
+Total budget: 6000000 VND 
+Demands that I want to meet: entertaining, food, commuting, shopping, investing
+Specific constraints for each demand: 
+entertaining: shopping
+food: can not cook
+commuting: 15 km by public transportation
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Entertaining:
+- Allocate 20% of budget for entertaining expenses such as going out to movies, eating out, or attending events. 
+- Look for discounts and deals to save money on activities. 
+- Consider taking advantage of student discounts.
+
+Food: 
+- Allocate 40% of budget for food expenses. 
+- Take advantage of student discounts on groceries. 
+- Look for meal deals and use coupons to save money. 
+- Invest in cookware and utensils that are necessary to prepare simple meals. 
+- Consider using delivery services as a cost-effective way to enjoy restaurant food.
+
+Commuting: 
+- Allocate 20% of budget for commuting expenses. 
+- Consider taking public transportation and look for discounts and deals available. 
+- Invest in a bicycle and use it for short trips around the city. 
+- Consider investing in a motorbike and use it for longer trips.
+
+Shopping: 
+- Allocate 10% of budget for shopping expenses. 
+- Look for discounts and deals. 
+- Consider investing in quality items that will last for a longer period of time. 
+- Consider shopping for second-hand items as an alternative to buying new items. 
+
+Investing: 
+- Allocate 10% of budget for investing expenses. 
+- Research and understand different types of investments. 
+- Consider investing in stocks, mutual funds, and other long-term investments to maximize the return on investment. 
+- Consider investing in a savings account to build an emergency fund.

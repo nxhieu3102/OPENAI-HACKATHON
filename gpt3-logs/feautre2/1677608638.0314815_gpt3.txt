@@ -1,0 +1,32 @@
+8740f960-f66e-42e2-9cd6-a2a9802771de
+I am a college student living in Da Nang:
+Total budget: 15000000 VND 
+Demands that I want to meet: shopping, playing sport, skin-care, food
+Specific constraints for each demand: 
+playing sport: football or badminton
+food: vegetarian
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Shopping: 7000000 VND 
+This should cover basic essentials such as clothing, shoes, accessories, and other items. Consider shopping around for the best deals and discounts. Consider shopping online to take advantage of online discounts and promotions.
+
+Playing Sport: 4000000 VND 
+This should be enough to cover the cost of playing either football or badminton. Consider joining a local club or finding a gym with discounted rates. Consider using coupons or vouchers to maximize your budget.
+
+Skin-care: 0 VND 
+Given the budget constraints, it is not recommended to spend on skin-care products. Consider using natural remedies to take care of your skin.
+
+Food: 4000000 VND 
+This should be enough to cover the cost of vegetarian food for the month. Consider cooking meals at home and avoiding eating out. Consider looking for discounts and promotions at local restaurants and supermarkets. Consider bulk buying items to maximize your budget.

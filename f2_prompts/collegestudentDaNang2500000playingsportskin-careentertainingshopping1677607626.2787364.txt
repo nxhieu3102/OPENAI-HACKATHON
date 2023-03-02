@@ -1,0 +1,7 @@
+Job: college student
+Location: Da Nang
+Budget: 2500000
+Demands: playing sport, skin-care, entertaining, shopping
+Constraints: playing sport: karate
+entertaining: drinking, cooking
+SPENDING PLAN: 

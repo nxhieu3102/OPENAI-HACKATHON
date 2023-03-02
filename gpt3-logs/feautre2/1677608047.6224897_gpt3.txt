@@ -1,0 +1,32 @@
+9eb97403-985a-4ebf-aabd-1ae2c33a70d3
+I am a college student living in Ha Noi:
+Total budget: 10000000 VND 
+Demands that I want to meet: education, commuting, food
+Specific constraints for each demand: 
+education: drawing, cooking
+commuting: 10 km to school, by motorbike
+food: high protein
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Education:
+Schema: Allocate up to 4,000,000 VND for drawing and cooking classes. This amount would cover the cost of multiple classes and may include materials for the classes if necessary.
+
+Commuting:
+Schema: Allocate up to 3,500,000 VND for a motorbike that can get you to school in 10 km. This budget should also cover maintenance and fuel costs.
+
+Food:
+Schema: Allocate up to 2,500,000 VND for high-protein food. This budget should cover all meals, snacks, and any other food-related expenses.
+
+To maximize your budget, you can prioritize essential expenses, minimize costs, and look for discounts or deals. For example, instead of spending money on expensive meals, you could buy food in bulk or cook at home. You could also take advantage of discounts or coupons at supermarkets or other stores. Furthermore, if you plan to take cooking or drawing classes, look for group discounts or cheaper alternatives to maximize your budget.

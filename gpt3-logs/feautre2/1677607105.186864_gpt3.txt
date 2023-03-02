@@ -1,0 +1,29 @@
+d9367770-f5fe-4d12-ba7e-9d1c0397061e
+I am a college student living in Ho Chi Minh city:
+Total budget: 6000000 VND 
+Demands that I want to meet: house renting, food, skin-care, education
+Specific constraints for each demand: 
+house renting: suburban area
+food: calories reduce
+education: ielts learning
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting: 40% of the budget (2,400,000 VND) should be allocated for house renting in a suburban area. Make sure to carefully check the market prices in the area and look for deals to get the best value for your money.
+
+Food: 30% of the budget (1,800,000 VND) should be allocated for food. Make sure to plan ahead to get the most bang for your buck, as well as focus on eating healthy and reducing calories. Consider getting a meal plan that covers multiple meals and snacks throughout the week.
+
+Skin-Care: 15% of the budget (900,000 VND) should be allocated for skin-care. It is important to find a balance between quality products and value. Research ingredients and buy products that contain natural and organic ingredients that are beneficial to your skin.
+
+Education: 15% of the budget (900,000 VND) should be allocated for education. Consider signing up for an IELTS course that is tailored to your needs and budget. Also, look for online courses that can help you save money.

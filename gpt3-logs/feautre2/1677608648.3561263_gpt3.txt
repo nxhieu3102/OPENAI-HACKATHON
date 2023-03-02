@@ -1,0 +1,30 @@
+a193f441-6da3-4503-ad93-8ff6e7db92ce
+I am a college student living in Da Nang:
+Total budget: 15000000 VND 
+Demands that I want to meet: skin-care, house renting, shopping
+Specific constraints for each demand: 
+house renting: cheap motel
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Skin-care: 2000 VND/month
+Considering that many skin-care products can be found in Da Nang, you can get the basics of skin-care for a reasonable price. Set aside 2000 VND each month to buy some basic skin-care products that will keep your skin looking and feeling healthy.
+
+House Renting: 12000000 VND 
+Finding a cheap motel in Da Nang should not be too difficult. If you are looking for a long-term residence, consider looking for a room in a shared apartment or house as this will help you save on rent and still have access to basic amenities. Set aside 12000000 VND for your rent each month.
+
+Shopping: 300000 VND
+You can allocate 300000 VND each month for shopping. This should cover the cost of any items you may need for everyday living or other leisure activities. Make sure to shop around and compare prices to get the best deals.
+
+With this optimized spending plan, you should be able to stay within your budget while meeting all your demands. Remember to prioritize essential expenses over non-essential expenses and look for deals and discounts that can help you save money. This will help you put more money aside for long-term financial stability.

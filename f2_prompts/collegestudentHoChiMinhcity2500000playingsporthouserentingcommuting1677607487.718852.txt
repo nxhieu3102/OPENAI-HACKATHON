@@ -1,0 +1,8 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 2500000
+Demands: playing sport, house renting, commuting
+Constraints: playing sport: football or badminton
+house renting: not far from city center
+commuting: 10 km to school, by motorbike
+SPENDING PLAN: 

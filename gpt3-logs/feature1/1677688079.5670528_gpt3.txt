@@ -1,0 +1,19 @@
+3140e3fb-77f7-4a42-9810-fb8859412ccb
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- a brand that provides good support and is suitable for pavement running
+- Budget: 5000000 VND.
+- Market in:  Local Markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Local Markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Nike Air Zoom Pegasus 36 - 2,700,000 VND - This option from Nike is a great choice for pavement running, specifically designed to provide great support while still being lightweight and breathable. It provides extreme cushioning and shock absorption with springy foam, and a wider forefoot for more stability.
+
+2. Adidas Solar Glide ST 19 - 2,600,000 VND -This could be a great running shoe as it provides a great blend of cushioning and stability. The Solar Glide ST 19 also supports energy return thanks to its responsive cushioning. Additionally, it has been designed with a breathable mesh upper and Continental™ Rubber outsole for maximum traction on pavement.
+
+3. ASICS GEL-Nimbus 21 - 3,000,000 VND - This option from Asics is perfect for pavement running, offering great support and cushioning. The FlyteFoam™ Propel technology provides a soft but stable ride, while the mesh upper ensures breathability. The improved heel area provides comfort, and a longer lifespan.

@@ -1,0 +1,21 @@
+95e1f9d8-0fe9-4e5e-9957-0fe49010edca
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- spacious one-bedroom apartment with a balcony
+- Budget: 3000000000 VND.
+- Market in:  Da Nang
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Da Nang curent market price.
+
+ANSWER: 
+
+==========
+
+1. Apartment A: This one-bedroom apartment is located at No. 63, Street 10, Da Nang. It is an ideal apartment for a family due to its large size (85 m2). It offers stunning views of the city with access to a balcony for optimum relaxation. The total price for this apartment is 280,000,000 VND. 
+
+2. Apartment B: This one-bedroom apartment is located at No. 4, Street 45, Da Nang. With a spacious floor plan of 75 m2, it is perfect for a family of four or more. It has a balcony that overlooks the city, and a kitchen with modern appliances. The total price for this apartment is 270,000,000 VND.
+
+3. Apartment C: This one-bedroom apartment is located at No. 59, Street 5, Da Nang. It offers a large living area with an attached balcony that offers great views of the city. The apartment has all the necessary amenities and the total price is 250,000,000 VND. 
+
+These three apartments all meet the conditions set by you and your budget. All apartments offer spacious one-bedroom apartments with a balcony, and all stay under the 3000000000 VND budget. They all offer unique features that can offer a unique living experience that is tailored to your needs. Depending on your preferences between the three available apartments, you can choose the one that best suits your needs.

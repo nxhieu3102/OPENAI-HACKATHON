@@ -1,0 +1,33 @@
+d10fd996-6f02-4f72-80bc-8a4e0b047293
+I am a college student living in Da Nang:
+Total budget: 15000000 VND 
+Demands that I want to meet: investing, skin-care, entertaining, shopping
+Specific constraints for each demand: 
+entertaining: party, go to coffee
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Investing: 
+Allocate 10,000,000 VND to investing. Investing in stocks is generally a good long-term strategy and can help you build wealth over time. Investing in a mutual fund or index fund can be a good way to diversify your portfolio and protect against market volatility.
+
+Skin-Care: 
+Allocate 1,500,000 VND to skin-care. Da Nang is a humid climate and the sun is strong, so make sure to prioritize sunscreen and other skin protection products. Look for deals on skin-care products in local stores or online.
+
+Entertaining:
+Allocate 2,500,000 VND to entertaining. This should be enough for a few nights out with friends, going to coffee, or other activities. Use this as an opportunity to explore the city and enjoy the local culture!
+
+Shopping: 
+Allocate 1,000,000 VND to shopping. Da Nang has many great markets, so you should be able to find bargains. Look for cheap yet high-quality items like clothes and accessories. This could also be a great opportunity to buy gifts for friends and family.
+
+This budget should be enough to cover all of your demands while still staying within your total budget of 15,000,000 VND. Make sure to prioritize investing and skin-care, as these are essential expenses that will help you reach your long-term financial goals. Have fun and enjoy your time in Da Nang!

@@ -1,0 +1,34 @@
+ab28e3e6-fe56-4964-936b-263b91fe450f
+I am a college student living in Ha Noi:
+Total budget: 2500000 VND 
+Demands that I want to meet: shopping, food, investing, house renting
+Specific constraints for each demand: 
+food: can not cook
+house renting: not far from city center
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Shopping: 
+Because you are living in Hanoi, the cost of living is relatively low. You should allocate 1,000,000 VND for shopping for your everyday needs such as clothing, toiletries, and other necessities.
+
+Food:
+Given that you cannot cook, you should allocate 500,000 VND for take-out or delivery food. This will help you save money while still providing you with meals. You can also look into food delivery apps such as Gojek and GrabFood that offer discounts and promotions which can help you save money. 
+
+Investing:
+Given the limited budget, you should allocate 500,000 VND for investing. This can be done through low-cost index funds, such as ETFs and mutual funds, that can offer a diversified portfolio with a low cost of entry.
+
+House Rental:
+For house rental, you should allocate 500,000 VND. Given that you are living in the city center, rental prices will likely be higher. Look for locations that are close to public transport, amenities, and other services to ensure that you get the best value for your money. 
+
+This spending plan should provide you with a balanced approach to your budget and should help you stay within your budget constraints. By prioritizing essential expenses and minimizing costs where possible, you will be able to make the most of your money and have a long-term financial stability.

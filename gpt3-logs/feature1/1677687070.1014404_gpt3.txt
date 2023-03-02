@@ -1,0 +1,20 @@
+85d3ee2a-e83a-4d24-a1d0-3daec6b64a2a
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- good wine to pair with grilled salmon
+- Budget: 2000000 VND.
+- Market in:  Food delivery services
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Food delivery services curent market price.
+
+ANSWER: 
+
+==========
+
+1) Grilled Salmon Fillet with Sautéed Vegetables - 1.2 million VND: This option is not only budget-friendly but also provides a tasty, yet healthy meal. The grilled salmon fillet is a perfect addition to a meal and the sautéed vegetables provide a beautiful accompaniment.
+
+2) Chilean Cabernet Sauvignon Wine with Grilled Salmon - 800 thousand VND: This option ensures that you have an enjoyable pairing with the grilled salmon. The Chilean Cabernet Sauvignon wine has a deep, mellow and juicy taste that brings out the complexity and elegance of the meal. 
+ as well as being more economical.
+
+Total cost: 2 million VND.

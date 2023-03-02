@@ -1,0 +1,22 @@
+07f93d26-26f0-497f-a722-6bcc981e50b8
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- healthy
+- Budget: 3000000 VND.
+- Market in:  Supermarkets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Supermarkets curent market price.
+
+ANSWER: 
+
+==========
+
+1. 2 kg of potatoes, 250,000 VND: Potatoes are a healthy root vegetable and are a nutrient-rich complex carbohydrate that provides energy and fiber. They're low in fat, cholesterol and sodium and high in vitamins and minerals. 
+2. 2 kg of carrots, 220,000 VND: Carrots are an excellent source of vitamin A, vitamin C, and fiber. They are also very affordable, help to provide natural sweetness, and are a good source of antioxidants. 
+3. 1 kg of brown rice, 220,000 VND: Brown rice is a healthy whole grain that is high in fiber and provides a great source of B vitamins, iron, and magnesium. 
+4. 2 kg of bananas, 160,000 VND: Bananas are a great source of potassium, vitamin C, and fiber. They also provide some magnesium, vitamin B6, and omega-3s. 
+5. 1 kg of apples, 160,000 VND: Apples are a good source of antioxidants and vitamin C. They are a natural source of fiber and can help to promote digestive health. 
+6. 2 kg of spinach, 80,000 VND: Spinach is an excellent source of vitamin A and is also a good source of vitamin C, iron, and calcium. 
+
+Total cost: 950,000 VND, which is below the budget of 3 million VND.

@@ -1,0 +1,22 @@
+ee0cf56d-0516-40cd-ade7-c753ed59037c
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- high-resolution display and good color accuracy for photo editing
+- Budget: 25000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: ASUS IdeaPad Slim 5 (14”), Price: 24.89 million VND
+This laptop is highly suitable for basic photo editing and offers a vibrant 14-inch full-HD touchscreen display with ultra-narrow border and good color accuracy. It is powered by the latest 10th generation Intel Core processor with Ryzen 7 and comprises of 8GB RAM and 512GB SSD plus a dedicated AMD Radeon Intel UHD Graphics card. It also offers great sound quality with dual speakers and Dolby Audio Boost, giving you the ultimate audio-visual experience.
+
+Option 2: Acer Aspire 3 (15”), Price: 22.5 million VND
+This is another good choice for basic photo editing needs with good color accuracy. It offers 15-inch full HD IPS display with narrow bezel design for wider and immersive visuals. It is powered by Intel Core i7 processor and comes with 8GB RAM and 512GB SSD. You can also enjoy HD audio with two built-in stereo speakers. The laptop has a long-lasting battery and fast charging tech for extended usage and quick boost.
+
+Option 3: Dell Inspiron 5584 (15”), Price: 24.0 million VND
+This laptop is perfect for basic photo editing since it offers a 15-inch touchscreen display with accurate color representation and narrow border design. It is powered by 8th Gen Intel Core i7-8565U processor and 8GB DDR4 RAM. Plus, it also has a 512GB SSD storage and AMD Radeon 530 graphics card. It also offers excellent sound quality with dual speakers and Waves MaxxAudio Pro for immersive entertainment.

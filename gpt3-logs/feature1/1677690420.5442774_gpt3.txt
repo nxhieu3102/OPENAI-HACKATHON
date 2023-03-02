@@ -1,0 +1,21 @@
+ed09842b-3b74-4869-8130-cf263a470479
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fully furnished family car
+- Budget: 500000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Toyota Fortuner 2.5 G (2014): The Toyota Fortuner 2.5 G is a powerful, spacious, family car that you can get for 429,000,000 VND. It has a 2.5-liter engine and is equipped with ABS, EBD, traction control and ESP, along with dual airbags for added safety. The car has a comfortable interior with plenty of legroom and an 8-speaker audio system. It is quite fuel efficient and reliable with all the latest technical features. 
+
+2. Honda CR-V 2.4 (2017): The Honda CR-V 2.4 is a perfect family car that is available for 453,000,000 VND. It has a 2.4-liter engine and is equipped with all the latest features, such as ABS, EBD, and ESP, 8-Speaker Audio System and traction control, along with dual airbags for added safety. The car also comes with spacious and stylish interiors, and has ample room to seat up to five people. On top of that, it is fuel efficient and reliable making it a great choice.
+
+3. Mazda 6 2.0L (2017): The Mazda 6 2.0L is a reliable and stylish car that you can get for 478,000,000 VND. The car is equipped with a 2.0 liter engine and features a sophisticated design, along with extra features such as, ABS, EBD, ESP and traction control, as well as dual airbags for added safety. It also has a comfortable interior with plenty of legroom and an 8-speaker audio system. It is a great car to invest in as it is fuel efficient, reliable, and stylish. 
+
+All of these options are within your budget and will optimize your money, while satisfying the given conditions. You should buy the one that best fits your lifestyle and needs.

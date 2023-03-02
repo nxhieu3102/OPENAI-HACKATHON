@@ -1,0 +1,31 @@
+55426661-f41c-4025-abfb-746b99af8b3e
+I am a college student living in Ho Chi Minh city:
+Total budget: 10000000 VND 
+Demands that I want to meet: education, food, shopping, investing, house renting
+Specific constraints for each demand: 
+education: toeic learning
+food: can not cook
+house renting: not far from city center
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Education: 6000000 VND - Invest in quality online TOEIC learning programs, such as TOEIC Bridge or TOEIC Practice Test Online, which are affordable and offer good value for money.
+
+Food: 2000000 VND - Focus on healthy and affordable options such as convenience store meals, fruit and vegetables, and frozen meals. Avoid spending too much on take-out or restaurant meals, as these can quickly add up.
+
+Shopping: 2000000 VND - Shop for essential items such as toiletries and groceries online and in-store, and look for discounts and sales to help you save money.
+
+Investing: 0 VND - Investing is not a necessity at this stage and should be avoided until you have more financial stability.
+
+House Renting: 2000000 VND - Look for a place close to city center that fits your budget. Consider looking for shared accommodations if possible, as this can significantly lower your housing costs.

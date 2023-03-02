@@ -1,0 +1,33 @@
+27654a2a-adc8-4f72-a7c4-ef99d3194218
+I am a college student living in Ho Chi Minh city:
+Total budget: 6000000 VND 
+Demands that I want to meet: shopping, food, house renting, skin-care, education
+Specific constraints for each demand: 
+food: calories reduce
+house renting: cheap motel
+education: ielts learning
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Shopping: Allocate 40% of the budget which is 2,400,000 VND. Look for discounts and sales in order to maximize the value of the budget. Consider online stores which may offer greater discounts than physical stores. 
+
+Food: Allocate 20% of the budget which is 1,200,000 VND. Focus on nutritious and healthy food options to reduce calories intake and look for ways to save money, such as coupons or discounts at grocery stores. 
+
+House Renting: Allocate 25% of the budget which is 1,500,000 VND. Research cheap motels in the area and compare prices to find the best deal. Additionally, look for long-term rental arrangements that may offer discounts. 
+
+Skin Care: Allocate 10% of the budget which is 600,000 VND. Look for quality products that are within budget and compare prices to get the most value for the money. Consider natural products that are free of harmful chemicals. 
+
+Education: Allocate 5% of the budget which is 300,000 VND. Look for quality IELTS learning materials and online courses that are within budget. Consider taking advantage of scholarship and financial aid programs to minimize costs. 
+
+With this optimized spending plan, you should be able to stay within your budget while still getting the best value for your money. Be sure to research thoroughly and compare prices to maximize your budget. Additionally, prioritize essential expenses over non-essential expenses to ensure long-term financial stability.

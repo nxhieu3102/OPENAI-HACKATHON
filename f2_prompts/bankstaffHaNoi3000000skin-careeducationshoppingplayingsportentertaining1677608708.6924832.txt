@@ -1,0 +1,8 @@
+Job: bank staff
+Location: Ha Noi
+Budget: 3000000
+Demands: skin-care, education, shopping, playing sport, entertaining
+Constraints: education: programming learning
+playing sport: gyming, dancing
+entertaining: traveling, go backpacking
+SPENDING PLAN: 

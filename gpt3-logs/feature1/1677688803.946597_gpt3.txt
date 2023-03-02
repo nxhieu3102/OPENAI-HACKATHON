@@ -1,0 +1,19 @@
+7de27de4-da40-4f6c-9f61-5b3e77a54846
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- affordable and durable
+- Budget: 13000000 VND.
+- Market in:  Nguyen Kim
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Nguyen Kim curent market price.
+
+ANSWER: 
+
+==========
+
+1. Dell Inspiron 15 3576 Core i5 8250- 8GB RAM- 1TB HDD - 15.6" : costing 8,990,000 VND - This laptop from Dell offers good performance at an affordable price, and good durability with an 8th Gen Intel® Core i5 processor and 8 GB of DDR4 RAM, allowing you to easily multitask and run modern applications without problems. It also has 1 TB of HDD space, which allows you to store large amounts of files and data.
+
+2. Acer Aspire A315-42-R8EX Ryzen 3 3200U- 4GB DDR4- 512GB SSD - 15.6" : costing 12,900,000 VND - This laptop from Acer provides reliable performance along with good durability, thanks to the Ryzen 3 3200U processor and 4 GB of DDR4 RAM. The 512 GB SSD ensures fast boot times as well as quick access to your files, and the 15.6" screen provides ample real estate for multimedia applications.
+
+3. ASUS VivoBook A512F-BQ576T Core i3-8145U- 4GB DDR4- 1TB HDD - 15.6" : costing 10,990,000 VND - This laptop from ASUS provides good performance at an affordable cost, and is built with durable components, including an 8th Gen Intel Core i3 processor and 4 GB of RAM. You can count on 1 TB of HDD space to store your pictures, videos, music, and documents. The 15.6" screen provides plenty of space to work with, and the Silver chassis finish makes it look attractive.

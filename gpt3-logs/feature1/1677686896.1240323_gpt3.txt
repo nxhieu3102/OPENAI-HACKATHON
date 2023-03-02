@@ -1,0 +1,26 @@
+6241fa2b-0159-4ca7-a85f-33c109f22c48
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- allergic to gluten
+- Budget: 1500000 VND.
+- Market in:  Traditional markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Traditional markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Cassava: Cassava is a good option for you as it is gluten free and relatively cheap. It costs about 40,000-50,000 per kg and can be used for a variety of dishes such as fried cassava, cassava chips, and boiled cassava. It is also a good source of carbohydrates and can be used to add extra nutrition in your diet.
+
+2. Coconut: Coconuts are also gluten free and can work as a great source of dietary fiber. 1.4kg of coconut costs about 45,000 VND which is a great option for your budget. Coconut can be used for a variety of dishes such as coconut rice, coconut salad, coconut curries, and coconut desserts.
+
+3. Fruits: Fresh fruits are an excellent healthy option for you as they are gluten free and provide essential nutrition such as vitamins and minerals. Common fruits you can purchase in the traditional markets are apples, oranges, grapes, watermelons, and bananas which all range from 45,000 - 90,000 VND per kg.
+
+4. Fish: Fish is a great source of lean proteins and it is also gluten free. Common types of fish that you can purchase in the traditional markets around include the small fish, large fish, and shrimp. Prices range from 70,000 - 90,000 VND per kg. 
+
+5. Soybeans: Soybeans provide a great source of proteins, gluten-free and it is relatively cheap. You can purchase soybeans at the traditional markets for about 45,000 - 55,000 VND per kg. Soybeans are also a great source of energy, as well as essential vitamins and minerals. 
+
+Total Cost: 265,000 - 345,000 VND 
+This is an optimal solution for your budget and condition, as all of the products mentioned are gluten free, within your budget and fulfill the nutritional requirements for a healthy diet.

@@ -1,0 +1,7 @@
+Job: college student
+Location: Da Nang
+Budget: 15000000
+Demands: entertaining, education, shopping
+Constraints: entertaining: traveling, go backpacking
+education: drawing, cooking
+SPENDING PLAN: 

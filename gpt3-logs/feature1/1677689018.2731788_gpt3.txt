@@ -1,0 +1,22 @@
+35f6f9a2-d268-42f1-92a0-a47014246a28
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- comfortable keyboard for typing
+- Budget: 13000000 VND.
+- Market in:  Thegioididong
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Thegioididong curent market price.
+
+ANSWER: 
+
+==========
+
+1. Dell Inspiron 15 - 7000 Core i5 8GB 512GB - VND 11,999,000
+This laptop has a great keyboard, as well as an Intel Core i5 processor, 8GB RAM and 512GB storage. This model is a great value for money and will be great for typing tasks. It has good battery life and the powerful hardware makes it great for multitasking.  
+
+2. ASUS VivoBook S15 S533 / i5-1135G7 / 8GB / 512GB - VND 12,490,000
+This laptop also has a great keyboard, a 11th generation Intel Core i5 processor, 8GB of RAM and 512GB storage. This model offers a good balance between performance and price, making it a great value for basic typing tasks. The long battery life and the great design makes it ideal for working on the go. 
+
+3. Acer Swift 3 SF314 - 56 / i3 10th Gen / 8GB / 512GB - VND 9,990,000 
+This laptop comes with a comfortable keyboard, a 10th generation Intel Core i3 processor, 8GB of RAM and a 512GB storage drive.This model is perfect for basic computing tasks and typing, as it offers good performance. It has good battery life, making it a great option for working on the go. It is also a great value for the price.

@@ -1,0 +1,21 @@
+94506ab3-da29-4531-9026-80a2975b82f2
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- SUV with third-row seating and good towing capacity
+- Budget: 500000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Honda CR-V: This SUV has third-row seating and maximum towing capacity of 225kg. It has 2 engine options: 2.0 or 2.4 litres, both being petrol engines. The 2.0 litre comes with a 5-speed manual or a CVT automatic transmission while the 2.4 comes with a 5-speed automatic transmission. The Honda CR-V is priced from 475,000,000 VND to 515,000,000 VND (depending on the engine option and transmission). 
+
+2. Toyota Fortuner: This is a 7-seater with third-row seating and can tow up to 1000 kg, making it a great option for Family and Caravan traveling. The Toyota Fortuner is priced from 515,000,000 VND to 719,000,000 VND depending on the engine and features included. 
+
+3. Hyundai Santa Fe: This SUV has third-row seating and a maximum towing capacity of 2200 kg. Its engine options are 2.2 or 2.4 litre, both being diesel. It comes with a 6-speed manual or 6-speed automatic transmission, depending on the engine. The Hyundai Santa Fe is priced from 499,000,000 VND to 535,000,000 VND (depending on the engine option and transmission). 
+
+At the given budget, you can opt for a Honda CR-V which gives you third-row seating as well decent towing capacity. It is great for small family trips and is fairly fuel-efficient. The Toyota Fortuner is also a great option if your budget permits as it is bigger and more powerful than the CR-V and can tow a bigger payload. Lastly, if you are looking for a diesel engine, the Hyundai Santa Fe is the best option as it is more powerful than the others and more fuel-efficient as well.

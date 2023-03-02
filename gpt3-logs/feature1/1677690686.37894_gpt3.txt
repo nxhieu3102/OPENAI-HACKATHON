@@ -1,0 +1,19 @@
+89a820ca-21df-4dc3-b455-4d6b82140293
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- good moisturizer for dry, sensitive skin
+- Budget: 300000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1) Snail White Whitening Cream for Dry Skin: This cream is specifically designed for dry, sensitive skin and contains natural ingredients like snail mucin, collagen, and vitamin E to replenish skin’s moisture and to even out skin tone. It comes in a 50g jar and it cost 280000 VND. 
+2) Natural Aqua Whitening Gel: This whitening gel is also suitable for dry, sensitive skin. It contains natural ingredients like olive oil, honey, and aloe vera extract to soothe and hydrate the skin. It comes in a 30ml tube and it cost 180000 VND. 
+3) Arimino Cure Cream Plus: This cream is designed for sensitive, dry skin and contains natural ingredients like borage oil, squalane, and salicylic acid to nourish and protect the skin. It comes in a 30ml tube and it cost 190000 VND. 
+
+All of these products are well within your budget, are specifically designed for dry, sensitive skin and contain natural ingredients that will be gentle and nourishing to your skin. The Snail White Whitening Cream has the highest price but it would provide the most concentrated and powerful skincare benefits. The Natural Aqua Whitening Gel is a great mid-range option that will still give you good results. The Arimino Cure Cream Plus is the most affordable option but still has great skincare benefits. All of these choices are sure to give you results that will optimize your budget and help you to get the best skin care products possible.

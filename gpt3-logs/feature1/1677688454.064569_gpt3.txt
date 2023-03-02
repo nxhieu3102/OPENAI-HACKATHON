@@ -1,0 +1,19 @@
+4c074126-d8ad-4902-b127-6cde0265074a
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- large display and a dedicated graphics card for gaming
+- Budget: 20000000 VND.
+- Market in:  Nguyen Kim
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Nguyen Kim curent market price.
+
+ANSWER: 
+
+==========
+
+1. Huawei Predator Helios 300 (Core i7 10th Gen/ 16GB RAM/ 256GB SSD/ 4GB Nvidia GTX 1650 Ti/ 15.6” FHD Display): Price: 19,990,000 VND. This laptop is perfect for gaming and has a large 15.6” FHD display plus a dedicated 4GB Nvidia GTX 1650 Ti graphics card and 16GB RAM, plus a 256GB SSD to store all your games.
+
+2. Asus VivoBook S530FA – Price: 19,999,000 VND. This laptop offers a stunning 15.6” FHD display and is equipped with a Core i5 8th Gen processor and 8GB RAM for smooth multitasking. It also has a dedicated NVIDIA GeForce MX250 GPU with 2GB DDR5 VRAM for powerful gaming experience. Additionally, it features a 512GB SSD storage space.
+
+3. Dell Inspiron 5593 – Price: 19,990,000 VND. This laptop is equipped with an Intel Core i5 10th Gen processor and 8GB of RAM. Its storage capacity comes in with a 256GB SSD, and there’s a 15.6” Full HD display. This laptop also has a dedicated Intel UHD Graphics, making it a great option for gaming needs.

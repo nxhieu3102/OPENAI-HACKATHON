@@ -1,0 +1,22 @@
+d1e7a04d-5ecc-409b-800f-33073a58c61b
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- affordable and durable
+- Budget: 10000000 VND.
+- Market in:  Thegioididong
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Thegioididong curent market price.
+
+ANSWER: 
+
+==========
+
+1. Lenovo IdeaPad 330 81D6004FVN: Price: 8,490,000 VND.
+This is a great and affordable laptop for your budget. It has a 14-inch HD display, 8th-gen Intel Core i3-8145U 2.1GHz processor, 4GB DDR4 RAM, and 128GB solid-state drive storage. It contains a graphically integrated Intel UHD Graphics 620 and runs on a Windows 10 operating system. This laptop also comes with a large battery which ensures a long lasting battery life. Ideal for students, this laptop not only looks good, but is also durable and reliable.
+
+2. Asus Vivobook X412FQ: Price: 8,490,000 VND.
+The Asus Vivobook X412FQ is a great choice for those who are looking for an affordable and durable laptop. It has a 14-inch HD display, powered by an 8th-gen Intel® Core™ i3-8145U 2.1GHz processor with 4GB DDR4 RAM, and 128GB solid-state drive storage. It runs on Windows 10 operating system and comes with an Intel UHD Graphics 620 for superior graphics quality. The laptop comes with an extra long battery life, allowing for maximum productivity. The design is slim and sleek, making it highly portable.
+
+3. HP ProBook 430 G6: Price: 8,750,000 VND.
+The HP ProBook 430 G6 is a great choice for those looking for a reliable, powerful, and durable laptop. It has a 13.3-inch FHD display, 8th-gen Intel Core i3-8145U 2.1GHz processor, 4GB DDR4 RAM, and 128GB solid-state drive storage. It runs on Windows 10 and is powered by Intel UHD Graphics 620. The laptop has a long lasting battery life, making it an ideal choice for users who are always on the go. It is slim and lightweight, making it very portable. It is also highly reliable and durable, making it an ideal choice for students and professionals alike.

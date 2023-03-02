@@ -1,0 +1,35 @@
+f590c4e0-0ca9-4492-acef-b3f0f37fcc8c
+I am a college student living in Ha Noi:
+Total budget: 4000000 VND 
+Demands that I want to meet: house renting, food, entertaining, shopping
+Specific constraints for each demand: 
+house renting: suburban area
+food: vegetarian
+entertaining: theater and concerts
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting: 
+Allocate 40% of total budget (1.6 million VND) to house renting in a suburban area. This amount can help you find a decent place to stay, with some room for negotiation. Make sure to look for opportunities to negotiate for discounts or reduced rent.
+
+Food:
+Allocate 30% of total budget (1.2 million VND) to food. As a vegetarian, you can look for affordable alternatives like tofu, tempeh, and legumes. You may also consider buying in bulk and stocking up on staples like grains and legumes, which will help you save money in the long run.
+
+Entertaining:
+Allocate 20% of total budget (800,000 VND) to entertainment. This can include tickets for theater and concerts, but you should also consider other fun activities like going to the movies or taking a weekend trip. Be sure to look for discounts and promotions that you can take advantage of.
+
+Shopping:
+Allocate 10% of total budget (400,000 VND) to shopping. This should be mainly used for purchasing necessities like clothing and toiletries. When shopping, try to look for good deals and sales that can help reduce costs. You may also want to set aside some money for occasional splurges on non-essential items.
+
+By optimizing your spending plan, you can maximize your budget and make sure that you are able to meet all of your demands. Make sure to prioritize your essential expenses first, and to look for discounts and promotions to help you save money. This will help you stay within your budget and ensure that you're able to meet all of your needs.

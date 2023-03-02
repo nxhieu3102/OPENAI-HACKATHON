@@ -1,0 +1,34 @@
+391b1d79-b30a-4d20-954b-c16c010698d0
+I am a college student living in Ha Noi:
+Total budget: 3000000 VND 
+Demands that I want to meet: investing, commuting, food, shopping
+Specific constraints for each demand: 
+commuting: 15 km by public transportation
+food: high protein
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Investing: 
+You should allocate a minimum of 500,000VND each month for investing. Investing in stocks, mutual funds and other low-risk investments can help you grow your money over the long-term. Investing in these types of securities can also help to diversify your portfolio and reduce your risk.
+
+Commuting: 
+You should allocate a maximum of 500,000VND each month for commuting expenses. The cheapest way to get around town is by using public transportation. You can use the metro, buses, trams, and other public transportation options to get around town for a fraction of the cost of using a car. This can save you a lot of money over the course of the month.
+
+Food: 
+You should allocate a minimum of 1,000,000VND for your food expenses. When shopping for food, try to focus on healthy and high protein foods. Eating a balanced diet with plenty of fruits and vegetables can help to keep your body healthy and your energy levels up. You can also save money by meal prepping and buying in bulk. 
+
+Shopping: 
+You should allocate a maximum of 1,000,000VND each month for shopping expenses. When shopping, focus on items that are necessary and will last you a long time. Avoid making impulse purchases and try to shop at places that offer discounts and sales. You can also save money by shopping online and using discount codes. 
+
+Overall, with this optimized spending plan, you should be able to stay within your budget constraints while still meeting your demands. You can also use this plan as a starting point and adjust it as your budget and needs change over time.

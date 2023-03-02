@@ -1,0 +1,7 @@
+Job: college student
+Location: Da Nang
+Budget: 2500000
+Demands: house renting, commuting, investing, shopping
+Constraints: house renting: not far from city center
+commuting: 3 km to work
+SPENDING PLAN: 

@@ -1,0 +1,19 @@
+2ac3e452-7193-4495-a065-711d7ecbc1f5
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- sports car, manual transmission
+- Budget: 700000000 VND.
+- Market in:  Mazda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Mazda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: Mazda 3 SkyActiv-X: priced at 674 million VND, this sedan offers a range of features including a 2.0L gasoline engine, 6-speed manual transmission, auto start-stop system, power windows, 7-inch color touch-screen with voice command and active safety technology. Its precise handling, sporty looks and fuel-efficient engine deliver an enjoyable yet economical driving experience that helps to optimize your budget while getting a stylish and practical car.
+
+Option 2: Mazda 2 SkyActiv-G: priced at 638 million VND, this 5-door hatchback offers a 1.5L gasoline engine, 6-speed manual transmission, sporty and aerodynamic design, 7-inch color touch-screen infotainment system, auto start-stop system, and rearview monitor. Equipped with all the necessary and state-of-the-art features, the Mazda 2 SkyActiv-G is a great option for those who need affordability and style. 
+
+Option 3: Mazda 6 SkyActiv-G: priced at 680 million VND, this sedan provides a variety of features that include a 2.5L gasoline engine, 6-speed manual transmission, an advanced safety suite, 10-speaker infotainment system, navigation, keyless entry/start, dual-zone climate control, LED headlights and tail lights, and more. With its efficient engine, powerful performance and stylish feel, the Mazda 6 SkyActiv-G is a great choice that won't break the bank.

@@ -1,0 +1,19 @@
+b5184cf6-37f7-4958-8cc5-f2748596ade6
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- lightweight, long battery life, powerful processor
+- Budget: 10000000 VND.
+- Market in:  Nguyen Kim
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Nguyen Kim curent market price.
+
+ANSWER: 
+
+==========
+
+1. Dell XPS 13 Laptop (VND 19,500,000): This laptop is a great choice, as it is lightweight and portable, while still delivering high performance with its Intel Core i7 10th Gen processor and 8GB of RAM. The battery life is also good – it delivers up to 18 hours on a single charge.
+
+2. ASUS VivoBook 15 X510UA (VND 16,000,000): This laptop meets the criteria of being lightweight and having a long battery life, plus it has a powerful Intel Core i5 8th Gen processor and 8GB of RAM. It’s an ideal laptop for everyday use.
+
+3. Lenovo IdeaPad 330 (VND 15,900,000): This laptop has a 14-inch FHD display, an Intel Core i5 8th Gen processor, 8GB of RAM and a long battery life of up to 8 hours. It’s lightweight and thin, making it perfect for students and business professionals alike.

@@ -1,0 +1,16 @@
+fdcfd73a-69ed-4370-b54f-d8118bc6fa22
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fully furnished family car
+- Budget: 600000000 VND.
+- Market in:  Toyota Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Toyota Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Toyota Fortuner 2.4G (Market Price: 545,000,000 VND): 
+The Toyota Fortuner 2.4G is an ideal choice for your family car needs and budget. It comes with a 2.4L gasoline engine, 6-speed automatic transmission and a maximum output power of 150 ps. Overall it is a spacious, comfortable, and stylish car with practical interior features including center-console 7-inch touchscreen display and audio system. This car is equipped with advanced safety features such as 8 airbags and a reversing camera, making it a safe and reliable choice. With a market price of only 545,000,000 VND, the Toyota Fortuner 2.4G offers great value and is an excellent choice for your needs.

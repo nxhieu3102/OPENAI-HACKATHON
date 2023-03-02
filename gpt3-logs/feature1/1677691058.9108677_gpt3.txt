@@ -1,0 +1,27 @@
+1085877c-3128-4d1c-aa3f-8ae418d22254
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- reducing the appearance of acne scars
+- Budget: 1500000 VND.
+- Market in:  L'Occitane
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the L'Occitane curent market price.
+
+ANSWER: 
+
+==========
+
+For 1500000VND, you can buy some L'Occitane products to reduce the appearance of acne scars. 
+
+1. L'Occitane Divine Cream, 200mL/6.8fl.oz, price: 1150000VND
+This cream is very effective when it comes to reducing the appearance of acne scars. It's enriched with Immortelle, a flower with strong anti-aging properties, and shea butter, used in Africa to nourish hair and skin for centuries. It helps intensely hydrate and nourish the skin, helping to reduce wrinkles, dark spots and acne scars.
+
+2. L'Occitane Divine Youth Oil, 30mL/1.0fl.oz, price: 120000VND
+This oil is a luxurious blend of six essential oils – Lavender, Geranium and Rose, to regenerate skin and accelerate its natural renewal; Angelica, to reduce the appearance of age-related wrinkles; and Patchouli, to refine skin texture. It can be used to reduce the appearance of acne scars. 
+
+3. L'Occitane Immortelle Brightening Cleansing Foam, 200mL/6.7fl.oz, price: 165000VND
+This brightening cleansing foam combines the power of Immortelle floral water and seven other plant-based cleansing and exfoliating agents to gently cleanse and exfoliate the skin, helping to reduce the appearance of acne scars and other signs of aging.
+
+Total cost = 1150000VND + 120000VND + 165000VND = 1385000VND 
+Which is within your budget of 1500000VND.

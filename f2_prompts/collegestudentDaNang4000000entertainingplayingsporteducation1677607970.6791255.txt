@@ -1,0 +1,8 @@
+Job: college student
+Location: Da Nang
+Budget: 4000000
+Demands: entertaining, playing sport, education
+Constraints: entertaining: traveling, go backpacking
+playing sport: karate
+education: toeic learning
+SPENDING PLAN: 

@@ -1,0 +1,30 @@
+e2e1aa3e-2da0-4c19-92dc-dcf7b92c2a1c
+I am a college student living in Ho Chi Minh city:
+Total budget: 15000000 VND 
+Demands that I want to meet: investing, education, food
+Specific constraints for each demand: 
+education: toeic learning
+food: can not cook
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Investing: 7000,000 VND - Investing is a great way to increase wealth in the long-term, so it's important to allocate some of your budget to this. Investing can be done through a variety of channels, such as stocks, bonds, mutual funds, ETFs, etc. Make sure to research the best options for your budget and needs.
+
+Education: 4000000 VND - Toeic learning is an important part of gaining the skills needed to be successful in the job market. Invest in quality materials and classes to get the most out of your learning experience. Consider online classes or group classes if they fit within your budget.
+
+Food: 7500,000 VND - Eating out is convenient and often cheaper than cooking at home. Try to find restaurants that offer discounts or coupons, or look online for deals. If you can cook, buy groceries in bulk and make meals that will last you a few days. This will save you money in the long run. 
+
+The schema for each demand should be based on the budget allocated for the demand and the desired outcomes. Investing should be done through a variety of channels such as stocks, bonds, mutual funds, ETFs, etc. Education should be done through quality materials and classes that cover the topic of Toeic. Food should be done through eating out, using coupons or discounts, or buying in bulk and cooking at home. 
+
+It is important to research and compare options to ensure that you are getting the best value for your money. Additionally, it is important to keep in mind that your budget is limited, so try to prioritize essentials over non-essentials and look for ways to minimize costs where possible. By doing this, you can optimize your spending to meet your demands while staying within your budget.

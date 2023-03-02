@@ -1,0 +1,5 @@
+Good: a car
+Conditions: fully furnished family car
+Budget: 500000000 VND
+Market place: Toyota Vietnam
+ANSWER:  

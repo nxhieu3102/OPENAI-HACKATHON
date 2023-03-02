@@ -1,0 +1,35 @@
+c7787a75-95fd-46bd-81d0-2fa8501abeb1
+I am a college student living in Ha Noi:
+Total budget: 3000000 VND 
+Demands that I want to meet: playing sport, commuting, education, entertaining, house renting
+Specific constraints for each demand: 
+playing sport: swimming and bicycling
+commuting: 3 km to work
+education: ielts learning
+entertaining: drinking, cooking
+house renting: near city center
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Playing Sport: Swimming and bicycling are both relatively inexpensive and healthy activities. To maximize your budget for this demand, you could look for free public swimming pools and gyms near your living location. Additionally, you could find second-hand bicycles or even rent a bicycle from a local bike store to save money. Allocating around 450000 VND for this should be sufficient. 
+
+Commuting: Depending on the distance from your home to work, you could either take public transportation, walk, or bike to work. Taking public transportation and walking are the most cost-effective options, so you should consider focusing on these. Allocating around 100000 VND for commuting should be enough. 
+
+Education: IELTS learning is an important part of your education and should be prioritized. Depending on the type of IELTS learning you are looking for, prices may vary. You could look for online IELTS learning programs or hire a tutor to help you maximize your budget. Allocating around 600000 VND for this should be sufficient. 
+
+Entertaining: Drinking and cooking are two great ways to entertain yourself while staying on budget. You could look for discounted drinks at local bars and restaurants or buy ingredients to cook your own meals. Allocating around 200000 VND for this should be enough. 
+
+House Renting: Finding an apartment near the city center can be expensive, so you should look for cheaper options near the outskirts of the city. Consider looking for shared apartments or houses, as this can give you access to more affordable rent. Allocating around 1000000 VND for this should be enough. 
+
+Overall, with the budget of 3000000 VND, you should be able to get access to all the amenities you need. Allocating 450000 VND for playing sport, 100000 VND for commuting, 600000 VND for education, 200000 VND for entertaining and 1000000 VND for house renting should optimize your budget and give you access to all the amenities you need.

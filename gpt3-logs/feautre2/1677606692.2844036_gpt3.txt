@@ -1,0 +1,38 @@
+1fc7c512-b09f-48c3-983a-57f70d56494f
+I am a college student living in Ha Noi:
+Total budget: 3000000 VND 
+Demands that I want to meet: house renting, skin-care, investing, playing sport
+Specific constraints for each demand: 
+house renting: near city center
+playing sport: swimming and bicycling
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting: 
+Budget Allocation: 1,500,000 VND 
+Schema: Try to find a house near the city center, preferably in a low-cost area. Avoid signing long-term leases and opt for a month-to-month contract if possible. Consider sharing a house with roommates to save on costs.
+
+Skin-Care: 
+Budget Allocation: 700,000 VND 
+Schema: Stick to buying generic, over-the-counter skin-care products as they are typically cheaper than name brand items. Buy in bulk to save money, and consider making your own products such as facial masks and moisturizers. 
+
+Investing: 
+Budget Allocation: 500,000 VND 
+Schema: Invest in low-risk stocks and bonds to minimize risk and maximize returns. Research the stock market before investing, and diversify your investments to ensure that you are not putting all of your eggs in one basket. 
+
+Playing Sports: 
+Budget Allocation: 300,000 VND 
+Schema: Try to find a gym or sports club that offers discounts for students. Look for a gym with a pool and a cycling facility to make the most of your budget. Additionally, consider engaging in outdoor activities that do not require a membership such as jogging or bike riding. 
+
+By following this optimized spending plan, you should be able to meet your financial needs without breaking your budget. Additionally, the strategies provided should help you maximize your budget and save money in the long run.

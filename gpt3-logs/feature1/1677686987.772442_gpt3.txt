@@ -1,0 +1,26 @@
+d5ebcde8-32a7-41ba-bc9a-0fb84340d550
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- allergic to gluten
+- Budget: 700000 VND.
+- Market in:  Traditional markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Traditional markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. Bananas - 120000 VND: Bananas are a healthy and tasty snack option, and they're gluten-free. They're also a great source of energy, so they're perfect for giving you an energy boost when needed. 
+
+2. Brown Rice - 80000 VND: Brown rice is an excellent source of complex carbohydrates and dietary fiber, both of which are staples of a healthy diet. It's entirely gluten-free, a good source of vitamin B6, and a great addition to a balanced meal.
+
+3. Milk - 40000 VND: Milk is dairy free, highly nutritious and it's free from gluten. It's a great source of protein, and a good source of minerals such as magnesium, potassium, and phosphorus.
+
+4. Vegetables - 50000 VND: Vegetables are a great way to get essential vitamins, minerals, and fiber. They're also a powerhouse of nutrition with plenty of antioxidants and polyphenols, and they're naturally gluten-free.
+
+5. Eggs - 35000 VND: Eggs are a popular, healthy, and gluten-free food. They provide an abundant source of protein and other essential nutrients, such as iron and zinc. Eggs are also very versatile, so they can be used in a variety of dishes.
+
+Total Cost: 345000 VND 
+You have 355000 VND left for other groceries that may be on your shopping list.

@@ -1,0 +1,19 @@
+d3e2826c-bc64-4212-b14c-e882dfb44db4
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- sports car, manual transmission
+- Budget: 500000000 VND.
+- Market in:  Honda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Honda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Honda Civic Type R: The Honda Civic Type R is a great choice for those working within a budget of 500 million VND. It's powered by a 2.0L VTEC Turbocharged engine that produces 316 hp and 400 Nm of torque. The car also has a 6-speed manual transmission. This car is agile and has precise steering. It also provides great visibility and good fuel economy. The price of the Honda Civic Type R in Vietnam is 418 million VND. 
+
+Honda City Turbo 1.5: The Honda City Turbo 1.5 is another great option for your budget. It is powered by a 1.5L VTEC Turbocharged engine that produces 174 hp and 225 Nm of torque. It also has a 6-speed manual transmission. This car is a great choice for city driving with its light and nimble handling. It also provides impressive fuel efficiency. The cost of the Honda City Turbo 1.5 in Vietnam is only 349 million VND. 
+
+Honda Jazz 1.5 RS: The Honda Jazz 1.5 RS is also a great choice for those working with a budget of 500 million VND. It is powered by 1.5L VTEC engine that produces 121 hp and 145 Nm of torque. The car also has a 6-speed manual transmission. This car is great for city driving as it offers a smooth and comfortable ride. It also provides a good fuel economy. The price of the Honda Jazz 1.5 RS in Vietnam is only 294 million VND.

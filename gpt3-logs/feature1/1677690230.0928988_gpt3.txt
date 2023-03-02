@@ -1,0 +1,19 @@
+952007fe-6511-4008-a939-5eb20aeac3fe
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- sports car, manual transmission
+- Budget: 600000000 VND.
+- Market in:  Mazda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Mazda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Mazda CX-5 (2018-) – 538,300,000 VND
+The Mazda CX-5 is a great option if you are looking for a reliable, manual-transmission sports car. It offers a roomy interior and decent performance capabilities. The exterior design is stylish and contemporary. The engine is a 2.5L SKYACTIV-G gasoline, capable of generating 140 horsepower and 252 Nm of torque. It also has good fuel economy, especially with its manual transmission, allowing for great savings on fuel consumption. 
+
+Mazda MX-5 (2018-2021) – 595,000,000 VND
+The Mazda MX-5 is a timeless classic that has been around for years. It is the perfect sports car for those with a more open budget. This car has a great engine in a light package, offering a powerful yet comfortable ride. The exterior design is sporty and iconic, and the interior is just as sporty and luxurious. The engine is a 2.0L SKYACTIV-G gasoline, capable of generating 181 horsepower and 205 Nm of torque and coming with a 6-speed manual transmission. Although slightly pricier, it is certainly worth the money if you are looking for a reliable, sporty car.

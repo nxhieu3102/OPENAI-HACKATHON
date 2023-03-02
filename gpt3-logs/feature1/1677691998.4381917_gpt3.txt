@@ -1,0 +1,22 @@
+6b3a3cff-e9e1-4294-af59-b6d12a6c6765
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- cozy and personalized
+- Budget: 2000000000 VND.
+- Market in:  Da Nang
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Da Nang curent market price.
+
+ANSWER: 
+
+==========
+
+1. 3 Bedroom, 2 Bathroom House: Price: 160000000 VND.
+This house is located in Lê Đức Thọ Street in the heart of Da Nang, boasting an ideal location near the central business district with numerous convenience stores, restaurants and entertainment venues close by. The house is cozy, with three bedrooms and two bathrooms, a balcony, and all the necessary appliances, furnishings and features. The furniture is modern and well-maintained, and the kitchen is fully equipped with all of the latest cookware and appliances. 
+
+2. 3 Bedroom, 3 Bathroom House: Price: 190000000 VND.
+This house offers a comfortable living space with the convenience of being in a central location. It has three bedrooms, three bathrooms, an open living and dining area, a kitchen, a balcony, and all necessary fixtures and appliances. The kitchen has modern appliances and a lot of cabinet space, while the rest of the house is also nicely furnished and well maintained. The entire house is air-conditioned and offers plenty of light.
+
+3. 2 Bedroom, 2 Bathroom Apartment: Price: 150000000 VND.
+This apartment is located in the Hòa Hảo Apartment block, well within walking distance of the main city centre. The two bedrooms and two bathrooms are comfortable, and each one is well-maintained and includes all necessary appliances and furnishings. The living area is spacious and light, and it features a modern kitchen with plenty of cabinet space and a range of cooking appliances. The building also offers a range of amenities, such as a fully equipped gym and swimming pool.

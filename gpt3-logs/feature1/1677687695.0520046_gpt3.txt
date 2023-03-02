@@ -1,0 +1,22 @@
+e3b538b3-3194-449c-83a8-5f4bd1562a9b
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- pair of high-waisted black jeans with a straight leg and no distressing
+- Budget: 10000000 VND.
+- Market in:  Shopping Malls
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Shopping Malls curent market price.
+
+ANSWER: 
+
+==========
+
+1) True Religion 'Halle' High Rise Skinny Jeans (Black): Price - 540,000 VND. This pair of high-waisted jeans is constructed from a comfortable stretch denim, detailed with signature horseshoe embellished pockets and a zip fly. Designed to be fitted from top to bottom, the silhouette of the 'Halle' will flatter most body types for optimal style and versatility.
+
+2) Topshop MOTO 'Jamie' High Rise Flare Jeans (Black): Price - 780,000 VND. These high-waisted jeans have been designed with a modern flare fit and no distressing. Crafted from luxurious comfort-stretch denim, they have barely-there fading, five-pocket styling and a classic zip fly. The cropped length will show off your shoes and make your look super chic.
+
+3) Armani Jeans 'Neck' Super High-Waisted Skinny Jeans (Black): Price - 890,000 VND. This pair of Armani Jeans features a super-high waisted design with no distressing and a skinny fit, creating a classic look. The trousers are crafted from premium quality cotton-stretch denim for an unbelievably comfortable fit. Pair these jeans with a feminine top for a fashionable look. 
+
+Total Price: 2,210,000 VND 
+The above choices optimize your budget, satisfy the conditions, and provide you with fashionable styles for an elevated look. All pieces are available in Shopping Malls and the total cost does not exceed your budget.

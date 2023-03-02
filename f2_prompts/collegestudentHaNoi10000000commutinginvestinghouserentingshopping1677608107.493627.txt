@@ -1,0 +1,7 @@
+Job: college student
+Location: Ha Noi
+Budget: 10000000
+Demands: commuting, investing, house renting, shopping
+Constraints: commuting: 15 km by public transportation
+house renting: near city center
+SPENDING PLAN: 

@@ -1,0 +1,19 @@
+6afc27a8-964a-4f07-befc-cfe3e7bdf29a
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- comfortable keyboard for typing
+- Budget: 13000000 VND.
+- Market in:  Nguyen Kim
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Nguyen Kim curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: Dell Inspiron 15 3000 (Intel Core i5-8250U/8GB RAM/2TB HDD/Intel UHD Graphics 620/15.6"/Windows 10 Home): 11.699.000 VND
+This laptop is a great choice for budget users who want a powerful machine for everyday tasks. The Intel Core i5 processor is fast enough for work and play, and the 8GB of RAM and 2TB hard drive will provide plenty of room for all your data. Plus, the Intel UHD Graphics 620 processor will provide crisp visuals for entertainment or gaming.
+
+Option 2: ASUS X540LA (Intel Core i3-5005U/4GB RAM/500GB HDD/Intel HD Graphics 5500/ 15.6"/Windows 10 Home): 8.999.000 VND
+This laptop is perfect for those who don't need too much performance but still need a reasonably powerful machine. The Intel Core i3 processor is great for everyday tasks, and the 4GB of RAM and 500GB hard drive will provide plenty of space for your data. Plus, the 15.6" screen size provides more screen real estate than smaller laptops and the Intel HD Graphics 5500 processor should provide enough power for basic gaming.

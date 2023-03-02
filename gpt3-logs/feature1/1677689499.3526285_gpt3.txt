@@ -1,0 +1,19 @@
+548eaf6f-b4d5-43d0-8ba3-4e7fda4bd529
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fuel-efficient
+- Budget: 800000000 VND.
+- Market in:  Honda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Honda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Honda Civic Hatchback (1.6L i-VTEC CVT) – Price: 751,000,000 VND. This car provides great fuel economy with its 1.6-liter i-VTEC engine, while also having great acceleration with its CVT transmission. Its cabin is well insulated, providing great sound quality and comfort, while also having a user-friendly digital dashboard and touch-screen display with Bluetooth and other modern amenities.
+
+2. Honda Jazz Hatchback (1.5L i-VTEC) – Price: 687,000,000 VND. The Jazz is a great, compact car that gets great mileage with its 1.5-liter i-VTEC engine, while also having great acceleration and a fitting interior that fits your budget. With a touchscreen display and keyless entry, this car is packed with modern entertainment and safety features.
+
+3. Honda CR-V (LX 2.4L CVT) – Price: 750,000,000 VND. This excellent SUV provides great fuel efficiency with its 2.4-liter CVT engine and great handling with its 4WD. It also comes with an intuitive touch-screen display with built-in navigation, Apple CarPlay and Android Auto. It also features top of the line safety features such as lane watch and adaptive cruise control.

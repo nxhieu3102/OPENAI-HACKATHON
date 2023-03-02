@@ -1,0 +1,9 @@
+Job: college student
+Location: Ha Noi
+Budget: 6000000
+Demands: house renting, education, investing, playing sport, commuting
+Constraints: house renting: cheap motel
+education: programming learning
+playing sport: karate
+commuting: 15 km by public transportation
+SPENDING PLAN: 

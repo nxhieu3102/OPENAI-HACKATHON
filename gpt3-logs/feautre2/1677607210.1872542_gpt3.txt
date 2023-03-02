@@ -1,0 +1,38 @@
+e33cbd79-8a64-4f28-9037-2cc285130edb
+I am a college student living in Da Nang:
+Total budget: 6000000 VND 
+Demands that I want to meet: house renting, education, commuting, food, entertaining
+Specific constraints for each demand: 
+house renting: not far from city center
+education: programming learning
+commuting: 10 km to school, by motorbike
+food: vegetarian
+entertaining: theater and concerts
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting: 
+Allocate 40% of total budget (2,400,000 VND) for house renting. Find a house near the city center to reduce commuting costs. Make sure to check the rental agreement before signing it and negotiate for a lower price if possible.
+
+Education: 
+Allocate 30% of total budget (1,800,000 VND) for education. Look for programming courses that are offered at a reasonable price and are easily accessible. Consider enrolling in online courses or joining a coding bootcamp if possible.
+
+Commuting: 
+Allocate 10% of total budget (600,000 VND) for commuting. Invest in a reliable motorbike or bicycle to reduce the cost of transportation. Consider using public transport if possible.
+
+Food: 
+Allocate 10% of total budget (600,000 VND) for food. Look for restaurants that offer vegetarian options at an affordable price. Consider preparing meals at home to save money.
+
+Entertaining: 
+Allocate 10% of total budget (600,000 VND) for entertaining. Look for free theater and concert events. Consider going to the movies or exploring different parts of the city for free.

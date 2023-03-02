@@ -1,0 +1,8 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 4000000
+Demands: playing sport, education, skin-care, food
+Constraints: playing sport: football or badminton
+education: programming learning
+food: can not cook
+SPENDING PLAN: 

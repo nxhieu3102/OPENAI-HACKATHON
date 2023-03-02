@@ -1,0 +1,49 @@
+428ad30e-c029-4a90-8b5f-da9a0aad4310
+I am a college student living in Ho Chi Minh city:
+Total budget: 2500000 VND 
+Demands that I want to meet: commuting, house renting, shopping, investing
+Specific constraints for each demand: 
+commuting: 10 km to school, by motorbike
+house renting: suburban area
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Commuting: 
+Cost: This can vary greatly depending on the distance of the commute, the type of transportation and the prices of petrol. A motorbike is the most economical option for commuting, and can cost around 1,000,000 VND per month including petrol.
+
+Schema: To minimize costs, consider carpooling or taking public transport when possible. Consider investing in a bicycle or electric scooter to further reduce costs.
+
+House Renting:
+Cost: The cost of renting a house in a suburban area can range from 3,000,000 to 5,000,000 VND per month.
+
+Schema: Look for shared accommodation in order to reduce the cost of rent. Consider renting a room or apartment in a house, as this will usually be cheaper than renting a whole house.
+
+Shopping: 
+Cost: Shopping can vary greatly in cost. Depending on the items purchased, the cost can range from a few thousand VND to many millions of VND.
+
+Schema: Shop around for the best deals and compare prices online. Make use of discount codes and sales. Look for second-hand items when possible.
+
+Investing: 
+Cost: Investing costs can vary depending on the type of asset and the amount invested. 
+
+Schema: Consider investing in low-risk, long-term investments such as mutual funds, stocks and bonds. Research the market before investing and diversify your portfolio.
+
+Final Spending Plan:
+
+Commuting: 1,000,000 VND 
+House Renting: 4,000,000 VND 
+Shopping: 2,000,000 VND 
+Investing: 500,000 VND 
+
+Total: 7,500,000 VND

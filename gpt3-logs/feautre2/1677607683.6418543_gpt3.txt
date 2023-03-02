@@ -1,0 +1,51 @@
+b0af7ea0-b011-40be-830c-b1d142722eb1
+I am a college student living in Ha Noi:
+Total budget: 4000000 VND 
+Demands that I want to meet: entertaining, food, playing sport, house renting, commuting
+Specific constraints for each demand: 
+entertaining: theater and concerts
+food: can not cook
+playing sport: football or badminton
+house renting: near city center
+commuting: 10 km to school, by motorbike
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+1. Entertaining: 
+Allocate 1000 VND for theater and concert tickets 
+Try to look for discounts and special offers when available 
+Look for free events to attend 
+
+2. Food: 
+Allocate 1500 VND for food per day 
+Try to buy groceries in bulk 
+Look for grocery stores that offer discounts 
+If possible, try to cook food at home to save money 
+
+3. Playing Sport: 
+Allocate 1000 VND per month for a gym membership 
+Look for discounted rates when possible 
+Opt for cheaper sports such as jogging or cycling 
+
+4. House Renting: 
+Allocate 2500 VND per month for house renting 
+Look for a house in the city center or near public transportation 
+Look for discounts if available 
+
+5. Commuting: 
+Allocate 1000 VND per month for commuting expenses 
+Take public transportation when possible 
+Use a motorbike only when necessary 
+Try to minimize the distance to school by finding the shortest route 
+Look for cheaper gasoline prices at nearby gas stations.

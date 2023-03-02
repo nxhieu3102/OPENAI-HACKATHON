@@ -1,0 +1,7 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 4000000
+Demands: entertaining, education, skin-care
+Constraints: entertaining: drinking, cooking
+education: programming learning
+SPENDING PLAN: 

@@ -1,0 +1,8 @@
+Job: college student
+Location: Ha Noi
+Budget: 6000000
+Demands: food, shopping, house renting, entertaining
+Constraints: food: vegetarian
+house renting: cheap motel
+entertaining: traveling, go backpacking
+SPENDING PLAN: 

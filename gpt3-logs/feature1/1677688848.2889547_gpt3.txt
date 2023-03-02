@@ -1,0 +1,25 @@
+5375b988-a053-4dcc-9e91-700ae8be1547
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- comfortable keyboard for typing
+- Budget: 10000000 VND.
+- Market in:  Nguyen Kim
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Nguyen Kim curent market price.
+
+ANSWER: 
+
+==========
+
+1. Dell Inspiron 15 
+Price: 8,990,000 VND
+Details: The Dell Inspiron 15 is a great laptop option with an Intel Core i3-7100U processor, 8GB of RAM, 1TB of storage, and a 15.6” HD display. This laptop has a comfortable, full-size keyboard with chiclet-style keys for comfortable and accurate typing. The battery life is also great for times when you're on the go. 
+
+2. HP 250 G6
+Price: 7,190,000 VND
+Details: The HP 250 G6 is an affordable option with plenty of power. It is powered by an Intel Core i5-7200U processor, 8GB of RAM, and 1TB of storage in a 15.6” HD display. It has a full-size island-style keyboard, which is comfortable to type on, and a battery life that is more than enough for all of your daily tasks. 
+
+3. Acer Aspire 3
+Price: 6,990,000 VND
+Details: The Acer Aspire 3 is a great budget laptop, powered by an Intel Core i3-7100U processor, 4GB of RAM, 1TB of storage, and a 15.6” HD display. It has a full-size island-style chiclet-style keyboard that is comfortable to type on and a battery that can last up to 5 hours. It runs the Windows 10 operating system, giving you access to all the apps and features you need to get the most out of your laptop.

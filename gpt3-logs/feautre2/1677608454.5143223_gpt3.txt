@@ -1,0 +1,36 @@
+63091b3b-19cb-482e-839b-aabe6d052130
+I am a college student living in Ho Chi Minh city:
+Total budget: 15000000 VND 
+Demands that I want to meet: food, commuting, playing sport, education
+Specific constraints for each demand: 
+food: can not cook
+commuting: 10 km to school, by motorbike
+playing sport: football or badminton
+education: drawing, cooking
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Food: 
+Allocate 6000000 VND for food. This should cover all meals for the month. It is recommended to purchase food from local supermarkets or markets, as they will be cheaper than eating out. 
+
+Commuting:
+Allocate 3000000 VND for commuting. This should cover the cost of fuel and maintenance for your motorbike. 
+
+Playing Sport: 
+Allocate 1000000 VND for playing sport. This should cover the cost of any court fees or equipment needed for playing football or badminton. 
+
+Education:
+Allocate 5000000 VND for education. This should cover the cost of any books, lessons, or materials required for drawing or cooking.
+
+Overall, by following this spending plan, you should be able to stay within your budget constraints and still meet all of your demands. Additionally, by optimizing for long-term financial stability, you can save up for bigger purchases or investments in the future.

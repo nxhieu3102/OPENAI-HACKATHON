@@ -1,0 +1,15 @@
+f1f5d22b-48c7-496f-8e32-1565074e457f
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- good wine to pair with grilled salmon
+- Budget: 700000 VND.
+- Market in:  Food delivery services
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Food delivery services curent market price.
+
+ANSWER: 
+
+==========
+
+A good meal option that fits within your budget of 700000 VND is a Grilled Salmon with a bottle of Sauvignon Blanc. Grilled salmon is a healthy and flavorful option, and pairing it with a white wine brings out the flavors and makes it taste even better. Sauvignon Blanc is a light, crisp white wine that is a garden of herbs and grass with a gentle floral note. The price for the Grilled Salmon and a bottle of Sauvignon Blanc is 699000 VND, leaving you with a saving of 1000 VND.

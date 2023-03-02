@@ -1,0 +1,21 @@
+905def3f-c36e-4360-b946-bdc6106f8a4b
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- comfortable, breathable cotton t-shirts in a variety of colors
+- Budget: 5000000 VND.
+- Market in:  Local Markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Local Markets curent market price.
+
+ANSWER: 
+
+==========
+
+1) Three cotton t-shirts from the ABC shop (price: 500000 VND per t-shirt): The ABC shop offers a variety of colors for its cotton t-shirts, and their comfortable and breathable cotton fabric makes them a great choice. They come in sizes from S to 2XL and usually cost 500000 VND for each t-shirt. 
+
+2) Three cotton t-shirts from the XYZ shop (price: 400000 VND per t-shirt): The XYZ shop also has a variety of colors and sizes available in cotton t-shirts, and they use a comfortable, breathable cotton fabric as well. Each t-shirt costs less than the one from the ABC shop, clocking in at 400000 VND apiece.
+
+3) Three cotton t-shirts from the DEF shop (price: 500000 VND per t-shirt): The DEF shop offers a lot of colors and sizes for their t-shirts, but their cotton is slightly thicker than the ones from the ABC or XYZ store. They are still comfortable and breathable, and the price tag is still 500000 VND for each t-shirt.
+
+Given these three options, you can optimize your budget while still getting the quality you are looking for. The total cost of all three t-shirts is 1500000 VND and well under your budget.

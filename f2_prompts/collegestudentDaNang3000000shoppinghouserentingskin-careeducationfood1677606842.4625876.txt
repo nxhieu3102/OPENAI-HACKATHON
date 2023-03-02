@@ -1,0 +1,8 @@
+Job: college student
+Location: Da Nang
+Budget: 3000000
+Demands: shopping, house renting, skin-care, education, food
+Constraints: house renting: not far from city center
+education: ielts learning
+food: vegetarian
+SPENDING PLAN: 

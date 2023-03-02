@@ -1,0 +1,19 @@
+3c089fc2-f595-4866-a6dc-ce3ca6f96ce1
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- lightweight, long battery life, powerful processor
+- Budget: 15000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Lenovo IdeaPad S145: The Lenovo IdeaPad S145 offers fantastic performance with a powerful processor and all the memory and storage you need—with a price of 13,490,000 VND. It also has a long battery life and is very light, making it perfect for carrying around.
+
+2. Dell Inspiron 15 3595: This Dell laptop is a great choice if you are looking for an affordable yet powerful device. It has a powerful AMD Ryzen 5 processor, 8GB of RAM, and 512GB of storage, along with a decent battery life for such a low price of 14,100,000 VND.
+
+3. Lenovo IdeaPad 330s: For a flexible, lightweight laptop that can run quite a few applications with ease, the Lenovo IdeaPad 330s is a great option. This laptop has 4GB of RAM, an Intel Core i5 processor, and a 256GB SSD and the price is 14,890,000 VND, making it a great choice for the budget-conscious buyer.

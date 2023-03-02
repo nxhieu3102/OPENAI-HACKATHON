@@ -1,0 +1,19 @@
+ed2b741d-7d5e-4cbb-b37d-4dac16f513d2
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fully furnished family car
+- Budget: 1000000000 VND.
+- Market in:  Honda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Honda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Honda Jazz 2020: The Honda Jazz offers ample space, comfort and great driving dynamics. It has several convenience features like hands-free access, Apple CarPlay and Android Auto which makes it very user-friendly. The Jazz 2020 model has a starting price of 890,000,000 VND which offers great value for money and is within your budget. 
+
+2. Honda City 2020: The City 2020 offers great safety and performance features with the engine ranging from 1.5L i-VTEC to 1.5L DOHC i-VTEC. It is a reliable and efficient car for daily driving and its starting price is 990,000,000 VND which is slightly above your budget making it a great choice for your needs.
+
+3. Honda Civic 2020: The Civic 2020 is a great option for a fully furnished family car. It offers great performance, efficient powertrain, and a stylish design. On top of that, it comes with many convenience features such as active headlights, wireless charging, and Apple CarPlay. The starting price of this car is 1,050,000,000 VND which is slightly above your budget. However, the features and performance it provides is definitely worth the price.

@@ -1,0 +1,19 @@
+9771ab5e-673a-4165-8e9d-010c7aff814b
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- SUV with third-row seating and good towing capacity
+- Budget: 800000000 VND.
+- Market in:  Toyota Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Toyota Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Toyota Fortuner 2.7 4x2 G (AT): The Toyota Fortuner 2.7 4x2 G (AT) provides plenty of seating and towing capacity, yet it comes at an affordable price. It comes with the Toyota’s proven 2.7L 4-cylinder engine that produces 163 hp of power while its 6-speed automatic transmission delivers smooth shifts. This SUV also offers plenty of safety features such as dual airbags, ABS with Electronic Brakeforce Distribution, traction control, and hill assist control. Price: 698000000 VND. 
+
+Toyota Highlander 2.5 (AT): The Toyota Highlander 2.5 (AT) is a reliable, luxurious 7-seater that stands tall in its class. Powered by a 2.5L 4-cylinder engine, it provides 186 hp of power and comes equipped with paddle shifters. It has upscale interior appointments and plenty of safety features such as 7 airbags, ABS with EBD and stability control. The Highlander also comes with a host of comfort features such as dual zone climate control, cruise control, power mirrors and power tailgate. Price: 748000000 VND. 
+
+Toyota Land Cruiser Prado 2.7 (AT): The top of the line option for a reliable 7-seater that can also tow heavy loads is the Toyota Land Cruiser Prado 2.7 (AT). It comes with an efficient 2.7L 4-cylinder engine that offers 166 hp of power and a 6-speed automatic transmission. It is loaded with features from the outside-in, from the 18” alloy wheels, and 6 airbags to the 8-way power-adjustable driver’s seat and leather interior upholstery. It also offers plenty of off-road capability, with CRAWL Control, Kinetic Dynamics Suspension System, and Hill Start Assist. Price: 800000000 VND.

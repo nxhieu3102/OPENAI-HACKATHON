@@ -1,0 +1,19 @@
+60569d03-7f1a-4e85-9403-9167ad86e72b
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fuel-efficient
+- Budget: 1000000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Nissan Sunny 2018 for 814,000,000 VND: This car has a fuel-economy of 19 km/l which is great for saving on fuel costs. It's spacious and sturdy which makes it a great long-term investment, and it's got a modern design that looks great on the road.
+
+2. Honda City 2018 for 839,000,000 VND: This car is great for city driving, with a fuel-efficiency of 16.8 km/l. It's comfortable and spacious, and is known for its smooth and quiet ride. It's also got a modern, attractive design.
+
+3. Hyundai Verna 2018 for 899,000,000 VND: The Hyundai Verna is a great choice for a fuel-efficient car. It comes with a great safety rating, making it a reliable choice. It's got a fuel-efficiency of 19.5 km/l, more than enough for city driving. It also has a modern and stylish design, and it's well-priced for the features it offers.

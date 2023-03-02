@@ -1,0 +1,5 @@
+Good: a house
+Conditions: spacious one-bedroom apartment with a balcony
+Budget: 4000000000 VND
+Market place: Ho Chi Minh city
+ANSWER:  

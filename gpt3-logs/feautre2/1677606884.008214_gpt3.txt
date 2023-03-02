@@ -1,0 +1,30 @@
+faf73d92-bd2c-4af7-b547-a28bb86aeda9
+I am a college student living in Da Nang:
+Total budget: 3000000 VND 
+Demands that I want to meet: playing sport, education, house renting
+Specific constraints for each demand: 
+playing sport: karate
+education: programming learning
+house renting: near city center
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Playing Sport: Allocate 20% of the budget towards karate classes, which will likely range from 300,000 VND to 500,000 VND depending on the type of class and the instructor. If possible, try to find a local gym or martial arts center that offers a discount for students or that has an affiliation with the university.
+
+Education: Set aside 50% of the budget towards programming learning, as this is an essential expense. Ensure that you are learning the right skills and technologies that are in demand in the job market. Consider taking online courses, reading books, and attending workshops to ensure you are getting the most out of your budget.
+
+House Renting: Set aside 30% of the budget towards house renting, with priority given to finding a place near the city center. Research the market prices of houses in your area and try to negotiate with your landlord to get the best deal. Consider staying with a roommate or two to further reduce your costs.
+
+Insight: 
+When budgeting for necessary expenses, it is important to prioritize essential expenses over non-essential ones. By ensuring that you are getting the most out of your budget, you can maximize your long-term financial stability. Additionally, when renting a house, consider staying with a roommate or two to further reduce your costs.

@@ -1,0 +1,21 @@
+a21b104b-90e5-436e-98b6-ff2abf2b059a
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- comfortable, breathable cotton t-shirts in a variety of colors
+- Budget: 300000 VND.
+- Market in:  Shopping Malls
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Shopping Malls curent market price.
+
+ANSWER: 
+
+==========
+
+- 2 pieces Uniqlo U Crew Neck T-shirts ($12.99/each): Uniqlo U Crew Neck T-shirts are 100% cotton and very breathable, with a regular fit and a concise look. It comes with bright colors, such as green, blue, red, yellow and pink. Thus, this product suits your budget of 300000VND, and two pieces of Uniqlo U Crew Neck T-shirts are enough for your purchase. 
+Total Price: 25999 VND X 2 pieces = 51998 VND 
+
+- 2 Fitted Unisex T-Shirts ($9.99/each): Unisex T-shirts are made of 100% cotton, with a distinctive design and soft feel. This product also comes in a variety of colors, such as black, white, red, blue and green. They are also very breathable and comfortable. 
+Total Price: 19998 VND X 2 pieces = 39996 VND 
+
+Total Spending: 51998 + 39996 = 91994 VND

@@ -1,0 +1,9 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 15000000
+Demands: education, food, playing sport, entertaining
+Constraints: education: toeic learning
+food: calories reduce
+playing sport: swimming and bicycling
+entertaining: drinking, cooking
+SPENDING PLAN: 

@@ -1,0 +1,23 @@
+91fe8f9c-cdfa-4076-842a-66bc176f8c29
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- non-comedogenic sunscreen
+- Budget: 1000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Neutrogena Ultra Sheer Dry-Touch Sunscreen with Broad Spectrum SPF 30 - This sunscreen is non-comedogenic, lightweight and fast absorbing, so no greasy or heavy feeling. It helps protect your skin from sunburns, premature aging and wrinkles. Price: 89,000VND.
+
+2. Biore UV Aqua Rich Whitening UV Essence - This sunscreen provides long-lasting hydration and helps protect skin from UV A and B while providing a whitening effect and diminishing the look of dark spots and freckles. Price: 97,000VND.
+
+3. Loreal Paris UV Perfect Longlasting Uv Protector - This non-comedogenic sunscreen provides protection against UVA and UVB rays, while boosting skin's defense against environmental aggressors. It also helps reduce the appearance of dark spots caused by sun exposure. Price: 111,000VND.
+
+4. Skinfood Aloe Sun BB Cream - An all-in-one sunscreen and BB cream that provides sun protection and a natural, coverage with a light finish. It is formulated with skin-soothing aloe vera and SPF50+, so it helps you protect from UVA and UVB rays. Price: 119,000VND.
+
+To optimize your budget, Neutrogena Ultra Sheer Dry-Touch Sunscreen with Broad Spectrum SPF 30 is the best choice, as it is affordable and provides all of the necessary protection and hydration you need. With the Biore UV Aqua Rich Whitening UV Essence, you'll receive the same protection and hydration, plus a whitening effect and faded dark spots. The Loreal Paris UV Perfect Longlasting Uv Protector has the same features, but with a slightly higher price tag. Finally, the Skinfood Aloe Sun BB Cream provides all the protection of the other products, while adding coverage and lightness to your daily sunscreen routine. All of these products meet your conditions and fit within your budget.

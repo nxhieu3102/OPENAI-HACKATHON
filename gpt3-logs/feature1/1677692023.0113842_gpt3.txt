@@ -1,0 +1,21 @@
+d178e625-c543-4fb6-839a-f09683fda258
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- cozy and personalized
+- Budget: 3000000000 VND.
+- Market in:  Ho Chi Minh city
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ho Chi Minh city curent market price.
+
+ANSWER: 
+
+==========
+
+1. Apartment located in Phuong 18, Binh Thanh District, is priced at 2.6 billion VND. This unit is located on the 5th floor, offering 62sqm in living space fully equipped with modern facilities and furniture which allows for a cozy, personalized experience. This unit is in the heart of the city and the price makes it a great economical option. 
+
+2. Apartment located in Phuong 7, Tan Binh District, is priced at 2.9 billion VND. The flat covers 74sqm, situated on the 3rd floor. The apartment is newly renovated, with all the necessary furniture, appliances, and space for a comfortable living space. The living space is bright, modern, and the location of the apartment allows for great access to transportation, schools, and other important amenities. 
+
+3. Apartment located in Phuong 17, District 11, is priced at 2.85 billion VND. This flat is located on the 3rd floor of an 8-story building with 81sqm of living space. It is well-furnished and equipped with all the necessary appliances for an enjoyable living experience. The unit has modern facilities, bright and airy rooms, and great access to transportation. 
+
+These three options are great choices in the search for a budget-friendly and cozy house in Ho Chi Minh City. The sizes and living spaces of these apartments offer a comfortable living, with all the necessary facilities. Moreover, the prices of these units are attractive and allow the buyers to optimize their budget while still achieving the desired results.

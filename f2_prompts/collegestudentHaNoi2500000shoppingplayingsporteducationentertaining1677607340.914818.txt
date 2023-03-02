@@ -1,0 +1,8 @@
+Job: college student
+Location: Ha Noi
+Budget: 2500000
+Demands: shopping, playing sport, education, entertaining
+Constraints: playing sport: karate
+education: programming learning
+entertaining: theater and concerts
+SPENDING PLAN: 

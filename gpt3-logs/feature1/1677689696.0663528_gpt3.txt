@@ -1,0 +1,19 @@
+39bac4b3-d35f-4cf0-b4cb-eef30e8bc053
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- SUV with third-row seating and good towing capacity
+- Budget: 600000000 VND.
+- Market in:  Ford Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ford Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Ford Explorer: This SUV is powered by a 3.5-liter EcoBoost engine and offers up to 365 horsepower and 350 lb.-ft. of torque, giving you great performance and fuel efficiency. It also offers third-row seating and a towing capacity of up to 5000 lbs. The Explorer also comes with a variety of features such as Pro Trailer Backup Assist, driver-assist technology, and high-tech entertainment options. The current market price is 550000000 VND. 
+
+Ford Escape: This SUV has plenty of power as it is powered by a 2.0-liter EcoBoost engine that produces up to 245 horsepower. Both front- and all-wheel drive are available and you'll also have a great towing capacity of up to 3500 lbs. With available driver-assist technology, advanced safety features, and mobile Wi-Fi capabilities, this vehicle is great for both short and long drives. The current market price is 456000000 VND. 
+
+Ford Edge: The Edge is a capable crossover SUV with a modern and sophisticated design throughout the exterior and interior alike. It offers plenty of power with a 2.7-liter V6 EcoBoost engine, though it has a more modest towing capacity of 2000 lbs. It also comes with many driver-assistance and safety features, a spacious interior with lots of cargo storage room, and plenty of modern entertainment options. The current market price is 400000000 VND.

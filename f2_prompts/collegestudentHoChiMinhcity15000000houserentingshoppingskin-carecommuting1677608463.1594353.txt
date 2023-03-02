@@ -1,0 +1,7 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 15000000
+Demands: house renting, shopping, skin-care, commuting
+Constraints: house renting: not far from city center
+commuting: 15 km by public transportation
+SPENDING PLAN: 

@@ -1,0 +1,19 @@
+b4815cd6-bc85-43e5-885e-c39dffb6f532
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- cozy and personalized
+- Budget: 4000000000 VND.
+- Market in:  Ho Chi Minh city
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ho Chi Minh city curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: 2 Bedroom Apartment in An Phu, District 2: The apartment is located in a safe neighborhood and is featured with high ceilings, private balcony, 2 bedrooms, and 2 bathrooms. It was recently renovated, making it quite cozy and personalized. This 2 bedroom apartment is priced at 3.9 billion VND, making it an ideal choice within your budget.
+
+Option 2: Studio Apartment in Tan Son Nhat, District 8: This studio apartment is located in the heart of Tan Son Nhat, making it a vibrant city dwelling within an accessible neighborhood. It is newly renovated and well maintained, complete with a private balcony and modern amenities. This studio apartment is priced at 3.4 billion VND, which makes for an ideal cost-effective choice within your budget.
+
+Option 3: 3 Bedroom Apartment in District 7: This 3 bedroom apartment offers a spacious dwelling area and modern amenities. It is located close to convenient stores, restaurants and other amenities, making it a conveniently located option within the city. It is priced at 3.8 billion VND, offering a well-rounded choice within your budget.

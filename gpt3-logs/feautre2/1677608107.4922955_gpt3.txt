@@ -1,0 +1,32 @@
+50a6abbb-905f-4fda-9434-f98dea00224b
+I am a college student living in Ha Noi:
+Total budget: 10000000 VND 
+Demands that I want to meet: commuting, investing, house renting, shopping
+Specific constraints for each demand: 
+commuting: 15 km by public transportation
+house renting: near city center
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Commuting:
+For a 15 km commute budget, 7000VND per day should be allocated. This can be used to purchase a monthly or weekly pass for public transportation, which will save money in the long run.
+
+Investing:
+Investing can be a great way to grow wealth over time. With the remaining budget, allocate at least 500,000 VND towards investments. This can be used to purchase stocks, bonds, mutual funds, or ETFs. This will help establish a strong financial portfolio that can generate returns in the future.
+
+House Renting:
+Since the user is living in Ha Noi, rent should be a priority. Allocate at least 3,000,000 VND towards house renting. This will help ensure that the user can live in a comfortable and safe environment. In addition, look for housing options that are near public transportation, as this will help minimize commuting costs.
+
+Shopping:
+Shopping is a non-essential expense, so allocate the remaining amount towards shopping. This will help ensure that the user can enjoy their living experience and treat themselves to a few luxuries. However, it is important to be mindful of spending and stay within the budget constraints.

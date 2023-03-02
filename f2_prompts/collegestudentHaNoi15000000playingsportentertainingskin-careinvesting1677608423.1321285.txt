@@ -1,0 +1,7 @@
+Job: college student
+Location: Ha Noi
+Budget: 15000000
+Demands: playing sport, entertaining, skin-care, investing
+Constraints: playing sport: football or badminton
+entertaining: party, go to coffee
+SPENDING PLAN: 

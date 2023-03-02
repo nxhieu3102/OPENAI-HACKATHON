@@ -1,0 +1,19 @@
+3babec57-2485-4f00-916b-20b5468681c2
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- large display and a dedicated graphics card for gaming
+- Budget: 13000000 VND.
+- Market in:  Thegioididong
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Thegioididong curent market price.
+
+ANSWER: 
+
+==========
+
+1) ASUS TUF FX505DY-AL045T Laptop (12,500,000VND) - This laptop is perfect for gaming because it comes with a large 15.6-inch Full HD display and a dedicated AMD Radeon RX 560X graphics card. It also has an AMD Ryzen 5 3550H processor, 8GB of RAM, and a 256GB SSD, which offer plenty of power and speed for gaming.
+
+2) Dell Inspiron G5 5590 Laptop (12,300,000VND) - This laptop offers good performance with its Intel Core i7 processor and 8GB of RAM. It also has a large 15.6-inch Full HD display and a dedicated NVIDIA GeForce GTX 1650 graphics card. The storage comes from a 256GB SSD which offers plenty of speed.
+
+3) Lenovo IdeaPad L340-15IRH Laptop (12,900,000VND) - This laptop comes with a large 15.6-inch FHD display and a dedicated NVIDIA GeForce GTX 1050 graphics card for gaming. It has an Intel Core i5 processor, 8GB of RAM, and a 256GB SSD for storage. Its specs are more than enough for gaming and its price is competitive too.

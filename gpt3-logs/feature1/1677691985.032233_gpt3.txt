@@ -1,0 +1,24 @@
+3a2fd735-b773-403f-8508-a4cf97c782d0
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- cozy and personalized
+- Budget: 2000000000 VND.
+- Market in:  Ho Chi Minh city
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ho Chi Minh city curent market price.
+
+ANSWER: 
+
+==========
+
+Option 1: Vinhomes Grand Park 2 Bedroom House - 2000000000 VND
+This 2 bedroom house is located in the highly desirable Vinhomes Grand Park with a cosy, airy feel and great ventilation. The layout is perfect and can be personalized over time according to your exact specifications. Moreover, you and your family can enjoy a beautiful view of the botanical garden, swimming pool, and other ground amenities. 
+
+Option 2: Aviva Residences 2 Bedroom Apartment - 2000000000 VND
+Located in the vibrant neighbourhood of District 2, this 2 bedroom apartment is the ideal choice if you’re looking for something cozy and personalized. It features natural light, ample living spaces, and built-in closets. You and your family can also enjoy the five-star facilities such as an infinity pool, gym, yoga area, garden, etc. What's more, the overall maintenance cost of this dwelling is affordable, making it an ideal option for you. 
+
+Option 3: Nha Trang Residence 3 Bedroom Apartment - 1795000000 VND
+This 3 bedroom apartment is located in the heart of Nha Trang City, so you’re only a few minutes away from shops and the beach. The dwelling is spacious and personalized, featuring natural light and ventilation, as well as a built-in balcony from which you can enjoy the breathtaking view of the city. On top of that, the overall maintenance cost is affordable, and you can enjoy a convenient lifestyle with amenities like swimming pools, basketball courts, and playgrounds for children. 
+
+These are great options for you to consider given your budget and conditions. All of them offer great value for money, as well as a cozy and personalized living experience. Do some research on your own, evaluate the options, and make an informed decision. Good luck!

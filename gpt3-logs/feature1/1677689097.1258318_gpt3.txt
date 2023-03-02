@@ -1,0 +1,22 @@
+90c5ae32-4474-4ea1-b152-2a982ccd91ae
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- high-resolution display and good color accuracy for photo editing
+- Budget: 10000000 VND.
+- Market in:  VietNam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the VietNam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Lenovo ThinkPad E14 (AMD) – 8,160,000 VND
+The Lenovo ThinkPad E14 is an ideal laptop for photo editing, meeting your conditions. It is powered by the AMD Ryzen 5 4500U processor which is great for carrying out ambitious projects, enabling you to quickly and efficiently edit photos with its high-resolution display and good color accuracy.
+
+2. Toshiba Satellite C50 – 6,990,000 VND
+The Toshiba Satellite C50 is another economical choice for photo editing. Its 15.6’’ Full HD display allows you to start editing photos right away with its impressive color accuracy. Its AMD Ryzen 3 processor with 8GB of RAM together with its Windows 10 OS makes it a perfect fit for your budget and needs.
+
+3. Dell Inspiron 15-3593 - 8,020,000 VND
+The Dell Inspiron 15-3593 is a great laptop for photo editing at an affordable price tag. It features an anti-glare 15.6’’ HD display with great color accuracy, making it perfect for photo editing. It provides powerful performance with its Intel i5 processor and 8GB of RAM, so you can handle big files easily.

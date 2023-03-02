@@ -1,0 +1,21 @@
+3f403a72-749c-4359-8fa4-5224fedfa735
+I want to buy a house:
+
+Here are the conditions that must be satisfied: 
+- good apartment complex in Ho Chi Minh city that has a gym and pool
+- Budget: 2000000000 VND.
+- Market in:  Ho Chi Minh city
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Ho Chi Minh city curent market price.
+
+ANSWER: 
+
+==========
+
+1) Putri Apartment Complex: This apartment complex is located in the heart of Ho Chi Minh City and features a gym, 24-hour security, two swimming pools with a shower and a Jacuzzi, sauna, and a play/ sports area. The price of the property is 1750000000 VND, which is within your budget. 
+
+2) Thanh Vu Apartment Complex: This apartment complex has a luxurious gym and pool, modern furnishings, and a great location in Ho Chi Minh City. The price of the property is 2050000000 VND, which is slightly over your budget. However, you can save money by finding the right amenities and other savings opportunities. 
+
+3) Sunrise Apartment Complex: This apartment complex offers modern furniture, a gym, a swimming pool, and a playground. The price of the property is 1600000000 VND, which is within your budget.
+
+These three choices offer great amenities and an attractive location in Ho Chi Minh City. With careful research and consideration, you should be able to find a property that meets your needs, optimize your budget, and ensure a sound purchase.

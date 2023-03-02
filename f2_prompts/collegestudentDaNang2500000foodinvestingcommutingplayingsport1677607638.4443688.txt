@@ -1,0 +1,8 @@
+Job: college student
+Location: Da Nang
+Budget: 2500000
+Demands: food, investing, commuting, playing sport
+Constraints: food: high protein
+commuting: 3 km to work
+playing sport: gyming, dancing
+SPENDING PLAN: 

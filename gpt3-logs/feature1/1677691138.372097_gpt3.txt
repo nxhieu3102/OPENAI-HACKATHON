@@ -1,0 +1,21 @@
+351970f8-edfc-4a9e-908b-246ea4936133
+I want to buy some skin care stuff:
+
+Here are the conditions that must be satisfied: 
+- non-comedogenic sunscreen
+- Budget: 500000 VND.
+- Market in:  Guardian
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Guardian curent market price.
+
+ANSWER: 
+
+==========
+
+1. Sunplay Skin Aqua UV Moisture Milk SPF 50+PA+++ (320.000 VND): This sunscreen provides intense hydration and is enriched with Hyaluronic Acid, Collagen and Royal Jelly Extract to help improve skin texture. It has a SPF 50+PA+++ rating and is Non-Comedogenic so it won't clog pores. 
+
+2. Cosrx Shield Fit Snail Essence Sun SPF50+ PA+++ (310.000 VND): This non-comedogenic sunscreen provides broad-spectrum UVA and UVB protection and is enriched with snail secretion filtrate to deeply nourish skin. It also has a moist finish so skin will not become dry or sticky. 
+
+3. Bioré UV Perfect Face Milk SPF50+PA++++ (470.000 VND): This non-comedogenic sunscreen accurately protects skin from UVA and UVB Rays and contains oil-absorbing powder for a refreshing finish. It’s also enriched with hydrating ingredients to keep skin moisturized without greasiness. 
+
+These are all great, budget-friendly and non-comedogenic sunscreens available at Guardian. They will help protect your skin from the sun's harmful rays while also providing nourishment and hydration.

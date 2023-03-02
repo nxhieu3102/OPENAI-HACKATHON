@@ -1,0 +1,35 @@
+17c2be5d-e70a-4aa3-8c81-578a6be752de
+I am a college student living in Ha Noi:
+Total budget: 6000000 VND 
+Demands that I want to meet: playing sport, house renting, entertaining, skin-care
+Specific constraints for each demand: 
+playing sport: football or badminton
+house renting: not far from city center
+entertaining: theater and concerts
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Playing Sports:
+Allocate 1000,000 VND for playing sports. This should cover the cost of sports equipment and any entrance fees to sports facilities. Look for local sports facilities or sports clubs that offer discounts and make sure to take advantage of any available discounts. 
+
+House Rental:
+Allocate 3,500,000 VND for house rental. This should cover the cost of the rent, any deposits or fees, and any utilities associated with the residence. When looking for a place to rent, look for locations that are close to the city center and compare prices between different locations to get the best deal. 
+
+Entertaining:
+Allocate 1,000,000 VND for entertaining. This should cover the cost of tickets to theater and concerts, as well as any associated costs such as refreshments or snacks. Look for discounted tickets online or take advantage of any available discounts. 
+
+Skin-Care:
+Allocate 500,000 VND for skin-care. This should cover the cost of any skin-care products and treatments, as well as any associated costs such as transportation to the salon. Look for cheaper products or treatments that are still of a high quality and compare prices between different locations to get the best deal. 
+
+Total Spending: 6,000,000 VND

@@ -1,0 +1,33 @@
+617cf6d3-f2b4-4d0b-8319-79613e906850
+I am a college student living in Ho Chi Minh city:
+Total budget: 2500000 VND 
+Demands that I want to meet: playing sport, house renting, commuting
+Specific constraints for each demand: 
+playing sport: football or badminton
+house renting: not far from city center
+commuting: 10 km to school, by motorbike
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Playing Sport: 
+Amount to be allocated: 200,000 VND 
+Schema: To maximize the budget, you can look for local sports clubs or academies that offer football or badminton at a discounted rate. Alternatively, you can buy some basic equipment such as a football or badminton set and play with friends. 
+
+House Renting: 
+Amount to be allocated: 2,000,000 VND 
+Schema: You can look for rental apartments in the city center that offer good deals and discounts. You can also look for shared housing options, which can help you save money. Additionally, you can look for rental websites that offer discounts and other incentives. 
+
+Commuting: 
+Amount to be allocated: 300,000 VND 
+Schema: To maximize your budget, you can look for motorbike rentals that offer discounts and other incentives. Additionally, you should consider buying a used motorbike, which can help you save a lot of money in the long run. Additionally, you can look for public transportation options to reduce your transportation costs.

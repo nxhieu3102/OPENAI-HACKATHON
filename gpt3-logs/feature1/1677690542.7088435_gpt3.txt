@@ -1,0 +1,21 @@
+b490fa9a-2a4e-4f9f-bdaa-31d193cec5e7
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fully furnished family car
+- Budget: 800000000 VND.
+- Market in:  Toyota Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Toyota Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+1. Toyota Avanza 1.5 E (7 Seater): This 7-seater family car has 1.5L engine and costs around 790,00,00 VND. It has a spacious interior, powerful airconditioner, advanced safety systems and comfortable driving experience.
+
+2. Toyota Rush 1.5 G (5 Seater): This 5-seater car has 1.5L engine and costs around 740,00,00 VND. It is extremely fuel efficient, has centralized locking system, has plenty of leg and head room, and has a modern look and design.
+
+3. Toyota Fortuner 2.4 G (7 Seater): This 7-seater car has 2.4L engine and costs around 780,000,00 VND. It has a spacious interior and exterior, and lots of advanced features such as advanced suspension, an anti-lock braking system, and power steering system. 
+
+These cars provide top-notch features, quality, and safety at an affordable price, so you can be sure that you'll get your money's worth.

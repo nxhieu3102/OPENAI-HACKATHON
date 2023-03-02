@@ -1,0 +1,21 @@
+603e53f5-9c9d-44de-9d7f-1f174b4548d1
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- healthy
+- Budget: 1000000 VND.
+- Market in:  Traditional markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Traditional markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. In the Traditional Markets, for a budget of 1,000,000 VND, you can buy a variety of healthy and economical food options. You can, for example, get a wide range of vegetables such as potatoes (500,000 VND/Kg), cabbage (200,000 VND/Kg); Carrots (200,000VND/Kg) and some of the other seasonal vegetables, such as Zuccini (300,000VND/Kg), broccoli (400,000VND/Kg) and cauliflower (400,000VND/Kg). In addition, you can also get some fresh fruits for snack time such as oranges (400,000VND/Kg), apples (400,000VND/Kg) and grapefruit (500,000VND/Kg). 
+
+2. To prepare meals and sauces, you can also buy some ingredients such as fish (500,000VND/Kg), beef (1,000,000 VND/Kg), chicken (500,000VND/Kg), onions (250,000VND/Kg), garlic (250,000VND/Kg) and shallots (150,000VND/Kg). To give flavor to your dishes, there are also some ingredients such as oystersauce (200,000VND/bottle), chillis (100,000VND/Kg), pepper (100,000VND/Kg) and other seasonings (100,000/Kg). 
+
+3. Lastly, you can buy some grains that are nutritious and also economical in the Traditional Markets such as rice (400,000VND/Kg), soybean(400,000VND/Kg), corn (300,000VND/Kg) and other kinds of beans (500,000VND/Kg).
+
+In sum, you can purchase a variety of healthy and economical food options in Traditional Markets for a budget of 1,000,000 VND. You can get a variety of vegetables, fruits, meats, sauces and grains that should be enough to provide a complete and nutritious diet for you.

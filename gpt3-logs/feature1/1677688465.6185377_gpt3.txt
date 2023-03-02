@@ -1,0 +1,21 @@
+3b82dbaf-3f37-487c-989f-83339e13cbb0
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- large display and a dedicated graphics card for gaming
+- Budget: 20000000 VND.
+- Market in:  FPT Shop
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the FPT Shop curent market price.
+
+ANSWER: 
+
+==========
+
+1. Lenovo IdeaPad L340 (81LG00KVVN): This laptop has a 15.6" FullHD display with a dedicated NVIDIA GeForce GTX 1050 graphics card, which is an optimal choice for gaming. It comes with 8GB DDR4 RAM and 1TB HDD for plenty of storage for your files. The price is 19.990.000 VND.
+
+2. MSI GF63 thin 9SC-006VN (GF63 9SC-006VN): This laptop is designed with a 15.6" FullHD IPS display and graphics card of NVIDIA GeForce GTX 1650 with 4GB GDDR5 memory. It comes with 8GB DDR4 RAM and 512GB PCIe NVMe SSD storage. The price is 19.990.000 VND.
+
+3. HP Pavilion Gaming 15-cx0114tu (6NC45PA): This laptop comes with a 15.6" Full HD IPS panel and dedicated NVIDIA GeForce GTX 1050 Graphics with 4GB GDDR5. It has 8GB DDR4 RAM and 256GB PCIe NVMe M.2 SSD for faster performance. The price is 18.990.000 VND.
+
+These laptops are suitable for your gaming needs, as they all come with dedicated graphics cards. They also offer great performance and value for money as they are all under budget. Moreover, they all come from reputable brands, so you can be assured of their quality.

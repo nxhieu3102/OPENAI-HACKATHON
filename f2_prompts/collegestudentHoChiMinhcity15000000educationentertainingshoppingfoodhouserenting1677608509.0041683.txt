@@ -1,0 +1,9 @@
+Job: college student
+Location: Ho Chi Minh city
+Budget: 15000000
+Demands: education, entertaining, shopping, food, house renting
+Constraints: education: toeic learning
+entertaining: shopping
+food: vegetarian
+house renting: near city center
+SPENDING PLAN: 

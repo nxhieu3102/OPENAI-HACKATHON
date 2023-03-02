@@ -1,0 +1,36 @@
+e77421f7-0c9d-4cdc-9a99-34a2dc0eb328
+I am a college student living in Ho Chi Minh city:
+Total budget: 15000000 VND 
+Demands that I want to meet: playing sport, investing, education, skin-care
+Specific constraints for each demand: 
+playing sport: gyming, dancing
+education: toeic learning
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Playing Sport: 
+Allocating 3000,000 VND for a gym membership and 1000,000 VND for any necessary sportswear and equipment. This will allow you to stay active and healthy while also saving money in the long run. 
+
+Investing: 
+Allocating 4,000,000 VND for investing in the stock market and mutual funds. This will help you build a long-term financial portfolio and provide a steady source of income in the future. 
+
+Education: 
+Allocating 4,000,000 VND for online TOEIC courses and books. This will help you develop your language skills and also improve your job prospects in the future. 
+
+Skin Care: 
+Allocating 2,500,000 VND for skincare products such as cleansers, moisturizers, and serums. This will help you maintain a healthy and youthful look while minimizing costs. 
+
+Total Budget: 15,000,000 VND 
+
+By following this spending plan, you can easily stay within your budget while still meeting your demands. Moreover, by investing and focusing on your education, you can also build a strong financial portfolio and increase your job prospects in the future.

@@ -1,0 +1,6 @@
+Job: college student
+Location: Ha Noi
+Budget: 15000000
+Demands: house renting, investing, skin-care
+Constraints: house renting: near city center
+SPENDING PLAN: 

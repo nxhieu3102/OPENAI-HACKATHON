@@ -1,0 +1,34 @@
+6bbd9c06-6b7d-42b8-a953-4c5206edad33
+I am a college student living in Ha Noi:
+Total budget: 6000000 VND 
+Demands that I want to meet: education, house renting, food
+Specific constraints for each demand: 
+education: drawing, cooking
+house renting: not far from city center
+food: can not cook
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Education:
+Drawing: Allocate 60% of your budget for drawing classes, which is 3,600,000 VND. This will allow you to take several classes at a reasonable cost per class.
+
+Cooking: Allocate 40% of your budget for cooking classes, which is 2,400,000 VND. This will allow you to take classes to learn the basics and hone your skills.
+
+House Renting:
+Look for house rentals in areas close to the city center, such as Hoan Kiem or Ba Dinh districts. This will allow you to save on transport costs and make it easier to attend classes and get to work. Allocate 20% of your budget for house rentals, which is 1,200,000 VND.
+
+Food:
+Eating out can be expensive, so try to find affordable restaurants near your house or take advantage of food delivery services. Allocate 30% of your budget for food, which is 1,800,000 VND. This should provide enough money to buy groceries and eat out occasionally.
+
+Overall, this spending plan allows you to prioritize the essential expenses for your education and housing, while still having enough money left over for food. By following the plan above, you should be able to stay within your budget and make the most of your money.

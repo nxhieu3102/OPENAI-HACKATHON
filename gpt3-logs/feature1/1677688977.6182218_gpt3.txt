@@ -1,0 +1,21 @@
+3000677d-3a0a-4e02-af9c-72c214d1a3c3
+I want to buy a laptop:
+
+Here are the conditions that must be satisfied: 
+- comfortable keyboard for typing
+- Budget: 25000000 VND.
+- Market in:  Thegioididong
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Thegioididong curent market price.
+
+ANSWER: 
+
+==========
+
+1. Dell Inspiron 13 5391 with 8GB RAM 256GB SSD at 24,590,000 VND. This laptop has a comfortable backlight keyboard, making it easier for you to type. It also comes with the latest 10th Generation Intel Core i5 processor for faster performance, 8GB of RAM for multitasking, and 256GB of SSD storage for more space and faster loading of large files. 
+
+2. Acer Aspire 3 A314-33 with 8GB RAM 128GB SSD at 22,790,000 VND. This laptop features a comfortable chiclet keyboard, making it easy to use. It also comes with an Intel Pentium Silver N5000 processor, 8GB of RAM for multitasking and 128GB of SSD storage for smooth operations and quick loading. 
+
+3. ASUS VivoBook 15 F512JA-EJ059T with 8GB RAM 512GB SSD at 24,990,000 VND. This laptop offers a comfortable ergonomic keyboard, 8 GB of RAM for multitasking and 512GB of SSD storage for fast loading and plenty of room for applications, documents and more. It also comes with the latest 10th Generation Intel Core i3 processor for faster performance. 
+
+4. HP Pavilion 15-AU629TU with 8GB RAM 1TB HDD at 22,490,000 VND. This laptop comes with a comfortable keyboard for typing, 8GB of RAM for multitasking and 1TB of HDD storage for plenty of space for applications and documents. It also comes with the powerful 7th Generation Intel Core i5 processor for faster performance.

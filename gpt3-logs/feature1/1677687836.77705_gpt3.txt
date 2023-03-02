@@ -1,0 +1,24 @@
+e60da9b6-03f5-4520-9c81-2ab0aae4f539
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- a dress to wear to a wedding that's not too formal but still looks elegant
+- Budget: 10000000 VND.
+- Market in:  Local Markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Local Markets curent market price.
+
+ANSWER: 
+
+==========
+
+1. A Satin Floral Dress ($90,000 VND): This simple but beautiful dress features a delicate satin fabric in a gorgeous floral print. The A-line silhouette is slimming and flattering and the spaghetti straps will add a subtle sex appeal to any ensemble. This dress is perfect for a wedding that isn’t too formal, but elegant enough to make a statement. 
+
+2. A Light Blue Chiffon Dress ($85,000 VND): This light blue dress features an ethereal chiffon fabric, with a graceful V-neckline that lends an air of sophistication. The lengthy skirt is romantic and will definitely catch attention. The self-tie drawstrings along the waist adds an extra touch of class for a timeless look. 
+
+3. A Cream Lace Dress ($85,000 VND): This gorgeous cream dress features a unique lace pattern that is sultry and feminine. The tiered skirt adds volume and grace, while the capped sleeves add extra glamour. This dress is perfect for a wedding since it’s modest without sacrificing style. 
+
+4. A Faux Fur Leopard Print Dress ($80,000 VND): This unique cloth features a faux-fur leopard pattern that is bold and eclectic. The dress features midi length, as well as a slightly asymmetrical hem. The fitted bodice accentuates the waist, while the midi-length skirt adds an elegant firmness to the look. For a stand-out look this is the perfect dress. 
+
+Total cost: $330,000 VND 
+All of the above choices are within your budget, while the designs will ensure you look elegant and stylish for your wedding. The dresses are all simple yet sophisticated and will flatter your figure in a timeless yet modern way.

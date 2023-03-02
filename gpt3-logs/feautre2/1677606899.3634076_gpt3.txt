@@ -1,0 +1,47 @@
+3c81120e-fe42-4830-9900-7ed0558251a6
+I am a college student living in Da Nang:
+Total budget: 3000000 VND 
+Demands that I want to meet: food, investing, education, house renting
+Specific constraints for each demand: 
+food: can not cook
+education: ielts learning
+house renting: cheap motel
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Food: 
+- Allocate up to 30% of the budget for food expenses. 
+- Look for grocery stores or local markets to buy food. Consider buying in bulk to save money. 
+- Use coupons or discount codes to reduce the cost of food purchases. 
+- Utilize delivery services to save time and money.
+
+Investing: 
+- Allocate up to 20% of the budget for investing. 
+- Research low-risk investments (e.g. index funds) to get the best returns. 
+- Consider investing in local companies to benefit from the local market. 
+- Monitor the market regularly to adjust investments as needed.
+
+Education: 
+- Allocate up to 20% of the budget for education. 
+- Research online courses or online study materials to cut costs. 
+- Consider joining a study group or hiring a tutor to get the best results. 
+- Ensure that IELTS preparation materials and courses are up to date. 
+
+House Renting: 
+- Allocate up to 30% of the budget for house renting. 
+- Look for cheap motels and other affordable rental options. 
+- Consider sharing a house with roommates to split the costs. 
+- Utilize online resources to compare rental prices in the area. 
+
+Overall, by following the spending plan above, I can ensure that I stay within my budget constraints and optimize my spending to meet my demands. I should also keep in mind that long-term financial stability should be a priority and I should try to minimize costs where possible.

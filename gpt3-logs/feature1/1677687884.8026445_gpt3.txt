@@ -1,0 +1,26 @@
+5a95ad22-1156-4bdb-a1c2-354ad7ab2d24
+I want to buy some clothes:
+
+Here are the conditions that must be satisfied: 
+- winter coat that's warm and waterproof but still stylish
+- Budget: 300000 VND.
+- Market in:  Online Shopping
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Online Shopping curent market price.
+
+ANSWER: 
+
+==========
+
+1. Unisex Fashionable Waterproof Padded Jacket: Price: 200,000 VND
+This jacket is stylish, waterproof and very warm. It comes in navy blue and is made of high quality fabrics that provides comfort and durability. The jacket also includes two side pockets, a hood and an adjustable waist. 
+
+2. Unisex Heavy Snow Attire: Price: 83,000 VND
+This heavy snow attire will not only keep you warm and protected from the elements but also make you look stylish. Made of durable cloth, the suit features waterproof material and an adjustable hood. It is available in grey and black. 
+
+3. Women's Zip-Up Down Jacket: Price: 17,000 VND
+This stylish and lightweight down jacket is perfect for winter weather. It is made of quilted nylon and has a waterproof finish. It also features a full zip-up front, two side pockets and an adjustable drawstring hood. The jacket is available in khaki and black. 
+
+Total Cost: 300,000 VND 
+
+Each item is an optimal choice that satisfy the conditions and optimize your budget. The Unisex Fashionable Waterproof Padded Jacket is a great choice due to its stylish look and high quality materials at a reasonable price. The Unisex Heavy Snow Attire is a great option for those looking for extra protection from the elements. Last but not least, the Women's Zip-Up Down Jacket give you a stylish look and offers great warmth at an affordable price.

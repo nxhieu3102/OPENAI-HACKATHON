@@ -1,0 +1,21 @@
+442c4161-cb12-4872-97de-9ce977b12c25
+I want to buy a car:
+
+Here are the conditions that must be satisfied: 
+- fully furnished family car
+- Budget: 700000000 VND.
+- Market in:  Honda Vietnam
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Honda Vietnam curent market price.
+
+ANSWER: 
+
+==========
+
+Honda Accord 2.0L VTi-L 2018: This car is ideal for families and comes with many impressive features such as leather seats, 8-inch touchscreen display for infotainment, 8-way adjustable power driver’s seat, electric sunroof, the Honda Sensing suite of driver-assist technologies, multi-angle rearview camera and so much more. Cost: 656000000 VND. 
+
+Honda Civic 1.8L Sport 2018: The Honda Civic 1.8L Sport 2018 is a great family car option. It offers a sleek and stylish design, 8-inch touchscreen, hill-start assist control, electric parking brake, ECO driving mode, Bluetooth connectivity and a multi-angle rearview camera. Cost: 699000000 VND.
+
+Honda CR-V 1.5T Comfort 4WD 2018: The Honda CR-V 1.5T Comfort 4WD 2018 offers an impressive engine performance combined with an intelligent all-wheel-drive system along with plenty of advanced features and amenities in the cabin, such as the electric adjustable seats with memory function, 7-inch infotainment system, dual-zone climate control and cruise control. Cost: 678000000 VND. 
+
+For families looking for a car that is both chic and functional, the Honda Accord 2.0L VTi-L 2018 is a great choice. It comes with a range of features and amenities such as leather seats, 8-inch touchscreen display for infotainment, 8-way adjustable power driver’s seat, electric sunroof, and the Honda Sensing suite of driver-assist technologies that ensures a comfortable and safe drive for the whole family. Plus, it falls within the budget of 700000000 VND, making it a great value for money.

@@ -1,0 +1,36 @@
+52e62d97-c918-4882-84fe-afeeb3648ed5
+I am a college student living in Ho Chi Minh city:
+Total budget: 3000000 VND 
+Demands that I want to meet: investing, entertaining, skin-care, house renting
+Specific constraints for each demand: 
+entertaining: party, go to coffee
+house renting: not far from city center
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Investing: 
+Budget: 500,000 VND
+Schema: Invest in low-risk mutual funds, ETFs, and stocks. Investing in these low-risk investments will help ensure that you are able to manage your money in the long-term, while also providing some potential for growth. 
+
+Entertaining: 
+Budget: 800,000 VND
+Schema: Plan out your entertainment budget ahead of time. Set aside money each month for activities such as going to coffee, going out to eat, going to the movies, or other activities. Try to find discounts or deals to save money where you can. 
+
+Skin-Care: 
+Budget: 1,000,000 VND
+Schema: Invest in good quality skin-care products, such as facial wash, moisturizers, sunscreen, etc., to ensure that you are taking care of your skin. You may also want to consider getting regular facials, which can help maintain the health of your skin. 
+
+House Renting: 
+Budget: 1,500,000 VND
+Schema: Look for house rentals that are located close to the city center, as this will help you save money on transportation costs. Additionally, ensure that the rent is within your budget and that the landlord is willing to negotiate the price. You may also want to take advantage of any discounts or deals that the landlord may have.

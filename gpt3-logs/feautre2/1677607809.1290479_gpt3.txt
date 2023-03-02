@@ -1,0 +1,36 @@
+78d3cbac-1083-4027-af68-5e9f8e321105
+I am a college student living in Ho Chi Minh city:
+Total budget: 4000000 VND 
+Demands that I want to meet: house renting, commuting, food, entertaining
+Specific constraints for each demand: 
+house renting: cheap motel
+commuting: 10 km to school, by motorbike
+food: vegetarian
+entertaining: traveling, go backpacking
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+House Renting: 
+Allocate 40% of the total budget to house renting. This should equate to approximately 1600000 VND. Look for a cheap motel near your school to minimize the cost of commuting. Ensure that the quality of the accommodation is good enough to ensure your safety and comfort. 
+
+Commuting: 
+Allocate 10% of your budget to commuting, which should equate to 400000 VND. Consider using a motorbike to minimize your commuting costs. This would allow you to travel the 10km to school quickly and efficiently. 
+
+Food: 
+Allocate 35% of your budget to food, which should equate to 1400000 VND. As you are a vegetarian, look for cheaper plant-based food options that are still nutritious and delicious. Consider meal prepping and buying in bulk to save money. 
+
+Entertaining: 
+Allocate 15% of your budget to entertaining which should equate to 600000 VND. Consider activities that are free or low-cost, such as going to the park, visiting museums, or going backpacking. This will help you maximize your entertainment budget and make the most of your money. 
+
+Overall, by following this spending plan, you should be able to meet all of your demands while staying within your budget constraints. Additionally, this plan will help you stay financially stable in the long-term.

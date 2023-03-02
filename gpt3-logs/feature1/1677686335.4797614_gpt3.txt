@@ -1,0 +1,25 @@
+71ce3e9d-9bb5-4ed6-b8d5-d96e431910c9
+I want to buy some food:
+
+Here are the conditions that must be satisfied: 
+- vegan
+- Budget: 3000000 VND.
+- Market in:  Traditional markets
+
+Give me some choices that must: optimize my budget, satisfy the conditions, and a clear explanation of why I should buy. The answer must include the price and the description in detail as much as possible. The total cost must not be over my budget. Use the Traditional markets curent market price.
+
+ANSWER: 
+
+==========
+
+In traditional markets, you can get a lot of vegan choices that are within your budget. Here are some options you can consider: 
+
+- Fresh fruits and vegetables: Fruits and vegetables are very nutritious and are a great source of vitamins and minerals for a vegan diet. You can get a variety of items under 3000000 VND such as melon, banana, kiwi, apples, cucumbers, carrots, tomatoes, mushrooms, etc. Price may vary depending on the market you are visiting but generally, it won’t go well over the limit. 
+
+- Tofu and tempeh: Tofu and tempeh are both high in protein and can be used in a wide range of vegan meals. You can get a 500g block of either tofu or tempeh for about 25000 VND, making them great and affordable options for your vegan diet.
+
+- Nuts and seeds: Nuts are a great way to add healthy fats and proteins to your diet. Pistachios, walnuts, and almonds, can cost as low as 50,000 VND per pack, and they can be enjoyed as snacks or added to various meals or salads. You can also get sesame seeds, which are a great source of calcium, and pumpkin seeds, which have many essential nutrients, for the same price. 
+
+- Legumes: Legumes, like black beans, chickpeas, and lentils, are all very versatile and filled with essential vitamins and minerals that provide a lot of health benefits. You can find them at traditional markets for as little as 50000-70000 VND per 1kg. 
+
+All of these vegan items should be able to provide you with a variety of options, without going over the 3000000 VND budget.

@@ -1,0 +1,42 @@
+8acbb0e4-30cf-42fd-941a-6a34afb9d705
+I am a college student living in Ha Noi:
+Total budget: 6000000 VND 
+Demands that I want to meet: food, shopping, commuting, education, house renting
+Specific constraints for each demand: 
+food: vegetarian
+commuting: 3 km to work
+education: ielts learning
+house renting: suburban area
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Food: 
+Budget: 2,000,000 VND per month
+Schema: Focus on buying in bulk and cooking at home as much as possible. Check out local farmers markets for fresh produce, and look for discounts and sales at supermarkets. Consider vegetarian meal delivery services and food subscription boxes to save time. 
+
+Shopping: 
+Budget: 1,500,000 VND per month
+Schema: Research online for the best deals and discounts, and look into secondhand stores or online marketplaces for used items. Set a strict budget and stick to it. Buy items that are essential and have long-term value. 
+
+Commuting: 
+Budget: 500,000 VND per month
+Schema: Invest in a bike or a scooter that can be used for commuting. Consider carpooling or sharing rides with friends to save on costs. Make sure to look into discounted public transport tickets or passes. 
+
+Education: 
+Budget: 1,000,000 VND per month
+Schema: Invest in online courses and materials, as these are usually much cheaper than in-person classes. Look into scholarship and loan options to cover any remaining costs. 
+
+House Renting: 
+Budget: 1,000,000 VND per month
+Schema: Consider house sharing to save costs. Research suburban areas to find the most affordable options. Look into rent-to-own and other long-term rental options for more flexibility.

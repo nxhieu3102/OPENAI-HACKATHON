@@ -1,0 +1,40 @@
+70aeb78b-20bb-4ead-b237-2eda2a614740
+I am a college student living in Da Nang:
+Total budget: 6000000 VND 
+Demands that I want to meet: skin-care, shopping, playing sport, house renting, education
+Specific constraints for each demand: 
+playing sport: football or badminton
+house renting: cheap motel
+education: programming learning
+Based on this information, generate an optimized spending plan that tells me how much I should allocate for each demand and a schema for each demand that maximizes my budget. Please include any relevant explanations or insights that can help me make informed spending decisions.
+
+Consider the following factors when generating the spending plan:
+
+Using living location for a hint of market price
+Minimizing costs where possible
+Prioritizing essential expenses over non-essential expenses
+Ensuring that the user stays within their budget constraints
+Optimizing for long-term financial stability
+
+Plan my spending optimally:
+
+==========
+
+Skin Care: 2,000,000 VND 
+This is a non-essential expense that should be considered after other essential needs are met. However, it is important to take care of your skin. Allocate 2,000,000 VND to buy skin care products.
+
+Shopping: 1,500,000 VND 
+Shopping is also a non-essential expense. However, consider 1,500,000 VND to buy necessary items for living. Make sure to look for deals and discounts to ensure you get the best value for your money.
+
+Playing Sport: 500,000 VND 
+As Da Nang is a coastal city, you can save money by playing sports outdoors. Allocate 500,000 VND to buy equipment such as footballs, badminton rackets, and nets.
+
+House Renting: 2,000,000 VND 
+This is an essential expense, as you need somewhere to live. Consider allocating 2,000,000 VND for a cheap motel. Look for deals and discounts to get the best value for your money.
+
+Education: 500,000 VND 
+This is also an essential expense, and you need to invest in your future. Allocate 500,000 VND to enroll in a programming learning program. Consider online courses as they are often more affordable and offer more flexibility. 
+
+Total: 6,000,000 VND 
+
+By following this plan, you can stay within your budget and make sure that your essential expenses are taken care of. With the remaining funds, you can allocate them to skin care, shopping, and other non-essential expenses.
