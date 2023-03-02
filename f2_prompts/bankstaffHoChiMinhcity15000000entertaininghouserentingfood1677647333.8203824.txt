@@ -1,0 +1,8 @@
+Job: bank staff
+Location: Ho Chi Minh city
+Budget: 15000000
+Demands: entertaining, house renting, food
+Constraints: entertaining: party, go to coffee
+house renting: near city center
+food: can not cook
+SPENDING PLAN: 

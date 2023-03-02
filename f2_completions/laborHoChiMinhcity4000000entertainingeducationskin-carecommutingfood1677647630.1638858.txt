@@ -1,0 +1,21 @@
+Entertaining: 
+Budget: 200000 VND 
+Schema: Spending 200000 VND on buying ingredients for cooking, or going out for drinks with friends. 
+
+Education: 
+Budget: 200000 VND 
+Schema: Investing in online Toeic courses or attending classes at a local language school. 
+
+Skin-Care: 
+Budget: 200000 VND 
+Schema: Investing in a basic skin care routine that includes a cleanser, toner, moisturizer, sunscreen and face mask. 
+
+Commuting: 
+Budget: 100000 VND 
+Schema: Investing in a monthly bus pass or using ride-sharing services to travel 3 km to work. 
+
+Food: 
+Budget: 100000 VND 
+Schema: Opting for nutritious, low-calorie meals that are budget friendly such as salads, soups and stir-fries. Avoiding high-calorie processed foods and opting for fresh produce when possible. 
+
+Overall, this plan will help you maximize your budget while still meeting your demands. By investing in quality skin care and education, you'll be able to get a head start on your long-term financial stability. Investing in a monthly bus pass or using ride-sharing services will help you save money in the long run. Finally, by opting for healthy, low-calorie meals, you can ensure that you're getting the nutrition you need while still staying within your budget.

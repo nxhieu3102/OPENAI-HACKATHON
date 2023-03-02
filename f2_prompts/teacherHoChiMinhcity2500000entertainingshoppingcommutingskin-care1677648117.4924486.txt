@@ -1,0 +1,7 @@
+Job: teacher
+Location: Ho Chi Minh city
+Budget: 2500000
+Demands: entertaining, shopping, commuting, skin-care
+Constraints: entertaining: shopping
+commuting: 10 km to school, by motorbike
+SPENDING PLAN: 

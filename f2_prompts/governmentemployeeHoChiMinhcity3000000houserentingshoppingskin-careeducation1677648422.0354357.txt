@@ -1,0 +1,7 @@
+Job: government employee
+Location: Ho Chi Minh city
+Budget: 3000000
+Demands: house renting, shopping, skin-care, education
+Constraints: house renting: cheap motel
+education: ielts learning
+SPENDING PLAN: 

@@ -1,0 +1,8 @@
+Job: bank staff
+Location: Ho Chi Minh city
+Budget: 2500000
+Demands: commuting, education, house renting, shopping
+Constraints: commuting: 15 km by public transportation
+education: ielts learning
+house renting: suburban area
+SPENDING PLAN: 

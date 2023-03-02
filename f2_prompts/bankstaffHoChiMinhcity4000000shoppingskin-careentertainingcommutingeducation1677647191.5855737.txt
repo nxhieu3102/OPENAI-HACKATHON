@@ -1,0 +1,8 @@
+Job: bank staff
+Location: Ho Chi Minh city
+Budget: 4000000
+Demands: shopping, skin-care, entertaining, commuting, education
+Constraints: entertaining: drinking, cooking
+commuting: 10 km to school, by motorbike
+education: toeic learning
+SPENDING PLAN: 

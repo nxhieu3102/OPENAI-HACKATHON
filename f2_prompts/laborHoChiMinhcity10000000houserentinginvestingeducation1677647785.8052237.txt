@@ -1,0 +1,7 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 10000000
+Demands: house renting, investing, education
+Constraints: house renting: suburban area
+education: programming learning
+SPENDING PLAN: 

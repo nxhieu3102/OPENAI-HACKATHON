@@ -1,0 +1,8 @@
+Job: teacher
+Location: Ho Chi Minh city
+Budget: 10000000
+Demands: skin-care, entertaining, education, commuting, shopping
+Constraints: entertaining: theater and concerts
+education: toeic learning
+commuting: 15 km by public transportation
+SPENDING PLAN: 

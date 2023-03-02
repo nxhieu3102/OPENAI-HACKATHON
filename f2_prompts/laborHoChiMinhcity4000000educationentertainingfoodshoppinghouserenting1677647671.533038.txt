@@ -1,0 +1,9 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 4000000
+Demands: education, entertaining, food, shopping, house renting
+Constraints: education: ielts learning
+entertaining: traveling, go backpacking
+food: can not cook
+house renting: cheap motel
+SPENDING PLAN: 

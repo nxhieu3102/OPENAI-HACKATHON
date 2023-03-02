@@ -1,0 +1,9 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 4000000
+Demands: shopping, house renting, commuting, food, education
+Constraints: house renting: near city center
+commuting: 15 km by public transportation
+food: vegetarian
+education: drawing, cooking
+SPENDING PLAN: 

@@ -1,0 +1,7 @@
+Job: bank staff
+Location: Ho Chi Minh city
+Budget: 4000000
+Demands: skin-care, investing, house renting, commuting
+Constraints: house renting: suburban area
+commuting: 10 km to school, by motorbike
+SPENDING PLAN: 

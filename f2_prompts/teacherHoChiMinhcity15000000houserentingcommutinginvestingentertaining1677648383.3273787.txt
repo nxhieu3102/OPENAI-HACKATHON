@@ -1,0 +1,8 @@
+Job: teacher
+Location: Ho Chi Minh city
+Budget: 15000000
+Demands: house renting, commuting, investing, entertaining
+Constraints: house renting: cheap motel
+commuting: 3 km to work
+entertaining: traveling, go backpacking
+SPENDING PLAN: 

@@ -1,0 +1,7 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 3000000
+Demands: entertaining, skin-care, commuting, investing
+Constraints: entertaining: traveling, go backpacking
+commuting: 3 km to work
+SPENDING PLAN: 

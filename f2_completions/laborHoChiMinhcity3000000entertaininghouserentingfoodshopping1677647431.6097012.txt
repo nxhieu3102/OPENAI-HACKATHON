@@ -1,0 +1,15 @@
+Entertainment: 
+Budget allocation: 800,000 VND 
+Schema: Visit local pubs or bars for drinks, cook at home with friends to cut costs, rent movies or stream online.
+
+House Renting: 
+Budget allocation: 1,500,000 VND 
+Schema: Research areas in the suburbs with the lowest rental prices, look for rental properties that are within your budget and available for a long-term lease.
+
+Food: 
+Budget allocation: 700,000 VND 
+Schema: Cook at home to save money, purchase foods that are high in protein but also affordable, limit eating out to only occasional occasions.
+
+Shopping: 
+Budget allocation: 200,000 VND 
+Schema: Buy items only when necessary, comparison-shop for the best prices, look for discounts or sales on items that you need, purchase items in bulk when possible.

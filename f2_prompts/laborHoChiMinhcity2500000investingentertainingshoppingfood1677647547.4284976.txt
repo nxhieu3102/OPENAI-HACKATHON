@@ -1,0 +1,7 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 2500000
+Demands: investing, entertaining, shopping, food
+Constraints: entertaining: traveling, go backpacking
+food: high protein
+SPENDING PLAN: 

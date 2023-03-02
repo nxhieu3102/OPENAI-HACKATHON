@@ -1,0 +1,8 @@
+Job: government employee
+Location: Ho Chi Minh city
+Budget: 3000000
+Demands: investing, education, commuting, entertaining
+Constraints: education: ielts learning
+commuting: 15 km by public transportation
+entertaining: theater and concerts
+SPENDING PLAN: 

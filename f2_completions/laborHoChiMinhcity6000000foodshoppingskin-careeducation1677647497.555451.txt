@@ -1,0 +1,15 @@
+Food:
+Budget Allocation: 40% (2,400,000 VND)
+Schema: Stocking up groceries with high protein content such as eggs, nuts, milk, and legumes will help ensure that you get the best value for your money. Consider buying in bulk to take advantage of discounts and avoid wasting money on unnecessary items.
+
+Shopping: 
+Budget Allocation: 30% (1,800,000 VND)
+Schema: Make sure to prioritize the essential items you need such as clothing, hygiene products, and other household items. Consider shopping around for the best deals and researching online for discounts or coupons. Investing in quality items that will last longer may be more beneficial in the long run than buying cheaper, lower-quality items.
+
+Skin-Care:
+Budget Allocation: 20% (1,200,000 VND)
+Schema: Investing in quality skin-care products is important for proper hygiene and taking care of your skin. Consider splurging on more expensive, higher-quality skincare products to get the best results. Look for natural and organic products that are free of harsh chemicals.
+
+Education: 
+Budget Allocation: 10% (600,000 VND)
+Schema: Invest in educational materials such as books, drawing materials, and cooking supplies. Consider enrolling in an online course or workshop to get the most out of your money. Compare prices between different providers to get the best deal.

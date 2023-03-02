@@ -1,0 +1,11 @@
+House Rental: 4000000 VND
+Given that the user is living in Ho Chi Minh city, the average rent for a 1-bedroom apartment is about 4,000,000 VND per month. In order to maximize their budget, the user should look for an accommodation that is not too far from the city center. 
+
+Skin Care: 500000 VND
+To stay within the budget, the user should focus on finding affordable and effective skin care products. Investing in quality products, such as face masks and moisturizers, is recommended. Additionally, the user should research natural, budget-friendly skin care alternatives, such as using natural oils or homemade recipes to maintain their skin's health.
+
+Commuting: 100000 VND
+Assuming the user's workplace is 3 km away, they can use a combination of biking and public transportation to get to and from work. This is an inexpensive way to commute and is good for the environment. Additionally, investing in a good bike and keeping it well-maintained can help reduce the cost of commuting over time.
+
+Investing: 500000 VND
+The user should focus on investing in a low-risk, long-term strategy. This will help them build a strong financial foundation and grow their wealth over time. Investing in a diverse portfolio of stocks and bonds can be a great way to maximize their budget and reach their financial goals. Additionally, the user should research various investment options and consult a financial advisor before making any decisions.

@@ -1,0 +1,8 @@
+Job: teacher
+Location: Ho Chi Minh city
+Budget: 4000000
+Demands: entertaining, house renting, education, shopping, skin-care
+Constraints: entertaining: party, go to coffee
+house renting: suburban area
+education: toeic learning
+SPENDING PLAN: 

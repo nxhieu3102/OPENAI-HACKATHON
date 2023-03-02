@@ -1,0 +1,7 @@
+Job: teacher
+Location: Ho Chi Minh city
+Budget: 10000000
+Demands: shopping, house renting, education
+Constraints: house renting: not far from city center
+education: programming learning
+SPENDING PLAN: 

@@ -1,0 +1,8 @@
+Job: teacher
+Location: Ho Chi Minh city
+Budget: 15000000
+Demands: food, education, commuting, shopping
+Constraints: food: vegetarian
+education: toeic learning
+commuting: 3 km to work
+SPENDING PLAN: 

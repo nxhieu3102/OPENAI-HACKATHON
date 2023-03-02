@@ -1,0 +1,13 @@
+Food: 
+Given that the user cannot cook and is living in Ho Chi Minh City, the user should allocate around 600,000 VND per month to food, or around 20,000 VND per day. This money should be spent on food that is locally available, such as street food, as it is usually cheaper than restaurants. This should provide more than enough food for the user to stay healthy and well-fed. 
+
+House Renting: 
+Since the user is living in Ho Chi Minh City and wants to stay close to the city center, they should allocate around 1,800,000 VND per month to house renting. This should be enough to rent a reasonably sized apartment in the city center. 
+
+Entertaining: 
+For entertaining, the user should allocate around 600,000 VND per month. This should be enough to cover basic entertaining needs such as going out for drinks and the occasional cooking activity. 
+
+Skin Care: 
+For skin care, the user should allocate around 200,000 VND per month. This should cover the cost of basic skin care products such as moisturizers and facial cleansers. 
+
+Overall, the user should allocate a total of 3,000,000 VND per month to meet their demands. This should be enough to cover all of the user's basic needs while still leaving some money for savings. With this spending plan, the user should be able to prioritize their budget and make informed spending decisions to ensure long-term financial stability.

@@ -1,0 +1,25 @@
+Education:
+Allocate 2,000,000 VND for drawing and cooking classes. This should cover the cost of classes, materials, and transportation.
+
+Entertaining:
+Allocate 2,000,000 VND for shopping. This should cover the cost of clothing, accessories, and other items.
+
+Commuting:
+Allocate 1,000,000 VND for transportation. This should cover the cost of fuel, tolls, parking, and other related costs.
+
+Skin-care:
+Allocate 500,000 VND for skin-care products. This should cover the cost of facial cleansers, moisturizers, and other items.
+
+Food:
+Allocate 1,500,000 VND for vegetarian meals. This should cover the cost of ingredients, meals, and other related costs.
+
+Schema for each demand: 
+Education: Research free or low-cost classes in your area, look for discounts or deals from local vendors, consider carpooling or taking public transportation to classes.
+
+Entertaining: Look for coupons and discounts when shopping, consider second-hand stores or online shopping, research sales and promotions before making a purchase.
+
+Commuting: Consider walking or biking to work, look for discounted public transportation options, research carpooling or ridesharing services.
+
+Skin-care: Research natural and homemade skin-care recipes, consider making your own products, look for discounts or deals from local vendors.
+
+Food: Research vegetarian recipes, consider meal prepping and cooking in bulk, look for coupons and discounts at local grocery stores, consider growing your own vegetables.

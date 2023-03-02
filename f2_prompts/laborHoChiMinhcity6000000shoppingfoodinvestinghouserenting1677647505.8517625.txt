@@ -1,0 +1,7 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 6000000
+Demands: shopping, food, investing, house renting
+Constraints: food: calories reduce
+house renting: suburban area
+SPENDING PLAN: 

@@ -1,0 +1,15 @@
+Food:
+Budget allocated: 800,000 VND 
+Schema: Buy groceries when necessary and try to buy in bulk to save money. Prioritize healthy and high-protein foods. Take advantage of discounts, sales, and coupons. Look for local and seasonal produce. Try to cook meals at home rather than eating out. 
+
+Investing:
+Budget allocated: 700,000 VND 
+Schema: Invest in low-risk stocks and mutual funds. Invest in long-term investments like real estate and other passive income sources. Focus on diversifying your portfolio. Consider investing in ETFs and index funds. Try to research and understand the market before investing.
+
+Commuting:
+Budget allocated: 700,000 VND 
+Schema: Take advantage of public transportation such as buses and trains. Consider purchasing a bicycle or motorbike to save on commuting costs. If possible, carpool with friends or colleagues.
+
+Playing Sport:
+Budget allocated: 100,000 VND 
+Schema: Utilize free or discounted gym memberships. Consider joining a sports club or community. Take advantage of free outdoor activities such as running, swimming, and cycling. Research online for discounted sportswear and equipment.

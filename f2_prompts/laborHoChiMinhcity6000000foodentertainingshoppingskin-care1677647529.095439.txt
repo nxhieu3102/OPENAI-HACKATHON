@@ -1,0 +1,7 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 6000000
+Demands: food, entertaining, shopping, skin-care
+Constraints: food: calories reduce
+entertaining: theater and concerts
+SPENDING PLAN: 
