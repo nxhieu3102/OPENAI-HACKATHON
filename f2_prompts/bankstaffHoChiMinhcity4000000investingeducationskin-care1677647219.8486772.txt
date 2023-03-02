@@ -1,0 +1,6 @@
+Job: bank staff
+Location: Ho Chi Minh city
+Budget: 4000000
+Demands: investing, education, skin-care
+Constraints: education: programming learning
+SPENDING PLAN: 

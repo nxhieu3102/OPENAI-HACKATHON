@@ -1,0 +1,25 @@
+Commuting:
+I should allocate a maximum of 50,000 VND per month to cover my commuting expenses. This would cover 10 km of travel each month by motorbike, taking into account the cost of fuel, vehicle maintenance, and other related expenses. 
+
+Education:
+I should allocate a maximum of 200,000 VND per month to cover my educational expenses. This would cover activities such as drawing, cooking, and other related educational activities. 
+
+Entertaining:
+I should allocate a maximum of 100,000 VND per month to cover my entertaining expenses. This would cover activities such as going to parties, coffee, and other related entertaining activities. 
+
+House Renting:
+I should allocate a maximum of 2,500,000 VND per month to cover my house renting expenses. This would cover rental costs in the city center, taking into account the market price for rental in that area. 
+
+Schema for each demand:
+
+Commuting: 
+My best option for commuting is to purchase a reliable, fuel-efficient motorbike. This will help me to save money on fuel and vehicle maintenance costs over the long-term. 
+
+Education: 
+My best option for educational activities is to enroll in an online course or join a local club. This will help me to learn new skills without spending too much money. 
+
+Entertaining: 
+My best option for entertaining activities is to take advantage of free or discounted events in the city. This will help me to have fun without spending too much money. 
+
+House Renting: 
+My best option for house renting is to rent a room in a shared house or apartment. This will help me to save money on rental costs while still having access to the amenities of the city center.

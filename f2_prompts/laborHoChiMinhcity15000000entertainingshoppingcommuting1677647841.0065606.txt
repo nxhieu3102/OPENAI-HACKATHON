@@ -1,0 +1,7 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 15000000
+Demands: entertaining, shopping, commuting
+Constraints: entertaining: theater and concerts
+commuting: 3 km to work
+SPENDING PLAN: 

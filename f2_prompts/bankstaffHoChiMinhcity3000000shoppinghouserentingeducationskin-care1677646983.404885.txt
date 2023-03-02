@@ -1,0 +1,7 @@
+Job: bank staff
+Location: Ho Chi Minh city
+Budget: 3000000
+Demands: shopping, house renting, education, skin-care
+Constraints: house renting: near city center
+education: toeic learning
+SPENDING PLAN: 

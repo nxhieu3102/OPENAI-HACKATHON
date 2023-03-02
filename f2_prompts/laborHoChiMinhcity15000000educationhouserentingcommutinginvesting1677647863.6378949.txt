@@ -1,0 +1,8 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 15000000
+Demands: education, house renting, commuting, investing
+Constraints: education: toeic learning
+house renting: cheap motel
+commuting: 15 km by public transportation
+SPENDING PLAN: 

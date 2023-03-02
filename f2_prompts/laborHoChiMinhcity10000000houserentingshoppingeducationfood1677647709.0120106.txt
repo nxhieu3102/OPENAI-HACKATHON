@@ -1,0 +1,8 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 10000000
+Demands: house renting, shopping, education, food
+Constraints: house renting: cheap motel
+education: ielts learning
+food: vegetarian
+SPENDING PLAN: 

@@ -1,0 +1,15 @@
+Skin-Care: 
+Budget allocated: 200,000 VND
+Schema: Purchase basic skincare products such as facial cleansers, moisturizers, and serums from drugstores or online. Look for products on sale or use coupons for additional savings.
+
+House Rental:
+Budget allocated: 2,500,000 VND
+Schema: Consider renting a cheap motel instead of an apartment in Ho Chi Minh City. Cheaper motels can be found in the outskirts of the city, which can help save a significant amount of money. Negotiate with the landlord for a lower rental rate if possible.
+
+Food:
+Budget allocated: 600,000 VND
+Schema: Look for restaurants that offer discounts or meal deals. Consider signing up for loyalty programs or using food delivery services for additional savings. Alternatively, if cooking is not an option, purchase pre-packaged meals from a grocery store or convenience store.
+
+Education:
+Budget allocated: 600,000 VND
+Schema: Look for online courses or e-books that offer TOEIC learning materials and focus on maximizing the budget. Consider signing up for a subscription-based program that offers a monthly fee and discounts for longer-term commitments. If an in-person course is necessary, look for qualified and reasonably-priced tutors in the area.

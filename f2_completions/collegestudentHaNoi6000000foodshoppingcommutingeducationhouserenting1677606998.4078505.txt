@@ -1,0 +1,19 @@
+Food: 
+Budget: 2,000,000 VND per month
+Schema: Focus on buying in bulk and cooking at home as much as possible. Check out local farmers markets for fresh produce, and look for discounts and sales at supermarkets. Consider vegetarian meal delivery services and food subscription boxes to save time. 
+
+Shopping: 
+Budget: 1,500,000 VND per month
+Schema: Research online for the best deals and discounts, and look into secondhand stores or online marketplaces for used items. Set a strict budget and stick to it. Buy items that are essential and have long-term value. 
+
+Commuting: 
+Budget: 500,000 VND per month
+Schema: Invest in a bike or a scooter that can be used for commuting. Consider carpooling or sharing rides with friends to save on costs. Make sure to look into discounted public transport tickets or passes. 
+
+Education: 
+Budget: 1,000,000 VND per month
+Schema: Invest in online courses and materials, as these are usually much cheaper than in-person classes. Look into scholarship and loan options to cover any remaining costs. 
+
+House Renting: 
+Budget: 1,000,000 VND per month
+Schema: Consider house sharing to save costs. Research suburban areas to find the most affordable options. Look into rent-to-own and other long-term rental options for more flexibility.

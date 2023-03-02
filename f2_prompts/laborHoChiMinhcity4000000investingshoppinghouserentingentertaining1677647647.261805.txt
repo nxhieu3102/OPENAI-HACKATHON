@@ -1,0 +1,7 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 4000000
+Demands: investing, shopping, house renting, entertaining
+Constraints: house renting: not far from city center
+entertaining: drinking, cooking
+SPENDING PLAN: 

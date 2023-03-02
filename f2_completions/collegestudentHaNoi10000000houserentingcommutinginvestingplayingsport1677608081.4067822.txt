@@ -1,0 +1,15 @@
+House Renting:
+Budget: 3000000 VND 
+Schema: Cheap motel close to your workplace (3 km) for ease of commuting. This will reduce the time and money you spend on transportation.
+
+Commuting:
+Budget: 2000000 VND 
+Schema: Invest in a good quality bicycle to get to work. This will save you money on transportation costs and also allow you to get exercise.
+
+Investing:
+Budget: 2000000 VND 
+Schema: Invest in a low-risk and long-term investment such as stocks or mutual funds. This will help you build your wealth over the long-term.
+
+Playing Sport:
+Budget: 3000000 VND 
+Schema: Invest in karate classes or equipment. This will help you stay active and healthy while also providing an avenue for learning a new skill.

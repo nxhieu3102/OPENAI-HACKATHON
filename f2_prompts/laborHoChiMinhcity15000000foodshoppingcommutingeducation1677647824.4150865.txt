@@ -1,0 +1,8 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 15000000
+Demands: food, shopping, commuting, education
+Constraints: food: high protein
+commuting: 3 km to work
+education: toeic learning
+SPENDING PLAN: 

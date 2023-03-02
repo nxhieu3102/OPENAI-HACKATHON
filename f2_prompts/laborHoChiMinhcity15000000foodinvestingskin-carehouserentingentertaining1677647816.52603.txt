@@ -1,0 +1,8 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 15000000
+Demands: food, investing, skin-care, house renting, entertaining
+Constraints: food: vegetarian
+house renting: near city center
+entertaining: shopping
+SPENDING PLAN: 

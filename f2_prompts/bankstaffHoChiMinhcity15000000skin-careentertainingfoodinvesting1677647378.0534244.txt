@@ -1,0 +1,7 @@
+Job: bank staff
+Location: Ho Chi Minh city
+Budget: 15000000
+Demands: skin-care, entertaining, food, investing
+Constraints: entertaining: traveling, go backpacking
+food: calories reduce
+SPENDING PLAN: 

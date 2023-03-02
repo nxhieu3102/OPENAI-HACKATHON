@@ -1,0 +1,8 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 4000000
+Demands: commuting, entertaining, skin-care, food, shopping
+Constraints: commuting: 3 km to work
+entertaining: theater and concerts
+food: can not cook
+SPENDING PLAN: 

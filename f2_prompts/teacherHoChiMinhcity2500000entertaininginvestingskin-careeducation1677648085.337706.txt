@@ -1,0 +1,7 @@
+Job: teacher
+Location: Ho Chi Minh city
+Budget: 2500000
+Demands: entertaining, investing, skin-care, education
+Constraints: entertaining: drinking, cooking
+education: drawing, cooking
+SPENDING PLAN: 

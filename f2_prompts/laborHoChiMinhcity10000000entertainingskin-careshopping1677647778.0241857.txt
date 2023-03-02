@@ -1,0 +1,6 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 10000000
+Demands: entertaining, skin-care, shopping
+Constraints: entertaining: traveling, go backpacking
+SPENDING PLAN: 

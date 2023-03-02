@@ -1,0 +1,19 @@
+House Renting: 
+Budget: 800,000 VND 
+Schema: Look for a cheap motel or hostel in Ho Chi Minh City. Consider renting a room in a shared apartment or house. This will help you save money on rent and still get a decent place to stay.
+
+Investing:
+Budget: 400,000 VND
+Schema: Invest in low-risk investments such as bonds, stocks, and mutual funds. Consider investing in index funds, which provide diversified exposure to the stock market and can help reduce the risk of losses.
+
+Food:
+Budget: 500,000 VND
+Schema: Sticking to a vegetarian diet is a great way to save money on food. Look for local markets or grocery stores where you can buy fresh fruits, vegetables, and other vegetarian-friendly items. You can also buy items in bulk and freeze them for future meals.
+
+Commuting: 
+Budget: 300,000 VND
+Schema: Consider using public transportation such as buses or the metro system to commute within the city. This is a cost-effective way to get around and will help you save money on transportation costs.
+
+Education: 
+Budget: 900,000 VND
+Schema: Look for local language schools or online resources that offer TOEIC learning. Consider taking advantage of free online resources to supplement your learning. You can also look for group classes or workshops that offer discounts.

@@ -1,0 +1,9 @@
+Job: bank staff
+Location: Ho Chi Minh city
+Budget: 15000000
+Demands: education, commuting, entertaining, food
+Constraints: education: programming learning
+commuting: 3 km to work
+entertaining: theater and concerts
+food: vegetarian
+SPENDING PLAN: 

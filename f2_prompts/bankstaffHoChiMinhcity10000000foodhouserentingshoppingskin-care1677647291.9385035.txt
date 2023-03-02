@@ -1,0 +1,7 @@
+Job: bank staff
+Location: Ho Chi Minh city
+Budget: 10000000
+Demands: food, house renting, shopping, skin-care
+Constraints: food: high protein
+house renting: cheap motel
+SPENDING PLAN: 

@@ -1,0 +1,15 @@
+House Renting: 
+Budget: 8000000 VND 
+Schema: You should look for a cheap motel in an area of Ho Chi Minh City near your workplace. This will allow you to save money on commuting costs, as well as minimize your housing expenses.
+
+Commuting: 
+Budget: 2000000 VND 
+Schema: Invest in a bike or scooter and use it to get to and from work. This will help you save on transportation costs and also provide you with an easy and efficient way to get around.
+
+Investing: 
+Budget: 4000000 VND 
+Schema: Invest in a low-risk, long-term investment such as index funds or a mutual fund. This will help you maximize your return on investment while minimizing your risk.
+
+Entertaining: 
+Budget: 3000000 VND 
+Schema: Invest in experiences such as travel and backpacking. This will help you make the most of your budget while still enjoying yourself. Plus, the memories and knowledge you gain will stay with you forever.

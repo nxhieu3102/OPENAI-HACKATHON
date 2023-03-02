@@ -1,0 +1,15 @@
+Shopping: 
+Budget Allocation: 2,000,000 VND
+Schema: Shop smartly and purchase items that are long-term investments, such as clothing that is of good quality but within your budget constraints. Be mindful of the prices of items and try to find the best deals.
+
+Entertaining: 
+Budget Allocation: 500,000 VND
+Schema: When entertaining, focus on activities that do not require you to spend a lot of money. Consider cooking at home or going to affordable local restaurants. Limit your alcohol consumption and try to find cheaper alternatives for drinks.
+
+Skin-care: 
+Budget Allocation: 500,000 VND
+Schema: When it comes to skin-care, find products that provide you with the best value for money. Invest in quality products that are within your budget and use them regularly for a long-term effect.
+
+Investing: 
+Budget Allocation: 1,000,000 VND
+Schema: Investing should be done wisely and with long-term goals in mind. Consider investing in low-risk investments such as stocks, bonds, and mutual funds. Investing in gold or real estate are also viable options. Research the market and find the best ways to invest your money to maximize returns.

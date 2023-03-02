@@ -1,0 +1,7 @@
+Job: teacher
+Location: Ho Chi Minh city
+Budget: 6000000
+Demands: entertaining, shopping, food, skin-care
+Constraints: entertaining: theater and concerts
+food: high protein
+SPENDING PLAN: 

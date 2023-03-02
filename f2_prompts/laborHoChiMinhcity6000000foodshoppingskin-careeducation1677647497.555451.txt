@@ -1,0 +1,7 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 6000000
+Demands: food, shopping, skin-care, education
+Constraints: food: high protein
+education: drawing, cooking
+SPENDING PLAN: 

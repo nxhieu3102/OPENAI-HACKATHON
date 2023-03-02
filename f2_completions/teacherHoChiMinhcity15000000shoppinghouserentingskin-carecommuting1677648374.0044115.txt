@@ -1,0 +1,16 @@
+House Renting:
+Location: Suburban Area
+Budget: 8000000 VND
+Scheme: Look for low-cost housing in a suburban area. Consider joining a housing cooperative or subletting to save money. Consider sharing a house with friends or family to further reduce costs.
+
+Shopping:
+Budget: 4000000 VND
+Scheme: Look for discounts and sales whenever possible. Check online stores for better prices. Consider buying in bulk to save money. Consider buying second-hand items when possible.
+
+Skin Care:
+Budget: 2000000 VND
+Scheme: Research which skin-care products are the most cost-effective and have the best reviews. Look for discounts and sales. Consider using natural products or products that are cheaper than their traditional counterparts.
+
+Commuting:
+Budget: 1000000 VND
+Scheme: Look for the most cost-effective transportation option in the area. Consider walking or biking to save money. Consider using public transportation or carpooling when possible.

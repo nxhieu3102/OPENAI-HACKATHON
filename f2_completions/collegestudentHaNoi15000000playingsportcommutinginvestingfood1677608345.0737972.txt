@@ -1,0 +1,15 @@
+Playing Sport:
+Budget Allocation: 3000000 VND 
+Schema: Sign up for a karate class at a local dojo. The cost of the class will depend on the location and the length of the course. Try to find a course that provides the best value for your money.
+
+Commuting:
+Budget Allocation: 4000000 VND
+Schema: To save money on commuting, try to use public transportation where possible. Invest in a monthly pass or a prepaid card to get a discounted rate. If possible, walk or bike if the destination is close by.
+
+Investing:
+Budget Allocation: 5000000 VND 
+Schema: Investing your money can be a great way to make your money grow. There are several ways to do this. You can open a brokerage account and invest in stocks, mutual funds, and other investments. You can also open a savings account and make regular deposits to earn interest.
+
+Food:
+Budget Allocation: 3000000 VND
+Schema: To reduce your food costs, try to buy in bulk when possible and cook at home as much as you can. Try to buy fresh, local produce and avoid processed foods, as they can be more expensive. To reduce your calorie intake, focus on eating smaller portions and avoiding sugary and fried foods.

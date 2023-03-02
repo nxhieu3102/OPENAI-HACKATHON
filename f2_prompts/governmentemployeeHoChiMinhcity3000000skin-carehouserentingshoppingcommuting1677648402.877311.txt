@@ -1,0 +1,7 @@
+Job: government employee
+Location: Ho Chi Minh city
+Budget: 3000000
+Demands: skin-care, house renting, shopping, commuting
+Constraints: house renting: near city center
+commuting: 10 km to school, by motorbike
+SPENDING PLAN: 

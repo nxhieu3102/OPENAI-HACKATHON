@@ -1,0 +1,6 @@
+Job: bank staff
+Location: Ho Chi Minh city
+Budget: 15000000
+Demands: house renting, shopping, investing
+Constraints: house renting: suburban area
+SPENDING PLAN: 

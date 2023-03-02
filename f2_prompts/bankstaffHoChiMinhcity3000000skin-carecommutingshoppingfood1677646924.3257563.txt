@@ -1,0 +1,7 @@
+Job: bank staff
+Location: Ho Chi Minh city
+Budget: 3000000
+Demands: skin-care, commuting, shopping, food
+Constraints: commuting: 10 km to school, by motorbike
+food: calories reduce
+SPENDING PLAN: 

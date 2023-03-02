@@ -1,0 +1,7 @@
+Job: teacher
+Location: Ho Chi Minh city
+Budget: 3000000
+Demands: shopping, commuting, education, investing
+Constraints: commuting: 10 km to school, by motorbike
+education: programming learning
+SPENDING PLAN: 

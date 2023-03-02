@@ -1,0 +1,7 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 6000000
+Demands: commuting, investing, shopping, house renting
+Constraints: commuting: 15 km by public transportation
+house renting: not far from city center
+SPENDING PLAN: 

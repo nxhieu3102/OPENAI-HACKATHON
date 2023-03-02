@@ -1,0 +1,8 @@
+Job: government employee
+Location: Ho Chi Minh city
+Budget: 3000000
+Demands: food, house renting, education, skin-care
+Constraints: food: calories reduce
+house renting: near city center
+education: drawing, cooking
+SPENDING PLAN: 

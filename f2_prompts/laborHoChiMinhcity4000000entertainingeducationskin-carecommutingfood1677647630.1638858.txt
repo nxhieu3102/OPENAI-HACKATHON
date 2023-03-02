@@ -1,0 +1,9 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 4000000
+Demands: entertaining, education, skin-care, commuting, food
+Constraints: entertaining: drinking, cooking
+education: toeic learning
+commuting: 3 km to work
+food: calories reduce
+SPENDING PLAN: 

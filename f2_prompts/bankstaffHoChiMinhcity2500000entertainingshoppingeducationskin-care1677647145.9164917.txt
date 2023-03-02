@@ -1,0 +1,7 @@
+Job: bank staff
+Location: Ho Chi Minh city
+Budget: 2500000
+Demands: entertaining, shopping, education, skin-care
+Constraints: entertaining: theater and concerts
+education: toeic learning
+SPENDING PLAN: 

@@ -1,0 +1,8 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 6000000
+Demands: commuting, education, skin-care, entertaining
+Constraints: commuting: 10 km to school, by motorbike
+education: drawing, cooking
+entertaining: theater and concerts
+SPENDING PLAN: 

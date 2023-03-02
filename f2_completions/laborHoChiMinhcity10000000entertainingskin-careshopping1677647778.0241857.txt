@@ -1,0 +1,31 @@
+Entertaining:
+Budget Allocation: 4000000 VND
+Schema: 
+
+Traveling: 
+-Take advantage of local discounts, special offers, and budget-friendly travel packages for airfare, hotel, and other related costs.
+-Look for free or low-cost activities like visiting local parks, museums, and other attractions. 
+-Take advantage of public transportation when possible to save on transportation costs. 
+
+Go Backpacking: 
+-Rent or borrow camping gear to save money. 
+-Look into hostel accommodations, as they are usually more budget-friendly than hotels. 
+-Prioritize activities that are free or low-cost, such as hiking, biking, and sightseeing.
+
+Skin-care:
+Budget Allocation: 3000000 VND
+Schema: 
+
+-Invest in quality skin care products that are within your budget. 
+-Choose natural and organic products that are free of harsh chemicals. 
+-Look for multipurpose products that can do double duty and save money. 
+-Take advantage of special offers and discounts from local beauty stores.
+
+Shopping:
+Budget Allocation: 3000000 VND
+Schema: 
+
+-Prioritize items that you need over items that you want. 
+-Focus on buying quality items that will last longer and save money in the long run. 
+-Look for discounts and special offers from local stores and online retailers. 
+-Save money by buying items in bulk when possible.

@@ -1,0 +1,8 @@
+Job: bank staff
+Location: Ho Chi Minh city
+Budget: 4000000
+Demands: education, entertaining, house renting
+Constraints: education: ielts learning
+entertaining: traveling, go backpacking
+house renting: cheap motel
+SPENDING PLAN: 

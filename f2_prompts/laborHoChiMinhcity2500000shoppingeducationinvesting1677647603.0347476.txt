@@ -1,0 +1,6 @@
+Job: labor
+Location: Ho Chi Minh city
+Budget: 2500000
+Demands: shopping, education, investing
+Constraints: education: programming learning
+SPENDING PLAN: 

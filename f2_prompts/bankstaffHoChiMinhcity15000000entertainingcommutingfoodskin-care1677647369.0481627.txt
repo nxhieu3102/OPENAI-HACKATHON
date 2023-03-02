@@ -1,0 +1,8 @@
+Job: bank staff
+Location: Ho Chi Minh city
+Budget: 15000000
+Demands: entertaining, commuting, food, skin-care
+Constraints: entertaining: drinking, cooking
+commuting: 3 km to work
+food: high protein
+SPENDING PLAN: 
