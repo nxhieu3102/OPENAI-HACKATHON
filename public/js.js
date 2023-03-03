@@ -31,7 +31,7 @@ for (let formElem of formList) {
 		}).then(response => response.json())
 			.then(data => {
 				console.log(data)
-			messageTag.innerText=data.choices[0].text.slice(2)
+			messageTag.innerText=data.choices[0].text.slice(1)
 			})
 		return false
 	}
