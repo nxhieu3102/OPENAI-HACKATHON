@@ -26,12 +26,12 @@ for (let formElem of formList) {
 			"stop":"####"}`,
 			headers: {
 				'Content-Type': 'application/json',
-				"Authorization": "Bearer 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"
+				"Authorization": `Bearer ${APIKEY}`
 			},
 		}).then(response => response.json())
 			.then(data => {
 				console.log(data)
-			messageTag.innerText=data.choices[0].text.slice(2)
+			messageTag.innerText=data.choices[0].text.slice(1)
 			})
 		return false
 	}
