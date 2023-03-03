@@ -1,3 +1,5 @@
+console.log(process.env.API_KEY)
+
 function capitalizeFirstLetter(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
@@ -47,12 +49,21 @@ for (let formElem of formList) {
 			}
 			Text += capitalizeFirstLetter(form[i].name) + ': ' + form[i].value.replaceAll(/\n/g, "\\n") + '\\n'
 		}
+		let model = "";
+		let key = "";
+		if (feature == 1) {
+			model = "davinci:ft-personal:plot-generator-2023-03-03-08-08-19";
+			key = "Bearer ";
+		} else if (feature == 2) {
+			model = "davinci:ft-personal:plot-generator-2023-03-03-01-40-42";
+			key = "Bearer ";
+		}
 		console.log(Text)
 		e.preventDefault()
 		let head=
 		await fetch('https://api.openai.com/v1/completions', {
 			method: 'POST',
-			body: `{"model": "davinci:ft-personal:plot-generator-2023-03-03-01-40-42", "prompt": "${Text}", "temperature": 1,
+			body: `{"model": ${model}, "prompt": "${Text}", "temperature": 1,
 			"max_tokens":${tokens},
 			"top_p":${top_p},
 			"frequency_penalty":${freq_pen},
@@ -60,7 +71,7 @@ for (let formElem of formList) {
 			"stop":"####"}`,
 			headers: {
 				'Content-Type': 'application/json',
-				"Authorization": "Bearer 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"
+				"Authorization": `${key}`
 			},
 		}).then(response => response.json())
 			.then(data => {
