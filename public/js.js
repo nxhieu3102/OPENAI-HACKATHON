@@ -12,9 +12,10 @@ demandsElem.oninput = (e) => {
 		constraintElem.placeholder = "Constraints based on demands";
 		return;
 	}
-	let demandsList = demandsElem.value.split(/[\s,]+/);
+	let demandsList = demandsElem.value.split(",");
 	let ph = "";
 	for (let i = 0; i < demandsList.length; i++) {
+		demandsList[i] = demandsList[i].trim();
 		if (demandsList[i] !== "") {
 			ph += capitalizeFirstLetter(demandsList[i]) + ": ...\n";
 		}
@@ -58,7 +59,7 @@ for (let formElem of formList) {
 			"stop":"####"}`,
 			headers: {
 				'Content-Type': 'application/json',
-				"Authorization": "Bearer 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"
+				"Authorization": "Bearer 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"
 			},
 		}).then(response => response.json())
 			.then(data => {
