@@ -4,13 +4,13 @@ from pprint import pprint
 
 file = "feature1_data_02.jsonl"
 
-with open('longkey.txt', 'r') as infile:
+with open('openaiapikey.txt', 'r') as infile:
     open_ai_api_key = infile.read()
 openai.api_key = open_ai_api_key
 
 
 def file_upload(filename, purpose='fine-tune'):
-    resp = openai.File.create(purpose=purpose, file=open(filename))
+    resp = openai.File.create(purpose=purpose, file=open(filename, encoding='utf-8'))
     pprint(resp)
     return resp
 
@@ -46,6 +46,6 @@ def finetune_get(ftid):
 
 
 
-resp = file_upload(file)
-finetune_model(resp['id'], 'feature1-financial-advicer', 'davinci')
-# finetune_list()
+# resp = file_upload(file)
+# finetune_model(resp['id'], 'feature1-financial-advisors', 'davinci')
+finetune_list()
