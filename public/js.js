@@ -1,3 +1,5 @@
+console.log(process.env.API_KEY)
+
 function capitalizeFirstLetter(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
