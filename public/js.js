@@ -49,6 +49,7 @@ for (let formElem of formList) {
 		}
 		console.log(Text)
 		e.preventDefault()
+		let head=
 		await fetch('https://api.openai.com/v1/completions', {
 			method: 'POST',
 			body: `{"model": "davinci:ft-personal:plot-generator-2023-03-03-01-40-42", "prompt": "${Text}", "temperature": 1,
