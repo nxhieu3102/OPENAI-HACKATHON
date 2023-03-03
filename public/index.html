@@ -53,22 +53,22 @@
 	</nav>
 	<div class="text-center font-semibold sticky top-0">
 		<ul class="flex flex-wrap bg-slate-200 bg-gradient-to-b from-white to-slate-200">
-			<a href="#" id="tab1" onclick="setTab(1)" class="inline-block p-4 grow bg-slate-200 rounded-r-xl">Feature 1</a>
-			<a href="#" id="tab2" onclick="setTab(2)" class="inline-block p-4 grow bg-white rounded-l-xl">Feature 2</a>
+			<a href="#" id="tab1" onclick="setTab(1)" class="inline-block p-4 grow bg-slate-200 rounded-r-xl">Best Choices</a>
+			<a href="#" id="tab2" onclick="setTab(2)" class="inline-block p-4 grow bg-white rounded-l-xl">Planned Spending</a>
 		</ul>
 	</div>
 	<div class="p-10" id="feature1">
 		<form id="form1" data-active="true">
 			<div class="pb-10">
 				<div class="pb-10">
-					<h1 class="text-4xl text-center font-semibold">Let me help you use your budget</h1>
+					<h1 class="text-4xl text-center font-semibold">Let me help you to choose the best product</h1>
 				</div>
 				<div class="md:flex items-center justify-center">
 					<label for="goods" class="text-lg md:text-xl pr-3">
 						I want to plan my budget to buy 
 					</label>
 					<div class="mt-1">
-						<input type="text" name="goods" id="goods" size="50" class="block w-full rounded-md border-gray-300" placeholder="a list of food, a car, ...">
+						<input type="text" name="goods" id="goods" size="50" class="block w-full rounded-md border-gray-300" placeholder="a list of food, a car, some clothes, ...">
 					</div>
 				</div>
 			</div>
@@ -77,7 +77,7 @@
 				<div class="col-span-10 md:col-span-4 bg-white rounded-xl p-5">
 					<h1 for="message" class="text-base mb-2 font-semibold">That sastifies these requirements</h1>
 					<div>
-						<label for="budget" class="block text-sm font-medium">Budget</label>
+						<label for="budget" class="block text-sm font-medium">With a budget at about</label>
 						<div class="relative mt-1 rounded-md shadow-sm">
 							<input type="text" name="budget" id="budget" class="block w-full rounded-md border-gray-300 pr-12" placeholder="0.00">
 							<div class="absolute inset-y-0 right-0 flex items-center outline-none border-none">
@@ -90,15 +90,15 @@
 						</div>
 					</div>
 					<div class="mt-4">
-						<label for="market" class="block text-sm font-medium">Market</label>
+						<label for="market" class="block text-sm font-medium">A specific brand, store or market?</label>
 						<div class="mt-1">
 							<input type="text" name="market" id="market" class="block w-full rounded-md border-gray-300" placeholder="Store, seller, ...">
 						</div>
 					</div>
 					<div class="mt-4">
-						<label for="constraint" class="block text-sm font-medium">Constraints</label>
+						<label for="constraint" class="block text-sm font-medium">What are the requirements?</label>
 						<div class="mt-1">
-							<textarea type="text" name="constraint" id="constraint" rows="6" class="resize-none w-full rounded-md border-gray-300" placeholder="Personal preferences"></textarea>
+							<textarea type="text" name="constraint" id="constraint" rows="6" class="resize-none w-full rounded-md border-gray-300" placeholder="A sport, 4-seat car ..."></textarea>
 						</div>
 					</div>
 					<input hidden name="ANSWER">
@@ -116,23 +116,28 @@
 	</div>
 	<div class="p-10 hidden" id="feature2">
 		<form id="form2" data-active="false">
+			<div class="pb-10">
+				<div class="">
+					<h1 class="text-4xl text-center font-semibold">Let me help you to create a spending money plan</h1>
+				</div>
+			</div>
 			<div class="grid grid-cols-10 gap-10 items-start  place-content-evenly">
 				<div class="col-span-10 md:col-span-4 bg-white rounded-xl p-5">
 					<h1 for="message" class="text-base mb-2 font-semibold">A bit about yourself</h1>
 					<div class="">
-						<label for="job" class="block text-sm font-medium">Job</label>
+						<label for="job" class="block text-sm font-medium">What is your job?</label>
 						<div class="mt-1">
 							<input type="text" name="job" id="job"class="block w-full rounded-md border-gray-300" placeholder="Student, CEO, ...">
 						</div>
 					</div>
 					<div class="mt-4">
-						<label for="location" class="block text-sm font-medium">Location</label>
+						<label for="location" class="block text-sm font-medium">Location (I can provide current market price based on your location)</label>
 						<div class="mt-1">
 							<input type="text" name="location" id="location"class="block w-full rounded-md border-gray-300" placeholder="Country, city, ...">
 						</div>
 					</div>
 					<div class="mt-4">
-						<label for="budget" class="block text-sm font-medium">Budget</label>
+						<label for="budget" class="block text-sm font-medium">How much can you spend</label>
 						<div class="relative mt-1 rounded-md shadow-sm">
 							<input type="text" name="budget" id="budget" class="block w-full rounded-md border-gray-300 pr-12" placeholder="0.00">
 							<div class="absolute inset-y-0 right-0 flex items-center outline-none border-none">
@@ -145,15 +150,15 @@
 						</div>
 					</div>
 					<div class="mt-4">
-						<label for="demands" class="block text-sm font-medium">Demands</label>
+						<label for="demands" class="block text-sm font-medium">The categories of what you want to buy</label>
 						<div class="mt-1">
-							<input type="text" name="demands" id="demands2" class="block w-full rounded-md border-gray-300" placeholder="Food, investing, shopping, education, ...">
+							<input type="text" name="demands" id="demands2" class="block w-full rounded-md border-gray-300" placeholder="Food, shopping, education, ...">
 						</div>
 					</div>
 					<div class="mt-4">
-						<label for="constraint" class="block text-sm font-medium">Constraints</label>
+						<label for="constraint" class="block text-sm font-medium">And what are the requirements of things in those categories?</label>
 						<div class="mt-1">
-							<textarea type="text" name="constraint" id="constraint2" rows="7" class="resize-none w-full rounded-md border-gray-300" placeholder="Constraints based on demands"></textarea>
+							<textarea type="text" name="constraint" id="constraint2" rows="7" class="resize-none w-full rounded-md border-gray-300" placeholder=""></textarea>
 						</div>
 					</div>
 					<input hidden name="SPENDING PLAN">
