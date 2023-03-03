@@ -2,9 +2,9 @@ import requests
 import openai
 from pprint import pprint
 
-file = "feature1_data.jsonl"
+file = "feature1_data_02.jsonl"
 
-with open('openaiapikey.txt', 'r') as infile:
+with open('longkey.txt', 'r') as infile:
     open_ai_api_key = infile.read()
 openai.api_key = open_ai_api_key
 
@@ -46,6 +46,6 @@ def finetune_get(ftid):
 
 
 
-# resp = file_upload(file)
-# finetune_model(resp['id'], 'feature1-financal-adivicer', 'davinci')
-finetune_list()
+resp = file_upload(file)
+finetune_model(resp['id'], 'feature1-financial-advicer', 'davinci')
+# finetune_list()
