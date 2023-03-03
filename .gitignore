@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 *.py
 
 longkey.txt
+=======
+openaiapikey.txt
+APIKEY.js
+>>>>>>> 32d16fbcef9992ffb9434bd3842796200783fa91
