@@ -70,7 +70,7 @@ for (let formElem of formList) {
 		e.preventDefault()
 		await fetch('https://api.openai.com/v1/completions', {
 			method: 'POST',
-			body: `{"model": ${model}, "prompt": "${Text}", "temperature": 1,
+			body: `{"model": "${model}", "prompt": "${Text}", "temperature": 1,
 			"max_tokens":${tokens},
 			"top_p":${top_p},
 			"frequency_penalty":${freq_pen},
@@ -83,7 +83,8 @@ for (let formElem of formList) {
 		}).then(response => response.json())
 			.then(data => {
 				console.log(data)
-			messageTag.innerText=data.choices[0].text
+				messageTag.innerText = data.choices[0].text
+				form[form.length - 1].disabled = false
 			})
 		return false
 	}
