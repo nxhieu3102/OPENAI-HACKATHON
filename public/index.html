@@ -4,15 +4,61 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href="styles.css" rel="stylesheet">
+	<script>
+		function setTab(tab) {
+			let tab1 = document.getElementById("tab1");
+			let tab2 = document.getElementById("tab2");
+			tab1.classList.remove("bg-slate-200");
+			tab1.classList.remove("bg-white");
+			tab2.classList.remove("bg-slate-200");
+			tab2.classList.remove("bg-white");
+			if (tab == 1) {
+				tab1.classList.add("bg-slate-200");
+				tab2.classList.add("bg-white");
+			}
+			else if (tab == 2) {
+				tab1.classList.add("bg-white");
+				tab2.classList.add("bg-slate-200");
+			}
+
+			let div1 = document.getElementById("feature1");
+			let div2 = document.getElementById("feature2");
+			div1.classList.remove("hidden");
+			div2.classList.remove("hidden");
+			if (tab == 1) {
+				div2.classList.add("hidden");
+			}
+			else if (tab == 2) {
+				div1.classList.add("hidden");
+			}
+
+			let form1 = document.getElementById("form1");
+			let form2 = document.getElementById("form2");
+			form1.dataset.active="false";
+			form2.dataset.active="false";
+			if (tab == 1) {
+				form1.dataset.active="true";
+			}
+			else if (tab == 2) {
+				form2.dataset.active="true";
+			}
+		}
+	</script>
 </head>
 <body class="h-full bg-slate-200">
-	<nav class="bg-white drop-shadow-md sticky top-0">
+	<nav class="bg-white sticky top-0 z-20">
 		<h1 class="p-5 text-lg font-bold bg-gradient-to-r inline-block from-green-500 to-blue-500 bg-clip-text text-transparent">
 			Financial Advisor
 		</h1>
+		<div class="text-center font-semibold">
+			<ul class="flex flex-wrap bg-slate-200 bg-gradient-to-b from-white to-slate-200">
+				<a href="#" id="tab1" onclick="setTab(1)" class="inline-block p-4 grow bg-slate-200 rounded-r-xl">Feature 1</a>
+				<a href="#" id="tab2" onclick="setTab(2)" class="inline-block p-4 grow bg-white rounded-l-xl">Feature 2</a>
+			</ul>
+		</div>
 	</nav>
-	<div class="p-10">
-		<form>
+	<div class="p-10" id="feature1">
+		<form id="form1" data-active="true">
 			<div class="pb-10">
 				<div class="pb-10">
 					<h1 class="text-4xl text-center font-semibold">Let me help you use your budget</h1>
@@ -55,8 +101,9 @@
 							<textarea type="text" name="constraint" id="constraint" rows="6" class="resize-none w-full rounded-md border-gray-300" placeholder="Personal preferences"></textarea>
 						</div>
 					</div>
+					<input hidden name="ANSWER">
 					<div class="mt-4">
-						<input type="submit" value="Get suggestion" class="w-full text-white bg-blue-400 py-2 rounded-lg">
+						<input type="submit" id ="sbmBtn" value="Get suggestion" class="w-full text-white bg-blue-400 py-2 rounded-lg hover:bg-blue-600 cursor-pointer">
 					</div>
 				</div>
 				<div class="col-span-10 md:col-span-6 bg-white rounded-xl p-5">
@@ -67,5 +114,61 @@
 			</div>
 		</form>
 	</div>
+	<div class="p-10 hidden" id="feature2">
+		<form id="form2" data-active="false">
+			<div class="grid grid-cols-10 gap-10 items-start  place-content-evenly">
+				<div class="col-span-10 md:col-span-4 bg-white rounded-xl p-5">
+					<h1 for="message" class="text-base mb-2 font-semibold">A bit about yourself</h1>
+					<div class="">
+						<label for="job" class="block text-sm font-medium">Job</label>
+						<div class="mt-1">
+							<input type="text" name="job" id="job"class="block w-full rounded-md border-gray-300" placeholder="Student, CEO, ...">
+						</div>
+					</div>
+					<div class="mt-4">
+						<label for="location" class="block text-sm font-medium">Location</label>
+						<div class="mt-1">
+							<input type="text" name="location" id="location"class="block w-full rounded-md border-gray-300" placeholder="Country, city, ...">
+						</div>
+					</div>
+					<div class="mt-4">
+						<label for="price" class="block text-sm font-medium">Budget</label>
+						<div class="relative mt-1 rounded-md shadow-sm">
+							<input type="text" name="price" id="price" class="block w-full rounded-md border-gray-300 pr-12" placeholder="0.00">
+							<div class="absolute inset-y-0 right-0 flex items-center outline-none border-none">
+								<label for="currency" class="sr-only">Currency</label>
+								<select id="currency" name="currency" class="h-full rounded-md border-transparent bg-transparent py-0 pl-2 pr-7 text-gray-500">
+									<option>VND</option>
+									<option>USD</option>
+								</select>
+							</div>
+						</div>
+					</div>
+					<div class="mt-4">
+						<label for="demands" class="block text-sm font-medium">Demands</label>
+						<div class="mt-1">
+							<input type="text" name="demands" id="demands"class="block w-full rounded-md border-gray-300" placeholder="Food, investing, shopping, education, ...">
+						</div>
+					</div>
+					<div class="mt-4">
+						<label for="constraint" class="block text-sm font-medium">Constraints</label>
+						<div class="mt-1">
+							<textarea type="text" name="constraint" id="constraint" rows="7" class="resize-none w-full rounded-md border-gray-300" placeholder="Constraints based on demands"></textarea>
+						</div>
+					</div>
+					<input hidden name="SPENDING PLAN">
+					<div class="mt-4">
+						<input type="submit" id ="sbmBtn" value="Get suggestion" class="w-full text-white bg-blue-400 py-2 rounded-lg hover:bg-blue-600 cursor-pointer">
+					</div>
+				</div>
+				<div class="col-span-10 md:col-span-6 bg-white rounded-xl p-5">
+					<h1 for="message" class="text-base mb-2 font-semibold">Here's my suggestion:</h1>
+					<p id="message" class="whitespace-pre-line block p-2.5 w-full text-sm text-gray-900 bg-slate-200 rounded-lg">Please enter your requirements to get my suggestions
+					</p>
+				</div>
+			</div>
+		</form>
+	</div>
+	<script src="js.js"></script>
 </body>
 </html>
