@@ -716,6 +716,10 @@ select {
   top: 0px;
 }
 
+.bottom-0 {
+  bottom: 0px;
+}
+
 .z-20 {
   z-index: 20;
 }
@@ -1147,6 +1151,14 @@ select {
 }
 
 @media (min-width: 768px) {
+  .md\:bottom-auto {
+    bottom: auto;
+  }
+
+  .md\:top-0 {
+    top: 0px;
+  }
+
   .md\:col-span-4 {
     grid-column: span 4 / span 4;
   }

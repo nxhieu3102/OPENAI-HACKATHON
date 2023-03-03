@@ -46,17 +46,17 @@
 	</script>
 </head>
 <body class="h-full bg-slate-200">
-	<nav class="bg-white sticky top-0 z-20">
+	<nav class="bg-white z-20">
 		<h1 class="p-5 text-lg font-bold bg-gradient-to-r inline-block from-green-500 to-blue-500 bg-clip-text text-transparent">
 			Financial Advisor
 		</h1>
-		<div class="text-center font-semibold">
-			<ul class="flex flex-wrap bg-slate-200 bg-gradient-to-b from-white to-slate-200">
-				<a href="#" id="tab1" onclick="setTab(1)" class="inline-block p-4 grow bg-slate-200 rounded-r-xl">Feature 1</a>
-				<a href="#" id="tab2" onclick="setTab(2)" class="inline-block p-4 grow bg-white rounded-l-xl">Feature 2</a>
-			</ul>
-		</div>
 	</nav>
+	<div class="text-center font-semibold sticky top-0">
+		<ul class="flex flex-wrap bg-slate-200 bg-gradient-to-b from-white to-slate-200">
+			<a href="#" id="tab1" onclick="setTab(1)" class="inline-block p-4 grow bg-slate-200 rounded-r-xl">Feature 1</a>
+			<a href="#" id="tab2" onclick="setTab(2)" class="inline-block p-4 grow bg-white rounded-l-xl">Feature 2</a>
+		</ul>
+	</div>
 	<div class="p-10" id="feature1">
 		<form id="form1" data-active="true">
 			<div class="pb-10">
@@ -77,9 +77,9 @@
 				<div class="col-span-10 md:col-span-4 bg-white rounded-xl p-5">
 					<h1 for="message" class="text-base mb-2 font-semibold">That sastifies these requirements</h1>
 					<div>
-						<label for="price" class="block text-sm font-medium">Budget</label>
+						<label for="budget" class="block text-sm font-medium">Budget</label>
 						<div class="relative mt-1 rounded-md shadow-sm">
-							<input type="text" name="price" id="price" class="block w-full rounded-md border-gray-300 pr-12" placeholder="0.00">
+							<input type="text" name="budget" id="budget" class="block w-full rounded-md border-gray-300 pr-12" placeholder="0.00">
 							<div class="absolute inset-y-0 right-0 flex items-center outline-none border-none">
 								<label for="currency" class="sr-only">Currency</label>
 								<select id="currency" name="currency" class="h-full rounded-md border-transparent bg-transparent py-0 pl-2 pr-7 text-gray-500">
@@ -108,7 +108,7 @@
 				</div>
 				<div class="col-span-10 md:col-span-6 bg-white rounded-xl p-5">
 					<h1 for="message" class="text-base mb-2 font-semibold">Here's my suggestion:</h1>
-					<p id="message" class="whitespace-pre-line block p-2.5 w-full text-sm text-gray-900 bg-slate-200 rounded-lg">Please enter your requirements to get my suggestions
+					<p id="message1" class="suggestionBox whitespace-pre-line block p-2.5 w-full text-sm text-gray-900 bg-slate-200 rounded-lg">Please enter your requirements to get my suggestions
 					</p>
 				</div>
 			</div>
@@ -132,9 +132,9 @@
 						</div>
 					</div>
 					<div class="mt-4">
-						<label for="price" class="block text-sm font-medium">Budget</label>
+						<label for="budget" class="block text-sm font-medium">Budget</label>
 						<div class="relative mt-1 rounded-md shadow-sm">
-							<input type="text" name="price" id="price" class="block w-full rounded-md border-gray-300 pr-12" placeholder="0.00">
+							<input type="text" name="budget" id="budget" class="block w-full rounded-md border-gray-300 pr-12" placeholder="0.00">
 							<div class="absolute inset-y-0 right-0 flex items-center outline-none border-none">
 								<label for="currency" class="sr-only">Currency</label>
 								<select id="currency" name="currency" class="h-full rounded-md border-transparent bg-transparent py-0 pl-2 pr-7 text-gray-500">
@@ -147,13 +147,13 @@
 					<div class="mt-4">
 						<label for="demands" class="block text-sm font-medium">Demands</label>
 						<div class="mt-1">
-							<input type="text" name="demands" id="demands"class="block w-full rounded-md border-gray-300" placeholder="Food, investing, shopping, education, ...">
+							<input type="text" name="demands" id="demands2" class="block w-full rounded-md border-gray-300" placeholder="Food, investing, shopping, education, ...">
 						</div>
 					</div>
 					<div class="mt-4">
 						<label for="constraint" class="block text-sm font-medium">Constraints</label>
 						<div class="mt-1">
-							<textarea type="text" name="constraint" id="constraint" rows="7" class="resize-none w-full rounded-md border-gray-300" placeholder="Constraints based on demands"></textarea>
+							<textarea type="text" name="constraint" id="constraint2" rows="7" class="resize-none w-full rounded-md border-gray-300" placeholder="Constraints based on demands"></textarea>
 						</div>
 					</div>
 					<input hidden name="SPENDING PLAN">
@@ -163,13 +163,12 @@
 				</div>
 				<div class="col-span-10 md:col-span-6 bg-white rounded-xl p-5">
 					<h1 for="message" class="text-base mb-2 font-semibold">Here's my suggestion:</h1>
-					<p id="message" class="whitespace-pre-line block p-2.5 w-full text-sm text-gray-900 bg-slate-200 rounded-lg">Please enter your requirements to get my suggestions
+					<p id="message2" class="suggestionBox whitespace-pre-line block p-2.5 w-full text-sm text-gray-900 bg-slate-200 rounded-lg">Please enter your requirements to get my suggestions
 					</p>
 				</div>
 			</div>
 		</form>
 	</div>
-	<script src="APIKEY.js"></script>
 	<script src="js.js"></script>
 </body>
 </html>
